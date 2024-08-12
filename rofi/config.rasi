@@ -5,7 +5,7 @@
 # |  _ < (_) |  _| | 
 # |_| \_\___/|_| |_| 
 #                    
-# (2023) 
+# (2024) 
 # ----------------------------------------------------- 
 */
 
@@ -30,18 +30,6 @@ configuration {
     window-format:              "{w} · {c} · {t}";
     
 }
-
-/* ---- Load font ---- */
-
-
-/* ---- Load pywal colors (custom wal template) ---- */
-
-
-/* ---- Load wallpaper ---- */
-
-
-/* ---- Load border width ---- */
-
 
 /* ---- Window ---- */
 window {
