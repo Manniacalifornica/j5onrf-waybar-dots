@@ -3,7 +3,7 @@ Waybar
 (2024) Minimal Full Waybar Scroll - Catppuccin
 -----------------------------------------------------
 
-![screenshot_12082024_140919](https://github.com/user-attachments/assets/4c9f7139-5e51-4a41-8055-fecdb276f585)
+![screenshot_12082024_142937](https://github.com/user-attachments/assets/ea3f1db8-616f-462f-a45d-15ea3686112f)
 
 ![Screenshot-2024-08-03_12:23:02](https://github.com/user-attachments/assets/fdfdf859-65ba-4302-b2af-4a49fe05ae1d)
 
