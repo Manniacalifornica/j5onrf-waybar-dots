@@ -1,6 +1,8 @@
 Waybar
 (2024) Minimal Full Waybar Scroll - Catppuccin
 -----------------------------------------------------
+Left side of -clock scrolls workspaces
+Right side of clock- scrolls volume 
 
 ![screenshot_12082024_142937](https://github.com/user-attachments/assets/ea3f1db8-616f-462f-a45d-15ea3686112f)
 
