@@ -1,5 +1,4 @@
 Waybar
-
 (2024) Minimal Full Waybar Scroll - Catppuccin
 -----------------------------------------------------
 
