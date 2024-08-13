@@ -1,8 +1,7 @@
-Waybar
-(2024) Minimal Full Waybar Scroll - Catppuccin
------------------------------------------------------
+# Waybar(2024) Minimal Full Waybar Scroll - Catppuccin
 
 Left side of -clock scrolls workspaces. Right side of clock- scrolls volume.
+
 Tips! For 4k high res with 2x scale, change font size to 14px.
 
 ![Screenshot-2024-08-13_13:54:21](https://github.com/user-attachments/assets/3ac707ff-a824-4a5a-80c2-c6f73348fdfc)
@@ -13,8 +12,7 @@ Tips! For 4k high res with 2x scale, change font size to 14px.
 ![Screenshot-2024-08-04_14:19:23](https://github.com/user-attachments/assets/6c9f45e8-74ed-4a23-ab8a-ab9891e2eefd)
 
 
-Rofi              
+# Rofi              
 (2024) Catppuccin
------------------------------------------------------
 
 ![2024-08-12T12:18:55,626962318-05:00](https://github.com/user-attachments/assets/8c16c637-4a3a-4b69-9c4e-045d4b61ed8d)
