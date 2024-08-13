@@ -9,9 +9,6 @@ Tips! For 4k high res with 2x scale, change font size to 14px.
 
 ![Screenshot-2024-08-03_12:23:02](https://github.com/user-attachments/assets/fdfdf859-65ba-4302-b2af-4a49fe05ae1d)
 
-![Screenshot-2024-08-04_14:19:23](https://github.com/user-attachments/assets/6c9f45e8-74ed-4a23-ab8a-ab9891e2eefd)
-
-
 # Rofi              
 (2024) Catppuccin
 
