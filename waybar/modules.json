@@ -95,12 +95,12 @@
     "pulseaudio": {
         "tooltip": false,
         "scroll-step": 3,
-        "format": "                                                                                              󰕾 {volume}",
+        "format": "                                                                                  󰕾 {volume}",
         "format-icons": {
         "default": ["", "", ""]
         },
         "on-click": "pactl set-sink-mute @DEFAULT_SINK@ toggle",
-        "format-muted": "                                                                          婢 {volume}"
+        "format-muted": "                                                               婢 {volume}"
     }
 }
 
