@@ -1,6 +1,6 @@
 # Waybar(2024) Minimal Full Waybar Scroll - Catppuccin
 
-Left side of -clock scrolls workspaces. Right side of clock- scrolls volume
+### Left side of -clock scrolls workspaces. Right side of clock- scrolls volume
 
 Tips! 4k high res 2x scale, change font size to 14px
 
@@ -9,7 +9,7 @@ Tips! 4k high res 2x scale, change font size to 14px
 ![screenshot_12082024_142937](https://github.com/user-attachments/assets/ea3f1db8-616f-462f-a45d-15ea3686112f)
 
 
-High function faster access to workspaces & volume
+### High function faster access to workspaces & volume
 
 ![Screenshot-2024-08-03_12:23:02](https://github.com/user-attachments/assets/fdfdf859-65ba-4302-b2af-4a49fe05ae1d)
 
