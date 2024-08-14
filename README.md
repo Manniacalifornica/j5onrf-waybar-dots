@@ -9,7 +9,7 @@ Tips! For 4k high res with 2x scale, change font size to 14px.
 
 ![Screenshot-2024-08-13_20:31:50](https://github.com/user-attachments/assets/277ecfb3-d381-429e-bf6f-5b75363c1497)
 
-## High function faster access to workspaces & volume
+### High function faster access to workspaces & volume
 ![Screenshot-2024-08-03_12:23:02](https://github.com/user-attachments/assets/fdfdf859-65ba-4302-b2af-4a49fe05ae1d)
 
 # Rofi              
