@@ -80,6 +80,7 @@ window#waybar {
 #cpu,
 #custom-exit,
 #custom-appmenu,
+#workspaces button.active,
 #clock {
     background-color: @gbcolor;
     color: @iconcolor;
