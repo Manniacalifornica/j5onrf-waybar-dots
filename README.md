@@ -2,12 +2,12 @@
 
 ### Left side of -clock scrolls workspaces. Right side of clock- scrolls volume
 
-Tips! 4k high res 2x scale, change font size to 14px
+Tips! 4k high-res 2x scale, change font size to 14px
 
 ![Screenshot-2024-08-13_13:54:21](https://github.com/user-attachments/assets/3ac707ff-a824-4a5a-80c2-c6f73348fdfc)
-
 ![screenshot_12082024_142937](https://github.com/user-attachments/assets/ea3f1db8-616f-462f-a45d-15ea3686112f)
 
+![Screenshot-2024-08-13_20:31:50](https://github.com/user-attachments/assets/31b082bb-ff38-43ba-be7d-9a607bb999f4)
 
 ### High function faster access to workspaces & volume
 
