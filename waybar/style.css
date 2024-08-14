@@ -56,7 +56,10 @@ window#waybar {
 }
 
 #workspaces button.active {
+    background-color: @gbcolor;
     color: @hovercolor;
+    border-radius: 5px;
+    padding: 0 5px;
 }
 
 /* -----------------------------------------------------
@@ -80,7 +83,6 @@ window#waybar {
 #cpu,
 #custom-exit,
 #custom-appmenu,
-#workspaces button.active,
 #clock {
     background-color: @gbcolor;
     color: @iconcolor;
