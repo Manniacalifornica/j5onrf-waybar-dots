@@ -3,6 +3,8 @@
 ### Left side of -clock scrolls workspaces. Right side of clock- scrolls volume
 
   Tips! Customize scroll in modules.json - 'persistent-workspaces' - 'pulseaudio' 'format:'
+  
+  This is a demo template. Fix it to work on your system.
 
 ![Screenshot-2024-08-13_13:54:21](https://github.com/user-attachments/assets/3ac707ff-a824-4a5a-80c2-c6f73348fdfc)
 ![screenshot_12082024_142937](https://github.com/user-attachments/assets/ea3f1db8-616f-462f-a45d-15ea3686112f)
