@@ -6,7 +6,7 @@
   
   - This is a demo template. Fix it to work on your system.
 
-  - Arch and [ML4W](https://github.com/mylinuxforwork).
+  - Arch and [ML4W](https://github.com/mylinuxforwork/dotfiles).
   Shows what hyprland can do.
 
   
