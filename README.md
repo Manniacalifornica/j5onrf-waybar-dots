@@ -1,6 +1,6 @@
 # Waybar(2024) Minimal Full Waybar Scroll - Catppuccin
 
-### Left side of -clock scrolls workspaces. Right side of clock- scrolls volume
+### Left side of -clock scrolls workspaces. Right side of clock- scrolls volume.
 
   - Tips! Customize scroll in modules.json - 'persistent-workspaces' - 'pulseaudio' 'format:'
   
