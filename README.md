@@ -9,11 +9,11 @@
   - Arch and [ML4W](https://github.com/mylinuxforwork/dotfiles).
   Shows what hyprland can do.
 
-[minimal ml4w modified]
-![Screenshot-2024-08-23_18:51:27](https://github.com/user-attachments/assets/bee06be7-83f7-4c1e-9334-23f4cf49b3f8)
-
 [pywal color][group tray]
 ![Screenshot-2024-08-26_09:39:40](https://github.com/user-attachments/assets/3a5e4dd4-a12a-4454-a129-bfe73fc3f463)
+
+[minimal ml4w modified]
+![Screenshot-2024-08-23_18:51:27](https://github.com/user-attachments/assets/bee06be7-83f7-4c1e-9334-23f4cf49b3f8)
 
 ![Screenshot-2024-08-13_13:54:21](https://github.com/user-attachments/assets/3ac707ff-a824-4a5a-80c2-c6f73348fdfc)
 ![screenshot_12082024_142937](https://github.com/user-attachments/assets/ea3f1db8-616f-462f-a45d-15ea3686112f)
