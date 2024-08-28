@@ -16,7 +16,7 @@
 ![Screenshot-2024-08-23_18:51:27](https://github.com/user-attachments/assets/bee06be7-83f7-4c1e-9334-23f4cf49b3f8)
 
 [my setup]
-![Screenshot-2024-08-28_12:29:07](https://github.com/user-attachments/assets/c984655f-b82f-4a8c-a0fd-9e5cf75a96cc)
+![Screenshot-2024-08-28_12:23:10](https://github.com/user-attachments/assets/1edde73e-5fd1-4b13-8d80-d4cd0fc56930)
 ![Screenshot-2024-08-27_22:04:03](https://github.com/user-attachments/assets/cb191c9c-8e8e-4323-94dc-807e4f66da75)
 
 ![Screenshot-2024-08-13_13:54:21](https://github.com/user-attachments/assets/3ac707ff-a824-4a5a-80c2-c6f73348fdfc)
