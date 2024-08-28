@@ -15,7 +15,7 @@
 [minimal ml4w modified]
 ![Screenshot-2024-08-23_18:51:27](https://github.com/user-attachments/assets/bee06be7-83f7-4c1e-9334-23f4cf49b3f8)
 
-[My Setup]
+[my setup]
 ![Screenshot-2024-08-27_22:04:03](https://github.com/user-attachments/assets/cb191c9c-8e8e-4323-94dc-807e4f66da75)
 
 ![Screenshot-2024-08-13_13:54:21](https://github.com/user-attachments/assets/3ac707ff-a824-4a5a-80c2-c6f73348fdfc)
