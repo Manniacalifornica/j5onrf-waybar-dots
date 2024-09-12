@@ -9,6 +9,9 @@
   - Arch and [ML4W](https://github.com/mylinuxforwork/dotfiles).
   Shows what hyprland can do.
 
+[minimal-plus-function]
+![minimal-plus-function](https://github.com/user-attachments/assets/4a129265-c715-4909-a86a-911fa3adcf10)
+
 ["hyprland/workspaces#rw" icons rewrite from] [Jakoolit dots](https://github.com/JaKooLit/Hyprland-Dots/blob/main/config/waybar/modules)
 ![Screenshot-2024-09-09_11:20:01](https://github.com/user-attachments/assets/54fa7009-d4e5-4306-845e-66c29e5c5067)
 
