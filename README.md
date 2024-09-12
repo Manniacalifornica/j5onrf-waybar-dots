@@ -9,6 +9,9 @@
   - Arch and [ML4W](https://github.com/mylinuxforwork/dotfiles).
   Shows what hyprland can do.
 
+[EverForest-theme-jakool][curremt-mod-rice][beuuty-theme][slider-issues-my-skill-problem*]
+![Screenshot-2024-09-12_11:58:15](https://github.com/user-attachments/assets/833b2057-b8da-4fd7-9594-bdb1a3cc633b)
+
 [minimal-plus-function][group-sliders]
 ![minimal-plus-function](https://github.com/user-attachments/assets/4a129265-c715-4909-a86a-911fa3adcf10)
 
