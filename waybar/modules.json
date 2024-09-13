@@ -101,6 +101,19 @@
         },
         "on-click": "pactl set-sink-mute @DEFAULT_SINK@ toggle",
         "format-muted": "                                                               婢 {volume}"
-    }
+    },
+    
+ // Bluetooth
+  "bluetooth": {
+    "format": " {status}",
+    "format-disabled": "",
+    "format-off": "",
+    "interval": 30,
+    "on-click": "blueman-manager",
+    "format-no-controller": ""
+  }
+
+
+ 
 }
 
