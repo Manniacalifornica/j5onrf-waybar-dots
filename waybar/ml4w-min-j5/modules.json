@@ -234,30 +234,6 @@
     "modules": ["custom/system","cpu", "memory", "network","custom/updates","custom/cliphist","tray"]
   },
 
-  // Group Tools
-  "group/tools": {
-    "orientation": "inherit",
-    "drawer": {
-      "transition-duration": 300,
-      "children-class": "not-memory",
-      "transition-left-to-right": false
-    },
-    "modules": [
-      "custom/tools",
-      "custom/cliphist",
-//      "custom/hypridle",
-      "custom/hyprshade"
-    ]
-  },
-
-  // Group Links
-  "group/links": {
-    "orientation": "horizontal",
-    "modules": [
-//      "custom/chatgpt",
-      "custom/empty"      
-    ]
-  },
 
   // Group Settings
   "group/settings": {
@@ -308,44 +284,5 @@
     "on-click-right": "pavucontrol"
   },
   
-  // Bluetooth
-  "bluetooth": {
-    "format": " {status}",
-    "format-disabled": "",
-    "format-off": "",
-    "interval": 30,
-    "on-click": "blueman-manager",
-    "format-no-controller": ""
-  },
 
-  // Other
-  "user": {
-    "format": "{user}",
-    "interval": 60,
-    "icon": false
-  },
-
-
-  // backlight:
-  "backlight": {
-    "format": "{icon} {percent}%",
-    "format-icons": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
-    ],
-    "scroll-step": 1
-  }
 }
