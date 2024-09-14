@@ -1,4 +1,4 @@
-# Waybar(2024) Minimal Full Waybar Scroll - Catppuccin
+# Full Waybar Scroll 
 
 ### Left -center scrolls workspaces. Right center- scrolls volume.
 
@@ -8,6 +8,8 @@
 
   - Arch and [ML4W](https://github.com/mylinuxforwork/dotfiles).
   Shows what hyprland can do.
+
+# Waybars
 
 [EverForest-theme-jakool][beuuty-theme] ![traffic-cone-svgrepo-com2](https://github.com/user-attachments/assets/d78a40f2-f7e9-4346-a912-d9dc35bf67e7)
 ![Screenshot-2024-09-12_11:58:15](https://github.com/user-attachments/assets/833b2057-b8da-4fd7-9594-bdb1a3cc633b)
@@ -37,7 +39,9 @@
 ![Screenshot-2024-08-13_13:54:21](https://github.com/user-attachments/assets/3ac707ff-a824-4a5a-80c2-c6f73348fdfc)
 ![screenshot_12082024_142937](https://github.com/user-attachments/assets/ea3f1db8-616f-462f-a45d-15ea3686112f)
 
-### High function faster access to workspaces & volume
+###
+
+# High function faster access to workspaces & volume
 
 ![Screenshot-2024-08-03_12:23:02](https://github.com/user-attachments/assets/fdfdf859-65ba-4302-b2af-4a49fe05ae1d)
 
