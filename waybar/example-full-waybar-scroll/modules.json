@@ -48,6 +48,7 @@
         
     // Scroll Volume Edit Custom Spaces Width for your resolution
         "format": "                                                                                  󰕾 {volume}",
+    //    
         
         "format-icons": {
         "default": ["", "", ""]
@@ -56,6 +57,7 @@
         
     // Scroll Volume Mute Button Edit Custom Spaces Width for your resolution
         "format-muted": "                                                               婢 {volume}"
+    //
         
     },
 }
