@@ -57,7 +57,7 @@
         
     // Scroll Volume Mute Button Edit Custom Spaces Width for your resolution                                      
         "format-muted": "                                                               婢 {volume}"
-    //                                                                                                                   
+    //                                                                                                             
         
     },
 }
