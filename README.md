@@ -9,7 +9,7 @@
   - Arch and [ML4W](https://github.com/mylinuxforwork/dotfiles).
   Shows what hyprland can do.
 
-[EverForest-theme-jakool][curremt-mod-rice][beuuty-theme][slider-issues-my-skill-problem*] ![traffic-cone-svgrepo-com2](https://github.com/user-attachments/assets/d78a40f2-f7e9-4346-a912-d9dc35bf67e7)
+[EverForest-theme-jakool][beuuty-theme] ![traffic-cone-svgrepo-com2](https://github.com/user-attachments/assets/d78a40f2-f7e9-4346-a912-d9dc35bf67e7)
 ![Screenshot-2024-09-12_11:58:15](https://github.com/user-attachments/assets/833b2057-b8da-4fd7-9594-bdb1a3cc633b)
 
 [ml4w-min-j5][rubik-font] [dots-released](https://github.com/j5onrf/dots/tree/main/waybar/ml4w-min-j5)
