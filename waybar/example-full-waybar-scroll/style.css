@@ -6,7 +6,7 @@
  *    \_/\_/ \__,_|\__, |_.__/ \__,_|_|    |____/ \__|\__, |_|\___| 
  *                 |___/                              |___/         
  *  
- * (2024) Minimal Full Waybar Scroll - Catppuccin
+ * (2024) Minimal Full Waybar Scroll
  * ----------------------------------------------------- 
 */
 
@@ -62,100 +62,5 @@ window#waybar {
     padding: 0 5px;
 }
 
-/* -----------------------------------------------------
- * Modules
- * ----------------------------------------------------- */
 
-.modules-left > widget:first-child > #workspaces {
-    margin-left: 0;
-}
-
-.modules-right > widget:last-child > #workspaces {
-    margin-right: 0;
-}
-
-/* -----------------------------------------------------
- * Change @hovercolor, @bgcolor, & @iconcolor
- * ----------------------------------------------------- */
-
-#network.ethernet,
-#memory,
-#cpu,
-#custom-exit,
-#custom-appmenu,
-#clock {
-    background-color: @gbcolor;
-    color: @iconcolor;
-    border-radius: 5px;
-    padding: 0 5px;
-}
-
-#network.ethernet:hover,
-#custom-appmenu:hover,
-#clock:hover,
-#custom-exit:hover,
-#cpu:hover,
-#memory:hover {
-    color: @hovercolor;
-}
-
-/* -----------------------------------------------------
- * Custom Modules
- * ----------------------------------------------------- */
-
-#custom-appmenu {
-    background-color: @gbcolor;
-    color: @iconcolor;
-    font-size: 1.2em;
-    padding-left: 10px;
-}
-
-#custom-exit {
-    background-color: @gbcolor;
-    color: @iconcolor;
-    font-size: 1.15em;
-    padding-right: 10px;
-}
-
-/* -----------------------------------------------------
- * Pulseaudio Volume
- * ----------------------------------------------------- */
-
-#pulseaudio {
-    opacity: 0;
-}
-
-#pulseaudio.muted {
-    padding-right: 6px;
-    color: @hovercolor;
-    opacity: 1;
-    margin-top: 1px;
-}
-
-/* -----------------------------------------------------
- * Network & Disconnected
- * ----------------------------------------------------- */
-
-#network.ethernet {
-    font-size: 1.1em;
-}
-
-#network.disconnected {
-    background-color: #BF4040;
-    color: @iconcolor;
-}
-
-/* -----------------------------------------------------
- * Tooltips & Calendar
- * ----------------------------------------------------- */
-
-tooltip {
-    border-radius: 10px;
-    background-color: #181926;
-}
-
-tooltip label {
-    color: @iconcolor;
-    margin: 10px;
-}
 
