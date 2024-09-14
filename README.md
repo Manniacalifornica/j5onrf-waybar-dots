@@ -16,6 +16,7 @@
 
 [ml4w-min-j5][rubik-font] [dots-released](https://github.com/j5onrf/dots/tree/main/waybar/ml4w-min-j5)
 ![Screenshot-2024-09-13_08:04:12](https://github.com/user-attachments/assets/f48a4b73-7ac4-41b3-8639-388769214b29)
+
 [gnome-extention-power]
 ![Screenshot-2024-09-14_07:49:163](https://github.com/user-attachments/assets/8b03d066-3c46-41dc-84d5-7b119fd36071)
 
