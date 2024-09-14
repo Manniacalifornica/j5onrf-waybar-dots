@@ -22,6 +22,8 @@
             "active": ""
         },
     // Scroll Width Workspaces Custom Value for your resolution
+    // Extra Workspaces will not activate until on-click and be hidden with CSS style
+        
         "persistent-workspaces": {
             "*": 30
         }
