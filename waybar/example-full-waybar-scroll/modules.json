@@ -50,7 +50,7 @@
         "tooltip": false,
         "scroll-step": 3,
         
-    // Scroll Volume Edit Custom Spaces Width for your resolution                                                 
+    // Scroll Volume Edit Custom Spaces Width for your screen size                                                
         "format": "                                                                                  󰕾 {volume}",
     //                                                                                                            
         
@@ -59,7 +59,7 @@
         },
         "on-click": "pactl set-sink-mute @DEFAULT_SINK@ toggle",
         
-    // Scroll Volume Mute Button Edit Custom Spaces Width for your resolution                                      
+    // Scroll Volume Mute Button Edit Custom Spaces Width for your screen size                                     
         "format-muted": "                                                               婢 {volume}"
     //                                                                                                             
         
