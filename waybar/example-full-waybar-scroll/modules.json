@@ -21,6 +21,7 @@
             "5": "V",
             "active": ""
         },
+    // Scroll Width Workspaces Custom Value
         "persistent-workspaces": {
             "*": 30
         }
@@ -30,11 +31,13 @@
     "pulseaudio": {
         "tooltip": false,
         "scroll-step": 3,
+    // Scroll Width Volume Custom Value
         "format": "                                                                                  󰕾 {volume}",
         "format-icons": {
         "default": ["", "", ""]
         },
         "on-click": "pactl set-sink-mute @DEFAULT_SINK@ toggle",
+    // Scroll Width Volume Costom Value
         "format-muted": "                                                               婢 {volume}"
     },
     
