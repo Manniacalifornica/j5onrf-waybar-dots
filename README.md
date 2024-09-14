@@ -1,4 +1,4 @@
-# Full Waybar Scroll (2024)
+# Full Waybar Scroll
 
 ### Left -center scrolls workspaces. Right center- scrolls volume.
 
