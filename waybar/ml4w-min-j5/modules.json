@@ -28,6 +28,7 @@
 		"title<.*reddit.*>": " ",
 		"title<.*Picture-in-Picture.*>": " ",
 		"class<freetube>": " ",
+		"class<gimp-2.10>": " ",
 		"class<firefox>": " ",
 		"class<kitty>": " ",
 		"class<kitty-dropterm>": " ",
@@ -284,5 +285,13 @@
     "on-click-right": "pavucontrol"
   },
   
-
+// Bluetooth
+  "bluetooth": {
+    "format": " {status}",
+    "format-disabled": "",
+    "format-off": "",
+    "interval": 30,
+    "on-click": "blueman-manager",
+    "format-no-controller": ""
+  }
 }
