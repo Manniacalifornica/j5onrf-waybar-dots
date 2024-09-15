@@ -51,4 +51,35 @@
 }
 
 
+/* -----------------------------------------------------
+ * Workspaces 
+ * ----------------------------------------------------- */
 
+ #workspaces {
+    margin: 0px 7px 0px 7px;
+    border: 0px;
+    font-size: 14px;
+    color: @textcolor1;
+}
+
+#workspaces button {
+    border: 0px;
+    margin:2px 10px 2px 0px;
+    padding:0px 4px 0px 4px;
+    color: @textcolor3;
+
+}
+
+#workspaces button.active {
+    color: @textcolor1;
+border-radius: 5px;
+    background: @workspacesbackground2;
+}
+
+#workspaces button:hover {
+    opacity: 0.0;
+}
+
+#workspaces button.empty {
+   opacity: 0.0;
+}
