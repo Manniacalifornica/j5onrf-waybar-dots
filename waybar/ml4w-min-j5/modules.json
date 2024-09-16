@@ -195,17 +195,12 @@
   // Clock
    "clock": {
         "format": "{:%I:%M    %a %b%e}",
-        "format-alt": "{:%Y-%m-%d}",
-        "tooltip-format": "<big>{:%Y %B}</big>\n<tt><small>{calendar}</small></tt>",
+        "on-click": "ags -t calendar",
         "on-click-right": "gapplication launch org.gnome.Weather",
-        "calendar": {
-            "mode": "month",
-            "format": {
-                "today": "<span color='#ff6699'><b>{}</b></span>",
-            }
+        "tooltip": false
         }
     },
-
+	
   // System
   "custom/system": {
     "format": "",
