@@ -5,9 +5,9 @@
 // |_|  |_|\___/ \__,_|\__,_|_|\___||___/
 //
 //
+
+// Workspaces
 {
- // Workspaces
-// NUMBERS and ICONS style with window rewrite
 "hyprland/workspaces#rw": {
 	"disable-scroll": true,
 	"all-outputs": true,
@@ -19,7 +19,6 @@
 	"on-scroll-down": "hyprctl dispatch workspace e+1",
 	"format": "{icon} {windows}",
 	"persistent-workspaces": {"*": 27},
- 
 	"format-window-separator": " ",
 	"window-rewrite-default": " ",
 	"window-rewrite": {
@@ -34,10 +33,7 @@
 		"class<kitty-dropterm>": " ",
 		"class<org.gnome.Console>": " ",
 		"class<Chromium>": "<span font='12'> </span>",
-		
-		"class<brave-browser-beta>": " ",
-		"class<brave-browser>": " ",
-		
+		"class<brave-browser-beta>": " ",		
 		"class<org.telegram.desktop|io.github.tdesktop_x64.TDeskto>": "<span font='12'> </span>",
 		"class<[Ss]potify>": "<span font='12'> </span>",
 		"class<VSCode|code-url-handler>": "<span font='12'>󰨞</span>",
