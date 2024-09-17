@@ -45,7 +45,7 @@
 
 # Rofi 
 
-(2024) ml4w-min-j5 zen
+(2024) ml4w-min-j5 zenities
 ![Screenshot-2024-09-17_08:22:45](https://github.com/user-attachments/assets/5f7d4409-a84e-4502-98a9-5cb9edeccf7b)
 
 (2024) Catppuccin
