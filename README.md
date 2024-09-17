@@ -10,7 +10,7 @@
   Shows what hyprland can do.
 
 # Waybars
-[ml4w-min-j5][wal-color]
+[ml4w-min-j5][wal-color] ![traffic-cone-svgrepo-com2](https://github.com/user-attachments/assets/d78a40f2-f7e9-4346-a912-d9dc35bf67e7)
 ![Screenshot-2024-09-17_13:01:07](https://github.com/user-attachments/assets/06201541-e366-4931-a375-f4a2772a3c14)
 
 [EverForest-theme-jakool][beuuty-theme] ![traffic-cone-svgrepo-com2](https://github.com/user-attachments/assets/d78a40f2-f7e9-4346-a912-d9dc35bf67e7)
