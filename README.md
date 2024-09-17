@@ -37,8 +37,6 @@
 ![Screenshot-2024-08-27_22:04:03](https://github.com/user-attachments/assets/cb191c9c-8e8e-4323-94dc-807e4f66da75)
 
 ![Screenshot-2024-09-11_18:07:40](https://github.com/user-attachments/assets/64af88fb-0ce1-412b-8792-e6cc447583a1)
-![Screenshot-2024-08-13_13:54:21](https://github.com/user-attachments/assets/3ac707ff-a824-4a5a-80c2-c6f73348fdfc)
-![screenshot_12082024_142937](https://github.com/user-attachments/assets/ea3f1db8-616f-462f-a45d-15ea3686112f)
 
 # High Function
 ### Faster access to workspaces & volume
