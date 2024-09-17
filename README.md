@@ -14,7 +14,7 @@
 [EverForest-theme-jakool][beuuty-theme] ![traffic-cone-svgrepo-com2](https://github.com/user-attachments/assets/d78a40f2-f7e9-4346-a912-d9dc35bf67e7)
 ![Screenshot-2024-09-12_11:58:15](https://github.com/user-attachments/assets/833b2057-b8da-4fd7-9594-bdb1a3cc633b)
 
-[ml4w-min-j5][rubik-font] [dots-released](https://github.com/j5onrf/dots/tree/main/waybar/ml4w-min-j5)
+[ml4w-min-j5][rubik-font] (2024-sep) [dots-released](https://github.com/j5onrf/dots/tree/main/waybar/ml4w-min-j5)
 ![Screenshot-2024-09-13_08:04:12](https://github.com/user-attachments/assets/f48a4b73-7ac4-41b3-8639-388769214b29)
 
 [gnome-extention-power]
