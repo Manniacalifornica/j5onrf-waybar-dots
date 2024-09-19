@@ -47,7 +47,7 @@
 
 # Rofi 
 
-(2024-sep19) ml4w-min-j5 ml4w-no-border-wal
+(2024-sep19) ml4w-min-j5 ml4w-no_border-wal
 ![Screenshot-2024-09-19_18:09:02](https://github.com/user-attachments/assets/2b8bd89f-c879-4e80-930e-c90bbc9a8faf)
 
 (2024-sep) ml4w-min-j5 zenities
