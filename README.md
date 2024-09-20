@@ -49,11 +49,8 @@
 
 # Rofi 
 
-(2024-sep19) ml4w-min-j5 wal-color-no-border
+(2024-sep) ml4w-min-j5 wal-color-no-border
 ![Screenshot-2024-09-19_18:09:02](https://github.com/user-attachments/assets/2b8bd89f-c879-4e80-930e-c90bbc9a8faf)
-
-(2024-sep) ml4w-min-j5 zenities
-![Screenshot-2024-09-17_08:22:45](https://github.com/user-attachments/assets/5f7d4409-a84e-4502-98a9-5cb9edeccf7b)
 
 (2024-aug) Catppuccin
 ![2024-08-12T12:18:55,626962318-05:00](https://github.com/user-attachments/assets/8c16c637-4a3a-4b69-9c4e-045d4b61ed8d)
