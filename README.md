@@ -13,6 +13,8 @@
 [ml4w-min-j5][wal-color] ![traffic-cone-svgrepo-com2](https://github.com/user-attachments/assets/d78a40f2-f7e9-4346-a912-d9dc35bf67e7)
 ![Screenshot-2024-09-20_08:16:23](https://github.com/user-attachments/assets/2e9778b3-1120-455f-9ff4-f24d0c2ed028)
 
+![Screenshot-2024-09-20_10:58:38](https://github.com/user-attachments/assets/b3fe7f93-ce44-4ed6-9ea2-b27e0343e4fa)
+
 ![Screenshot-2024-09-17_13:01:07](https://github.com/user-attachments/assets/06201541-e366-4931-a375-f4a2772a3c14)
 
 [EverForest-theme-jakool][beuuty-theme] ![traffic-cone-svgrepo-com2](https://github.com/user-attachments/assets/d78a40f2-f7e9-4346-a912-d9dc35bf67e7)
