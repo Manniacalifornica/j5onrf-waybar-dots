@@ -20,6 +20,8 @@
 
 ![Screenshot-2024-09-20_10:58:38](https://github.com/user-attachments/assets/b3fe7f93-ce44-4ed6-9ea2-b27e0343e4fa)
 
+![Screenshot-2024-09-19_18:09:03](https://github.com/user-attachments/assets/939ca647-65aa-4e75-bda9-5d8b60e1923b)
+
 ![Screenshot-2024-09-17_13:01:07](https://github.com/user-attachments/assets/06201541-e366-4931-a375-f4a2772a3c14)
 
 [EverForest-theme-jakool][beuuty-theme] ![traffic-cone-svgrepo-com2](https://github.com/user-attachments/assets/d78a40f2-f7e9-4346-a912-d9dc35bf67e7)
@@ -55,9 +57,8 @@
 ![Screenshot-2024-08-03_12:23:02](https://github.com/user-attachments/assets/fdfdf859-65ba-4302-b2af-4a49fe05ae1d)
 
 # Rofi 
-
-(2024-sep) ml4w-min-j5 wal-color-no-border
-![Screenshot-2024-09-19_18:09:02](https://github.com/user-attachments/assets/2b8bd89f-c879-4e80-930e-c90bbc9a8faf)
+(2024-sep) ml4w-min-j5-gaps
+![Screenshot-2024-09-20_15:28:21](https://github.com/user-attachments/assets/a6908405-f33f-4f06-ae9e-9efc702fc8e7)
 
 (2024-aug) Catppuccin
 ![2024-08-12T12:18:55,626962318-05:00](https://github.com/user-attachments/assets/8c16c637-4a3a-4b69-9c4e-045d4b61ed8d)
