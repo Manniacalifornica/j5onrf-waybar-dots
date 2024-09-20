@@ -14,6 +14,8 @@
 [ml4w-min-j5][detach-gaps] ![traffic-cone-svgrepo-com2](https://github.com/user-attachments/assets/d78a40f2-f7e9-4346-a912-d9dc35bf67e7)
 ![Screenshot-2024-09-20_15:03:20](https://github.com/user-attachments/assets/2d3b9bb9-a512-4373-b6c5-678fa83e6123)
 
+![Screenshot-2024-09-20_16:37:44](https://github.com/user-attachments/assets/4a2948d0-c3c7-4685-885e-91d2ed1c6736)
+
 ![Screenshot-2024-09-20_15:24:16](https://github.com/user-attachments/assets/cac3d0de-51af-48ad-974c-d528ec522a3a)
 
 [ml4w-min-j5][wal-color] ![traffic-cone-svgrepo-com2](https://github.com/user-attachments/assets/d78a40f2-f7e9-4346-a912-d9dc35bf67e7)
