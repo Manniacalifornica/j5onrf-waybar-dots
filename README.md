@@ -13,7 +13,8 @@
 
 [ml4w-min-j5][detach-gaps] ![traffic-cone-svgrepo-com2](https://github.com/user-attachments/assets/d78a40f2-f7e9-4346-a912-d9dc35bf67e7)
 
-![Screenshot-2024-09-20_18:05:03](https://github.com/user-attachments/assets/fe962431-1611-438b-baf9-25536e327193)
+![Screenshot-2024-09-20_18:14:54](https://github.com/user-attachments/assets/261bacc3-a4e3-491f-ab18-c1fdbb2c19ee)
+
 
 ![Screenshot-2024-09-20_15:03:20](https://github.com/user-attachments/assets/2d3b9bb9-a512-4373-b6c5-678fa83e6123)
 
@@ -55,12 +56,11 @@
 
 # High Function
 ### Faster access to workspaces & volume
-
 ![Screenshot-2024-08-03_12:23:02](https://github.com/user-attachments/assets/fdfdf859-65ba-4302-b2af-4a49fe05ae1d)
 
 # Rofi 
 (2024-sep) ml4w-min-j5-gaps
-![Screenshot-2024-09-20_18:04:46](https://github.com/user-attachments/assets/2a905512-5882-4c58-85ee-acc445d15164)
+![Screenshot-2024-09-20_18:14:04](https://github.com/user-attachments/assets/f6aeee30-a0e5-4012-b2bf-4cb586fa51aa)
 
 (2024-aug) Catppuccin
 ![2024-08-12T12:18:55,626962318-05:00](https://github.com/user-attachments/assets/8c16c637-4a3a-4b69-9c4e-045d4b61ed8d)
