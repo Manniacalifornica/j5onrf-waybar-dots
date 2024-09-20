@@ -13,11 +13,9 @@
 
 [ml4w-min-j5][detach-gaps] ![traffic-cone-svgrepo-com2](https://github.com/user-attachments/assets/d78a40f2-f7e9-4346-a912-d9dc35bf67e7)
 
-![Screenshot-2024-09-20_17:09:08](https://github.com/user-attachments/assets/27572b38-8f82-4cad-9431-82f6acf1ebcd)
+![Screenshot-2024-09-20_18:05:03](https://github.com/user-attachments/assets/fe962431-1611-438b-baf9-25536e327193)
 
 ![Screenshot-2024-09-20_15:03:20](https://github.com/user-attachments/assets/2d3b9bb9-a512-4373-b6c5-678fa83e6123)
-
-![Screenshot-2024-09-20_15:24:16](https://github.com/user-attachments/assets/cac3d0de-51af-48ad-974c-d528ec522a3a)
 
 [ml4w-min-j5][wal-color] ![traffic-cone-svgrepo-com2](https://github.com/user-attachments/assets/d78a40f2-f7e9-4346-a912-d9dc35bf67e7)
 ![Screenshot-2024-09-20_08:16:23](https://github.com/user-attachments/assets/2e9778b3-1120-455f-9ff4-f24d0c2ed028)
@@ -62,7 +60,7 @@
 
 # Rofi 
 (2024-sep) ml4w-min-j5-gaps
-![Screenshot-2024-09-20_15:28:21](https://github.com/user-attachments/assets/a6908405-f33f-4f06-ae9e-9efc702fc8e7)
+![Screenshot-2024-09-20_18:04:46](https://github.com/user-attachments/assets/2a905512-5882-4c58-85ee-acc445d15164)
 
 (2024-aug) Catppuccin
 ![2024-08-12T12:18:55,626962318-05:00](https://github.com/user-attachments/assets/8c16c637-4a3a-4b69-9c4e-045d4b61ed8d)
