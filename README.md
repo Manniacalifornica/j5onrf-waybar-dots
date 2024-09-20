@@ -10,11 +10,12 @@
   Shows what hyprland can do.
 
 # Waybars
-[ml4w-min-j5][wal-color] ![traffic-cone-svgrepo-com2](https://github.com/user-attachments/assets/d78a40f2-f7e9-4346-a912-d9dc35bf67e7)
 
-![Screenshot-2024-09-20_08:16:23](https://github.com/user-attachments/assets/2e9778b3-1120-455f-9ff4-f24d0c2ed028)
-
+[ml4w-min-j5][detach-gaps] ![traffic-cone-svgrepo-com2](https://github.com/user-attachments/assets/d78a40f2-f7e9-4346-a912-d9dc35bf67e7)
 ![Screenshot-2024-09-20_15:03:20](https://github.com/user-attachments/assets/2d3b9bb9-a512-4373-b6c5-678fa83e6123)
+
+[ml4w-min-j5][wal-color] ![traffic-cone-svgrepo-com2](https://github.com/user-attachments/assets/d78a40f2-f7e9-4346-a912-d9dc35bf67e7)
+![Screenshot-2024-09-20_08:16:23](https://github.com/user-attachments/assets/2e9778b3-1120-455f-9ff4-f24d0c2ed028)
 
 ![Screenshot-2024-09-20_10:58:38](https://github.com/user-attachments/assets/b3fe7f93-ce44-4ed6-9ea2-b27e0343e4fa)
 
