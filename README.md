@@ -59,8 +59,9 @@
 ![Screenshot-2024-08-03_12:23:02](https://github.com/user-attachments/assets/fdfdf859-65ba-4302-b2af-4a49fe05ae1d)
 
 # Rofi 
-(2024-sep) ml4w-min-j5-gaps
-![Screenshot-2024-09-20_20:18:18](https://github.com/user-attachments/assets/06af1b5b-256e-4b3b-9d34-f8167d66341e)
+(2024-sep) green-monstr gnome-ml4w-2560x1440 [final dots soon]
+![Screenshot-2024-09-21_10:30:49](https://github.com/user-attachments/assets/8a225388-a003-44b7-9ac0-baa429c713f5)
+
 
 (2024-aug) Catppuccin
 ![2024-08-12T12:18:55,626962318-05:00](https://github.com/user-attachments/assets/8c16c637-4a3a-4b69-9c4e-045d4b61ed8d)
