@@ -62,7 +62,7 @@
 ![Screenshot-2024-08-03_12:23:02](https://github.com/user-attachments/assets/fdfdf859-65ba-4302-b2af-4a49fe05ae1d)
 
 # Rofi 
-(2024-sep) Min-Monstr [gnome-ml4w-2560x1440] [dots soon]
+(2024-sep) Min-Monstr
 ![Screenshot-2024-09-21_10:30:49](https://github.com/user-attachments/assets/8a225388-a003-44b7-9ac0-baa429c713f5)
 
 
