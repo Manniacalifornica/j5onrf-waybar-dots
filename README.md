@@ -62,7 +62,5 @@
 (2024-sep) ml4w-min-j5-gaps
 ![Screenshot-2024-09-20_20:18:18](https://github.com/user-attachments/assets/06af1b5b-256e-4b3b-9d34-f8167d66341e)
 
-![Screenshot-2024-09-20_18:39:16](https://github.com/user-attachments/assets/f09714e4-4407-4fb3-8c90-3f0ac72e0321)
-
 (2024-aug) Catppuccin
 ![2024-08-12T12:18:55,626962318-05:00](https://github.com/user-attachments/assets/8c16c637-4a3a-4b69-9c4e-045d4b61ed8d)
