@@ -11,7 +11,7 @@
 
 # Waybars
 
-(2024-sep) Min-Monstr-Green [ml4w-2560x1440]  [dots-released-v0.9](https://github.com/j5onrf/dots/tree/main/waybar/Min-Monstr)
+(2024-sep22) Min-Monstr-Green [ml4w-2560x1440]  [dots-released-v0.9](https://github.com/j5onrf/dots/tree/main/waybar/Min-Monstr)
 ![Screenshot-2024-09-21_10:38:37](https://github.com/user-attachments/assets/1ba8ee47-1854-4f61-9b3d-78ca7d213ed7)
 
 [ml4w-min-j5][detach-gaps] ![traffic-cone-svgrepo-com2](https://github.com/user-attachments/assets/d78a40f2-f7e9-4346-a912-d9dc35bf67e7)
