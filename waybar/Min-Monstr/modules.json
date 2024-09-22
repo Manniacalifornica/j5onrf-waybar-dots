@@ -140,7 +140,7 @@
     "tooltip": false
   },
 
-  // Rofi Application Launcher 󰿘  󰀻       󱗿  n                    󱗼  󰣇
+  // Rofi Application Launcher  󰣇
   "custom/appmenu": {
     // START APPS LABEL
     "format": "󰣇",
