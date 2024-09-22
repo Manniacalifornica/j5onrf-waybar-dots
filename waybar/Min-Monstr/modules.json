@@ -24,15 +24,15 @@
 	"window-rewrite": {
 		"title<.*youtube.*>": "",	
 		"title<.*amazon.*>": " ",
-		"title<.*reddit.*>": " ",
+		"title<.*reddit.*>": "",
 		"title<.*Picture-in-Picture.*>": "",
 		"class<freetube>": " ",
-		"class<gimp-2.10>": " ",
-		"class<firefox>": " ",
+		"class<gimp-2.10>": "",
+		"class<firefox>": "",
 		"class<kitty>": " ",
 		"class<kitty-dropterm>": " ",
 		"class<org.gnome.Console>": "",
-		"class<alacritty>": " ",
+		"class<alacritty>": "",
 		"class<Chromium>": "<span font='12'> </span>",
 		"class<brave-browser-beta>": "",		
 		"class<org.telegram.desktop|io.github.tdesktop_x64.TDeskto>": "<span font='12'> </span>",
@@ -49,12 +49,12 @@
 		"class<code-oss>": "󰨞 ",
 		"class<codium|codium-url-handler|VSCodium>": "󰨞 ",
 		"class<codeblocks>": "󰅩 ",
-		"class<mousepad>": " ",
+		"class<mousepad>": "",
 		"class<org.gnome.TextEditor>": "",
 		"class<com.obsproject.Studio>": "",
 		"class<polkit-gnome-authentication-agent-1>": "󰒃",
 		"class<nwg-look>": ""
-		}   
+		}  
   },
 
   // Taskbar
