@@ -1,2 +1,2 @@
 #!/bin/bash
-theme_name="ML4W Minimal j5"
+theme_name="Min-Monstr"
