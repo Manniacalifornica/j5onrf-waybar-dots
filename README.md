@@ -13,6 +13,7 @@
 
 (2024-sep22) Min-Monstr [ml4w-2560x1440]  [dots-released-v0.9](https://github.com/j5onrf/dots/tree/main/waybar/Min-Monstr)
 ![Screenshot-2024-09-21_10:38:37](https://github.com/user-attachments/assets/1ba8ee47-1854-4f61-9b3d-78ca7d213ed7)
+![Screenshot-2024-09-22_17:16:32](https://github.com/user-attachments/assets/2d673ff2-6801-4b40-a18b-cd171a85e8f9)
 
 [ml4w-min-j5][detach-gaps] ![traffic-cone-svgrepo-com2](https://github.com/user-attachments/assets/d78a40f2-f7e9-4346-a912-d9dc35bf67e7)
 ![Screenshot-2024-09-20_18:14:54](https://github.com/user-attachments/assets/261bacc3-a4e3-491f-ab18-c1fdbb2c19ee)
