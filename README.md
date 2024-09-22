@@ -54,7 +54,7 @@
 ![Screenshot-2024-09-11_18:07:40](https://github.com/user-attachments/assets/64af88fb-0ce1-412b-8792-e6cc447583a1)
 
 # High Function
-### Faster access to workspaces & volume
+### Faster access to workspaces & volume - [example](https://github.com/j5onrf/dots/tree/main/waybar/example-full-waybar-scroll)
 ![Screenshot-2024-08-03_12:23:02](https://github.com/user-attachments/assets/fdfdf859-65ba-4302-b2af-4a49fe05ae1d)
 
 # Rofi 
