@@ -2,7 +2,7 @@
 
 ### Left -center scrolls workspaces. Right center- scrolls volume.
 
-  - Tips! Customize scroll in modules.json - 'persistent-workspaces' - 'pulseaudio' 'format:'
+  - Tips! Customize scroll in modules.json/config - 'persistent-workspaces' - 'pulseaudio' 'format:'
   
   - This is a demo template. Fix it to work on your system.
 
