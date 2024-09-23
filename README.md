@@ -12,8 +12,7 @@
 # Waybars
 
 (2024-sep22) Min-Monstr [dots-released](https://github.com/j5onrf/dots/tree/main/waybar/Min-Monstr)
-![Screenshot-2024-09-22_17:11:16](https://github.com/user-attachments/assets/073c1a97-fa18-4cdc-a8ef-219eb1a32a35)
-[app-slider]
+![Screenshot-2024-09-21_10:38:37](https://github.com/user-attachments/assets/a7af54b7-3288-4c38-8272-f217c2a3921d)
 ![Screenshot-2024-09-22_17:16:32](https://github.com/user-attachments/assets/2d673ff2-6801-4b40-a18b-cd171a85e8f9)
 
 
