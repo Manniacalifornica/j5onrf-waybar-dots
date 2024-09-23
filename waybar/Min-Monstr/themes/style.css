@@ -315,7 +315,7 @@ margin: 0px 10px 0px 10px;
     font-size: 14px;
     color: @iconcolor;
     border-radius: 15px;
-    margin: 0px 5px 0px 0px;
+    margin: 0px 6px 0px 0px;
 }
 
 #network.ethernet {
