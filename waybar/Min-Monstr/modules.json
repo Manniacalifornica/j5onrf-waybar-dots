@@ -146,8 +146,6 @@
     "format": "󰣇",
     // END APPS LABEL
     "on-click": "rofi -show drun -replace",
-    //"on-click-middle": "~/.config/hypr/scripts/keybindings.sh",
-    "on-click-middle": "~/.config/rofi/bin/config.rasi",
     "on-click-right": "~/.config/rofi/bin/launcher",
     "tooltip": false
   },
