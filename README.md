@@ -12,9 +12,10 @@
 # Waybars
 
 (2024-sep22) Min-Monstr [dots-released](https://github.com/j5onrf/dots/tree/main/waybar/Min-Monstr)
-![Screenshot-2024-09-22_17:11:162](https://github.com/user-attachments/assets/fd264d10-e356-498f-93bf-0fcbdd3ae105)
+![Screenshot-2024-09-22_17:11:16](https://github.com/user-attachments/assets/073c1a97-fa18-4cdc-a8ef-219eb1a32a35)
 [app-slider]
 ![Screenshot-2024-09-22_17:16:32](https://github.com/user-attachments/assets/2d673ff2-6801-4b40-a18b-cd171a85e8f9)
+
 
 [ml4w-min-j5][detach-gaps] ![traffic-cone-svgrepo-com2](https://github.com/user-attachments/assets/d78a40f2-f7e9-4346-a912-d9dc35bf67e7)
 ![Screenshot-2024-09-20_18:14:54](https://github.com/user-attachments/assets/261bacc3-a4e3-491f-ab18-c1fdbb2c19ee)
