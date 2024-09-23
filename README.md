@@ -27,7 +27,9 @@
 ![Screenshot-2024-09-19_18:09:03](https://github.com/user-attachments/assets/939ca647-65aa-4e75-bda9-5d8b60e1923b)
 ![Screenshot-2024-09-17_13:01:07](https://github.com/user-attachments/assets/06201541-e366-4931-a375-f4a2772a3c14)
 
-### Archived
+<details><summary>Archived</summary>
+<p>
+  
 [EverForest-theme-jakool][beuuty-theme] ![traffic-cone-svgrepo-com2](https://github.com/user-attachments/assets/d78a40f2-f7e9-4346-a912-d9dc35bf67e7)
 ![Screenshot-2024-09-12_11:58:15](https://github.com/user-attachments/assets/833b2057-b8da-4fd7-9594-bdb1a3cc633b)
 [ml4w-min-j5][rubik-font] (2024-sep) [dots-released](https://github.com/j5onrf/dots/tree/main/waybar/ml4w-min-j5)
@@ -46,6 +48,9 @@
 ![Screenshot-2024-08-28_12:23:10](https://github.com/user-attachments/assets/1edde73e-5fd1-4b13-8d80-d4cd0fc56930)
 ![Screenshot-2024-08-27_22:04:03](https://github.com/user-attachments/assets/cb191c9c-8e8e-4323-94dc-807e4f66da75)
 ![Screenshot-2024-09-11_18:07:40](https://github.com/user-attachments/assets/64af88fb-0ce1-412b-8792-e6cc447583a1)
+
+</p>
+</details>
 
 # High Function
 ### Faster access to workspaces & volume - [example](https://github.com/j5onrf/dots/tree/main/waybar/example-full-waybar-scroll)
