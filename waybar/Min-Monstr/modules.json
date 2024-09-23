@@ -206,7 +206,7 @@
       "children-class": "not-memory",
       "transition-left-to-right": false
     },
-    "modules": ["custom/system","cpu","memory","network","custom/updates","custom/cliphist","custom/hyprshade","tray"]
+    "modules": ["custom/system","cpu","memory","network","custom/updates","custom/hyprshade","custom/cliphist","tray"]
   },
 
   // Group Settings
