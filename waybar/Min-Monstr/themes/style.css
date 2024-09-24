@@ -42,7 +42,6 @@ window#waybar {
 #workspaces {
     margin: 0 7px;
     font-size: 14px;
-    font-weight: 900;
     color: @textcolor1;
 }
 
