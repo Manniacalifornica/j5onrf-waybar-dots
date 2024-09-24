@@ -35,7 +35,7 @@
 
 window#waybar {
     background-color: rgba(0, 0, 0, 0.4);
-    border: 2px solid #90ebd0;
+    border: 2px solid @iconcolor;
     /* color: #FFFFFF; */
     transition-property: background-color;
     transition-duration: .5s;
