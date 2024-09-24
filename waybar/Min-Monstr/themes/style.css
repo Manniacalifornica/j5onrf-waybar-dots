@@ -21,7 +21,7 @@
  
 /* Color Definitions */
 @define-color textcolor1 #333;  /* Color for Workspace Text */
-@define-color waybarcolor #90ebd0;  /* Color for Waybar */
+@define-color waybarcolor #74c7ec;   /* Color for Waybar */
 
 /* General Styles */
 * {
@@ -115,7 +115,6 @@ window#waybar.empty #window {
 #custom-waybarthemes {
     margin-right: 22px;
     font-size: 18px;
-    font-weight: bold;
     color: @waybarcolor;
 }
 
@@ -123,7 +122,6 @@ window#waybar.empty #window {
 #custom-wallpaper {
     margin-right: 13px;
     font-size: 18px;
-    font-weight: bold;
     color: @waybarcolor;
 }
 
@@ -148,7 +146,6 @@ window#waybar.empty #window {
 {
     margin-right: 23px;
     font-size: 14px;
-    font-weight: bold;
 }
 
 /* Custom Module Styles */
@@ -156,7 +153,6 @@ window#waybar.empty #window {
     font-size: 24px;
     color: @waybarcolor;
     margin: 0 20px 0 18px;
-    font-weight: bold;
 }
 
 /* Custom Exit Styles */
