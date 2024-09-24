@@ -11,16 +11,16 @@
 */
 
 /* -----------------------------------------------------
- * Import Pywal colors 
- * blue-5d9ddd blue-mocha-89b4fa Sappire-74c7ec
- * purple-cba6f7 Red-    Green-90ebd0 dark-green-1d8465
- * rgba(23, 23, 23, 0.4);
+ * white-bar #e1e1e1;
+ * Sappire-bar #74c7ec;
+ * magenta-bar #cba6f7; 
+ * light-brown-bar #c5b69d;
+ * <add more colors>
  * @define-color textcolor1 #333;
-*  @define-color iconcolor #90ebd0; min-monstr-green
+*  @define-color waybarcolor #90ebd0; min-monstr-green
  * ----------------------------------------------------- */
-/* @import 'style-light.css'; */
 @define-color textcolor1 #333;
-@define-color iconcolor #90ebd0;
+@define-color waybarcolor #90ebd0;
 /* -----------------------------------------------------
  * General 
  * ----------------------------------------------------- */
@@ -30,12 +30,12 @@
     border: none;
     border-radius: 10;
     font-weight: 600;
-   margin: 1px 0px 1px 0px;
+    margin: 1px 0px 1px 0px;
 }
 
 window#waybar {
     background-color: rgba(0, 0, 0, 0.4);
-    border: 2px solid @iconcolor;
+    border: 2px solid @waybarcolor;
     /* color: #FFFFFF; */
     transition-property: background-color;
     transition-duration: .5s;
@@ -50,6 +50,7 @@ window#waybar {
     margin: 0px 7px 0px 7px;
     border: 0px;
     font-size: 14px;
+    font-weight: 900;
     color: @textcolor1;
 }
 
@@ -57,14 +58,14 @@ window#waybar {
     border: 0px;
     margin:4px 10px 4px 0px;
     padding-right: 15px;
-    color: @iconcolor;
+    color: @waybarcolor;
 
 }
 
 #workspaces button.active {
     color: @textcolor1;
     border-radius: 5;
-    background: @iconcolor;
+    background: @waybarcolor;
 
 }
 
@@ -82,7 +83,7 @@ window#waybar {
 
 tooltip {
     border-radius: 10px;
-    background-color: @iconcolor;
+    background-color: @waybarcolor;
     opacity:0.8;
     padding:20px;
     margin:0px;
@@ -99,7 +100,7 @@ tooltip label {
 #window {
     margin: 0px 15px 0px 0px;
     border-radius: 12px;
-    color:@iconcolor;
+    color:@waybarcolor;
     font-size:14px;
     font-weight:normal;
 }
@@ -143,20 +144,19 @@ window#waybar.empty #window {
     margin-right: 22px;
     font-size: 18px;
     font-weight: bold;
-    color: @iconcolor;
+    color: @waybarcolor;
 }
 
 
 #custom-settings {
     margin-right: 15px;
-    color: @iconcolor;
+    color: @waybarcolor;
     font-size: 8px;
 }
 
-
-#custom-cliphist 
+#custom-cliphist
 {
-    margin-right: 30px;
+    margin-right: 29px;
     font-size: 14px;
     font-weight: bold;
 }
@@ -207,7 +207,7 @@ window#waybar.empty #window {
     margin-right: 15px;
     font-size: 16px;
     font-weight: bold;
-    color: @iconcolor;
+    color: @waybarcolor;
 }
 
 #idle_inhibitor.activated {
@@ -223,7 +223,7 @@ window#waybar.empty #window {
 
 #custom-appmenu {
 font-size: 24px;
-    color: @iconcolor;
+    color: @waybarcolor;
     margin: 0px 20px 0px 18px;
     font-weight: bold;
 }
@@ -236,7 +236,7 @@ font-size: 24px;
     margin: 0px 22px 0px 12px;
     padding:0px;
     font-size:8px;
-    color: @iconcolor;
+    color: @waybarcolor;
 }
 
 /* -----------------------------------------------------
@@ -266,7 +266,7 @@ font-size: 24px;
  * ----------------------------------------------------- */
 
 #custom-youtube {
-    background-color: @iconcolor;
+    background-color: @waybarcolor;
     font-size: 14px;
     color: @textcolor1;
     border-radius: 15px;
@@ -280,7 +280,7 @@ font-size: 24px;
 #custom-system {
 margin: 0px 10px 0px 10px;
     font-size: 8px;
-    color: @iconcolor;
+    color: @waybarcolor;
 
 }
 
@@ -291,7 +291,7 @@ margin: 0px 10px 0px 10px;
 
 #clock {
     font-size: 15px;
-    color: @iconcolor;
+    color: @waybarcolor;
     margin: 0px 22px 0px 0px;
 }
 
@@ -304,14 +304,12 @@ margin: 0px 10px 0px 10px;
 
  #pulseaudio {
     font-size: 15px;
-
-    color: @iconcolor;
+    color: @waybarcolor;
     margin: 0px 15px 0px 0px;
 }
 
 #pulseaudio.muted {
     color: #ed8796;
-
 }
 
 /* -----------------------------------------------------
@@ -320,7 +318,7 @@ margin: 0px 10px 0px 10px;
 
 #network {
     font-size: 14px;
-    color: @iconcolor;
+    color: @waybarcolor;
     border-radius: 15px;
     margin: 0px 10px 0px 0px;
 }
