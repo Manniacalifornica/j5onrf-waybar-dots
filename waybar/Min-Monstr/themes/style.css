@@ -6,67 +6,57 @@
  *    \_/\_/ \__,_|\__, |_.__/ \__,_|_|    |____/ \__|\__, |_|\___| 
  *                 |___/                              |___/         
  *  
- * 2025
+ * 2025 Min-Monstr
  * ----------------------------------------------------- 
 */
 
-/* -----------------------------------------------------
- * white-bar #e1e1e1;
- * Sappire-bar #74c7ec;
- * magenta-bar #cba6f7; 
- * light-brown-bar #c5b69d;
- * <add more colors>
- * @define-color textcolor1 #333;
-*  @define-color waybarcolor #90ebd0; min-monstr-green
- * ----------------------------------------------------- */
-@define-color textcolor1 #333;
-@define-color waybarcolor #90ebd0;
-/* -----------------------------------------------------
- * General 
- * ----------------------------------------------------- */
+ /* Colors
+* #e1e1e1;                             Light white background color 
+* #74c7ec;                             Bright blue background color 
+* #cba6f7;                             Bright magenta background color 
+* #c5b69d;                             Light brown background color 
+* <Add more colors as needed>
+* #90ebd0;                             Mint green background color 
+*/
+ 
+/* Color Definitions */
+@define-color textcolor1 #333;  /* Color for Workspace Text */
+@define-color waybarcolor #90ebd0;  /* Color for Waybar */
 
+/* General Styles */
 * {
-    font-family: "inter", FontAwesome, Roboto, Helvetica, Arial, sans-serif;
+    font-family: "Inter", Rubik, FontAwesome, Helvetica, Arial, sans-serif;
     border: none;
-    border-radius: 10;
+    border-radius: 10px;
     font-weight: 600;
-    margin: 1px 0px 1px 0px;
+    margin: 1px 0;
 }
 
 window#waybar {
     background-color: rgba(0, 0, 0, 0.4);
     border: 2px solid @waybarcolor;
-    /* color: #FFFFFF; */
-    transition-property: background-color;
-    transition-duration: .5s;
-
+    transition: background-color 0.5s;
 }
 
-/* -----------------------------------------------------
- * Workspaces    opacity: 0.8;
- * ----------------------------------------------------- */
-
- #workspaces {
-    margin: 0px 7px 0px 7px;
-    border: 0px;
+/* Workspaces Styles */
+#workspaces {
+    margin: 0 7px;
     font-size: 14px;
     font-weight: 900;
     color: @textcolor1;
 }
 
 #workspaces button {
-    border: 0px;
-    margin:4px 10px 4px 0px;
+    border: none;
+    margin: 4px 10px 4px 0;
     padding-right: 15px;
     color: @waybarcolor;
-
 }
 
 #workspaces button.active {
     color: @textcolor1;
-    border-radius: 5;
+    border-radius: 5px;
     background: @waybarcolor;
-
 }
 
 #workspaces button:hover {
@@ -74,45 +64,35 @@ window#waybar {
 }
 
 #workspaces button.empty {
-   opacity: 0.0;
+    opacity: 0.0;
 }
 
-/* -----------------------------------------------------
- * Tooltips
- * ----------------------------------------------------- */
-
+/* Tooltip Styles */
 tooltip {
     border-radius: 10px;
     background-color: @waybarcolor;
-    opacity:0.8;
-    padding:20px;
-    margin:0px;
+    opacity: 0.8;
+    padding: 20px;
 }
 
 tooltip label {
     color: @textcolor1;
 }
 
-/* -----------------------------------------------------
- * Window
- * ----------------------------------------------------- */
-
+/* Window Styles */
 #window {
-    margin: 0px 15px 0px 0px;
+    margin: 0 15px 0 0;
     border-radius: 12px;
-    color:@waybarcolor;
-    font-size:14px;
-    font-weight:normal;
+    color: @waybarcolor;
+    font-size: 14px;
+    font-weight: normal;
 }
 
 window#waybar.empty #window {
-    background-color:transparent;
+    background-color: transparent;
 }
 
-/* -----------------------------------------------------
- * Modules
- * ----------------------------------------------------- */
-
+/* Module Styles */
 .modules-left > widget:first-child > #workspaces {
     margin-left: 0;
 }
@@ -121,15 +101,7 @@ window#waybar.empty #window {
     margin-right: 0;
 }
 
-/* -----------------------------------------------------
- * Custom Quicklinks
- * ----------------------------------------------------- */
-
-#custom-brave, 
-#custom-browser, 
-#custom-keybindings, 
-#custom-filemanager, 
-#custom-wallpaper, 
+/* Custom Quicklinks Styles */
 #custom-quicklink1,
 #custom-quicklink2,
 #custom-quicklink3,
@@ -147,217 +119,92 @@ window#waybar.empty #window {
     color: @waybarcolor;
 }
 
+/* Quicklinks Wallpaper */
+#custom-wallpaper {
+    margin-right: 13px;
+    font-size: 18px;
+    font-weight: bold;
+    color: @waybarcolor;
+}
 
+/* Custom Settings */
 #custom-settings {
     margin-right: 15px;
     color: @waybarcolor;
     font-size: 8px;
 }
 
+/* Hardware Group / Apps */
+#custom-system {
+    margin: 0px 10px 0px 10px;
+    font-size: 8px;
+    color: @waybarcolor;
+}
+
+/* Clipboard Manager */
+/* Screen Shader */
+#custom-hyprshade,
 #custom-cliphist
 {
-    margin-right: 29px;
+    margin-right: 25px;
     font-size: 14px;
     font-weight: bold;
 }
 
-#custom-hyprshade
-{
-    margin-right: 20px;
-    font-size: 14px;
-    font-weight: bold;
-}
-
-#custom-tools {
-    margin-right:12px;
-      font-size: 13px;
-}
-
-#custom-browser {
-    margin-right: 12px;
-}
-
-#custom-wallpaper {
-    margin-right: 14px;
-}
-
-
-#custom-waybarthemes,#custom-system {
-    margin-right:15px;
-}
-
-
-#custom-ml4w-welcome {
-    margin-right: 12px;
-    background-image: url("../assets/ml4w-icon.svg");
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: contain; 
-    padding-right: 20px;
-}
-
-
-
-
-/* -----------------------------------------------------
- * Idle Inhibator
- * ----------------------------------------------------- */
-
- #idle_inhibitor {
-    margin-right: 15px;
-    font-size: 16px;
-    font-weight: bold;
-    color: @waybarcolor;
-}
-
-#idle_inhibitor.activated {
-    margin-right: 15px;
-    font-size: 14px;
-    font-weight: bold;
-    color: #dc2f2f;
-}
-
-/* -----------------------------------------------------
- * Custom Modules      
- * ----------------------------------------------------- */
-
+/* Custom Module Styles */
 #custom-appmenu {
-font-size: 24px;
+    font-size: 24px;
     color: @waybarcolor;
-    margin: 0px 20px 0px 18px;
+    margin: 0 20px 0 18px;
     font-weight: bold;
 }
 
-/* -----------------------------------------------------
- * Custom Exit
- * ----------------------------------------------------- */
-
+/* Custom Exit Styles */
 #custom-exit {
-    margin: 0px 22px 0px 12px;
-    padding:0px;
-    font-size:8px;
+    margin: 0 22px 0 12px;
+    padding: 0;
+    font-size: 8px;
     color: @waybarcolor;
 }
 
-/* -----------------------------------------------------
- * Custom Updates
- * ----------------------------------------------------- */
-
+/* Custom Updates Styles */
 #custom-updates {
     font-size: 14px;
-    color: @textcolor;
-    border-radius: 15px;
-    margin: 0px 20px 0px 0px;
+    margin: 0 20px 0 0;
 }
-
-#custom-updates.green {
-}
-
 #custom-updates.yellow {
     color: #ff9a3c;
 }
-
 #custom-updates.red {
     color: #dc2f2f;
 }
 
-/* -----------------------------------------------------
- * Custom Youtube
- * ----------------------------------------------------- */
-
-#custom-youtube {
-    background-color: @waybarcolor;
-    font-size: 14px;
-    color: @textcolor1;
-    border-radius: 15px;
-    margin: 0px 15px 0px 0px;
-}
-
-/* -----------------------------------------------------
- * Hardware Group
- * ----------------------------------------------------- */
-
-#custom-system {
-margin: 0px 10px 0px 10px;
-    font-size: 8px;
-    color: @waybarcolor;
-
-}
-
-
-/* -----------------------------------------------------
- * Clock
- * ----------------------------------------------------- */
-
+/* Clock Styles */
 #clock {
     font-size: 15px;
     color: @waybarcolor;
-    margin: 0px 22px 0px 0px;
+    margin: 0 22px 0 0;
 }
 
-/* -----------------------------------------------------
- * Backlight
- * ----------------------------------------------------- */
-/* -----------------------------------------------------
- * Pulseaudio    font-weight: bold;
- * ----------------------------------------------------- */
-
- #pulseaudio {
+/* Pulseaudio Styles */
+#pulseaudio {
     font-size: 15px;
     color: @waybarcolor;
-    margin: 0px 15px 0px 0px;
+    margin: 0 15px 0 0;
 }
-
 #pulseaudio.muted {
     color: #ed8796;
 }
 
-/* -----------------------------------------------------
- * Network
- * ----------------------------------------------------- */
-
+/* Network Styles */
 #network {
     font-size: 14px;
-    color: @waybarcolor;
-    border-radius: 15px;
-    margin: 0px 10px 0px 0px;
+    margin: 0 10px 0 0;
 }
 
-#network.ethernet {
-    color: @textcolor;
-}
-
-/* -----------------------------------------------------
- * Taskbar
- * ----------------------------------------------------- */
-
-#taskbar {
-    margin: 0px 10px 0px 5px;
-    padding:0px;
-    border-radius: 5px;
-    font-weight: normal;
-    font-style: normal;
- 
-}
-
-#taskbar button {
-    margin:0;
-    border-radius: 5px;
-    padding: 0px 5px 0px 5px;
-}
-
-/* -----------------------------------------------------
- * Bluetooth
- * ----------------------------------------------------- */
-/* -----------------------------------------------------
- * Battery
- * ----------------------------------------------------- */
-/* -----------------------------------------------------
- * Tray
- * ----------------------------------------------------- */
-
+/* Tray Styles */
 #tray {
-    margin:0px 25px 0px 0px;
+    margin: 0 25px 0 0;
 }
 
 #tray > .passive {
