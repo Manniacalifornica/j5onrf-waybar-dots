@@ -1,13 +1,13 @@
 # Full Waybar Scroll
 
-### Left -center scrolls workspaces. Right center- scrolls volume.
+### Left -center scrolls workspaces. Right center- scrolls volume
 
   - Tips! Customize scroll in modules.json/config - 'persistent-workspaces' - 'pulseaudio' 'format:'
   
   - This is a demo template. Fix it to work on your system.
 
-  - Arch and [ML4W](https://github.com/mylinuxforwork/dotfiles).
-  Shows what hyprland can do.
+  - Arch and [ML4W](https://github.com/mylinuxforwork/dotfiles)
+  
 
 # Waybars
 
