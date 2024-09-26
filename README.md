@@ -19,6 +19,9 @@
 ![Screenshot-2024-09-21_10:38:37](https://github.com/user-attachments/assets/a7af54b7-3288-4c38-8272-f217c2a3921d)
 ![Screenshot-2024-09-22_17:16:32](https://github.com/user-attachments/assets/2d673ff2-6801-4b40-a18b-cd171a85e8f9)
 
+<details><summary>Archived</summary>
+<p>
+
 [detach-gaps] ![traffic-cone-svgrepo-com2](https://github.com/user-attachments/assets/d78a40f2-f7e9-4346-a912-d9dc35bf67e7)
 ![Screenshot-2024-09-20_18:14:54](https://github.com/user-attachments/assets/261bacc3-a4e3-491f-ab18-c1fdbb2c19ee)
 ![Screenshot-2024-09-20_15:03:20](https://github.com/user-attachments/assets/2d3b9bb9-a512-4373-b6c5-678fa83e6123)
@@ -29,9 +32,6 @@
 ![Screenshot-2024-09-19_18:09:03](https://github.com/user-attachments/assets/939ca647-65aa-4e75-bda9-5d8b60e1923b)
 ![Screenshot-2024-09-17_13:01:07](https://github.com/user-attachments/assets/06201541-e366-4931-a375-f4a2772a3c14)
 
-<details><summary>Archived</summary>
-<p>
-  
 [EverForest-theme-jakool][beuuty-theme] ![traffic-cone-svgrepo-com2](https://github.com/user-attachments/assets/d78a40f2-f7e9-4346-a912-d9dc35bf67e7)
 ![Screenshot-2024-09-12_11:58:15](https://github.com/user-attachments/assets/833b2057-b8da-4fd7-9594-bdb1a3cc633b)
 [ml4w-min-j5][rubik-font] (2024-sep) [dots-released](https://github.com/j5onrf/dots/tree/main/waybar/ml4w-min-j5)
