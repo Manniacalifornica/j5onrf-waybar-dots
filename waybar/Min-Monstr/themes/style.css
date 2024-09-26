@@ -112,14 +112,14 @@ window#waybar.empty #window {
 #custom-quicklink9,
 #custom-quicklink10,
 #custom-waybarthemes {
-    margin-right: 22px;
+    margin-right: 20px;
     font-size: 18px;
     color: @waybarcolor;
 }
 
 /* Quicklinks Wallpaper */
 #custom-wallpaper {
-    margin-right: 8px;
+    margin-right: 10px;
     font-size: 18px;
     color: @waybarcolor;
 }
