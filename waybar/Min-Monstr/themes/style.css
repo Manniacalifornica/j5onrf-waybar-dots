@@ -12,7 +12,7 @@
 
  /* Colors
 * #e1e1e1;                             Light white background color 
-* #74c7ec;                             Bright blue background color 
+* #74c7ec; #69e8ff;                    Bright blue background color 
 * #cba6f7;                             Bright magenta background color 
 * #c5b69d;                             Light brown background color 
 * <Add more colors as needed>
@@ -21,7 +21,7 @@
  
 /* Color Definitions */
 @define-color textcolor1 #333;  /* Color for Workspace Text */
-@define-color waybarcolor #74c7ec;   /* Color for Waybar */
+@define-color waybarcolor #90ebd0;   /* Color for Waybar */
 
 /* General Styles */
 * {
