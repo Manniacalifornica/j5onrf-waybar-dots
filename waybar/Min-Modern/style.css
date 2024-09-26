@@ -119,7 +119,7 @@ window#waybar.empty #window {
 
 /* Quicklinks Wallpaper */
 #custom-wallpaper {
-    margin-right: 13px;
+    margin-right: 8px;
     font-size: 18px;
     color: @waybarcolor;
 }
@@ -133,7 +133,7 @@ window#waybar.empty #window {
 
 /* Hardware Group / Apps */
 #custom-system {
-    margin: 0px 10px 0px 10px;
+    margin: 0px 8px 0px 8px;
     font-size: 8px;
     color: @waybarcolor;
 }
@@ -199,7 +199,7 @@ window#waybar.empty #window {
 
 /* Tray Styles */
 #tray {
-    margin: 0 25px 0 0;
+    margin: 0 15px 0 5px;
 }
 
 #tray > .passive {
