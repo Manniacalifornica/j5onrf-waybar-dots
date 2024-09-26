@@ -13,7 +13,7 @@
 (2024-sep26) [Min-Mid] [centered volume icon with /span]
 ![Screenshot-2024-09-26_11:28:53](https://github.com/user-attachments/assets/91908e46-5c86-42a3-8782-b640b4f6f01e)
 
-(2024-sep25) Min-Modern [dots-released](https://github.com/j5onrf/dots/tree/main/waybar/Min-Modern)
+(2024-sep25) Min-Modern [style.css](https://github.com/j5onrf/dots/tree/main/waybar/Min-Modern)
 ![Screenshot-2024-09-25_11:57:23](https://github.com/user-attachments/assets/d4c37518-fe92-4841-84c0-51f421986f61)
 ![Screenshot-2024-09-25_12:33:50](https://github.com/user-attachments/assets/772bf865-208e-4124-ae86-93b3473c19e7)
 
