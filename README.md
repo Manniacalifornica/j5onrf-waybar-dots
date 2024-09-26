@@ -13,6 +13,7 @@
 
 (2024-sep25) Min-Modern [style.css](https://github.com/j5onrf/dots/tree/main/waybar/Min-Modern)
 ![Screenshot-2024-09-25_11:57:23](https://github.com/user-attachments/assets/d4c37518-fe92-4841-84c0-51f421986f61)
+![Screenshot-2024-09-26_14:24:55](https://github.com/user-attachments/assets/0d8d94f7-9bfb-4aa8-87bc-6a3709b52195)
 ![Screenshot-2024-09-26_12:05:54](https://github.com/user-attachments/assets/e9f4bf49-c214-4fd4-8940-ae2ce1943447)
 
 (2024-sep22) Min-Monstr [dots-released](https://github.com/j5onrf/dots/tree/main/waybar/Min-Monstr)
