@@ -41,7 +41,7 @@
         "format": "                                                                                                                                                                          <span font='12'>{icon}</span> {volume}%",
         "format-muted": " {volume}",
         "format-icons": {
-        "default": ["󰕿", "󰕾", "󰕾"]
+        "default": ["󰖀", "󰕾", "󰕾"]
         },
         "on-click": "pactl set-sink-mute @DEFAULT_SINK@ toggle",
         "format-muted": "                                                                                                                                                                                  <span font='12'>{icon}</span> {volume}%",
