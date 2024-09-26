@@ -62,6 +62,11 @@
 (2024-sep) Min-Monstr
 ![Screenshot-2024-09-21_10:30:49](https://github.com/user-attachments/assets/8a225388-a003-44b7-9ac0-baa429c713f5)
 
-
+<details><summary>Archived</summary>
+<p>
+  
 (2024-aug) Catppuccin
 ![2024-08-12T12:18:55,626962318-05:00](https://github.com/user-attachments/assets/8c16c637-4a3a-4b69-9c4e-045d4b61ed8d)
+
+</p>
+</details>
