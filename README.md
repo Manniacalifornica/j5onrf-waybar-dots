@@ -18,6 +18,8 @@
 (2024-sep22) Min-Monstr [dots-released](https://github.com/j5onrf/dots/tree/main/waybar/Min-Monstr)
 ![Screenshot-2024-09-21_10:38:37](https://github.com/user-attachments/assets/a7af54b7-3288-4c38-8272-f217c2a3921d)
 ![Screenshot-2024-09-22_17:16:32](https://github.com/user-attachments/assets/2d673ff2-6801-4b40-a18b-cd171a85e8f9)
+(2024-sep26) [centered volume icon with /span]
+![Screenshot-2024-09-26_09:20:44](https://github.com/user-attachments/assets/e0732fbc-bb14-4738-a024-3ecbfa7ae4b7)
 
 
 [detach-gaps] ![traffic-cone-svgrepo-com2](https://github.com/user-attachments/assets/d78a40f2-f7e9-4346-a912-d9dc35bf67e7)
