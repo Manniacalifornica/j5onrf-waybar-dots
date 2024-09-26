@@ -10,6 +10,8 @@
   
 
 # Waybars
+(2024-sep26) [Min-Mid] [centered volume icon with /span]
+![Screenshot-2024-09-26_11:28:53](https://github.com/user-attachments/assets/91908e46-5c86-42a3-8782-b640b4f6f01e)
 
 (2024-sep25) Min-Modern [dots-released](https://github.com/j5onrf/dots/tree/main/waybar/Min-Modern)
 ![Screenshot-2024-09-25_11:57:23](https://github.com/user-attachments/assets/d4c37518-fe92-4841-84c0-51f421986f61)
@@ -18,9 +20,6 @@
 (2024-sep22) Min-Monstr [dots-released](https://github.com/j5onrf/dots/tree/main/waybar/Min-Monstr)
 ![Screenshot-2024-09-21_10:38:37](https://github.com/user-attachments/assets/a7af54b7-3288-4c38-8272-f217c2a3921d)
 ![Screenshot-2024-09-22_17:16:32](https://github.com/user-attachments/assets/2d673ff2-6801-4b40-a18b-cd171a85e8f9)
-(2024-sep26) [centered volume icon with /span]
-![Screenshot-2024-09-26_09:20:44](https://github.com/user-attachments/assets/e0732fbc-bb14-4738-a024-3ecbfa7ae4b7)
-
 
 [detach-gaps] ![traffic-cone-svgrepo-com2](https://github.com/user-attachments/assets/d78a40f2-f7e9-4346-a912-d9dc35bf67e7)
 ![Screenshot-2024-09-20_18:14:54](https://github.com/user-attachments/assets/261bacc3-a4e3-491f-ab18-c1fdbb2c19ee)
