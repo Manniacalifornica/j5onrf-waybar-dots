@@ -12,6 +12,7 @@
 # Waybars
 [Min-Mid] [centered volume icon with /span]
 ![Screenshot-2024-09-26_11:28:53](https://github.com/user-attachments/assets/91908e46-5c86-42a3-8782-b640b4f6f01e)
+![Screenshot-2024-09-26_12:05:54](https://github.com/user-attachments/assets/e9f4bf49-c214-4fd4-8940-ae2ce1943447)
 
 (2024-sep25) Min-Modern [style.css](https://github.com/j5onrf/dots/tree/main/waybar/Min-Modern)
 ![Screenshot-2024-09-25_11:57:23](https://github.com/user-attachments/assets/d4c37518-fe92-4841-84c0-51f421986f61)
