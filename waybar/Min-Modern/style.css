@@ -12,7 +12,7 @@
 
  /* Colors
 * #e1e1e1;                             Light white background color 
-* #74c7ec;  #69e8ff;                   Bright blue background color 
+* #74c7ec; #69e8ff;                    Bright blue background color 
 * #cba6f7;                             Bright magenta background color 
 * #c5b69d;                             Light brown background color 
 * <Add more colors as needed>
@@ -25,7 +25,7 @@
 
 /* General Styles */
 * {
-    font-family: "Inter",FontAwesome, Helvetica, Arial, sans-serif;
+    font-family: "Inter", FontAwesome, Helvetica, Arial, sans-serif;
     border: none;
     border-radius: 8px 18px;
     font-weight: 600;
