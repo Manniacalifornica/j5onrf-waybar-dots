@@ -38,13 +38,13 @@
     // Pulseaudio
     "pulseaudio": {
         // "scroll-step": 1, // %, can be a float
-        "format": "                                                                                            {icon} {volume}%",
+        "format": "                                                                                                                                                                          <span font='12'>{icon}</span> {volume}%",
         "format-muted": " {volume}",
         "format-icons": {
         "default": ["󰕿", "󰕾", "󰕾"]
         },
         "on-click": "pactl set-sink-mute @DEFAULT_SINK@ toggle",
-        "format-muted": "                                                                                                      {icon} {volume}%",
+        "format-muted": "                                                                                                                                                                                  <span font='12'>{icon}</span> {volume}%",
     },
     
     // Modules Left
