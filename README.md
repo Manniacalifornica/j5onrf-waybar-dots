@@ -59,16 +59,15 @@
 ![Screenshot-2024-08-03_12:23:02](https://github.com/user-attachments/assets/fdfdf859-65ba-4302-b2af-4a49fe05ae1d)
 
 # Rofi 
+(2024-oct) Min-Modern2
+![Screenshot-2024-09-27_17:30:49](https://github.com/user-attachments/assets/023db98e-e358-41ca-9dc3-7343c3e9ad92)
 
 (2024-sep) Min-Monstr
 ![Screenshot-2024-09-21_10:30:49](https://github.com/user-attachments/assets/8a225388-a003-44b7-9ac0-baa429c713f5)
 
 <details><summary>Archived</summary>
 <p>
-  
-(2024-sep) Min-Modern2
-![Screenshot-2024-09-27_16:56:23](https://github.com/user-attachments/assets/f7603744-962d-4cb4-b002-6c116655544b)
-  
+
 (2024-aug) Catppuccin
 ![2024-08-12T12:18:55,626962318-05:00](https://github.com/user-attachments/assets/8c16c637-4a3a-4b69-9c4e-045d4b61ed8d)
 
