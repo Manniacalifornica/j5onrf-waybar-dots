@@ -148,7 +148,7 @@
     "tooltip": false
   },
 
-  // Rofi Application Launcher  󰣇
+  // Rofi Application Launcher  󱄅  󱗼  󰣇
   "custom/appmenu": {
     // START APPS LABEL
     "format": "󰣇",
