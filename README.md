@@ -59,7 +59,7 @@
 ![Screenshot-2024-08-03_12:23:02](https://github.com/user-attachments/assets/fdfdf859-65ba-4302-b2af-4a49fe05ae1d)
 
 # Rofi 
-(2024-oct) Min-Modern2
+(2024-sep27) Min-Modern2
 ![Screenshot-2024-09-27_17:30:49](https://github.com/user-attachments/assets/023db98e-e358-41ca-9dc3-7343c3e9ad92)
 
 (2024-sep) Min-Monstr
