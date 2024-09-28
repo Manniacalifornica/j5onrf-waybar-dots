@@ -20,7 +20,7 @@
 
  <details><summary>transparency & blur [i]</summary>
 <p>
-  To add blur I'm using, "blur wallpaper effect" for better performance. Everything with transparency will have blur including waybar.
+  To add blur I'm using 'blur wallpaper effect' for better performance. Everything with transparency will have blur including waybar.
 </p>
 </details>
 
