@@ -63,7 +63,7 @@
 ![Screenshot-2024-09-21_10:30:49](https://github.com/user-attachments/assets/8a225388-a003-44b7-9ac0-baa429c713f5)
 
 (2024-sep) min-modern<sup>2</sup>
-![Screenshot-2024-09-27_22:50:01](https://github.com/user-attachments/assets/dc509870-d20d-41ef-b2fb-cd0709c9624f)
+![Screenshot-2024-09-27_23:14:38](https://github.com/user-attachments/assets/de13e982-026c-4a59-bda5-2be6f807494b)
 
 <details><summary>Archived</summary>
 <p>
