@@ -19,7 +19,7 @@
 </details>
 
 # Waybars
-(2024-sep29) Min-hyprnome
+(2024-sep29) Min-Hyprnome
 ![Screenshot-2024-09-28_11:03:22](https://github.com/user-attachments/assets/811e0c1d-f16b-4936-a20d-269a7fe847e7)
 
 (2024-sep28) Min-Modern<sup>2</sup>
