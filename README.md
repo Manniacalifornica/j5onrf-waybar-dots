@@ -20,7 +20,7 @@
 
  <details><summary>transparency & blur [i]</summary>
 <p>
-  To add blur I'm using 'blur wallpaper effect' for better performance. Everything with transparency will have blur including waybar. If using ml4w, right click on wallpaper icon to select wallpaper effect blur = 1,2.
+  To add blur I'm using 'blur wallpaper effect' for better performance. Everything with transparency will have blur including waybar. If using ml4w, right click on wallpaper icon to select wallpaper effect blur* = 1,2.
 </p>
 </details>
 
