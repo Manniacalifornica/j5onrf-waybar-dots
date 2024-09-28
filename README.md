@@ -20,8 +20,8 @@
 
 # Waybars
 (2024-sep29) Min-Hyprnome
-![Screenshot-2024-09-28_11:03:22](https://github.com/user-attachments/assets/811e0c1d-f16b-4936-a20d-269a7fe847e7)
 ![Screenshot-2024-09-28_14:16:32](https://github.com/user-attachments/assets/1a9a744f-90b9-4a2e-9f90-a4d97d31be1f)
+![Screenshot-2024-09-28_11:03:22](https://github.com/user-attachments/assets/811e0c1d-f16b-4936-a20d-269a7fe847e7)
 
 (2024-sep28) Min-Modern<sup>2</sup>
 ![Screenshot-2024-09-27_12:39:19](https://github.com/user-attachments/assets/b73806fb-602b-4812-b628-77883e80a278)
