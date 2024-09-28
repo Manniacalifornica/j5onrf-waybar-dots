@@ -62,7 +62,7 @@
 (2024-sep) min-monstr
 ![Screenshot-2024-09-21_10:30:49](https://github.com/user-attachments/assets/8a225388-a003-44b7-9ac0-baa429c713f5)
 
-(2024-sep) min-modern2
+(2024-sep) min-modern<sup>2</sup>
 ![Screenshot-2024-09-27_17:30:49](https://github.com/user-attachments/assets/023db98e-e358-41ca-9dc3-7343c3e9ad92)
 
 <details><summary>Archived</summary>
