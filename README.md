@@ -1,20 +1,26 @@
 # Full Waybar Scroll
 
 ### Left -center scrolls workspaces. Right center- scrolls volume
-
-  - Tips! Customize scroll in modules.json/config - 'persistent-workspaces' - 'pulseaudio' 'format:'
   
-  - This is a demo template. Fix it to work on your system.
+  - Tips! Customize scroll in modules.json/config - 'persistent-workspaces' - 'pulseaudio' 'format:'
 
-  - Arch and [ML4W](https://github.com/mylinuxforwork/dotfiles)
-
-  <details><summary>example</summary>
+<details><summary>example [i]</summary>
 <p>
   
 # High Function
 ### Faster access to workspaces & volume - [example.conf](https://github.com/j5onrf/dots/tree/main/waybar/example-full-waybar-scroll)
 ![Screenshot-2024-08-03_12:23:02](https://github.com/user-attachments/assets/fdfdf859-65ba-4302-b2af-4a49fe05ae1d)
 
+</p>
+</details>
+
+  - This is a demo template. Fix it to work on your system.
+
+  - Arch and [ML4W](https://github.com/mylinuxforwork/dotfiles)
+
+ <details><summary>transparency & blur [i]</summary>
+<p>
+  To add blur I'm using "blur wallpaper effect" for better performance. Everything with transparency will blur including browsers and waybar.
 </p>
 </details>
 
