@@ -20,7 +20,7 @@
 
 # Waybars
 
-(2024-sep25) Min-Modern [style.css](https://github.com/j5onrf/dots/tree/main/waybar/Min-Modern)
+(2024-sep25) Min-Modern [.css](https://github.com/j5onrf/dots/tree/main/waybar/Min-Modern)
 ![Screenshot-2024-09-25_11:57:23](https://github.com/user-attachments/assets/d4c37518-fe92-4841-84c0-51f421986f61)
 ![Screenshot-2024-09-27_12:39:19](https://github.com/user-attachments/assets/b73806fb-602b-4812-b628-77883e80a278)
 
