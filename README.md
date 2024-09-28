@@ -34,7 +34,7 @@
         xray = true
       # blurls = waybar
     }
-    active_opacity = 0.9 # 0.99
+    active_opacity = 0.9 # 0.95
     inactive_opacity = 0.6
     fullscreen_opacity = 1
 
