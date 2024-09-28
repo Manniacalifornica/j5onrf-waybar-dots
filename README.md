@@ -14,7 +14,7 @@
 </p>
 </details>
 
-  - This is a demo template. Fix it to work on your system
+  - This is a demo template. Fix it to work on your system.
 
   - Arch and [ML4W](https://github.com/mylinuxforwork/dotfiles)
 
