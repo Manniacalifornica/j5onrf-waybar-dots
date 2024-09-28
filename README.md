@@ -7,7 +7,16 @@
   - This is a demo template. Fix it to work on your system.
 
   - Arch and [ML4W](https://github.com/mylinuxforwork/dotfiles)
+
+  <details><summary>example</summary>
+<p>
   
+# High Function
+### Faster access to workspaces & volume - [example](https://github.com/j5onrf/dots/tree/main/waybar/example-full-waybar-scroll)
+![Screenshot-2024-08-03_12:23:02](https://github.com/user-attachments/assets/fdfdf859-65ba-4302-b2af-4a49fe05ae1d)
+
+</p>
+</details>
 
 # Waybars
 
@@ -21,7 +30,7 @@
 
 <details><summary>Archived</summary>
 <p>
-
+  
 [detach-gaps] ![traffic-cone-svgrepo-com2](https://github.com/user-attachments/assets/d78a40f2-f7e9-4346-a912-d9dc35bf67e7)
 ![Screenshot-2024-09-20_18:14:54](https://github.com/user-attachments/assets/261bacc3-a4e3-491f-ab18-c1fdbb2c19ee)
 ![Screenshot-2024-09-20_15:03:20](https://github.com/user-attachments/assets/2d3b9bb9-a512-4373-b6c5-678fa83e6123)
@@ -54,22 +63,21 @@
 </p>
 </details>
 
-# High Function
-### Faster access to workspaces & volume - [example](https://github.com/j5onrf/dots/tree/main/waybar/example-full-waybar-scroll)
-![Screenshot-2024-08-03_12:23:02](https://github.com/user-attachments/assets/fdfdf859-65ba-4302-b2af-4a49fe05ae1d)
-
 # Rofi<sup> / shots</sup>
-(2024-sep) min-monstr
-![Screenshot-2024-09-21_10:30:49](https://github.com/user-attachments/assets/8a225388-a003-44b7-9ac0-baa429c713f5)
 
 (2024-sep) min-modern<sup>2</sup>
-![Screenshot-2024-09-27_23:29:58](https://github.com/user-attachments/assets/122966eb-815d-4c84-bc14-80951db8cda4)
+![Screenshot-2024-09-27_23:48:15](https://github.com/user-attachments/assets/9f1f6f16-a4a9-4f69-8a79-35a71fd86c20)
 
-<details><summary>Archived</summary>
+<details><summary>screenshots</summary>
 <p>
+
+(2024-sep) min-monstr
+![Screenshot-2024-09-21_10:30:49](https://github.com/user-attachments/assets/8a225388-a003-44b7-9ac0-baa429c713f5)
 
 (2024-aug) catppuccin
 ![2024-08-12T12:18:55,626962318-05:00](https://github.com/user-attachments/assets/8c16c637-4a3a-4b69-9c4e-045d4b61ed8d)
 
 </p>
 </details>
+
+
