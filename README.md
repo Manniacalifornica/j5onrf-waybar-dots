@@ -22,6 +22,8 @@
 
 (2024-sep25) Min-Modern [style.css](https://github.com/j5onrf/dots/tree/main/waybar/Min-Modern)
 ![Screenshot-2024-09-25_11:57:23](https://github.com/user-attachments/assets/d4c37518-fe92-4841-84c0-51f421986f61)
+
+(2024-sep28) Min-Modern<sup>2</sup>
 ![Screenshot-2024-09-27_12:39:19](https://github.com/user-attachments/assets/b73806fb-602b-4812-b628-77883e80a278)
 ![Screenshot-2024-09-28_10:11:39](https://github.com/user-attachments/assets/47f2df57-cc1e-481b-9384-58412e8c3af7)
 
