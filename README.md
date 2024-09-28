@@ -66,7 +66,7 @@
 # Hypr<sup> / shots</sup>
 
 (2024-sep) min-modern<sup>2</sup>
-![Screenshot-2024-09-27_23:48:15](https://github.com/user-attachments/assets/9f1f6f16-a4a9-4f69-8a79-35a71fd86c20)
+![Screenshot-2024-09-27_22:50:01](https://github.com/user-attachments/assets/50316911-2069-4c0a-b02e-620dbcea066e)
 
 <details><summary>+screenshots</summary>
 <p>
