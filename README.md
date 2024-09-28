@@ -63,12 +63,12 @@
 </p>
 </details>
 
-# Rofi<sup> / shots</sup>
+# Hypr<sup> / shots</sup>
 
 (2024-sep) min-modern<sup>2</sup>
 ![Screenshot-2024-09-27_23:48:15](https://github.com/user-attachments/assets/9f1f6f16-a4a9-4f69-8a79-35a71fd86c20)
 
-<details><summary>screenshots</summary>
+<details><summary>+screenshots</summary>
 <p>
 
 (2024-sep) min-monstr
