@@ -39,7 +39,7 @@
     fullscreen_opacity = 1
 
     drop_shadow = false
-    shadow_range = 10 # default 30
+    shadow_range = 30
     shadow_render_power = 3
     col.shadow = 0x66000000
 }
