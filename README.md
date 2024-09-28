@@ -21,6 +21,29 @@
  <details><summary>transparency & blur [i]</summary>
 <p>
   To add blur I'm using 'blur wallpaper effect' for better performance. Everything with transparency will have blur including waybar. If using ml4w, right click on wallpaper icon to select wallpaper effect blur* = 1,2.
+  
+```
+  decoration {
+    rounding = 0
+    blur {
+        enabled = false
+        size = 6 # default 12
+        passes = 3 # default 4
+        new_optimizations = on
+        ignore_opacity = true
+        xray = true
+      # blurls = waybar
+    }
+    active_opacity = 0.9
+    inactive_opacity = 0.6
+    fullscreen_opacity = 1
+
+    drop_shadow = false
+    shadow_range = 10 # default 30
+    shadow_render_power = 3
+    col.shadow = 0x66000000
+}
+```
 </p>
 </details>
 
