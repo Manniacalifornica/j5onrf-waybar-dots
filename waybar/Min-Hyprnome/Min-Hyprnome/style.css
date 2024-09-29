@@ -21,7 +21,7 @@
  
 /* Color Definitions */
 @define-color glyphbutton #333;  /* Color for Workspace Glyph */
-@define-color waybarcolor #cba6f7;         /* Color for Waybar */
+@define-color waybarcolor #e1e1e1;         /* Color for Waybar */
 
 /* General Styles */
 * {
