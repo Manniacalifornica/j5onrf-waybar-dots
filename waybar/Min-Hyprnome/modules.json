@@ -200,7 +200,8 @@
     "on-click": "~/.config/ml4w/settings/systeminfo.sh"
   },
 
-  // Group Hardware , ,"cpu","memory"
+  // Group Hardware 
+  // ,"cpu","memory"
   "group/hardware": {
     "orientation": "inherit",
     "drawer": {
