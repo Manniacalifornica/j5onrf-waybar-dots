@@ -10,6 +10,9 @@
 # High Function
 ### Faster access to workspaces & volume - [example.conf](https://github.com/j5onrf/dots/tree/main/waybar/example-full-waybar-scroll)
 
+[gnome-extention-power]
+![Screenshot-2024-09-14_07:49:163](https://github.com/user-attachments/assets/8b03d066-3c46-41dc-84d5-7b119fd36071)
+
 </p>
 </details>
 
