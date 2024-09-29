@@ -82,7 +82,7 @@
 
 # Hypr<sup> / shots</sup>
 
-(2024-sep) Min-Hyprnome [Rofi](https://github.com/j5onrf/dots/tree/main/rofi/Rofi-Min-Hyprnome)
+(2024-sep) Min-Hyprnome [Rofi](https://github.com/j5onrf/dots/tree/main/rofi/Rofi-Min-Hyprnome) [Rofi<sup>600</sup>](https://github.com/j5onrf/dots/blob/main/rofi/Rofi-Min-600/Screenshot-2024-09-29_18%3A26%3A36.png)
 ![Screenshot-2024-09-29_12:51:01](https://github.com/user-attachments/assets/1f902838-11ba-4ef7-8740-b2ddc136b1da)
 
 <details><summary>+screenshots</summary>
