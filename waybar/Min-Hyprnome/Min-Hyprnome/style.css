@@ -20,7 +20,7 @@
 */
  
 /* Color Definitions */
-@define-color textcolor1 #333;  /* Color for Workspace Text */
+@define-color textcolor1 #333;  /* Color for Workspace Icon */
 @define-color waybarcolor #e1e1e1;         /* Color for Waybar */
 
 /* General Styles */
