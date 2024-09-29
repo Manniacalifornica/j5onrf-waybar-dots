@@ -58,7 +58,7 @@ window {
     anchor:                       center;
     fullscreen:                   false;
     enabled:                      true;
-    border-radius:                5px;
+    border-radius:                10px;
     background-color:             transparent;
 }
 
