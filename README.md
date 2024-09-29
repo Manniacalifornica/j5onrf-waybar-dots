@@ -100,6 +100,9 @@
 
 # Hypr<sup> / shots</sup>
 
+(2024-sep) Min-Hyprnome
+![Screenshot-2024-09-28_23:36:59](https://github.com/user-attachments/assets/b44cbc89-a669-43bc-a074-688b899de199)
+
 (2024-sep) Min-Modern<sup>2</sup>
 ![Screenshot-2024-09-27_22:50:01](https://github.com/user-attachments/assets/50316911-2069-4c0a-b02e-620dbcea066e)
 
