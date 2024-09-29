@@ -20,8 +20,8 @@
 */
  
 /* Color Definitions */
-@define-color textcolor1 #333;  /* Color for Workspace Glyph */
-@define-color waybarcolor #e1e1e1;         /* Color for Waybar */
+@define-color glyphbutton #333;  /* Color for Workspace Glyph */
+@define-color waybarcolor #cba6f7;         /* Color for Waybar */
 
 /* General Styles */
 * {
@@ -42,7 +42,7 @@ window#waybar {
 #workspaces {
     margin: 0 7px;
     font-size: 14px;
-    color: @textcolor1;
+    color: @glyphbutton;
 }
 
 #workspaces button {
@@ -54,7 +54,7 @@ window#waybar {
 }
 
 #workspaces button.active {
-    color: @textcolor1;
+    color: @glyphbutton;
     border-radius: 5px;
     background: @waybarcolor;
 }
@@ -76,7 +76,7 @@ tooltip {
 }
 
 tooltip label {
-    color: @textcolor1;
+    color: @glyphbutton;
 }
 
 /* Window Styles */
@@ -214,4 +214,3 @@ window#waybar.empty #window {
     -gtk-icon-effect: highlight;
     background-color: #eb4d4b;
 }
-
