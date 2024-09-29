@@ -85,5 +85,12 @@
 (2024-sep) Min-Hyprnome [Rofi](https://github.com/j5onrf/dots/tree/main/rofi/Rofi-Min-Hyprnome)
 ![Screenshot-2024-09-29_09:56:07](https://github.com/user-attachments/assets/64c71ab0-e4d8-4839-aa3a-8afaddbc30d8)
 
+<details><summary>+screenshots</summary>
+<p>
 
+(2024-sep) Min-Modern<sup>2</sup>
+![Screenshot-2024-09-27_22:50:01](https://github.com/user-attachments/assets/50316911-2069-4c0a-b02e-620dbcea066e)
+
+</p>
+</details>
 
