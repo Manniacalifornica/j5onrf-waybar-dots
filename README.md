@@ -88,16 +88,19 @@
 <details><summary>+screenshots</summary>
 <p>
   
+(2024-oct) Min-Hyprnome [Rofi<sup>600</sup>](https://github.com/j5onrf/dots/blob/main/rofi/Rofi-Min-600/Screenshot-2024-09-29_20%3A49%3A46.png)
 ![Screenshot-2024-09-29_18:26:36](https://github.com/user-attachments/assets/50329c81-d3cd-4f0d-840a-6c28d614ccda)
 
 <details><summary>+screenshots</summary>
   <p>
     
+(2024-sep) Min-Modern<sup>2</sup>  
 ![Screenshot-2024-09-27_22:50:01](https://github.com/user-attachments/assets/2d53e031-0460-4733-936a-aba8f8f763b9)
 
 <details><summary>+screenshots</summary>
   <p>
-    
+  
+(2024-sep) Min-Monstr    
 ![Screenshot-2024-09-25_09:53:22](https://github.com/user-attachments/assets/53cbd329-4d66-4743-81a9-cacfbbe56495)
 
 
