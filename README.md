@@ -99,7 +99,13 @@
 
 <details><summary>+screenshots</summary>
   <p>
-  
+
+(2024-sep) Min-Monstr
+![Screenshot-2024-09-22_17:11:16](https://github.com/user-attachments/assets/8d0b0e39-a4c1-4943-a27c-f4a6fe694a4d)
+
+<details><summary>+screenshots</summary>
+  <p>
+    
 (2024-sep) Min-Monstr    
 ![Screenshot-2024-09-25_09:53:22](https://github.com/user-attachments/assets/53cbd329-4d66-4743-81a9-cacfbbe56495)
 
