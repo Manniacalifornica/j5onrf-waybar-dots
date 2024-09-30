@@ -88,8 +88,7 @@
 <details><summary>+screenshots</summary>
 <p>
 
-(2024-sep) Min-Modern<sup>2</sup>
-![Screenshot-2024-09-27_22:50:01](https://github.com/user-attachments/assets/50316911-2069-4c0a-b02e-620dbcea066e)
+![traffic-cone-svgrepo-com](https://github.com/user-attachments/assets/a7f63eed-07f0-4c87-9b34-b829c12eef71)
 
 </p>
 </details>
