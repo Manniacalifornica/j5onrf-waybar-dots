@@ -88,7 +88,6 @@
 <details><summary>+screenshots</summary>
 <p>
 
-![traffic-cone-svgrepo-com](https://github.com/user-attachments/assets/a7f63eed-07f0-4c87-9b34-b829c12eef71)
 ```diff
 # nothing yet
 ```
