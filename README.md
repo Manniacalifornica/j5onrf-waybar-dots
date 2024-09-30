@@ -106,7 +106,7 @@
 <details><summary>+screenshots</summary>
   <p>
     
-(2024-sep) Min-Monstr    
+(2024-sep) Min-Monstr-b    
 ![Screenshot-2024-09-25_09:53:22](https://github.com/user-attachments/assets/53cbd329-4d66-4743-81a9-cacfbbe56495)
 
 
