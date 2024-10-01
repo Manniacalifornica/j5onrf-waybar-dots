@@ -53,6 +53,7 @@
 
 (2024-oct1) Starting off oct trying out [Hyprpanel](https://www.reddit.com/r/unixporn/comments/1frzwbx/hyprland_hyprpanel_w_25_new_themes_20_prebuilt/#lightbox)
 ![Screenshot-2024-10-01_17:43:38](https://github.com/user-attachments/assets/f0988f15-626b-4ea5-94fa-0d882f9c37ad)
+![Screenshot-2024-10-01_18:28:10](https://github.com/user-attachments/assets/d4053c06-b2d7-4c80-bc54-f474122bdb2b)
 
 ![Screenshot-2024-10-01_08:57:24](https://github.com/user-attachments/assets/17ae8b9c-26aa-496e-a6cc-f37e825035fe)
 ![Screenshot-2024-10-01_09:01:27](https://github.com/user-attachments/assets/f323ad52-4cf9-4c76-a13a-ecf240ebb741)
