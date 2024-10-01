@@ -50,6 +50,10 @@
 </details>
 
 # Waybars
+
+(2024-oct) Starting off oct trying out [Hyprpanel](https://www.reddit.com/r/unixporn/comments/1frzwbx/hyprland_hyprpanel_w_25_new_themes_20_prebuilt/#lightbox)
+![Screenshot-2024-10-01_08:50:49](https://github.com/user-attachments/assets/6b8269ca-2f36-428d-9d02-c9ba5f682c12)
+
 (2024-sep29) Min-Hyprnome [dots](https://github.com/j5onrf/dots/tree/main/waybar/Min-Hyprnome)
 ![Screenshot-2024-09-28_14:16:32](https://github.com/user-attachments/assets/1a9a744f-90b9-4a2e-9f90-a4d97d31be1f)
 ![Screenshot-2024-09-28_11:03:22](https://github.com/user-attachments/assets/811e0c1d-f16b-4936-a20d-269a7fe847e7)
