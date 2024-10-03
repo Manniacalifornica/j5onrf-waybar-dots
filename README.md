@@ -51,7 +51,7 @@
 
 # Hyprpanel
 
-(2024-oct3) Hyprpanel & ML4W works
+(2024-oct3) Hyprpanel & ML4W
 ![Screenshot-2024-10-03_16:39:17](https://github.com/user-attachments/assets/1c636b1b-0258-4c7c-a70c-c4084f10147d)
 
 (2024-oct1) Starting off oct trying out [Hyprpanel](https://www.reddit.com/r/unixporn/comments/1frzwbx/hyprland_hyprpanel_w_25_new_themes_20_prebuilt/#lightbox)
