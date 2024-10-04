@@ -51,7 +51,7 @@
 
 # Hyprpanel
 
-(2024-oct3) Hyprpanel & ML4W
+(2024-oct4) Hyprpanel & Waybar
 ![Screenshot-2024-10-04_10:56:40](https://github.com/user-attachments/assets/84b05117-e9db-4058-827b-86796f3e061f)
 
 <details><summary>Toggle on/off [i]</summary>
