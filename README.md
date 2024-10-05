@@ -54,7 +54,13 @@
 (2024-oct4) Hyprpanel & Waybar
 ![Screenshot-2024-10-04_10:56:40](https://github.com/user-attachments/assets/84b05117-e9db-4058-827b-86796f3e061f)
 
+<details><summary>+ScreenShots</summary>
+<p>
+  
 ![Screenshot-2024-10-05_09:54:14](https://github.com/user-attachments/assets/bf78ba00-1e72-44c2-b879-b70cd0125913)
+
+</p>
+</details>
 
 <details><summary>Toggle on/off [i]</summary>
 <p>
@@ -108,25 +114,25 @@ bind = $mainMod CTRL, B,  # Toggle Waybar
 (2024-oct) Min-Hyprnome [Rofi](https://github.com/j5onrf/dots/blob/main/rofi/Rofi-Min-Hyprnome/Screenshot-2024-09-29_20%3A54%3A08.png) [Rofi<sup>600</sup>](https://github.com/j5onrf/dots/blob/main/rofi/Rofi-Min-600/Screenshot-2024-09-29_20%3A49%3A46.png)
 ![Screenshot-2024-09-29_20:54:08](https://github.com/user-attachments/assets/0170c8c8-0531-48f6-9a18-35cfffd8883f)
 
-<details><summary>+screenshots</summary>
+<details><summary>+ScreenShots</summary>
 <p>
   
 (2024-oct) Min-Hyprnome [Rofi<sup>600</sup>](https://github.com/j5onrf/dots/blob/main/rofi/Rofi-Min-600/Screenshot-2024-09-29_20%3A49%3A46.png)
 ![Screenshot-2024-09-29_18:26:36](https://github.com/user-attachments/assets/50329c81-d3cd-4f0d-840a-6c28d614ccda)
 
-<details><summary>+screenshots</summary>
+<details><summary>+ScreenShots</summary>
   <p>
     
 (2024-sep) Min-Modern<sup>2</sup>  
 ![Screenshot-2024-09-27_22:50:01](https://github.com/user-attachments/assets/2d53e031-0460-4733-936a-aba8f8f763b9)
 
-<details><summary>+screenshots</summary>
+<details><summary>+ScreenShots</summary>
   <p>
 
 (2024-sep) Min-Monstr
 ![Screenshot-2024-09-22_17:11:16](https://github.com/user-attachments/assets/8d0b0e39-a4c1-4943-a27c-f4a6fe694a4d)
 
-<details><summary>+screenshots</summary>
+<details><summary>+ScreenShots</summary>
   <p>
     
 (2024-sep) Min-Monstr-b    
