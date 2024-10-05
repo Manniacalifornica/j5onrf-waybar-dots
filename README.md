@@ -54,6 +54,8 @@
 (2024-oct4) Hyprpanel & Waybar
 ![Screenshot-2024-10-04_10:56:40](https://github.com/user-attachments/assets/84b05117-e9db-4058-827b-86796f3e061f)
 
+![Screenshot-2024-10-05_09:31:06](https://github.com/user-attachments/assets/dc4a2fd6-bc67-41da-9813-748fb1d9fa45)
+
 <details><summary>Toggle on/off [i]</summary>
 <p>
  
