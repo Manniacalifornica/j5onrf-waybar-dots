@@ -56,7 +56,8 @@
 
 <details><summary>+ScreenShots</summary>
 <p>
-  
+
+(2024-oct5) Hyprpanel EverForest theme & Rofi Pywal Color
 ![Screenshot-2024-10-05_09:54:14](https://github.com/user-attachments/assets/bf78ba00-1e72-44c2-b879-b70cd0125913)
 
 </p>
