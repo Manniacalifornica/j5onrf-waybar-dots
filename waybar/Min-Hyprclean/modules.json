@@ -35,7 +35,7 @@
 		"class<io.missioncenter.MissionCenter>": "",
 		"class<firefox>": "",
 		"class<kitty>": "󰄛",
-		"class<kitty-dropterm>": " ",
+		"class<kitty-dropterm>": "",
 		"class<org.gnome.Console>": "",
 		"class<alacritty>": "",
 		"class<Chromium>": "<span font='12'></span>",
