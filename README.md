@@ -118,7 +118,7 @@ bind = $mainMod CTRL, B,  # Toggle Waybar
 
 # Hypr<sup> / shots</sup>
 
-(2024-oct) Min-Hyprnome [Rofi](https://github.com/j5onrf/dots/blob/main/rofi/Rofi-Min-Hyprnome/Screenshot-2024-09-29_20%3A54%3A08.png) [Rofi<sup>600</sup>](https://github.com/j5onrf/dots/blob/main/rofi/Rofi-Min-600/Screenshot-2024-09-29_20%3A49%3A46.png)
+(2024-oct) Min-Hyprnome [Rofi](https://github.com/j5onrf/dots/blob/main/rofi/Rofi-Min-Hyprnome/Screenshot-2024-09-29_20%3A54%3A08.png) [Rofi<sup>600</sup>](https://github.com/j5onrf/dots/blob/main/rofi/Rofi-Min-600/Screenshot-2024-09-29_20%3A49%3A46.png) [Rofi-3](https://github.com/j5onrf/dots/tree/main/rofi/Rofi-3-Column)
 ![Screenshot-2024-09-29_20:54:08](https://github.com/user-attachments/assets/0170c8c8-0531-48f6-9a18-35cfffd8883f)
 
 <details><summary>+ScreenShots</summary>
