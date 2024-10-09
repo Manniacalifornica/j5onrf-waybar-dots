@@ -128,10 +128,10 @@
   // Rofi Application Launcher 󱄅  󱗼  󰣇
   "custom/appmenu": {
     "format": "󱗼",
- //   "on-click": "rofi -show drun -replace",
+      "on-click": "rofi -show drun -replace",
  //   "on-click": "ags -t dashboardmenu",
-    "on-click": "~/.config/rofi/bin/launcher",
- "on-click-right": "ags -t dashboardmenu",
+ //   "on-click": "~/.config/rofi/bin/launcher",
+ //   "on-click-right": "ags -t dashboardmenu",
     "tooltip": false
   },
 
