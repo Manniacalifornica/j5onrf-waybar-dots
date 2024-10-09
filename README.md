@@ -60,7 +60,7 @@
 (2024-oct5) Hyprpanel EverForest Theme, Rofi Pywal Color, Ags OSD Volume & CalendarMenu
 ![Screenshot-2024-10-05_09:54:14](https://github.com/user-attachments/assets/bf78ba00-1e72-44c2-b879-b70cd0125913)
 
-(2024-oct7) Hyprpanel Notifications, Rofi 3 Column
+(2024-oct7) Hyprpanel Notifications, [Rofi-3-Column](https://github.com/j5onrf/dots/tree/main/rofi/Rofi-3-Column)
 ![Screenshot-2024-10-07_22:11:26](https://github.com/user-attachments/assets/85309c08-ad67-4fbb-80d6-db6dc4a51e51)
 
 </p>
