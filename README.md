@@ -55,29 +55,44 @@
 ![Screenshot-2024-10-01_08:57:24](https://github.com/user-attachments/assets/17ae8b9c-26aa-496e-a6cc-f37e825035fe)
 ![Screenshot-2024-10-01_09:01:27](https://github.com/user-attachments/assets/f323ad52-4cf9-4c76-a13a-ecf240ebb741)
 
+<details><summary>Toggle on/off [i]</summary>
+<p>
+
+```
+ags -t bar-0  # Toggle Hyprpanel
+bind = $mainMod CTRL, B,  # Toggle Waybar
+```
+
+</p>
+
+</details>
+
 <details><summary>+ScreenShots</summary>
 <p>
 
 (2024-oct4) Hyprpanel & Waybar
 ![Screenshot-2024-10-04_10:56:40](https://github.com/user-attachments/assets/84b05117-e9db-4058-827b-86796f3e061f)
 
+
+<details><summary>+ScreenShots</summary>
+<p>
+  
 (2024-oct5) Hyprpanel EverForest Theme, Rofi Pywal Color, Ags OSD Volume & CalendarMenu
 ![Screenshot-2024-10-05_09:54:14](https://github.com/user-attachments/assets/bf78ba00-1e72-44c2-b879-b70cd0125913)
 
+
+<details><summary>+ScreenShots</summary>
+<p>
+  
 (2024-oct7) Hyprpanel Notifications, [Rofi-3-Column](https://github.com/j5onrf/dots/tree/main/rofi/Rofi-3-Column)
 ![Screenshot-2024-10-07_22:11:26](https://github.com/user-attachments/assets/85309c08-ad67-4fbb-80d6-db6dc4a51e51)
 
-</p>
+```diff
+
+```
+
 </details>
-
-<details><summary>Toggle on/off [i]</summary>
-<p>
- 
-```
-ags -t bar-0  # Toggle Hyprpanel
-bind = $mainMod CTRL, B,  # Toggle Waybar
-```
-
+</details>
 </p>
 </details>
 
