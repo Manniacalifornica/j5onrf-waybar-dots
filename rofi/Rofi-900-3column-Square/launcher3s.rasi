@@ -6,7 +6,7 @@
 # |_| \_\___/|_| |_| 
 #                    
 #  ML4W
-# edited by j5onrf (2025) for Rofi-900-3-Column-Square
+# edited by j5onrf (2025) for Rofi-Min-600
 # ----------------------------------------------------- 
 */
 
@@ -99,7 +99,7 @@ inputbar {
     text-color:                   @foreground;
     spacing:                      10px;
     padding:                      15px;
-    margin:                      13px;
+    margin:                       15px 13px;
     border-radius:                0px;
     border-color:                 @foreground;
     background-color:             @background;
