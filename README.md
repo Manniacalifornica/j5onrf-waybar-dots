@@ -134,8 +134,7 @@ bind = $mainMod CTRL, B,  # Toggle Waybar
 # Hypr<sup> / shots</sup>
 
 (2024-oct) Min-Hyprclean [Rofi<sup>900</sup>-3S](https://github.com/j5onrf/dots/blob/main/rofi/Rofi-900-3column-Square/Screenshot-2024-10-11_00%3A11%3A53.png)
-![Screenshot-2024-10-11_00:11:53](https://github.com/user-attachments/assets/2ea2b96b-6fea-4e37-ac7b-e5939054cdea)
-
+![Screenshot-2024-10-11_00:46:19](https://github.com/user-attachments/assets/69fd950f-f011-47ba-bb33-91be2f11ade8)
 
 <details><summary>+ScreenShots</summary>
 <p>
