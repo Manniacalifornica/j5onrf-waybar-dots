@@ -5,7 +5,7 @@
 //    \_/\_/ \__,_|\__, |_.__/ \__,_|_|    
 //                 |___/                   
 //  ML4W
-// 2025 Min-Hyprnome
+// 2025 Min-Hyprclean
 // ----------------------------------------------------- 
 //
 {
@@ -24,17 +24,6 @@
         "~/.config/waybar/modules.json"
     ],
 
-    // Updates Count
-    "custom/updates": {
-        "format": "  {}",
-        "escape": true,
-        "return-type": "json",
-        "exec": "~/.config/ml4w/scripts/updates.sh",
-        "restart-interval": 60,
-        "on-click": "$(cat ~/.config/ml4w/settings/terminal.sh) --class dotfiles-floating -e ~/.config/ml4w/scripts/installupdates.sh",
-        "on-click-right": "~/.config/ml4w/settings/software.sh"
-    },
-
     // Pulseaudio
     "pulseaudio": {
         // "scroll-step": 1, // %, can be a float
@@ -52,7 +41,7 @@
   "clock": {
     "format": "{:%I:%M  %a%e}",
 //    "on-click": "ags -t calendar",
-     "on-click": "ags -t calendarmenu position center",
+     "on-click": "ags -t calendarmenu",
 
      "on-click-right": "gapplication launch org.gnome.Weather",
     "tooltip": false

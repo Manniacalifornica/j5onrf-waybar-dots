@@ -41,7 +41,7 @@ window#waybar {
 /* Workspaces Styles */
 #workspaces {
     margin: 0 7px;
-    font-size: 15px;
+    font-size: 14px;
     color: @glyphbutton;
 }
 
@@ -146,13 +146,13 @@ window#waybar.empty #window {
 #custom-appmenu {
     font-size: 18px;
     color: @waybarcolor;
-    margin: 0 0px 0 10px;
+    margin: 0 0px 0 12px;
 }
 
 /* Custom Exit Styles wlogout */
 #custom-exit {
     font-size: 14px;
-    margin: 0 13px 0 0px;
+    margin: 0 15px 0 0px;
     padding: 0;
     color: @waybarcolor;
 }
