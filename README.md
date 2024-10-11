@@ -133,8 +133,9 @@ bind = $mainMod CTRL, B,  # Toggle Waybar
 
 # Hypr<sup> / shots</sup>
 
-(2024-oct) Min-Hyprclean* [Rofi-3](https://github.com/j5onrf/dots/tree/main/rofi/Rofi-3-Column) [Rofi-3S](https://github.com/j5onrf/dots/blob/main/rofi/Rofi-3-Square/Screenshot-2024-10-10_22%3A59%3A41.png) [Rofi<sup>900</sup>-3](https://github.com/j5onrf/dots/blob/main/rofi/Rofi-900-3column/Screenshot-2024-10-10_22%3A42%3A13.png) [Rofi<sup>900</sup>-3S*](https://github.com/j5onrf/dots/blob/main/rofi/Rofi-900-3column-Square/Screenshot-2024-10-11_00%3A03%3A18.png)
-![Screenshot-2024-10-11_00:03:18](https://github.com/user-attachments/assets/33759ff2-3583-4854-b55e-6a7aacd1d4ec)
+(2024-oct) Min-Hyprclean* [Rofi-3](https://github.com/j5onrf/dots/tree/main/rofi/Rofi-3-Column) [Rofi-3S](https://github.com/j5onrf/dots/blob/main/rofi/Rofi-3-Square/Screenshot-2024-10-10_22%3A59%3A41.png) [Rofi<sup>900</sup>-3](https://github.com/j5onrf/dots/blob/main/rofi/Rofi-900-3column/Screenshot-2024-10-10_22%3A42%3A13.png) [Rofi<sup>900</sup>-3S*](https://github.com/j5onrf/dots/blob/main/rofi/Rofi-900-3column-Square/Screenshot-2024-10-11_00%3A11%3A53.png)
+![Screenshot-2024-10-11_00:11:53](https://github.com/user-attachments/assets/2ea2b96b-6fea-4e37-ac7b-e5939054cdea)
+
 
 <details><summary>+ScreenShots</summary>
 <p>
