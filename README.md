@@ -100,7 +100,7 @@ bind = $mainMod CTRL, B,  # Toggle Waybar
 
 (2024-oct9) Min-Hyprclean [dots](https://github.com/j5onrf/dots/tree/main/waybar/Min-Hyprclean)
 ![Screenshot-2024-10-09_08:59:42](https://github.com/user-attachments/assets/68e0ae88-b51d-46d4-8040-39a87f8578f4)
-![Screenshot-2024-10-11_11:45:09](https://github.com/user-attachments/assets/c0064057-6f55-4579-9fc2-6a23232a38f1)
+![Screenshot-2024-10-11_11:49:08](https://github.com/user-attachments/assets/e777b356-7d4f-4da0-a21c-b9f109666f45)
 
 (2024-sep29) Min-Hyprnome [dots](https://github.com/j5onrf/dots/tree/main/waybar/Min-Hyprnome)
 ![Screenshot-2024-09-28_14:16:32](https://github.com/user-attachments/assets/1a9a744f-90b9-4a2e-9f90-a4d97d31be1f)
