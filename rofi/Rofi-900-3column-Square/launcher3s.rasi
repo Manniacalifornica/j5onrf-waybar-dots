@@ -109,7 +109,7 @@ inputbar {
 textbox-prompt-colon {
     enabled:                      false;
     expand:                       false;
-    str:                          "";
+    str:                          "";
     padding:                      0px 5px 0px 0px;
     background-color:             transparent;
     text-color:                   inherit;
@@ -120,7 +120,7 @@ entry {
     background-color:             transparent;
     text-color:                   inherit;
     cursor:                       text;
-    placeholder:                  "Search";
+    placeholder:                  "";
     placeholder-color:            inherit;
 }
 
