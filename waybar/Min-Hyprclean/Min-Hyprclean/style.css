@@ -45,12 +45,10 @@ window#waybar {
     color: @glyphbutton;
 }
 
-/* 15 12 */
 #workspaces button {
     border: none;
-    margin: 0px 10px 0px 0px;
-    padding-right: 14px;
-    padding-left: 10px;
+    margin: 0px 0px 0px 0px;
+    padding-right: 12px;
     color: @waybarcolor;
 }
 
