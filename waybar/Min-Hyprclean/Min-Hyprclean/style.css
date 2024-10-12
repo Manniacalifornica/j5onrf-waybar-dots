@@ -40,7 +40,7 @@ window#waybar {
 
 /* Workspaces Styles */
 #workspaces {
-    margin: 0 7px;
+    margin: 0px;
     font-size: 14px;
     color: @glyphbutton;
 }
@@ -125,7 +125,7 @@ window#waybar.empty #window {
 
 /* Right-side App Tray Slider */
 #custom-system {
-    margin: 0px 0px 0px 8px;
+    margin-left: 8px;
     font-size: 8px;
     color: @waybarcolor;
     opacity: 0.0;
@@ -144,13 +144,13 @@ window#waybar.empty #window {
 #custom-appmenu {
     font-size: 18px;
     color: @waybarcolor;
-    margin: 0 0px 0 12px;
+    margin: 0 5px 0 12px;
 }
 
 /* Custom Exit Styles wlogout */
 #custom-exit {
     font-size: 14px;
-    margin: 0 15px 0 0px;
+    margin-right: 15px;
     padding: 0;
     color: @waybarcolor;
 }
@@ -208,4 +208,3 @@ window#waybar.empty #window {
     -gtk-icon-effect: highlight;
     background-color: #eb4d4b;
 }
-
