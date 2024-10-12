@@ -26,7 +26,7 @@
 /* General Styles */
 /* font-weight: 500; or 600; */
 * {
-    font-family: "Rubik", FontAwesome, Helvetica, Arial, sans-serif;
+    font-family: "Rubik", FontAwesome, "Font Awesome 6 Brands", Helvetica, Arial, sans-serif;
     border: none;
     border-radius: 0px;
     font-weight: 500;
