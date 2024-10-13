@@ -98,7 +98,7 @@ bind = $mainMod CTRL, B,  # Toggle Waybar
 
 # Waybar
 
-([preview](https://github.com/j5onrf/dots/blob/main/waybar/Min-Hyprtidy/Screenshot-2024-10-13_14%3A19%3A16.png)) Min-Hyprtidy 🚧
+([preview](https://github.com/j5onrf/dots/blob/main/waybar/Min-Hyprtidy/Screenshot-2024-10-13_15%3A58%3A16.png)) Min-Hyprtidy 🚧
 ![Screenshot-2024-10-13_14:29:00](https://github.com/user-attachments/assets/1e6dcc1d-43d1-4a96-9452-9b1a8cc48274)
 ![Screenshot-2024-10-13_15:18:42](https://github.com/user-attachments/assets/7726fbbd-a758-4851-b784-5d000ac4a4a8)
 
