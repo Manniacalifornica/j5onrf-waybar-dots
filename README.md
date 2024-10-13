@@ -70,22 +70,21 @@ bind = $mainMod CTRL, B,  # Toggle Waybar
 <details><summary>+ScreenShots</summary>
 <p>
 
-(2024-oct4) Hyprpanel & Waybar
-![Screenshot-2024-10-04_10:56:40](https://github.com/user-attachments/assets/84b05117-e9db-4058-827b-86796f3e061f)
+(2024-oct13) Hyprpanel & Waybar
+![Screenshot-2024-10-13_15:58:16](https://github.com/user-attachments/assets/a0518903-2ec6-48e7-acbb-91b19ad0a80c)
+
+<details><summary>+ScreenShots</summary>
+<p>
+  
+(2024-oct) Reserved
+
 
 
 <details><summary>+ScreenShots</summary>
 <p>
   
-(2024-oct5) Hyprpanel EverForest Theme, Rofi Pywal Color, Ags OSD Volume & CalendarMenu
-![Screenshot-2024-10-05_09:54:14](https://github.com/user-attachments/assets/bf78ba00-1e72-44c2-b879-b70cd0125913)
+(2024-oct) Reserved
 
-
-<details><summary>+ScreenShots</summary>
-<p>
-  
-(2024-oct7) Hyprpanel Notifications, [Rofi-3-Column](https://github.com/j5onrf/dots/tree/main/rofi/Rofi-3-Column)
-![Screenshot-2024-10-07_22:11:26](https://github.com/user-attachments/assets/85309c08-ad67-4fbb-80d6-db6dc4a51e51)
 
 ```diff
 
