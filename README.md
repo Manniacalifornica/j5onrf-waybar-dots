@@ -84,7 +84,7 @@ bind = $mainMod CTRL, B,  # Toggle Waybar
 <p>
   
 (2024-oct) Reserved
-![Screenshot-2024-10-13_15:58:16](https://github.com/user-attachments/assets/a0518903-2ec6-48e7-acbb-91b19ad0a80c)
+
 
 ```diff
 
