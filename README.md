@@ -72,21 +72,19 @@ bind = $mainMod CTRL, B,  # Toggle Waybar
 <p>
 
 (2024-oct13) Hyprpanel & Waybar
-![Screenshot-2024-10-13_19:17:09](https://github.com/user-attachments/assets/e1f33e52-70ef-46a6-9d44-4b2f7fadaf16)
+![Screenshot-2024-10-14_06:47:55](https://github.com/user-attachments/assets/0dd3739e-1ed2-47bb-9106-1d00499dc77a)
 
+<details><summary>+ScreenShots</summary>
+<p>
+  
+(2024-oct) Reserved
+![Screenshot-2024-10-13_19:17:09](https://github.com/user-attachments/assets/e1f33e52-70ef-46a6-9d44-4b2f7fadaf16)
 
 <details><summary>+ScreenShots</summary>
 <p>
   
 (2024-oct) Reserved
 ![Screenshot-2024-10-13_15:58:16](https://github.com/user-attachments/assets/a0518903-2ec6-48e7-acbb-91b19ad0a80c)
-
-
-<details><summary>+ScreenShots</summary>
-<p>
-  
-(2024-oct) Reserved
-
 
 ```diff
 
@@ -100,6 +98,7 @@ bind = $mainMod CTRL, B,  # Toggle Waybar
 # Waybar
 
 ([preview](https://github.com/j5onrf/dots/blob/main/waybar/Min-Hyprtidy/Screenshot-2024-10-13_19%3A17%3A09.png)) Min-Hyprtidy 🚧
+![Screenshot-2024-10-14_06:48:44](https://github.com/user-attachments/assets/29332da7-133b-427d-9d94-b57c46a039dd)
 ![Screenshot-2024-10-13_19:14:57](https://github.com/user-attachments/assets/2f698bed-bcec-4e87-9bf5-64c58793d1de)
 
 (2024-oct9) Min-Hyprclean [dots](https://github.com/j5onrf/dots/tree/main/waybar/Min-Hyprclean)
