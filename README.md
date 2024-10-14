@@ -72,7 +72,7 @@ bind = $mainMod CTRL, B,  # Toggle Waybar
 <p>
 
 (2024-oct13) Hyprpanel & Waybar
-![Screenshot-2024-10-14_06:47:55](https://github.com/user-attachments/assets/0dd3739e-1ed2-47bb-9106-1d00499dc77a)
+![Screenshot-2024-10-14_12:16:28](https://github.com/user-attachments/assets/1e6238e0-3cda-4981-92ff-16d466da76e4)
 
 <details><summary>+ScreenShots</summary>
 <p>
