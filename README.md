@@ -138,7 +138,7 @@ bind = $mainMod CTRL, B,  # Toggle Waybar
 # Hypr<sup> / shots</sup>
 
 (2024-oct) Min-Hyprtidy [Rofi<sup>900</sup>-3](https://github.com/j5onrf/dots/tree/main/rofi)
-![Screenshot-2024-10-14_08:05:54](https://github.com/user-attachments/assets/0129907c-5bdb-47d6-96f8-a86385fe0710)
+![Screenshot-2024-10-14_08:10:15](https://github.com/user-attachments/assets/ba04a317-20d5-4411-a14f-a8c9f577b426)
 
 <details><summary>+ScreenShots</summary>
 <p>
