@@ -100,6 +100,7 @@ bind = $mainMod CTRL, B,  # Toggle Waybar
 (2024-oct14) Min-Hyprtidy [dots](https://github.com/j5onrf/dots/tree/main/waybar/Min-Hyprtidy)
 ![Screenshot-2024-10-14_06:48:44](https://github.com/user-attachments/assets/29332da7-133b-427d-9d94-b57c46a039dd)
 ![Screenshot-2024-10-13_19:14:57](https://github.com/user-attachments/assets/2f698bed-bcec-4e87-9bf5-64c58793d1de)
+<sup>"JetBrainsMono Nerd Font Propo"</sup>
 ![Screenshot-2024-10-14_15:13:50](https://github.com/user-attachments/assets/48a256de-b979-49d9-8912-c2c4be1d33d0)
 
 (2024-oct9) Min-Hyprclean [dots](https://github.com/j5onrf/dots/tree/main/waybar/Min-Hyprclean)
