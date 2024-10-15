@@ -54,7 +54,6 @@
 (2024-oct1) Starting off oct trying out [Hyprpanel](https://www.reddit.com/r/unixporn/comments/1frzwbx/hyprland_hyprpanel_w_25_new_themes_20_prebuilt/#lightbox)
 ![Screenshot-2024-10-01_08:57:24](https://github.com/user-attachments/assets/17ae8b9c-26aa-496e-a6cc-f37e825035fe)
 ![Screenshot-2024-10-01_09:01:27](https://github.com/user-attachments/assets/f323ad52-4cf9-4c76-a13a-ecf240ebb741)
-![Screenshot-2024-10-13_19:29:15](https://github.com/user-attachments/assets/7d1e3588-cb0e-48ab-825a-601d947211f3)
 
 <details><summary>Toggle on/off [i]</summary>
 <p>
@@ -84,7 +83,7 @@ bind = $mainMod CTRL, B,  # Toggle Waybar
 <p>
   
 (2024-oct) Reserved
-
+![Screenshot-2024-10-13_19:29:15](https://github.com/user-attachments/assets/7d1e3588-cb0e-48ab-825a-601d947211f3)
 
 ```diff
 
