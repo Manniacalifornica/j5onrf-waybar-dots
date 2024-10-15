@@ -53,7 +53,7 @@
 
 (2024-oct1) Starting off oct trying out [Hyprpanel](https://www.reddit.com/r/unixporn/comments/1frzwbx/hyprland_hyprpanel_w_25_new_themes_20_prebuilt/#lightbox)
 ![Screenshot-2024-10-01_08:57:24](https://github.com/user-attachments/assets/17ae8b9c-26aa-496e-a6cc-f37e825035fe)
-![Screenshot-2024-10-01_09:01:27](https://github.com/user-attachments/assets/f323ad52-4cf9-4c76-a13a-ecf240ebb741)
+
 
 <details><summary>Toggle on/off [i]</summary>
 <p>
@@ -102,15 +102,15 @@ bind = $mainMod CTRL, B,  # Toggle Waybar
 
 (2024-oct9) Min-Hyprclean [dots](https://github.com/j5onrf/dots/tree/main/waybar/Min-Hyprclean)
 ![Screenshot-2024-10-09_08:59:42](https://github.com/user-attachments/assets/68e0ae88-b51d-46d4-8040-39a87f8578f4)
-![Screenshot-2024-10-12_00:39:13](https://github.com/user-attachments/assets/6c38fb5c-840e-4446-b5e9-9880a57e01a8)
+
 
 (2024-sep29) Min-Hyprnome [dots](https://github.com/j5onrf/dots/tree/main/waybar/Min-Hyprnome)
 ![Screenshot-2024-09-28_14:16:32](https://github.com/user-attachments/assets/1a9a744f-90b9-4a2e-9f90-a4d97d31be1f)
-![Screenshot-2024-09-28_11:03:22](https://github.com/user-attachments/assets/811e0c1d-f16b-4936-a20d-269a7fe847e7)
+
 
 (2024-sep28) Min-Modern<sup>2</sup>
 ![Screenshot-2024-09-27_12:39:19](https://github.com/user-attachments/assets/b73806fb-602b-4812-b628-77883e80a278)
-![Screenshot-2024-09-28_10:11:39](https://github.com/user-attachments/assets/47f2df57-cc1e-481b-9384-58412e8c3af7)
+
 
 (2024-sep25) Min-Modern [style.css](https://github.com/j5onrf/dots/tree/main/waybar/Min-Modern)
 ![Screenshot-2024-09-25_11:57:23](https://github.com/user-attachments/assets/d4c37518-fe92-4841-84c0-51f421986f61)
