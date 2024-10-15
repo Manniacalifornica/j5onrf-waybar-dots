@@ -192,11 +192,8 @@
       "custom/settings",
       "custom/waybarthemes",
       "custom/wallpaper",
-      "custom/quicklink1",
-      "custom/quicklink7",
-      "custom/quicklink4",
       "group/quicklinks"
-      // "wlr/taskbar"
+   // "wlr/taskbar"
     ]
   },
 
