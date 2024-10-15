@@ -159,13 +159,15 @@
    // CPU
   "cpu": {
     "format": " {usage}% ",
-    "on-click": "~/.config/ml4w/settings/systeminfo.sh"
+    "on-click": "~/.config/ml4w/settings/systeminfo.sh",
+    "tooltip": false
   },
   
   // Memory
   "memory": {
     "format": " {used:0.1f} GB ",
-    "on-click": "~/.config/ml4w/settings/systeminfo.sh"
+    "on-click": "~/.config/ml4w/settings/systeminfo.sh",
+    "tooltip": false
   },
 
   // Group Hardware , ,"cpu","memory"
