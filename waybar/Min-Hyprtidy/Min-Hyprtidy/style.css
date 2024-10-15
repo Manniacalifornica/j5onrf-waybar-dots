@@ -67,7 +67,6 @@ window#waybar {
 }
 
 /* Hover Styles */
-
 #clock:hover {
     padding: 0px 8px;
     color: #FFF;
