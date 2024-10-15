@@ -209,22 +209,10 @@
     "on-click-right": "$(cat ~/.config/ml4w/settings/terminal.sh) --class dotfiles-floating -e nmtui"
   },
 
-  // Bluetooth
-  "bluetooth": {
-    "format": " {status}",
-    "format-disabled": "",
-    "format-off": "",
-    "interval": 30,
-    "on-click": "blueman-manager",
-    "format-no-controller": ""
-  },
-  
   // Pulseaudio
   "pulseaudio": {
     "scroll-step": 3, // %, can be a float
     "format": "{icon}  {volume}%",
-    "format-bluetooth": "{volume}% {icon} {format_source}",
-    "format-bluetooth-muted": " {icon} {format_source}",
     "format-muted": " {format_source}",
     "format-source": "{volume}% ",
     "format-source-muted": "",
@@ -237,3 +225,4 @@
 
 
   }
+
