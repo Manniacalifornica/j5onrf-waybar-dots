@@ -36,8 +36,7 @@
 /* default rgba(0, 0, 0, 0.4); */
 window#waybar {
     background-color: rgba(0, 0, 0, 0.4);
-    border: 0px solid @waybarcolor;
-    transition: background-color 0.5s;
+    border: 0px;
 }
 
 /* Workspaces Styles */
