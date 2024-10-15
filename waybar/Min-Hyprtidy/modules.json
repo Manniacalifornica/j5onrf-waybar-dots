@@ -131,8 +131,9 @@
   "custom/exit": {
     "format": "",
     "on-click": "wlogout",
-//    "on-click-right": "ags -t sidebar",
-"on-click-right": "ags -t notificationsmenu",
+//  "on-click-right": "ags -t sidebar",
+//  "on-click-right": "ags -t notificationsmenu",
+    "on-click-right": "com.ml4w.welcome",
     "tooltip": false
   },
 
