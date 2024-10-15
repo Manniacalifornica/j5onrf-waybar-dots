@@ -23,7 +23,6 @@
 /* Color Definitions */
 @define-color glyphbutton #333;  /* Color for Workspace Glyph default #333 */
 @define-color waybarcolor #FFF;        /* Color for Waybar default #FFF */
-@define-color hovercolor #44475A;        /* Color for Hover default #373737 */
 
 /* General Styles */
 * {
@@ -61,7 +60,6 @@ window#waybar {
 
 #workspaces button:hover {
     border-radius: 3px;
-    background: @hovercolor;
 }
 
 #workspaces button.empty {
@@ -73,7 +71,7 @@ window#waybar {
     padding: 0px 8px;
     color: #FFF;
     border-radius: 3px;
-    background: @hovercolor;
+    background: #373737;
 }
 
 #cpu:hover, 
@@ -83,19 +81,7 @@ window#waybar {
  {
     color: #FFF;
     border-radius: 3px;
-    background: @hovercolor;
-}
-
-/* Tooltip Styles */
-tooltip {
-    border-radius: 10px;
-    background-color: @waybarcolor;
-    opacity: 0.8;
-    padding: 20px;
-}
-
-tooltip label {
-    color: @glyphbutton;
+    background: #373737;
 }
 
 window#waybar.empty #window {
