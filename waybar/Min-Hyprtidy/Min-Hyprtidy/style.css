@@ -7,7 +7,7 @@
  *                 |___/                              |___/         
  *   ML4W
  * 2025 Min-Hyprtidy
- * ----------------------------------------------------- 
+ * -----------------------------------------------------  
 */
 
  /* Colors
@@ -17,6 +17,7 @@
 * #c5b69d;                             Light brown background color 
 * <Add more colors as needed>
 * #90ebd0;                             Mint green background color 
+* #21252B; #44475A                     Window#waybar background color 
 */
  
 /* Color Definitions */
@@ -67,7 +68,7 @@ window#waybar {
 
 /* Hover Styles */
 
-#clock:hover  {
+#clock:hover {
     padding: 0px 8px;
     color: #FFF;
     border-radius: 3px;
@@ -75,7 +76,10 @@ window#waybar {
 }
 
 #cpu:hover, 
-#memory:hover {
+#memory:hover,
+#custom-appmenu:hover,
+#custom-exit:hover
+ {
     color: #FFF;
     border-radius: 3px;
     background: #373737;
@@ -157,14 +161,12 @@ window#waybar.empty #window {
 
 /* Custom Module appmenu rofi */
 #custom-appmenu {
-
     color: @waybarcolor;
     margin: 0 0px 0 0px;
 }
 
 /* Custom Exit Styles wlogout */
 #custom-exit {
-
     margin: 0 0px 0 5px;
     color: @waybarcolor;
 }
