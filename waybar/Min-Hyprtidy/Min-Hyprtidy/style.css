@@ -17,12 +17,13 @@
 * #c5b69d;                             Light brown background color 
 * <Add more colors as needed>
 * #90ebd0;                             Mint green background color 
-* #21252B; #44475A                     Window#waybar background color 
+* #21252B; #44475A;                    Window#waybar background color 
 */
  
 /* Color Definitions */
-@define-color glyphbutton #333;  /* Color for Workspace Glyph */
-@define-color waybarcolor #FFF;        /* Color for Waybar */
+@define-color glyphbutton #21252B;  /* Color for Workspace Glyph defalt #333 */
+@define-color waybarcolor #FFF;        /* Color for Waybar default #FFF */
+@define-color hovercolor #44475A;        /* Color for Hover default #373737 */
 
 /* General Styles */
 * {
@@ -32,6 +33,7 @@
     margin: 0px;
 }
 
+/* default rgba(0, 0, 0, 0.4); */
 window#waybar {
     background-color: rgba(0, 0, 0, 0.4);
     border: 0px solid @waybarcolor;
@@ -60,6 +62,7 @@ window#waybar {
 
 #workspaces button:hover {
     border-radius: 3px;
+    background: @hovercolor;
 }
 
 #workspaces button.empty {
@@ -71,7 +74,7 @@ window#waybar {
     padding: 0px 8px;
     color: #FFF;
     border-radius: 3px;
-    background: #373737;
+    background: @hovercolor;
 }
 
 #cpu:hover, 
@@ -81,7 +84,7 @@ window#waybar {
  {
     color: #FFF;
     border-radius: 3px;
-    background: #373737;
+    background: @hovercolor;
 }
 
 /* Tooltip Styles */
