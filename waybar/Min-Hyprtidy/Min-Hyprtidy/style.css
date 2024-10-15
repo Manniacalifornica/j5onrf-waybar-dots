@@ -47,7 +47,7 @@ window#waybar {
 #workspaces button {
     border: none;
     margin: 0px;
-    padding: 0px 8px 0px 8px;
+    padding: 0px 8px;
     color: @waybarcolor;
 }
 
@@ -58,11 +58,28 @@ window#waybar {
 }
 
 #workspaces button:hover {
-    opacity: 0.0;
+    border-radius: 3px;
 }
 
 #workspaces button.empty {
     opacity: 0.0;
+}
+
+/* Hover Styles */
+
+#clock:hover  {
+    padding: 0px 8px;
+    color: #FFF;
+    border-radius: 3px;
+    background: #373737;
+}
+
+#cpu:hover, 
+#memory:hover {
+    border-radius: 3px;
+    color: #FFF;
+    border-radius: 3px;
+    background: #373737;
 }
 
 /* Tooltip Styles */
@@ -203,4 +220,3 @@ window#waybar.empty #window {
     -gtk-icon-effect: highlight;
     background-color: #eb4d4b;
 }
-
