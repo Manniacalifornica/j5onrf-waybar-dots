@@ -21,7 +21,7 @@
 */
  
 /* Color Definitions */
-@define-color glyphbutton #373737;  /* Color for Workspace Glyph default #333 */
+@define-color glyphbutton #333;  /* Color for Workspace Glyph default #333 */
 @define-color waybarcolor #FFF;        /* Color for Waybar default #FFF */
 @define-color hovercolor #44475A;        /* Color for Hover default #373737 */
 
