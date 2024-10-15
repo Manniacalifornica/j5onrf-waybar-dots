@@ -31,7 +31,7 @@
 		"title<.*Picture-in-Picture.*>": "",
 		"class<freetube>": "",
 		"class<gimp-2.10>": "",
-		"class<org.gnome.Weather>": "*",
+		"class<org.gnome.Weather>": "",
 		"class<io.missioncenter.MissionCenter>": "",
 		"class<firefox>": "",
 		"class<kitty>": "󰄛",
