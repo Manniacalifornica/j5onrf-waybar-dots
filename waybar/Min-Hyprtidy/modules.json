@@ -5,7 +5,7 @@
 // |_|  |_|\___/ \__,_|\__,_|_|\___||___/
 //
 //  ML4W
-// (2025) Min-Hyprtidy
+// (oct-2024) Min-Hyprtidy
 
 // Workspaces
 {
@@ -38,7 +38,6 @@
 		"class<org.gnome.Console>": "",
 		"class<alacritty>": "",
 		"class<brave-browser-beta>": "",	
-	//	"class<brave-browser-beta>": "",
 		"class<org.telegram.desktop|io.github.tdesktop_x64.TDesktop>": "<span font='12'></span>",
 		"class<[Ss]potify>": "<span font='12'> </span>",
 		"class<VSCode|code-url-handler>": "<span font='12'>󰨞</span>",
@@ -120,10 +119,11 @@
   // Rofi Application Launcher 󱄅  󱗼  󰣇
   "custom/appmenu": {
     "format": "",
- //   "on-click": "rofi -show drun -replace",
- //   "on-click": "ags -t dashboardmenu",
+ // "on-click": "rofi -show drun -replace",
+ // "on-click": "ags -t dashboardmenu",
     "on-click": "~/.config/rofi/bin/launcher",
- "on-click-right": "ags -t dashboardmenu",
+ // "on-click-right": "ags -t dashboardmenu",
+    "on-click-right": "~/.config/rofi/bin/launcher2",
     "tooltip": false
   },
 
@@ -131,9 +131,9 @@
   "custom/exit": {
     "format": "",
     "on-click": "wlogout",
-//  "on-click-right": "ags -t sidebar",
-//  "on-click-right": "ags -t notificationsmenu",
-    "on-click-right": "com.ml4w.welcome",
+//    "on-click-right": "ags -t sidebar",
+// "on-click-right": "ags -t notificationsmenu",
+   "on-click-right": "com.ml4w.welcome",
     "tooltip": false
   },
 
