@@ -77,7 +77,7 @@ bind = $mainMod CTRL, B,  # Toggle Waybar
 <p>
   
 (2024-oct) Reserved
-![Screenshot-2024-10-15_18:18:15](https://github.com/user-attachments/assets/e18c2432-733b-4981-b57b-ecbf479d3e6d)
+![Screenshot-2024-10-15_17:18:11](https://github.com/user-attachments/assets/a9f6f027-d185-43d8-83b4-eb2b10cc78c6)
 
 <details><summary>+ScreenShots</summary>
 <p>
