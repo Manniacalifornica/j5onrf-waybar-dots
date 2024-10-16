@@ -112,8 +112,7 @@ gruv
 ![Screenshot-2024-09-21_10:38:37](https://github.com/user-attachments/assets/a7af54b7-3288-4c38-8272-f217c2a3921d)
 ![Screenshot-2024-09-22_17:16:32](https://github.com/user-attachments/assets/2d673ff2-6801-4b40-a18b-cd171a85e8f9)
 
-</p>
-</details>
+
 
 <details><summary>Archived sep2024</summary>
 <p>
@@ -128,6 +127,7 @@ gruv
 ![Screenshot-2024-09-09_11:20:01](https://github.com/user-attachments/assets/54fa7009-d4e5-4306-845e-66c29e5c5067)
 
 </p>
+</details>
 </details>
 
 # Hypr<sup> / shots</sup>
