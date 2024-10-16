@@ -144,7 +144,7 @@ bind = $mainMod CTRL, B,  # Toggle Waybar
 
 [Screenshot Archive](https://github.com/j5onrf/dots/blob/main/waybar/Screenshot%20Archive/Screenshots.md)
 ```diff
-[Screenshot Archive](https://github.com/j5onrf/dots/blob/main/waybar/Screenshot%20Archive/Screenshots.md)
+https://github.com/j5onrf/dots/blob/main/waybar/Screenshot%20Archive/Screenshots.md
 ```
 
 </p>
