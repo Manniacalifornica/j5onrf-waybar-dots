@@ -1,6 +1,6 @@
+# Hyprpanel & Waybar<sup> / shots</sup> 
 
-
-(2024-oct13) Hyprpanel & Waybar
+(2024-oct13) 
 ![Screenshot-2024-10-14_12:16:28](https://github.com/user-attachments/assets/1e6238e0-3cda-4981-92ff-16d466da76e4)
 
 <details><summary>+ScreenShots</summary>
