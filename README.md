@@ -88,7 +88,7 @@ onedark-pixel
 everforest
 ![Screenshot-2024-10-16_14:28:16](https://github.com/user-attachments/assets/4b1fb625-b818-4f1b-97ee-dc3dbd0c34ed)
 gruv
-![Screenshot-2024-10-16_17:05:48](https://github.com/user-attachments/assets/225f62d5-0b34-4c95-82a6-62b08158a0bc)
+![Screenshot-2024-10-16_17:23:34](https://github.com/user-attachments/assets/e3832c87-3ed8-4bd0-9fe1-2258e80290f4)
 
 <details><summary>Archived oct2024</summary>
 <p>
