@@ -90,7 +90,7 @@ everforest
 gruv
 ![Screenshot-2024-10-16_17:23:34](https://github.com/user-attachments/assets/e3832c87-3ed8-4bd0-9fe1-2258e80290f4)
 
-<details><summary>Archived oct2024</summary>
+<details><summary>Archived</summary>
 <p>
 
 (2024-oct9) Min-Hyprclean 
