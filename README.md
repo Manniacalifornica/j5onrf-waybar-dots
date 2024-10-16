@@ -122,7 +122,7 @@ https://github.com/j5onrf/dots/blob/main/waybar/Screenshot%20Archive%202/Screens
 
 # Hypr<sup> / shots</sup>
 
-(2024-oct) Min-Hyprtidy [Rofi<sup>900</sup>-3](https://github.com/j5onrf/dots/tree/main/rofi/Rofi-900-3column)
+(2024-oct16) Min-Hyprtidy [Rofi<sup>900</sup>-3](https://github.com/j5onrf/dots/tree/main/rofi/Rofi-900-3column)
 ![Screenshot-2024-10-16_10:40:36](https://github.com/user-attachments/assets/8bbee93e-849d-4968-80a9-08d060623597)
 
 <details><summary>+ScreenShots</summary>
