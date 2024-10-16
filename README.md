@@ -125,7 +125,7 @@ https://github.com/j5onrf/dots/blob/main/waybar/Screenshot%20Archive%202/Screens
 <details><summary>+ScreenShots</summary>
 <p>
 
-[Screenshot Archive](https://github.com/j5onrf/dots/blob/main/waybar/Screenshot%20Archive/Screenshots.md)
+Hyprland [Screenshot Archive](https://github.com/j5onrf/dots/blob/main/waybar/Screenshot%20Archive/Screenshots.md)
 ```diff
 https://github.com/j5onrf/dots/blob/main/waybar/Screenshot%20Archive/Screenshots.md
 ```
