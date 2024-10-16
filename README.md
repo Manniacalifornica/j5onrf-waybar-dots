@@ -87,6 +87,9 @@ https://github.com/j5onrf/dots/blob/main/waybar/Screenshot%20Archive%202/Screens
 ![Screenshot-2024-10-16_14:28:16](https://github.com/user-attachments/assets/4b1fb625-b818-4f1b-97ee-dc3dbd0c34ed)
 ![Screenshot-2024-10-16_17:05:48](https://github.com/user-attachments/assets/225f62d5-0b34-4c95-82a6-62b08158a0bc)
 
+<details><summary>Archived oct2024</summary>
+<p>
+
 (2024-oct9) Min-Hyprclean 
 ![Screenshot-2024-10-09_08:59:42](https://github.com/user-attachments/assets/68e0ae88-b51d-46d4-8040-39a87f8578f4)
 
@@ -106,7 +109,10 @@ https://github.com/j5onrf/dots/blob/main/waybar/Screenshot%20Archive%202/Screens
 ![Screenshot-2024-09-21_10:38:37](https://github.com/user-attachments/assets/a7af54b7-3288-4c38-8272-f217c2a3921d)
 ![Screenshot-2024-09-22_17:16:32](https://github.com/user-attachments/assets/2d673ff2-6801-4b40-a18b-cd171a85e8f9)
 
-<details><summary>Archived</summary>
+</p>
+</details>
+
+<details><summary>Archived sep2024</summary>
 <p>
   
 [ml4w-min-j5][rubik-font] (2024-sep) [dots-released](https://github.com/j5onrf/dots/tree/main/waybar/ml4w-min-j5)
