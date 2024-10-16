@@ -16,8 +16,8 @@
 * #cba6f7;                             Bright magenta background color 
 * #c5b69d;                             Light brown background color 
 * <Add more colors as needed>
-* #90ebd0;                             Mint green background color 
-* #21252B; #44475A;                    Window#waybar background color 
+* #90ebd0; #83C092;                    Mint, green background color 
+
 */
  
 /* Color Definitions */
@@ -26,7 +26,7 @@
 
 /* General Styles */
 * {
-    font-family: "JetBrainsMono Nerd Font Propo", Helvetica, Arial, sans-serif;
+font-family: "JetBrainsMono Nerd Font Propo", Helvetica, Arial, sans-serif;
     border: none;
     border-radius: 0px;
     margin: 0px;
@@ -34,7 +34,7 @@
 
 /* default rgba(0, 0, 0, 0.4); */
 window#waybar {
-    background-color: rgba(0, 0, 0, 0.4);
+    background-color: rgba(0, 0, 0, 0.2);
     border: 0px;
 }
 
@@ -72,6 +72,7 @@ window#waybar {
     color: #FFF;
     border-radius: 3px;
     background: #373737;
+    transition-duration: .5s;
 }
 
 #cpu:hover, 
@@ -82,7 +83,10 @@ window#waybar {
     color: #FFF;
     border-radius: 3px;
     background: #373737;
+    transition-duration: .5s;
 }
+
+
 
 window#waybar.empty #window {
     background-color: transparent;
