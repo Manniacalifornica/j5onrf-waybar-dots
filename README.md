@@ -77,12 +77,13 @@ bind = $mainMod CTRL, B,  # Toggle Waybar
 <p>
   
 (2024-oct) Reserved
-![Screenshot-2024-10-13_19:17:09](https://github.com/user-attachments/assets/e1f33e52-70ef-46a6-9d44-4b2f7fadaf16)
+![Screenshot-2024-10-15_18:18:15](https://github.com/user-attachments/assets/e18c2432-733b-4981-b57b-ecbf479d3e6d)
 
 <details><summary>+ScreenShots</summary>
 <p>
   
 (2024-oct) Reserved
+![Screenshot-2024-10-13_19:17:09](https://github.com/user-attachments/assets/e1f33e52-70ef-46a6-9d44-4b2f7fadaf16)
 
 ```diff
 
