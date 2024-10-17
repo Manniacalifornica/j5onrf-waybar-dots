@@ -5,6 +5,12 @@
 
 <details><summary>+ScreenShots</summary>
 <p>
+
+(2024-oct14) Hyprpanel & Waybar rofi-900-3S Gruvbox
+![Screenshot-2024-10-17_07:54:15](https://github.com/user-attachments/assets/9e28148f-8c83-421d-bd8d-94086662c86f)
+
+<details><summary>+ScreenShots</summary>
+<p>
   
 (2024-oct)
 ![Screenshot-2024-10-15_17:18:11](https://github.com/user-attachments/assets/a9f6f027-d185-43d8-83b4-eb2b10cc78c6)
