@@ -24,7 +24,7 @@
 <details><summary>+ScreenShots</summary>
 <p>
   
-(2024-oct)
+(2024-oct) Nord
 ![Screenshot-2024-10-13_19:17:09](https://github.com/user-attachments/assets/e1f33e52-70ef-46a6-9d44-4b2f7fadaf16)
 
 ```diff
