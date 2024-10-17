@@ -6,7 +6,7 @@
 <details><summary>+ScreenShots</summary>
 <p>
 
-(2024-oct17) Hyprpanel & Waybar rofi-900-3S Gruvbox
+(2024-oct17) Hyprpanel & Waybar rofi-900-3 Gruvbox
 ![Screenshot-2024-10-17_07:54:15](https://github.com/user-attachments/assets/9e28148f-8c83-421d-bd8d-94086662c86f)
 
 <details><summary>+ScreenShots</summary>
