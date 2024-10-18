@@ -119,13 +119,13 @@ window#waybar.empty #window {
 
 /* Left-side App Tray Slider */
 #custom-settings {
-    margin-right: 15px;
+    margin-right: 10px;
     opacity: 0.0;
 }
 
 /* Right-side App Tray Slider */
 #custom-system {
-    margin-left: 8px;
+    margin-left: 0px;
     opacity: 0.0;
 }
 
