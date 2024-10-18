@@ -120,16 +120,14 @@ window#waybar.empty #window {
 /* Left-side App Tray Slider */
 #custom-settings {
     margin-right: 18px;
-    color: @waybarcolor;
-    font-size: 8px;
+    margin: 0px;
     opacity: 0.0;
 }
 
 /* Right-side App Tray Slider */
 #custom-system {
     margin-left: 8px;
-    font-size: 8px;
-    color: @waybarcolor;
+    margin: 0px;
     opacity: 0.0;
 }
 
