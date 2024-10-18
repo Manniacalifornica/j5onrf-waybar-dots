@@ -42,7 +42,6 @@
     "format": "{:%I:%M  %a%e}",
 //   "on-click": "ags -t calendar",
      "on-click": "ags -t calendarmenu",
-
      "on-click-right": "gapplication launch org.gnome.Weather",
     "tooltip": false
   },
