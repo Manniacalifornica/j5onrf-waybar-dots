@@ -105,7 +105,7 @@
   "custom/settings": {
     "format": "",
     "on-click": "~/.config/ml4w/apps/ML4W_Dotfiles_Settings-x86_64.AppImage",
-    "on-click-right": "~/.config/rofi/bin/launcher2",
+    "on-click-right": "~/.config/ml4w/apps/ML4W_Hyprland_Settings-x86_64.AppImage",
     "tooltip": false
   },
 
