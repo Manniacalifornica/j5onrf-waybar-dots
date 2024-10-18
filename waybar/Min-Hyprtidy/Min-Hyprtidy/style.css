@@ -17,7 +17,7 @@
 * #c5b69d;                             Light brown background color 
 * <Add more colors as needed>
 * #90ebd0; #83C092;                    Mint, green background color 
-
+* #21252B; #252529; #44475A;           Dark background colors
 */
  
 /* Color Definitions */
@@ -52,6 +52,7 @@ window#waybar {
     color: @waybarcolor;
 }
 
+/* Modern Futuristic 8px 18px; */
 #workspaces button.active {
     color: @glyphbutton;
     border-radius: 3px;
@@ -66,10 +67,24 @@ window#waybar {
     opacity: 0.0;
 }
 
+/* Module Styles */
+.modules-left > widget:first-child > #workspaces {
+    margin-left: 0;
+}
+
+.modules-right > widget:last-child > #workspaces {
+    margin-right: 0;
+} 
+
+/* window#waybar.empty */
+window#waybar.empty #window {
+    background-color: transparent;
+}
+
 /* Hover Styles */
 #clock:hover {
     padding: 0px 8px;
-    color: #FFF;
+    color: @waybarcolor;
     border-radius: 3px;
     background: #373737;
     transition-duration: .5s;
@@ -80,25 +95,10 @@ window#waybar {
 #custom-appmenu:hover,
 #custom-exit:hover
  {
-    color: #FFF;
+    color: @waybarcolor;
     border-radius: 3px;
     background: #373737;
     transition-duration: .5s;
-}
-
-
-
-window#waybar.empty #window {
-    background-color: transparent;
-}
-
-/* Module Styles */
-.modules-left > widget:first-child > #workspaces {
-    margin-left: 0;
-}
-
-.modules-right > widget:last-child > #workspaces {
-    margin-right: 0;
 }
 
 /* Custom Quicklinks Styles */
@@ -206,3 +206,4 @@ window#waybar.empty #window {
     -gtk-icon-effect: highlight;
     background-color: #eb4d4b;
 }
+
