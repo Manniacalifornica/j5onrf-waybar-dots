@@ -79,8 +79,8 @@ bind = $mainMod CTRL, B,  # Toggle Waybar
 <details><summary>+ScreenShots</summary>
 <p>
 
-(2024-oct17) Hyprpanel & Waybar rofi-900-3 Gruvbox Blur Effect
-![Screenshot-2024-10-17_07:54:15](https://github.com/user-attachments/assets/9e28148f-8c83-421d-bd8d-94086662c86f)
+(2024-oct16) Min-Hyprtidy [Rofi<sup>900</sup>-3](https://github.com/j5onrf/dots/tree/main/rofi/Rofi-900-3column)
+![Screenshot-2024-10-16_10:40:36](https://github.com/user-attachments/assets/8bbee93e-849d-4968-80a9-08d060623597)
 
 <details><summary>+ScreenShots</summary>
 <p>
@@ -150,9 +150,9 @@ gruv
 
 <details><summary>+ScreenShots</summary>
 <p>
-
-(2024-oct16) Min-Hyprtidy [Rofi<sup>900</sup>-3](https://github.com/j5onrf/dots/tree/main/rofi/Rofi-900-3column)
-![Screenshot-2024-10-16_10:40:36](https://github.com/user-attachments/assets/8bbee93e-849d-4968-80a9-08d060623597)
+  
+(2024-oct17) Hyprpanel & Waybar rofi-900-3 Gruvbox Blur Effect
+![Screenshot-2024-10-17_07:54:15](https://github.com/user-attachments/assets/9e28148f-8c83-421d-bd8d-94086662c86f)
 
 <details><summary>+ScreenShots</summary>
 <p>
