@@ -125,7 +125,7 @@ window#waybar.empty #window {
 
 /* Right-side App Tray Slider */
 #custom-system {
-    margin-left: 3px;
+    margin-left: 0px;
     opacity: 0.0;
 }
 
