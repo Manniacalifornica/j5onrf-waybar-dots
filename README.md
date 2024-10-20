@@ -96,7 +96,7 @@ https://github.com/j5onrf/dots/blob/main/waybar/Screenshot%20Archive%202/Screens
 
 (2024-oct14) Min-Hyprtidy [dots](https://github.com/j5onrf/dots/tree/main/waybar/Min-Hyprtidy) 
 ![Screenshot-2024-10-14_15:13:50](https://github.com/user-attachments/assets/48a256de-b979-49d9-8912-c2c4be1d33d0)
-![Screenshot-2024-10-20_16:08:27](https://github.com/user-attachments/assets/2f7861dc-4650-4f3b-9f51-7fee3ea10db6)
+![Screenshot-2024-10-20_16:11:53](https://github.com/user-attachments/assets/aba50692-115e-4a5e-bf8e-14c275535117)
 
 onedark-pixel
 ![Screenshot-2024-10-14_06:48:44](https://github.com/user-attachments/assets/29332da7-133b-427d-9d94-b57c46a039dd)
