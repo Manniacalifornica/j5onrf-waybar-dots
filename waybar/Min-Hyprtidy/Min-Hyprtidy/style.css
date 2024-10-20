@@ -34,7 +34,7 @@ font-family: "JetBrainsMono Nerd Font Propo", "Font Awesome 6 Free", Helvetica, 
 /* white rgba(255,255,255,0.1); */
 /* blk #000; */
 window#waybar {
-    background-color: #000;
+    background-color: rgba(0, 0, 0, 0.4);
     border: 0px;
 }
 
