@@ -65,7 +65,7 @@ window#waybar {
 #workspaces button.active {
     color: @waybarcolor;
     border-radius: 3px;
-    background: #373737;
+    background: #44475A;
 }
 
 #workspaces button:hover {
