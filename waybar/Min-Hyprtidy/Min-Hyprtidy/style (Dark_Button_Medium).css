@@ -189,7 +189,7 @@ window#waybar.empty #window {
     margin-right: 13px;
 }
 #pulseaudio.muted {
-    color: #FF0033;
+    color: #ed8796;
 }
 
 /* Network Styles */
