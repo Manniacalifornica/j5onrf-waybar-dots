@@ -32,7 +32,7 @@
 */
 
 * {
-font-family: "JetBrainsMono Nerd Font Propo", Helvetica, Arial, sans-serif;
+font-family: "JetBrainsMono Nerd Font Propo", "Font Awesome 6 Free", Helvetica, Arial, sans-serif;
     border: none;
     border-radius: 0px;
     margin: 0px;
@@ -61,10 +61,10 @@ window#waybar {
     color: @waybarcolor;
 }
 
-/* Modern Futuristic 8px 18px; */
+/* Modern Futuristic 8px 18px; default 3px; */
 #workspaces button.active {
     color: @waybarcolor;
-    border-radius: 3px;
+    border-radius: 8px 18px;
     background: #44475A;
 }
 
