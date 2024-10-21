@@ -57,7 +57,7 @@ window#waybar {
 #workspaces button {
     border: none;
     margin: 0px;
-    padding: 0px 10px;
+    padding: 0px 12px;
     color: @waybarcolor;
 }
 
