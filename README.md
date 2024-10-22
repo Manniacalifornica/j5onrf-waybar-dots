@@ -102,7 +102,7 @@ https://github.com/j5onrf/dots/blob/main/waybar/Screenshot%20Archive%202/Screens
 # Waybar
 
 (2024-oct22) Min-Blueberry [dots](https://github.com/j5onrf/dots/tree/main/waybar/Min-Blueberry)
-![Screenshot-2024-10-22_17:55:59](https://github.com/user-attachments/assets/f0196a1e-e472-4ec7-9e9e-13023fbac03a)
+![Screenshot-2024-10-22_18:10:23](https://github.com/user-attachments/assets/1678306d-1d1b-4a26-8fc8-e595b041e62b)
 (2024-oct14) Min-Hyprtidy
 ![Screenshot-2024-10-14_15:13:50](https://github.com/user-attachments/assets/48a256de-b979-49d9-8912-c2c4be1d33d0)
 onedark-pixel
