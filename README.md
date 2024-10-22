@@ -148,14 +148,14 @@ gruv
 
 # Hypr<sup> / shots</sup>
 
-(2024-oct16) Min-Hyprtidy [Rofi<sup>900</sup>-3S](https://github.com/j5onrf/dots/tree/main/rofi/Rofi-900-3column-Square)
-![Screenshot-2024-10-16_16:54:01](https://github.com/user-attachments/assets/d43ecee9-8332-4141-a372-1c10943f3856)
+(2024-oct21) Min-Blueberry [dots](https://github.com/j5onrf/dots/tree/main/waybar/Min-Blueberry)
+![Screenshot-2024-10-21_19:11:14](https://github.com/user-attachments/assets/05b1f993-8492-4535-99c2-1d3087f055b4)
 
 <details><summary>+ScreenShots</summary>
 <p>
-  
-(2024-oct17) Hyprpanel & Waybar rofi-900-3 Gruvbox Blur Effect
-![Screenshot-2024-10-17_07:54:15](https://github.com/user-attachments/assets/9e28148f-8c83-421d-bd8d-94086662c86f)
+
+(2024-oct16) Min-Hyprtidy [Rofi<sup>900</sup>-3S](https://github.com/j5onrf/dots/tree/main/rofi/Rofi-900-3column-Square)
+![Screenshot-2024-10-16_16:54:01](https://github.com/user-attachments/assets/d43ecee9-8332-4141-a372-1c10943f3856)
 
 <details><summary>+ScreenShots</summary>
 <p>
