@@ -101,7 +101,7 @@ https://github.com/j5onrf/dots/blob/main/waybar/Screenshot%20Archive%202/Screens
 
 # Waybar
 
-(2024-oct21) Min-Blueberry [dots-beta](https://github.com/j5onrf/dots/tree/main/waybar/Min-Blueberry) <img src="https://github.com/user-attachments/assets/af6a2c44-7c9c-43b9-95fd-10d46467914b" width="25" />
+(2024-oct21) Min-Blueberry🫐 [dots-beta](https://github.com/j5onrf/dots/tree/main/waybar/Min-Blueberry) <img src="https://github.com/user-attachments/assets/af6a2c44-7c9c-43b9-95fd-10d46467914b" width="25" />
 ![Screenshot-2024-10-21_16:33:34](https://github.com/user-attachments/assets/e2906b8a-689b-4180-a407-912ce013228d)
 ![Screenshot-2024-10-21_18:35:14](https://github.com/user-attachments/assets/be868460-f0f1-4038-bbf5-2a6006dad1a9)
 (2024-oct14) Min-Hyprtidy [dots](https://github.com/j5onrf/dots/tree/main/waybar/Min-Hyprtidy) 
@@ -155,7 +155,7 @@ gruv
 
 # Hypr<sup> / shots</sup>
 
-(2024-oct21) Min-Blueberry [Rofi<sup>900</sup>-3](https://github.com/j5onrf/dots/tree/main/rofi/Rofi-900-3column)
+(2024-oct21) Min-Blueberry🫐 [Rofi<sup>900</sup>-3](https://github.com/j5onrf/dots/tree/main/rofi/Rofi-900-3column)
 ![Screenshot-2024-10-21_19:14:11](https://github.com/user-attachments/assets/76f0cb88-c408-4e7d-83e3-89b5749d3cf7)
 
 <details><summary>+ScreenShots</summary>
