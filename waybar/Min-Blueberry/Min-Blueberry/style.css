@@ -53,6 +53,7 @@ window#waybar {
 }
 #workspaces button:hover {
     border-radius: 3px;
+    background: #373250;
 }
 #workspaces button.empty {
     opacity: 0.0;
