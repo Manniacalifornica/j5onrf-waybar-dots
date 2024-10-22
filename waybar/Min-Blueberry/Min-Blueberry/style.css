@@ -9,18 +9,10 @@
  * 2025 Min-Blueberry
  * -----------------------------------------------------  
 */
-
- /* Colors
-* #74c7ec; #69e8ff;                    Bright blue background color 
-* #cba6f7;                             Bright magenta background color 
-* #c5b69d;                             Light brown background color 
-* <Add more colors as needed>
-* #90ebd0; #83C092;                    Mint, green background color 
-*/
  
 /* Color Definitions */
-@define-color glyphbutton #FFF;  /* Color for Workspace Glyph default #333 */
-@define-color waybarcolor #BBBBFF;        /* Color for Waybar default #FFF */
+@define-color glyphbutton #FFF;  
+@define-color waybarcolor #BBBBFF;      
 
 /* General Styles */
 
@@ -149,7 +141,7 @@ window#waybar.empty #window {
 {
     color: @waybarcolor;
     margin-right: 23px;
-    font-size: 14px;
+    font-size: 18px;
 }
 
 /* Custom Module appmenu rofi */
@@ -167,7 +159,7 @@ window#waybar.empty #window {
 /* Custom Updates Styles */
 #custom-updates {
     color: @waybarcolor;
-    font-size: 14px;
+    font-size: 18px;
     margin-right: 20px;
 }
 #custom-updates.yellow {
@@ -198,7 +190,7 @@ window#waybar.empty #window {
 /* Network Styles */
 #network {
     color: @waybarcolor;
-    font-size: 14px;
+    font-size: 18px;
     margin: 0 20px 0 15px;
 }
 
@@ -213,4 +205,3 @@ window#waybar.empty #window {
     -gtk-icon-effect: highlight;
     background-color: #eb4d4b;
 }
-
