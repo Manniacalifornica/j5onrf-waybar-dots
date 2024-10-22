@@ -66,6 +66,20 @@
     "on-click-right": "com.ml4w.welcome",
     "tooltip": false
   },
+
+   // CPU
+  "cpu": {
+    "format": " {usage}% ",
+    "on-click": "~/.config/ml4w/settings/systeminfo.sh",
+    "tooltip": false
+  },
+  
+  // Memory
+  "memory": {
+    "format": " {used:0.1f} GB ",
+    "on-click": "~/.config/ml4w/settings/systeminfo.sh",
+    "tooltip": false
+  },
   
     // Modules Left
     "modules-left": [
