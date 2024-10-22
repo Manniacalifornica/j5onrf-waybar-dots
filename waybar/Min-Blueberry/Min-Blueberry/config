@@ -27,14 +27,14 @@
     // Pulseaudio
     "pulseaudio": {
         // "scroll-step": 1, // %, can be a float
-        "format": "                                                      <span font='13.5'>{icon}</span>{volume}",
+        "format": "                                                                 <span font='13.5'>{icon}</span>{volume}",
         "format-muted": " {volume}",
         "format-icons": {
         "default": [""]
         },
         "on-click": "pactl set-sink-mute @DEFAULT_SINK@ toggle",
         "on-click-right": "ags -t bar-0",
-        "format-muted": "                                                  <span font='13.5'>{icon}</span>{volume}",
+        "format-muted": "                                                             <span font='13.5'>{icon}</span>{volume}",
     },
     
       // Clock :%I:%M  %a%e  pm: %p
@@ -91,18 +91,19 @@
 
     // Modules Center
     "modules-center": [
-       "hyprland/window" 
-      //      "clock"
+       "hyprland/window"
+   //  "clock"
+   //  "custom/empty"
     ],
 
     // Modules Right    
     "modules-right": [  
         "pulseaudio",  
-        "custom/vpn",
-        "cpu",
-        "memory",
-        "clock",
-   //   "tray",     
+   //   "custom/vpn",
+   //   "cpu",
+   //   "memory",
+   //   "tray",  
+        "clock",   
         "group/hardware", 
         "custom/exit"
         

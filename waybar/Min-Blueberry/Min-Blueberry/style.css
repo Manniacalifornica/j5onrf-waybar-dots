@@ -88,6 +88,8 @@ window#waybar {
 /* hyprland/window */
 
 #window {
+    margin: 5px;
+    padding: 0px 10px;
     color: #BBBBFF;
     font-size:18px;
 }
@@ -97,7 +99,8 @@ window#waybar.empty #window {
 }
 
 /* Hover Styles */
-#clock:hover ,
+#window:hover,
+#clock:hover,
 #cpu:hover, 
 #memory:hover,
 #custom-appmenu:hover,
@@ -129,7 +132,7 @@ window#waybar.empty #window {
 
 /* Left-side App Tray Slider */
 #custom-settings {
-    margin-right: 13px;
+    margin-right: 12px;
     opacity: 0.0;
 }
 
@@ -144,6 +147,7 @@ window#waybar.empty #window {
 #custom-hyprshade,
 #custom-cliphist
 {
+    color: @waybarcolor;
     margin-right: 23px;
     font-size: 14px;
 }
@@ -162,6 +166,7 @@ window#waybar.empty #window {
 
 /* Custom Updates Styles */
 #custom-updates {
+    color: @waybarcolor;
     font-size: 14px;
     margin-right: 20px;
 }
@@ -173,7 +178,6 @@ window#waybar.empty #window {
 }
 
 /* Clock Styles */
-
 #cpu, #memory, #clock  {
     margin: 5px;
     color: @waybarcolor;
@@ -193,6 +197,7 @@ window#waybar.empty #window {
 
 /* Network Styles */
 #network {
+    color: @waybarcolor;
     font-size: 14px;
     margin: 0 20px 0 15px;
 }
@@ -201,11 +206,9 @@ window#waybar.empty #window {
 #tray {
     margin: 0 15px 0 5px;
 }
-
 #tray > .passive {
     -gtk-icon-effect: dim;
 }
-
 #tray > .needs-attention {
     -gtk-icon-effect: highlight;
     background-color: #eb4d4b;
