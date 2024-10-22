@@ -6,7 +6,7 @@
  *    \_/\_/ \__,_|\__, |_.__/ \__,_|_|    |____/ \__|\__, |_|\___| 
  *                 |___/                              |___/         
  *   ML4W
- * 22-10-2024 Min-Blueberry
+ * 2025 Min-Blueberry
  * -----------------------------------------------------  
 */
  
@@ -40,24 +40,20 @@ window#waybar {
     margin-top: 3px;
     font-size: 20px;
 }
-
 #workspaces button {
     margin: 0px;
     padding: 2px 15px;
     color: @waybarcolor;
     border-bottom: 3px solid #14131D;;
 }
-
 #workspaces button.active {
     color: @waybarcolor;
     border-radius: 5px;
     border-bottom: 3px solid #BBBBFF;
 }
-
 #workspaces button:hover {
     border-radius: 3px;
 }
-
 #workspaces button.empty {
     opacity: 0.0;
 }
@@ -66,7 +62,6 @@ window#waybar {
 .modules-left > widget:first-child > #workspaces {
     margin-left: 0;
 }
-
 .modules-right > widget:last-child > #workspaces {
     margin-right: 0;
 } 
@@ -78,7 +73,6 @@ window#waybar {
     color: #BBBBFF;
     font-size:18px;
 }
-
 window#waybar.empty #window {
     background-color: transparent;
 }
