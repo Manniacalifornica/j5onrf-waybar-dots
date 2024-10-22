@@ -5,7 +5,7 @@
 // |_|  |_|\___/ \__,_|\__,_|_|\___||___/
 //
 //  ML4W
-// (2025) Min-Blueberry
+// (2025) Min-Hyprtidy
 
 // Workspaces
 {
@@ -20,7 +20,7 @@
 	"on-scroll-down": "hyprctl dispatch workspace e+1",
      // "format": "{icon} {windows}",
 	"format": "{windows}",  
-	"persistent-workspaces": {"*": 17},
+	"persistent-workspaces": {"*": 19},
 	"format-window-separator": " ",
 	"window-rewrite-default": "",
 	"window-rewrite": {
@@ -38,7 +38,8 @@
 		"class<org.gnome.Console>": "",
 		"class<alacritty>": "",
                 "class<brave-browser-beta>": "",
-	      //  "class<brave-browser-beta>": "",
+	     // "class<brave-browser-beta>": "",
+	     // "class<brave-browser-beta>": "",
 		"class<org.telegram.desktop|io.github.tdesktop_x64.TDesktop>": "<span font='12'></span>",
 		"class<[Ss]potify>": "<span font='12'> </span>",
 		"class<VSCode|code-url-handler>": "<span font='12'>󰨞</span>",
@@ -50,13 +51,14 @@
 		"class<org.gnome.TextEditor>": "",
 		"class<com.obsproject.Studio>": "",
 		"class<polkit-gnome-authentication-agent-1>": "󰒃",
-		"class<nwg-look>": ""
+		"class<nwg-look>": "",
+		"class<vlc>": "󰕼"
 		}   
   },
 
-  // Hyprland Window
+   // Hyprland Window
   "hyprland/window": {
-    "format": "{title:.50}",
+    "format": "{title:.60}",
     "rewrite": {
       "(.*) - Brave": "$1",
       "(.*) - Chromium": "$1",
@@ -67,7 +69,7 @@
 
   // Empty
   "custom/empty": {
-    "format": ""
+    "format": "~"
   },
 
   // Cliphist
@@ -194,7 +196,7 @@
       "children-class": "not-memory",
       "transition-left-to-right": false
     },
-    "modules": ["custom/system","network","custom/updates","custom/hyprshade","custom/cliphist","tray"]
+    "modules": ["custom/system","cpu","memory","network","custom/updates","custom/hyprshade","custom/cliphist","tray"]
   },
 
   // Group Settings
