@@ -51,7 +51,6 @@ window#waybar {
     border-bottom: 3px solid #14131D;;
 }
 
-/* Modern Futuristic 8px 18px; default 3px; */
 #workspaces button.active {
     color: @waybarcolor;
     border-radius: 5px;
