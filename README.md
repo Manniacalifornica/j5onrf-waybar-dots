@@ -148,8 +148,8 @@ gruv
 
 # Hypr<sup> / shots</sup>
 
-(2024-oct21) Min-Blueberry [.'s](https://github.com/j5onrf/dots/tree/main/waybar/Min-Blueberry)
-![Screenshot-2024-10-21_19:11:14](https://github.com/user-attachments/assets/05b1f993-8492-4535-99c2-1d3087f055b4)
+(2024-oct21) Min-Blueberry [Rofi<sup>900</sup>-3](https://github.com/j5onrf/dots/tree/main/rofi/Rofi-900-3column)
+![Screenshot-2024-10-21_19:14:11](https://github.com/user-attachments/assets/76f0cb88-c408-4e7d-83e3-89b5749d3cf7)
 
 <details><summary>+ScreenShots</summary>
 <p>
