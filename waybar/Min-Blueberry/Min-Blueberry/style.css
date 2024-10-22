@@ -44,7 +44,7 @@ window#waybar {
     margin: 0px;
     padding: 2px 15px;
     color: @waybarcolor;
-    border-bottom: 3px solid #14131D;;
+    border-bottom: 3px solid #14131D;
 }
 #workspaces button.active {
     color: @waybarcolor;
