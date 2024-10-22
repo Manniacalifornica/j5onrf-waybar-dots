@@ -148,7 +148,7 @@ gruv
 
 # Hypr<sup> / shots</sup>
 
-(2024-oct21) Min-Blueberry [dots](https://github.com/j5onrf/dots/tree/main/waybar/Min-Blueberry)
+(2024-oct21) Min-Blueberry [.'s](https://github.com/j5onrf/dots/tree/main/waybar/Min-Blueberry)
 ![Screenshot-2024-10-21_19:11:14](https://github.com/user-attachments/assets/05b1f993-8492-4535-99c2-1d3087f055b4)
 
 <details><summary>+ScreenShots</summary>
