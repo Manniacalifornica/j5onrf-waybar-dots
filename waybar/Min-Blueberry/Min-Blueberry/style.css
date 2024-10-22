@@ -11,8 +11,8 @@
 */
  
 /* Color Definitions */
-@define-color glyphbutton #FFF;  
-@define-color waybarcolor #BBBBFF;      
+@define-color glyphbutton #FFF;
+@define-color waybarcolor #BBBBFF;
 
 /* General Styles */
 
@@ -78,7 +78,6 @@ window#waybar {
 } 
 
 /* hyprland/window */
-
 #window {
     margin: 5px;
     padding: 0px 10px;
@@ -111,14 +110,14 @@ window#waybar.empty #window {
 #custom-quicklink4,
 #custom-waybarthemes {
     margin-right: 15px;
-    font-size: 18px;
+    font-size: 20px;
     color: @waybarcolor;
 }
 
 /* Quicklinks Wallpaper */
 #custom-wallpaper {
     margin-right: 5px;
-    font-size: 18px;
+    font-size: 20px;
     color: @waybarcolor;
 }
 
