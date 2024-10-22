@@ -41,6 +41,7 @@
 	     // "class<brave-browser-beta>": "",
 	     // "class<brave-browser-beta>": "",
 	        "class<brave-browser-beta>": "",
+		"class<brave-browser>": "",
 		"class<org.telegram.desktop|io.github.tdesktop_x64.TDesktop>": "<span font='12'></span>",
 		"class<[Ss]potify>": "<span font='12'> </span>",
 		"class<VSCode|code-url-handler>": "<span font='12'>󰨞</span>",
