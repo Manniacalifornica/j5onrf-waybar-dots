@@ -69,7 +69,7 @@
 
   // Empty
   "custom/empty": {
-    "format": "~"
+    "format": ""
   },
 
   // Cliphist
