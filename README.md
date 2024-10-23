@@ -154,7 +154,7 @@ gruv
 
 # Hypr<sup> / shots</sup>
 
-(2024-oct23) Min-Blueberry🫐 Brave Glyph
+(2024-oct23) Min-Blueberry🫐 [Brave glyph](https://github.com/j5onrf/dots/tree/main/waybar/Min-Blueberry/Experimental%20Brave%20Icon%20Glyph)
 ![Screenshot-2024-10-22_20:04:14](https://github.com/user-attachments/assets/43211573-c583-4aa0-bc64-386ead160a2d)
 
 (2024-oct21) Min-Blueberry🫐 [Rofi<sup>900</sup>-3](https://github.com/j5onrf/dots/tree/main/rofi/Rofi-900-3column)
