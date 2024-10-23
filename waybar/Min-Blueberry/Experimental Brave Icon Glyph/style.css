@@ -31,7 +31,6 @@ Set system default font in gtk-settings
 * {
     border: 0px;
     border-radius: 0px;
-    font-weight: 500;
 }
 
 window#waybar {
