@@ -155,15 +155,9 @@ gruv
 
 # Hypr<sup> / shots</sup>
 
-(2024-oct23) Min-Blueberry🫐 [Floating bar](https://github.com/j5onrf/dots/tree/main/waybar/Min-Blueberry/Experimental%20Brave%20Icon%20Glyph/Floating-Bar
-)
+(2024-oct23) Min-Blueberry🫐 [floating<sup> bar</sup>](https://github.com/j5onrf/dots/tree/main/waybar/Min-Blueberry/Experimental%20Brave%20Icon%20Glyph/Floating-Bar
+) [brave<sup> glyph</sup>](https://github.com/j5onrf/dots/tree/main/waybar/Min-Blueberry/Experimental%20Brave%20Icon%20Glyph)
 ![Screenshot-2024-10-23_11:18:33](https://github.com/user-attachments/assets/390de971-96d3-4c53-831c-59a5610f5279)
-
-<details><summary>+ScreenShots</summary>
-<p>
-
-(2024-oct23) Min-Blueberry🫐 [Brave glyph](https://github.com/j5onrf/dots/tree/main/waybar/Min-Blueberry/Experimental%20Brave%20Icon%20Glyph)
-![Screenshot-2024-10-22_20:04:14](https://github.com/user-attachments/assets/43211573-c583-4aa0-bc64-386ead160a2d)
 
 <details><summary>+ScreenShots</summary>
 <p>
