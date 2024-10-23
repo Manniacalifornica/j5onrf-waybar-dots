@@ -41,11 +41,14 @@ window#waybar {
 }
 
 /* Workspaces Styles */
-/* Experimental */
+/* Experimental
+change font-weight to desired icons style
+*/
 #workspaces {
     font-family: "Font Awesome 6 Brands", "Font Awesome 6 Free", "JetBrainsMono Nerd Font Propo";
     margin-top: 3px;
     font-size: 21px;
+    font-weight: 500;
 }
 #workspaces button {
     margin: 0px;
