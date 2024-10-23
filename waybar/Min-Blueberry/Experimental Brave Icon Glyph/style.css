@@ -41,10 +41,7 @@ window#waybar {
 }
 
 /* Workspaces Styles */
-/* Experimental
-choose between nerdfont style icons or fontawesome
-font-family: "Font Awesome 6 Brands", "JetBrainsMono Nerd Font Propo";
-*/
+/* Experimental */
 #workspaces {
     font-family: "Font Awesome 6 Brands", "Font Awesome 6 Free", "JetBrainsMono Nerd Font Propo";
     margin-top: 3px;
