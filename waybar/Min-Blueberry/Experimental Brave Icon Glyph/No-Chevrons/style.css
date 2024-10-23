@@ -92,9 +92,7 @@ window#waybar.empty #window {
 #window:hover,
 #clock:hover,
 #cpu:hover, 
-#memory:hover,
-#custom-appmenu:hover,
-#custom-exit:hover
+#memory:hover
  {
     color: @waybarcolor;
     border-radius: 5px;
