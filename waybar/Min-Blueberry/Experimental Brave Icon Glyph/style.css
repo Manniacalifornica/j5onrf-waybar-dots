@@ -121,7 +121,7 @@ window#waybar.empty #window {
 
 /* Left-side App Tray Slider */
 #custom-settings {
-    margin-right: 12px;
+    margin-right: 10px;
     opacity: 0.0;
 }
 
