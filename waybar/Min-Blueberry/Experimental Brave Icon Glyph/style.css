@@ -46,7 +46,7 @@ change font-weight to desired icons style
 #workspaces {
     font-family: "Font Awesome 6 Brands", "Font Awesome 6 Free", "JetBrainsMono Nerd Font Propo";
     margin-top: 3px;
-    font-size: 20px;
+    font-size: 21px;
     font-weight: 600;
 }
 #workspaces button {
