@@ -160,6 +160,12 @@ gruv
 <details><summary>+ScreenShots</summary>
 <p>
 
+(2024-oct23) Min-Blueberry🫐 Brave Glyph Icon Working
+![Screenshot-2024-10-22_20:04:14](https://github.com/user-attachments/assets/43211573-c583-4aa0-bc64-386ead160a2d)
+
+<details><summary>+ScreenShots</summary>
+<p>
+
 Hyprland [Screenshot Archive](https://github.com/j5onrf/dots/blob/main/waybar/Screenshot%20Archive/Screenshots.md)
 ```diff
 https://github.com/j5onrf/dots/blob/main/waybar/Screenshot%20Archive/Screenshots.md
