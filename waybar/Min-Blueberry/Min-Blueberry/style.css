@@ -50,6 +50,7 @@ window#waybar {
     color: @waybarcolor;
     border-radius: 5px;
     border-bottom: 3px solid #BBBBFF;
+/*  background: #373250; */
 }
 #workspaces button:hover {
     border-radius: 3px;
