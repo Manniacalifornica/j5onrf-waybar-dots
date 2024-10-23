@@ -41,6 +41,9 @@ window#waybar {
 }
 
 /* Workspaces Styles */
+/* Experimental
+font-family: "Font Awesome 6 Brands", "JetBrainsMono Nerd Font Propo";
+*/
 #workspaces {
     font-family: "Font Awesome 6 Brands", "Font Awesome 6 Free", "JetBrainsMono Nerd Font Propo";
     margin-top: 3px;
@@ -200,4 +203,3 @@ window#waybar.empty #window {
     -gtk-icon-effect: highlight;
     background-color: #eb4d4b;
 }
-
