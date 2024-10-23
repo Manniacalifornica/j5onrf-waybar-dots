@@ -155,7 +155,8 @@ gruv
 
 # Hypr<sup> / shots</sup>
 
-(2024-oct23) Min-Blueberry🫐 Floating bar
+(2024-oct23) Min-Blueberry🫐 [Floating bar](https://github.com/j5onrf/dots/tree/main/waybar/Min-Blueberry/Experimental%20Brave%20Icon%20Glyph/Floating-Bar
+)
 ![Screenshot-2024-10-23_11:18:33](https://github.com/user-attachments/assets/390de971-96d3-4c53-831c-59a5610f5279)
 
 <details><summary>+ScreenShots</summary>
