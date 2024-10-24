@@ -163,7 +163,7 @@ gruv
 <details><summary>+ScreenShots</summary>
 <p>
 
-(2024-oct23) Blueberry🫐 htop-pywal [btop<sup> theme</sup>](https://github.com/j5onrf/dots/blob/main/extras/btop/Blueberry.theme)
+(2024-oct24) Blueberry🫐 htop-pywal [btop<sup> theme</sup>](https://github.com/j5onrf/dots/blob/main/extras/btop/Blueberry.theme)
 ![Screenshot-2024-10-24_09:44:45](https://github.com/user-attachments/assets/8859a9df-215a-49a9-b291-a4cc2169751b)
 
 <details><summary>+ScreenShots</summary>
