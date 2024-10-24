@@ -55,9 +55,9 @@
 </p>
 </details>
 
-# Hyprpanel
+# HyprPanel
 
-(2024-oct1) Starting off oct trying out [Hyprpanel](https://www.reddit.com/r/unixporn/comments/1frzwbx/hyprland_hyprpanel_w_25_new_themes_20_prebuilt/#lightbox)
+(2024-oct1) Starting off oct trying out [HyprPanel](https://www.reddit.com/r/unixporn/comments/1frzwbx/hyprland_hyprpanel_w_25_new_themes_20_prebuilt/#lightbox)
 ![Screenshot-2024-10-01_08:57:24](https://github.com/user-attachments/assets/17ae8b9c-26aa-496e-a6cc-f37e825035fe)
 ![Screenshot-2024-10-13_19:29:15](https://github.com/user-attachments/assets/7d1e3588-cb0e-48ab-825a-601d947211f3)
 
@@ -65,7 +65,7 @@
 <p>
 
 ```
-ags -t bar-0  # Toggle Hyprpanel
+ags -t bar-0  # Toggle HyprPanel
 bind = $mainMod CTRL, B,  # Toggle Waybar
 ```
 
@@ -73,7 +73,7 @@ bind = $mainMod CTRL, B,  # Toggle Waybar
 
 </details>
 
-(2024-oct14) Hyprpanel & Waybar
+(2024-oct14) HyprPanel & Waybar
 ![Screenshot-2024-10-14_08:10:15](https://github.com/user-attachments/assets/ba04a317-20d5-4411-a14f-a8c9f577b426)
 
 <details><summary>+ScreenShots</summary>
@@ -91,7 +91,7 @@ bind = $mainMod CTRL, B,  # Toggle Waybar
 <details><summary>+ScreenShots</summary>
 <p>
   
-Hyprpanel & Waybar [Screenshot Archive](https://github.com/j5onrf/dots/blob/main/waybar/Screenshot%20Archive%202/Screenshots2.md)
+HyprPanel & Waybar [Screenshot Archive](https://github.com/j5onrf/dots/blob/main/waybar/Screenshot%20Archive%202/Screenshots2.md)
 ```diff
 https://github.com/j5onrf/dots/blob/main/waybar/Screenshot%20Archive%202/Screenshots2.md
 ```
