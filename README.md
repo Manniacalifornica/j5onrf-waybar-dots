@@ -103,7 +103,7 @@ https://github.com/j5onrf/dots/blob/main/waybar/Screenshot%20Archive%202/Screens
 
 (2024-oct22) Min-Blueberry [dots](https://github.com/j5onrf/dots/tree/main/waybar/Min-Blueberry)
 ![Screenshot-2024-10-22_18:10:23](https://github.com/user-attachments/assets/1678306d-1d1b-4a26-8fc8-e595b041e62b)
-[floating](https://github.com/j5onrf/dots/tree/main/waybar/Min-Blueberry/Experimental%20Brave%20Icon%20Glyph/Floating-Bar) [btop](https://github.com/j5onrf/dots/blob/main/extras/btop/Screenshot-2024-10-24_12%3A09%3A11.png)
+[floating](https://github.com/j5onrf/dots/tree/main/waybar/Min-Blueberry/Experimental%20Brave%20Icon%20Glyph/Floating-Bar) [btop](https://github.com/j5onrf/dots/blob/main/extras/btop/Screenshot-2024-10-24_12%3A08%3A06.png)
 ![Screenshot-2024-10-23_11:08:38](https://github.com/user-attachments/assets/aec7baec-f876-4df5-979d-0e32bb479380)
 (2024-oct14) Min-Hyprtidy [dots](https://github.com/j5onrf/dots/tree/main/waybar/Min-Hyprtidy)
 ![Screenshot-2024-10-14_15:13:50](https://github.com/user-attachments/assets/48a256de-b979-49d9-8912-c2c4be1d33d0)
@@ -157,7 +157,7 @@ gruv
 # Hypr<sup> / shots</sup>
 
 (2024-oct23) Min-Blueberry🫐 [floating<sup> bar</sup>](https://github.com/j5onrf/dots/tree/main/waybar/Min-Blueberry/Experimental%20Brave%20Icon%20Glyph/Floating-Bar
-) [brave<sup> glyph</sup>](https://github.com/j5onrf/dots/blob/main/waybar/Min-Blueberry/Experimental%20Brave%20Icon%20Glyph/Screenshot-2024-10-22_19%3A58%3A07.png) [no<sup> chevrons</sup>](https://github.com/j5onrf/dots/blob/main/waybar/Min-Blueberry/Experimental%20Brave%20Icon%20Glyph/No-Chevrons/Screenshot-2024-10-23_14%3A38%3A08.png) [button<sup> style2</sup>](https://github.com/j5onrf/dots/blob/main/waybar/Min-Blueberry/Experimental%20Brave%20Icon%20Glyph/Thin-Border-Buttons/Screenshot-2024-10-23_16%3A32%3A11.png) [btop<sup> .theme</sup>](https://github.com/j5onrf/dots/blob/main/extras/btop/Screenshot-2024-10-24_12%3A09%3A11.png)
+) [brave<sup> glyph</sup>](https://github.com/j5onrf/dots/blob/main/waybar/Min-Blueberry/Experimental%20Brave%20Icon%20Glyph/Screenshot-2024-10-22_19%3A58%3A07.png) [no<sup> chevrons</sup>](https://github.com/j5onrf/dots/blob/main/waybar/Min-Blueberry/Experimental%20Brave%20Icon%20Glyph/No-Chevrons/Screenshot-2024-10-23_14%3A38%3A08.png) [button<sup> style2</sup>](https://github.com/j5onrf/dots/blob/main/waybar/Min-Blueberry/Experimental%20Brave%20Icon%20Glyph/Thin-Border-Buttons/Screenshot-2024-10-23_16%3A32%3A11.png) [btop<sup> .theme</sup>](https://github.com/j5onrf/dots/blob/main/extras/btop/Screenshot-2024-10-24_12%3A08%3A06.png)
 ![Screenshot-2024-10-23_11:18:33](https://github.com/user-attachments/assets/390de971-96d3-4c53-831c-59a5610f5279)
 
 <details><summary>+ScreenShots</summary>
