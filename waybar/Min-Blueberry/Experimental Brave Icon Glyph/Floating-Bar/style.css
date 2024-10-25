@@ -138,11 +138,17 @@ window#waybar.empty #window {
 
 /* Clipboard Manager */
 /* Screen Shader */
-#custom-hyprshade,
-#custom-cliphist
-{
+#custom-hyprshade {
     color: @waybarcolor;
     margin: 5px 0px;
+    padding: 0px 15px;
+    font-size: 18px;
+}
+
+#custom-cliphist {
+    color: @waybarcolor;
+    margin: 5px 8px 5px 0px;
+    padding: 0px 15px;
     font-size: 18px;
 }
 
@@ -193,7 +199,8 @@ window#waybar.empty #window {
 #network {
     color: @waybarcolor;
     font-size: 18px;
-    margin: 5px;
+    margin: 5px 0px;
+    padding: 0px 15px;
 }
 
 /* Tray Styles */
@@ -219,4 +226,3 @@ tooltip {
 tooltip label {
     color: @waybarcolor;
 }
-
