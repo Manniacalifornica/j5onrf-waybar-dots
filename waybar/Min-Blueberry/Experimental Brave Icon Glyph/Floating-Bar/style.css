@@ -21,8 +21,11 @@ You need to download FontAwesome "Font Awesome 6 Brands"
 */
 
 * {
+    font-family: "JetBrainsMono Nerd Font Propo", "Font Awesome 6 Free";
     border: 0px;
     border-radius: 0px;
+    font-size: 28px;
+    font-weight: 600;
 }
 
 window#waybar {
@@ -33,10 +36,7 @@ window#waybar {
 
 /* Workspaces Styles */
 #workspaces {
-    font-family: "Font Awesome 6 Brands", "Font Awesome 6 Free", "JetBrainsMono Nerd Font Propo";
     margin-top: 3px;
-    font-size: 28px;
-    font-weight: 600;
 }
 #workspaces button {
     margin: 0px;
