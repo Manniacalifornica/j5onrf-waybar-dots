@@ -18,7 +18,7 @@
 /* 
 Brave Icon Glyph Working in workspaces []
 You need to download FontAwesome "Font Awesome 6 Brands"
-If you dont want the brave icon you can just ignore it
+If you dont want the brave icon you can just ignore this
 */
 
 * {
@@ -37,7 +37,7 @@ window#waybar {
 /* Workspaces Styles */
 #workspaces {
     margin-top: 3px;
-    font-size: 21px;
+    font-size: 20px;
 }
 #workspaces button {
     margin: 0px;
@@ -108,7 +108,7 @@ window#waybar.empty #window {
 #custom-quicklink4,
 #custom-waybarthemes {
     margin: 5px 0px;
-    font-size: 21px;
+    font-size: 20px;
     color: @waybarcolor;
 }
 
@@ -116,14 +116,14 @@ window#waybar.empty #window {
 #custom-quicklink1{
     margin: 5px 0px;
     padding: 0px 5px;
-    font-size: 21px;
+    font-size: 20px;
     color: @waybarcolor;
 }
 
 /* Quicklinks Wallpaper */
 #custom-wallpaper {
     margin: 5px 0px;
-    font-size: 21px;
+    font-size: 20px;
     color: @waybarcolor;
 }
 
@@ -170,7 +170,7 @@ window#waybar.empty #window {
 /* Custom Updates Styles */
 #custom-updates {
     color: @waybarcolor;
-    font-size: 21px;
+    font-size: 20px;
     margin: 5px 0px;
     padding: 0px 13px;
 }
