@@ -7,8 +7,8 @@
 
 name: "blueberry-v2"
 theme[main_bg]="#14131d"
-theme[main_fg]="#b8b8ff"
-theme[title]="#b8b8ff"
+theme[main_fg]="#BBBBFF"
+theme[title]="#BBBBFF"
 theme[hi_fg]="#beddff" 
 theme[selected_bg]="#3b3854" 
 theme[selected_fg]="#beddff"
@@ -48,5 +48,4 @@ theme[upload_end]="#ffa588"
 theme[process_start]="#88ffff"
 theme[process_mid]="#beddff"
 theme[process_end]="#e7c5ff"
-
 
