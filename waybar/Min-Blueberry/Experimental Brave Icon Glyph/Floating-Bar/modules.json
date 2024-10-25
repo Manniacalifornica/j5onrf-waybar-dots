@@ -60,7 +60,7 @@
 
    // Hyprland Window
   "hyprland/window": {
-    "format": "{title:.60}",
+    "format": "{title:.50}",
     "rewrite": {
       "(.*) - Brave": "$1",
       "(.*) - Chromium": "$1",
