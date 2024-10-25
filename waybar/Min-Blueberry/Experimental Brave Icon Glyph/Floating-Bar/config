@@ -27,7 +27,7 @@
     // Pulseaudio
     "pulseaudio": {
         // "scroll-step": 1, // %, can be a float
-        "format": "                                        <span font='13.5'>{icon}</span>{volume}",
+        "format": "                                                                  <span font='13.5'>{icon}</span>{volume}",
         "format-muted": " {volume}",
         "format-icons": {
     //  "default": ["󰕿", "󰕾", "󰕾"]
@@ -35,7 +35,7 @@
         },
         "on-click": "pactl set-sink-mute @DEFAULT_SINK@ toggle",
         "on-click-right": "ags -t bar-0",
-        "format-muted": "                                        <span font='13.5'>{icon}</span>{volume}",
+        "format-muted": "                                                                  <span font='13.5'>{icon}</span>{volume}",
     },
     
       // Clock :%I:%M  %a%e  pm: %p
@@ -94,7 +94,7 @@
     "modules-center": [
        "hyprland/window"
    //  "clock"
-   //  "custom/empty"
+    // "custom/empty"
     ],
 
     // Modules Right    
@@ -106,7 +106,6 @@
    //   "tray",  
         "clock",   
         "group/hardware", 
-        "custom/exit"
-        
+        "custom/exit"    
     ]
 }
