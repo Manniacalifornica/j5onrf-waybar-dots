@@ -35,7 +35,7 @@ font-size: 20px-21px-28px; defaults
     font-family: "JetBrainsMono Nerd Font Propo", "Font Awesome 6 Free";
     border: 0px;
     border-radius: 0px;
-    font-weight: 600;
+    font-weight: 400;
 }
 window#waybar {
     background-color: #14131D;
