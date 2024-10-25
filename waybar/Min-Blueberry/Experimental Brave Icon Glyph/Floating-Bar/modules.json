@@ -20,7 +20,7 @@
 	"on-scroll-down": "hyprctl dispatch workspace e+1",
      // "format": "{icon} {windows}",
 	"format": "{windows}",  
-	"persistent-workspaces": {"*": 17},
+	"persistent-workspaces": {"*": 15},
 	"format-window-separator": " ",
 	"window-rewrite-default": "",
 	"window-rewrite": {
@@ -37,11 +37,11 @@
 		"class<kitty>": "󰄛",
 		"class<org.gnome.Console>": "",
 		"class<alacritty>": "",
-            //  "class<brave-browser-beta>": "",
+             // "class<brave-browser-beta>": "",
 	     // "class<brave-browser-beta>": "",
 	     // "class<brave-browser-beta>": "",
 	        "class<brave-browser-beta>": "",
-		"class<brave-browser>": "",
+	        "class<brave-browser": "",
 		"class<org.telegram.desktop|io.github.tdesktop_x64.TDesktop>": "<span font='12'></span>",
 		"class<[Ss]potify>": "<span font='12'> </span>",
 		"class<VSCode|code-url-handler>": "<span font='12'>󰨞</span>",
@@ -60,7 +60,7 @@
 
    // Hyprland Window
   "hyprland/window": {
-    "format": "{title:.50}",
+    "format": "{title:}",
     "rewrite": {
       "(.*) - Brave": "$1",
       "(.*) - Chromium": "$1",
@@ -76,7 +76,7 @@
 
   // Cliphist
   "custom/cliphist": {
-    "format": "  ",
+    "format": "",
     "on-click": "sleep 0.1 && ~/.config/ml4w/scripts/cliphist.sh",
     "on-click-right": "sleep 0.1 && ~/.config/ml4w/scripts/cliphist.sh d",
     "on-click-middle": "sleep 0.1 && ~/.config/ml4w/scripts/cliphist.sh w",
@@ -85,7 +85,7 @@
   
     // Hyprshade
   "custom/hyprshade": {
-    "format": "  ",
+    "format": "",
     "tooltip-format": "Toggle Screen Shader",
     "on-click": "sleep 0.5; ~/.config/hypr/scripts/hyprshade.sh",
     "on-click-right": "sleep 0.5; ~/.config/hypr/scripts/hyprshade.sh rofi"
@@ -221,7 +221,7 @@
   // Network
   "network": {
     "format": "{ifname}",
-    "format-ethernet": "  ",
+    "format-ethernet": "",
     "format-disconnected": "Disconnected",
     "tooltip-format": " {ifname} via {gwaddri}",
     "tooltip-format-ethernet": " {ifname}\nIP: {ipaddr}\n up: {bandwidthUpBits} down: {bandwidthDownBits}",
@@ -247,4 +247,3 @@
 
 
   }
-
