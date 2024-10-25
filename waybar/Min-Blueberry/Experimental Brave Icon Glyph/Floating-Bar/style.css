@@ -92,7 +92,8 @@ window#waybar.empty #window {
 #custom-quicklink1:hover,
 #custom-quicklink2:hover,
 #custom-quicklink3:hover,
-#custom-quicklink4:hover
+#custom-quicklink4:hover,
+#tray:hover
  {
     color: @waybarcolor;
     border-radius: 5px;
@@ -106,9 +107,10 @@ window#waybar.empty #window {
 #custom-quicklink4,
 #custom-waybarthemes {
     margin: 5px 0px;
-    font-size: 20px;
+    font-size: 21px;
     color: @waybarcolor;
 }
+
 /* Brave Quicklink */
 #custom-quicklink1{
     margin: 5px 0px;
@@ -120,7 +122,7 @@ window#waybar.empty #window {
 /* Quicklinks Wallpaper */
 #custom-wallpaper {
     margin: 5px 0px;
-    font-size: 20px;
+    font-size: 21px;
     color: @waybarcolor;
 }
 
@@ -136,20 +138,20 @@ window#waybar.empty #window {
     opacity: 0.0;
 }
 
-/* Clipboard Manager */
 /* Screen Shader */
 #custom-hyprshade {
     color: @waybarcolor;
     margin: 5px 0px;
     padding: 0px 15px;
-    font-size: 18px;
+    font-size: 21px;
 }
 
+/* Clipboard Manager */
 #custom-cliphist {
     color: @waybarcolor;
-    margin: 5px 8px 5px 0px;
+    margin: 5px 12px 5px 0px;
     padding: 0px 15px;
-    font-size: 18px;
+    font-size: 21px;
 }
 
 /* Custom Module appmenu rofi */
@@ -167,8 +169,9 @@ window#waybar.empty #window {
 /* Custom Updates Styles */
 #custom-updates {
     color: @waybarcolor;
-    font-size: 18px;
+    font-size: 21px;
     margin: 5px 0px;
+    padding: 0px 13px;
 }
 #custom-updates.yellow {
     color: #ff9a3c;
@@ -198,14 +201,15 @@ window#waybar.empty #window {
 /* Network Styles */
 #network {
     color: @waybarcolor;
-    font-size: 18px;
+    font-size: 20px;
     margin: 5px 0px;
     padding: 0px 15px;
 }
 
 /* Tray Styles */
 #tray {
-    margin: 0 15px 0 5px;
+    margin: 5px 0px;
+    padding: 0px 15px;
 }
 #tray > .passive {
     -gtk-icon-effect: dim;
