@@ -42,7 +42,7 @@
 	     // "class<brave-browser-beta>": "",
 	     // "class<brave-browser-beta>": "",
 	        "class<brave-browser-beta>": "<span font_desc='Font Awesome 6 Brands 5em'></span>",
-	        "class<brave-browser": "<span font_desc='Font Awesome 6 Brands 5em'></span>",
+	        "class<brave-browser>": "<span font_desc='Font Awesome 6 Brands 5em'></span>",
 		"class<org.telegram.desktop|io.github.tdesktop_x64.TDesktop>": "<span font='12'></span>",
 		"class<[Ss]potify>": "<span font='12'> </span>",
 		"class<VSCode|code-url-handler>": "<span font='12'>󰨞</span>",
