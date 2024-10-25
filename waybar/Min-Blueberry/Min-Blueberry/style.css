@@ -15,7 +15,7 @@ Brave Icon Glyph Working in workspaces & quicklinks []
 You need to download FontAwesome "Font Awesome 6 Brands"
 If you dont want the brave icon you can just ignore this
 
-font-weight: 400-600; defaults
+font-weight: 400-600; default
 This will change the icon style and text weight
 400 Normal (Regular)
 500 Medium
@@ -24,9 +24,9 @@ This will change the icon style and text weight
 900 ExtraBold
 
 Bar-height is dynamic to #workspaces 
-font-size: 20px-21px-28px; defaults
+font-size: 20px-21px-28px; default 
 */
- 
+ V
 /* Color Definitions */
 @define-color waybarcolor #BBBBFF;
 
@@ -61,7 +61,7 @@ window#waybar {
 }
 #workspaces button:hover {
     border-radius: 3px;
-    background: #373250;
+    background: #343051;
 }
 #workspaces button.empty {
     opacity: 0.0;
@@ -107,7 +107,7 @@ window#waybar.empty #window {
  {
     color: @waybarcolor;
     border-radius: 5px;
-    background: #373250;
+    background: #343051;
     transition-duration: .5s;
 }
 
