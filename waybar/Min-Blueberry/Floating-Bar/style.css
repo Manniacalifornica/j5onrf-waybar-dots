@@ -1,6 +1,6 @@
 /*
-*  ___.   .__               ___.                               
-*  \_ |__ |  |  __ __   ____\_ |__   _____(2025)_j5onrf ___.__.
+* ___.   .__               ___.                               
+* \_ |__ |  |  __ __   ____\_ |__   _____(2025)_j5onrf ___.__.
 *  | __ \|  | |  |  \_/ __ \| __ \_/ __ \_  __ \_  __ <   |  |
 *  | \_\ \  |_|  |  /\  ___/| \_\ \  ___/|  | \/|  | \/\___  |
 *  |___  /____/____/  \___  >___  /\___  >__|   |__|   / ____|
@@ -10,9 +10,6 @@
 * -----------------------------------------------------  
 */
  
-/* Color Definitions */
-@define-color waybarcolor #BBBBFF;
-
 /* 
 Brave Icon Glyph Working in workspaces & quicklinks []
 You need to download FontAwesome "Font Awesome 6 Brands"
@@ -29,6 +26,9 @@ This will change the icon style and text weight
 Bar-height is dynamic to #workspaces 
 font-size: 20px-21px-28px; defaults
 */
+
+/* Color Definitions */
+@define-color waybarcolor #BBBBFF;
 
 /* General Styles */
 * {
