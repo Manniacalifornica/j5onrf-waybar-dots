@@ -25,7 +25,6 @@ If you dont want the brave icon you can just ignore it
     font-family: "JetBrainsMono Nerd Font Propo", "Font Awesome 6 Free";
     border: 0px;
     border-radius: 0px;
-    font-size: 18px;
     font-weight: 600;
 }
 
@@ -38,6 +37,7 @@ window#waybar {
 /* Workspaces Styles */
 #workspaces {
     margin-top: 3px;
+    font-size: 21px;
 }
 #workspaces button {
     margin: 0px;
