@@ -13,21 +13,30 @@
 /* Color Definitions */
 @define-color waybarcolor #BBBBFF;
 
-/* General Styles */
-
 /* 
-Brave Icon Glyph Working in workspaces []
+Brave Icon Glyph Working in workspaces & quicklinks []
 You need to download FontAwesome "Font Awesome 6 Brands"
-If you dont want the brave icon you can just ignore it
+If you dont want the brave icon you can just ignore this
+
+font-weight: 400-600; defaults
+This will change the icon style and text weight
+400 Normal (Regular)
+500 Medium
+600 Semi Bold (Demi Bold)
+700 Bold
+900 ExtraBold
+
+Bar-height is dynamic to #workspaces 
+font-size: 20px-21px-28px; defaults
 */
 
+/* General Styles */
 * {
     font-family: "JetBrainsMono Nerd Font Propo", "Font Awesome 6 Free";
     border: 0px;
     border-radius: 0px;
     font-weight: 600;
 }
-
 window#waybar {
     background-color: #14131D;
     border: 0px;
