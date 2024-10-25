@@ -24,7 +24,8 @@
 	"format-window-separator": " ",
 	"window-rewrite-default": "",
 	"window-rewrite": {
-		"title<.*youtube.*>": "",	  
+		"title<.*youtube.*>": "<span font_desc='Font Awesome 6 Free 23'></span>",
+	     // "title<.*youtube.*>": "",
 		"title<.*amazon.*>": "",
 		"title<.*reddit.*>": "",
 		"title<.*dot.*>": "",
@@ -40,8 +41,8 @@
              // "class<brave-browser-beta>": "",
 	     // "class<brave-browser-beta>": "",
 	     // "class<brave-browser-beta>": "",
-	        "class<brave-browser-beta>": "",
-	        "class<brave-browser": "",
+	        "class<brave-browser-beta>": "<span font_desc='Font Awesome 6 Brands 23'></span>",
+	        "class<brave-browser": "<span font_desc='Font Awesome 6 Brands 23'></span>",
 		"class<org.telegram.desktop|io.github.tdesktop_x64.TDesktop>": "<span font='12'></span>",
 		"class<[Ss]potify>": "<span font='12'> </span>",
 		"class<VSCode|code-url-handler>": "<span font='12'>󰨞</span>",
@@ -91,7 +92,7 @@
     "on-click-right": "sleep 0.5; ~/.config/hypr/scripts/hyprshade.sh rofi"
   },
 
-  // Updates Count
+// Updates
   "custom/updates": {
     "format": "󰚰 {}",
     "escape": true,
@@ -135,11 +136,7 @@
   // Rofi Application Launcher 󱄅  󱗼  󰣇
   "custom/appmenu": {
     "format": "Apps",
- // "on-click": "rofi -show drun -replace",
- // "on-click": "ags -t dashboardmenu",
-    "on-click": "~/.config/rofi/bin/launcher",
- // "on-click-right": "ags -t dashboardmenu",
-    "on-click-right": "~/.config/rofi/bin/launcher2",
+    "on-click": "rofi -show drun -replace",
     "tooltip": false
   },
 
@@ -247,4 +244,3 @@
 
 
   }
-
