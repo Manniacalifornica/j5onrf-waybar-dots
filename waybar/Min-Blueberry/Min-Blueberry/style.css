@@ -1,13 +1,13 @@
 /*
- * __        __          _                  ____  _         _       
- * \ \      / /_ _ _   _| |__   __ _ _ __  / ___|| |_ _   _| | ___  
- *  \ \ /\ / / _` | | | | '_ \ / _` | '__| \___ \| __| | | | |/ _ \ 
- *   \ V  V / (_| | |_| | |_) | (_| | |     ___) | |_| |_| | |  __/ 
- *    \_/\_/ \__,_|\__, |_.__/ \__,_|_|    |____/ \__|\__, |_|\___| 
- *                 |___/                              |___/         
- *   ML4W
- * 2025 Min-Blueberry
- * -----------------------------------------------------  
+*  ___.   .__               ___.                               
+*  \_ |__ |  |  __ __   ____\_ |__   _____(2025)_j5onrf ___.__.
+*  | __ \|  | |  |  \_/ __ \| __ \_/ __ \_  __ \_  __ <   |  |
+*  | \_\ \  |_|  |  /\  ___/| \_\ \  ___/|  | \/|  | \/\___  |
+*  |___  /____/____/  \___  >___  /\___  >__|   |__|   / ____|
+*      \/                 \/    \/     \/              \/  
+*    ML4W
+*  Min-Blueberry (Updated on 10-25-2024)
+* -----------------------------------------------------  
 */
  
 /* Color Definitions */
@@ -15,30 +15,28 @@
 
 /* General Styles */
 
-/* font-weight
-400	Normal (Regular)
-500	Medium
-600	Semi Bold (Demi Bold)
-700	Bold
+/* 
+Brave Icon Glyph Working in workspaces []
+You need to download FontAwesome "Font Awesome 6 Brands"
 */
 
 * {
-font-family: "JetBrainsMono Nerd Font Propo", "Font Awesome 6 Free", Helvetica, Arial, sans-serif;
     border: 0px;
     border-radius: 0px;
-    font-weight: 500;
 }
 
 window#waybar {
     background-color: #14131D;
     border: 0px;
-    border-radius: 0px;
+    border-radius: 10px;
 }
 
 /* Workspaces Styles */
 #workspaces {
+    font-family: "Font Awesome 6 Brands", "Font Awesome 6 Free", "JetBrainsMono Nerd Font Propo";
     margin-top: 3px;
     font-size: 21px;
+    font-weight: 600;
 }
 #workspaces button {
     margin: 0px;
@@ -50,7 +48,6 @@ window#waybar {
     color: @waybarcolor;
     border-radius: 5px;
     border-bottom: 3px solid #BBBBFF;
-/*  background: #373250; */
 }
 #workspaces button:hover {
     border-radius: 3px;
@@ -85,7 +82,18 @@ window#waybar.empty #window {
 #cpu:hover, 
 #memory:hover,
 #custom-appmenu:hover,
-#custom-exit:hover
+#custom-exit:hover,
+#custom-hyprshade:hover,
+#custom-cliphist:hover,
+#custom-updates:hover,
+#network:hover,
+#custom-wallpaper:hover,
+#custom-waybarthemes:hover,
+#custom-quicklink1:hover,
+#custom-quicklink2:hover,
+#custom-quicklink3:hover,
+#custom-quicklink4:hover,
+#tray:hover
  {
     color: @waybarcolor;
     border-radius: 5px;
@@ -94,20 +102,27 @@ window#waybar.empty #window {
 }
 
 /* Custom Quicklinks Styles */
-#custom-quicklink1,
 #custom-quicklink2,
 #custom-quicklink3,
 #custom-quicklink4,
 #custom-waybarthemes {
-    margin-right: 15px;
-    font-size: 20px;
+    margin: 5px 0px;
+    font-size: 21px;
+    color: @waybarcolor;
+}
+
+/* Brave Quicklink */
+#custom-quicklink1{
+    margin: 5px 0px;
+    padding: 0px 5px;
+    font-size: 21px;
     color: @waybarcolor;
 }
 
 /* Quicklinks Wallpaper */
 #custom-wallpaper {
-    margin-right: 5px;
-    font-size: 20px;
+    margin: 5px 0px;
+    font-size: 21px;
     color: @waybarcolor;
 }
 
@@ -123,14 +138,20 @@ window#waybar.empty #window {
     opacity: 0.0;
 }
 
-/* Clipboard Manager */
 /* Screen Shader */
-#custom-hyprshade,
-#custom-cliphist
-{
+#custom-hyprshade {
     color: @waybarcolor;
-    margin-right: 23px;
-    font-size: 18px;
+    margin: 5px 0px;
+    padding: 0px 15px;
+    font-size: 20px;
+}
+
+/* Clipboard Manager */
+#custom-cliphist {
+    color: @waybarcolor;
+    margin: 5px 12px 5px 0px;
+    padding: 0px 15px;
+    font-size: 21px;
 }
 
 /* Custom Module appmenu rofi */
@@ -148,8 +169,9 @@ window#waybar.empty #window {
 /* Custom Updates Styles */
 #custom-updates {
     color: @waybarcolor;
-    font-size: 18px;
-    margin-right: 20px;
+    font-size: 21px;
+    margin: 5px 0px;
+    padding: 0px 13px;
 }
 #custom-updates.yellow {
     color: #ff9a3c;
@@ -160,7 +182,7 @@ window#waybar.empty #window {
 
 /* Clock Styles */
 #cpu, #memory, #clock  {
-    margin: 5px;
+    margin: 5px 0px;
     color: @waybarcolor;
     font-size: 18px;
 }
@@ -179,13 +201,15 @@ window#waybar.empty #window {
 /* Network Styles */
 #network {
     color: @waybarcolor;
-    font-size: 18px;
-    margin: 0 20px 0 15px;
+    font-size: 20px;
+    margin: 5px 0px;
+    padding: 0px 15px;
 }
 
 /* Tray Styles */
 #tray {
-    margin: 0 15px 0 5px;
+    margin: 5px 0px;
+    padding: 0px 15px;
 }
 #tray > .passive {
     -gtk-icon-effect: dim;
@@ -194,3 +218,16 @@ window#waybar.empty #window {
     -gtk-icon-effect: highlight;
     background-color: #eb4d4b;
 }
+
+/* tooltip */
+tooltip {
+    background-color: #14131D;
+    border-radius: 5px;
+    opacity:0.96;
+    padding:20px;
+    margin:0px;
+}
+tooltip label {
+    color: @waybarcolor;
+}
+
