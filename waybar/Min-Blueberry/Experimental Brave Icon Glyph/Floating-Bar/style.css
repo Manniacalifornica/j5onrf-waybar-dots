@@ -143,7 +143,7 @@ window#waybar.empty #window {
     color: @waybarcolor;
     margin: 5px 0px;
     padding: 0px 15px;
-    font-size: 21px;
+    font-size: 20px;
 }
 
 /* Clipboard Manager */
@@ -230,3 +230,4 @@ tooltip {
 tooltip label {
     color: @waybarcolor;
 }
+
