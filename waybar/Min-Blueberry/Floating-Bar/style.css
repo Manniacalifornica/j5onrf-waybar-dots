@@ -61,7 +61,7 @@ window#waybar {
 }
 #workspaces button:hover {
     border-radius: 3px;
-    background: #373250;
+    background: #343051;
 }
 #workspaces button.empty {
     opacity: 0.0;
@@ -103,11 +103,10 @@ window#waybar.empty #window {
 #custom-quicklink2:hover,
 #custom-quicklink3:hover,
 #custom-quicklink4:hover,
-#tray:hover
- {
+#tray:hover {
     color: @waybarcolor;
     border-radius: 5px;
-    background: #373250;
+    background: #343051;
     transition-duration: .5s;
 }
 
