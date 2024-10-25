@@ -20,7 +20,7 @@
 	"on-scroll-down": "hyprctl dispatch workspace e+1",
      // "format": "{icon} {windows}",
 	"format": "{windows}",  
-	"persistent-workspaces": {"*": 19},
+	"persistent-workspaces": {"*": 17},
 	"format-window-separator": " ",
 	"window-rewrite-default": "",
 	"window-rewrite": {
@@ -31,15 +31,17 @@
 		"title<.*Picture-in-Picture.*>": "",
 		"class<freetube>": "",
 		"class<gimp-2.10>": "",
-		"class<org.gnome.Weather>": "",
-		"class<io.missioncenter.MissionCenter>": "",
+		"class<org.gnome.Weather>": "",
+		"class<io.missioncenter.MissionCenter>": "",
 		"class<firefox>": "",
 		"class<kitty>": "󰄛",
 		"class<org.gnome.Console>": "",
 		"class<alacritty>": "",
-                "class<brave-browser-beta>": "",
+             // "class<brave-browser-beta>": "",
 	     // "class<brave-browser-beta>": "",
 	     // "class<brave-browser-beta>": "",
+	        "class<brave-browser-beta>": "",
+	        "class<brave-browser": "",
 		"class<org.telegram.desktop|io.github.tdesktop_x64.TDesktop>": "<span font='12'></span>",
 		"class<[Ss]potify>": "<span font='12'> </span>",
 		"class<VSCode|code-url-handler>": "<span font='12'>󰨞</span>",
@@ -74,7 +76,7 @@
 
   // Cliphist
   "custom/cliphist": {
-    "format": "",
+    "format": "󰨸",
     "on-click": "sleep 0.1 && ~/.config/ml4w/scripts/cliphist.sh",
     "on-click-right": "sleep 0.1 && ~/.config/ml4w/scripts/cliphist.sh d",
     "on-click-middle": "sleep 0.1 && ~/.config/ml4w/scripts/cliphist.sh w",
@@ -83,7 +85,7 @@
   
     // Hyprshade
   "custom/hyprshade": {
-    "format": "",
+    "format": "",
     "tooltip-format": "Toggle Screen Shader",
     "on-click": "sleep 0.5; ~/.config/hypr/scripts/hyprshade.sh",
     "on-click-right": "sleep 0.5; ~/.config/hypr/scripts/hyprshade.sh rofi"
@@ -91,7 +93,7 @@
 
   // Updates Count
   "custom/updates": {
-    "format": " {}",
+    "format": "󰚰 {}",
     "escape": true,
     "return-type": "json",
     "exec": "~/.config/ml4w/scripts/updates.sh",
@@ -102,15 +104,15 @@
 
   // Wallpaper
   "custom/wallpaper": {
-    "format": "",
+    "format": " 󰸉 ",
     "on-click": "waypaper",
     "on-click-right": "~/.config/hypr/scripts/wallpaper-effects.sh",
     "tooltip-format": "Left: Select a wallpaper\nRight: Select wallpaper effect"
   },
 
-  // Waybar Themes
+  // Waybar Themes   
   "custom/waybarthemes": {
-    "format": "",
+    "format": "  ",
     "on-click": "~/.config/waybar/themeswitcher.sh",
     "tooltip-format": "Select a waybar theme"
   },
@@ -133,11 +135,11 @@
   // Rofi Application Launcher 󱄅  󱗼  󰣇
   "custom/appmenu": {
     "format": "Apps",
-    "on-click": "rofi -show drun -replace",
+ // "on-click": "rofi -show drun -replace",
  // "on-click": "ags -t dashboardmenu",
-//  "on-click": "~/.config/rofi/bin/launcher",
+    "on-click": "~/.config/rofi/bin/launcher",
  // "on-click-right": "ags -t dashboardmenu",
-//  "on-click-right": "~/.config/rofi/bin/launcher2",
+    "on-click-right": "~/.config/rofi/bin/launcher2",
     "tooltip": false
   },
 
@@ -196,7 +198,7 @@
       "children-class": "not-memory",
       "transition-left-to-right": false
     },
-    "modules": ["custom/system","cpu","memory","network","custom/updates","custom/hyprshade","custom/cliphist","tray"]
+    "modules": ["custom/system","cpu","memory","tray","network","custom/updates","custom/hyprshade","custom/cliphist"]
   },
 
   // Group Settings
@@ -216,13 +218,13 @@
     ]
   },
 
-  // Network
+  // Network 
   "network": {
     "format": "{ifname}",
-    "format-ethernet": "",
-    "format-disconnected": "Disconnected",
-    "tooltip-format": " {ifname} via {gwaddri}",
-    "tooltip-format-ethernet": " {ifname}\nIP: {ipaddr}\n up: {bandwidthUpBits} down: {bandwidthDownBits}",
+    "format-ethernet": "󰲝",
+    "format-disconnected": "󰲜",
+    "tooltip-format": "󰲝 {ifname} via {gwaddri}",
+    "tooltip-format-ethernet": "󰲝 {ifname}\nIP: {ipaddr}\n up: {bandwidthUpBits} down: {bandwidthDownBits}",
     "tooltip-format-disconnected": "Disconnected",
     "max-length": 50,
     "on-click": "~/.config/ml4w/settings/networkmanager.sh",
