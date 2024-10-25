@@ -1,12 +1,13 @@
 /*
- ___.   .__               ___.                               
- \_ |__ |  |  __ __   ____\_ |__   _____(2025)_j5onrf ___.__.
-  | __ \|  | |  |  \_/ __ \| __ \_/ __ \_  __ \_  __ <   |  |
-  | \_\ \  |_|  |  /\  ___/| \_\ \  ___/|  | \/|  | \/\___  |
-  |___  /____/____/  \___  >___  /\___  >__|   |__|   / ____|
-      \/                 \/    \/     \/              \/  
-    ML4W
-  Min-Blueberry-Floating
+*  ___.   .__               ___.                               
+*  \_ |__ |  |  __ __   ____\_ |__   _____(2025)_j5onrf ___.__.
+*  | __ \|  | |  |  \_/ __ \| __ \_/ __ \_  __ \_  __ <   |  |
+*  | \_\ \  |_|  |  /\  ___/| \_\ \  ___/|  | \/|  | \/\___  |
+*  |___  /____/____/  \___  >___  /\___  >__|   |__|   / ____|
+*      \/                 \/    \/     \/              \/  
+*    ML4W
+*  Min-Blueberry-Floating 1.1  (Updated on 10-25-2024)
+* -----------------------------------------------------  
 */
  
 /* Color Definitions */
@@ -14,17 +15,9 @@
 
 /* General Styles */
 
-/* Experimental
+/* 
 Brave Icon Glyph Working in workspaces []
 You need to download FontAwesome "Font Awesome 6 Brands"
-Set system default font in gtk-settings
-*/
-
-/* font-weight
-400	Normal (Regular)
-500	Medium
-600	Semi Bold (Demi Bold)
-700	Bold
 */
 
 * {
@@ -39,9 +32,6 @@ window#waybar {
 }
 
 /* Workspaces Styles */
-/* Experimental
-change font-weight to desired icons styles
-*/
 #workspaces {
     font-family: "Font Awesome 6 Brands", "Font Awesome 6 Free", "JetBrainsMono Nerd Font Propo";
     margin-top: 3px;
@@ -57,7 +47,6 @@ change font-weight to desired icons styles
 #workspaces button.active {
     color: @waybarcolor;
     border-radius: 5px;
-/* background: #373250; */
     border-bottom: 3px solid #BBBBFF;
 }
 #workspaces button:hover {
@@ -93,7 +82,17 @@ window#waybar.empty #window {
 #cpu:hover, 
 #memory:hover,
 #custom-appmenu:hover,
-#custom-exit:hover
+#custom-exit:hover,
+#custom-hyprshade:hover,
+#custom-cliphist:hover,
+#custom-updates:hover,
+#network:hover,
+#custom-wallpaper:hover,
+#custom-waybarthemes:hover,
+#custom-quicklink1:hover,
+#custom-quicklink2:hover,
+#custom-quicklink3:hover,
+#custom-quicklink4:hover
  {
     color: @waybarcolor;
     border-radius: 5px;
@@ -102,19 +101,25 @@ window#waybar.empty #window {
 }
 
 /* Custom Quicklinks Styles */
-#custom-quicklink1,
 #custom-quicklink2,
 #custom-quicklink3,
 #custom-quicklink4,
 #custom-waybarthemes {
-    margin-right: 15px;
+    margin: 5px 0px;
     font-size: 20px;
+    color: @waybarcolor;
+}
+/* Brave Quicklink */
+#custom-quicklink1{
+    margin: 5px 0px;
+    padding: 0px 5px;
+    font-size: 21px;
     color: @waybarcolor;
 }
 
 /* Quicklinks Wallpaper */
 #custom-wallpaper {
-    margin-right: 5px;
+    margin: 5px 0px;
     font-size: 20px;
     color: @waybarcolor;
 }
@@ -137,7 +142,7 @@ window#waybar.empty #window {
 #custom-cliphist
 {
     color: @waybarcolor;
-    margin-right: 23px;
+    margin: 5px 0px;
     font-size: 18px;
 }
 
@@ -157,7 +162,7 @@ window#waybar.empty #window {
 #custom-updates {
     color: @waybarcolor;
     font-size: 18px;
-    margin-right: 20px;
+    margin: 5px 0px;
 }
 #custom-updates.yellow {
     color: #ff9a3c;
@@ -168,7 +173,7 @@ window#waybar.empty #window {
 
 /* Clock Styles */
 #cpu, #memory, #clock  {
-    margin: 5px;
+    margin: 5px 0px;
     color: @waybarcolor;
     font-size: 18px;
 }
@@ -188,7 +193,7 @@ window#waybar.empty #window {
 #network {
     color: @waybarcolor;
     font-size: 18px;
-    margin: 0 20px 0 15px;
+    margin: 5px;
 }
 
 /* Tray Styles */
@@ -201,5 +206,17 @@ window#waybar.empty #window {
 #tray > .needs-attention {
     -gtk-icon-effect: highlight;
     background-color: #eb4d4b;
+}
+
+/* tooltip */
+tooltip {
+    background-color: #14131D;
+    border-radius: 5px;
+    opacity:0.96;
+    padding:20px;
+    margin:0px;
+}
+tooltip label {
+    color: @waybarcolor;
 }
 

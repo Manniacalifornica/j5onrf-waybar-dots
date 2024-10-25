@@ -5,7 +5,7 @@
 //    \_/\_/ \__,_|\__, |_.__/ \__,_|_|    
 //                 |___/                   
 //  ML4W
-// 2025 Min-Blueberry-Floating
+// 2025 Min-Blueberry-floating
 // ----------------------------------------------------- 
 //
 {
@@ -27,7 +27,7 @@
     // Pulseaudio
     "pulseaudio": {
         // "scroll-step": 1, // %, can be a float
-        "format": "                                                                 <span font='13.5'>{icon}</span>{volume}",
+        "format": "                                                       <span font='13.5'>{icon}</span>{volume}",
         "format-muted": " {volume}",
         "format-icons": {
     //  "default": ["󰕿", "󰕾", "󰕾"]
@@ -35,7 +35,7 @@
         },
         "on-click": "pactl set-sink-mute @DEFAULT_SINK@ toggle",
         "on-click-right": "ags -t bar-0",
-        "format-muted": "                                                                 <span font='13.5'>{icon}</span>{volume}",
+        "format-muted": "                                                       <span font='13.5'>{icon}</span>{volume}",
     },
     
       // Clock :%I:%M  %a%e  pm: %p
@@ -47,7 +47,7 @@
     "tooltip": false
   },
   
-    // Rofi Application Launcher 󱄅  󱗼  󰣇
+    // Rofi Application Launcher
   "custom/appmenu": {
     "format": "",
  // "on-click": "rofi -show drun -replace",
@@ -58,7 +58,7 @@
     "tooltip": false
   },
   
-    // Power Menu 
+    // Power Menu
   "custom/exit": {
     "format": "",
     "on-click": "wlogout",
