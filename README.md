@@ -101,7 +101,7 @@ https://github.com/j5onrf/dots/blob/main/waybar/Screenshot%20Archive%202/Screens
 
 # Waybar
 
-(2024-oct25) Min-Blueberry-S [sidebar<sup> snapshot</sup> 🚧](https://github.com/j5onrf/dots/blob/main/waybar/Min-Blueberry/Sidebar/Screenshot-2024-10-25_23%3A04%3A03.png)
+(2024-oct25) Min-Blueberry-S [sidebar 🚧](https://github.com/j5onrf/dots/blob/main/waybar/Min-Blueberry/Sidebar/Screenshot-2024-10-25_23%3A04%3A03.png)
 ![Screenshot-2024-10-26_09:30:052](https://github.com/user-attachments/assets/134ddb7a-edbe-420d-be89-5cf93cfdcb1e)
 (2024-oct23) Min-Blueberry [dots](https://github.com/j5onrf/dots/tree/main/waybar/Min-Blueberry)
 ![Screenshot-2024-10-22_18:10:23](https://github.com/user-attachments/assets/1678306d-1d1b-4a26-8fc8-e595b041e62b)
@@ -157,7 +157,7 @@ gruv
 
 # Hypr<sup> / shots</sup>
 
-(2024-oct23) Min-Blueberry🫐 [floating<sup> bar</sup>](https://github.com/j5onrf/dots/tree/main/waybar/Min-Blueberry/Floating-Bar) [btop<sup> .theme</sup>](https://github.com/j5onrf/dots/blob/main/extras/btop/Screenshot-2024-10-24_12%3A08%3A06.png) [Sidebar<sup> snapshot</sup>](https://github.com/j5onrf/dots/blob/main/waybar/Min-Blueberry/Sidebar/Screenshot-2024-10-25_23%3A04%3A03.png)
+(2024-oct23) Min-Blueberry🫐 [floating<sup> bar</sup>](https://github.com/j5onrf/dots/tree/main/waybar/Min-Blueberry/Floating-Bar) [btop<sup> .theme</sup>](https://github.com/j5onrf/dots/blob/main/extras/btop/Screenshot-2024-10-24_12%3A08%3A06.png) [sidebar](https://github.com/j5onrf/dots/blob/main/waybar/Min-Blueberry/Sidebar/Screenshot-2024-10-25_23%3A04%3A03.png)
 ![Screenshot-2024-10-23_11:18:33](https://github.com/user-attachments/assets/390de971-96d3-4c53-831c-59a5610f5279)
 
 <details><summary>+ScreenShots</summary>
