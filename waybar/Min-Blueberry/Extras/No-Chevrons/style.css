@@ -13,22 +13,8 @@
 /* Color Definitions */
 @define-color waybarcolor #BBBBFF;
 
-/* General Styles */
-
-/* Experimental
-Brave Icon Glyph Working in workspaces []
-You need to download FontAwesome "Font Awesome 6 Brands"
-Set system default font in gtk-settings
-*/
-
-/* font-weight
-400	Normal (Regular)
-500	Medium
-600	Semi Bold (Demi Bold)
-700	Bold
-*/
-
 * {
+    font-family: "JetBrainsMono Nerd Font Propo", "Font Awesome 6 Free";
     border: 0px;
     border-radius: 0px;
 }
@@ -40,14 +26,10 @@ window#waybar {
 }
 
 /* Workspaces Styles */
-/* Experimental
-change font-weight to desired icons styles
-*/
 #workspaces {
-    font-family: "Font Awesome 6 Brands", "Font Awesome 6 Free", "JetBrainsMono Nerd Font Propo";
     margin-top: 3px;
     font-size: 20px;
-    font-weight: 600;
+    font-weight: 400;
 }
 #workspaces button {
     margin: 0px;
