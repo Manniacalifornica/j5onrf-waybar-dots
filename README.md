@@ -101,7 +101,7 @@ https://github.com/j5onrf/dots/blob/main/waybar/Screenshot%20Archive%202/Screens
 
 # Waybar
 
-(2024-oct25) Min-Blueberry-S [sidebar<sup> snapshot</sup> 🚧](https://github.com/j5onrf/dots/blob/main/waybar/Min-Blueberry/Sidebar/Screenshot-2024-10-25_15%3A18%3A15.png)
+(2024-oct25) Min-Blueberry-S [sidebar<sup> snapshot</sup> 🚧](https://github.com/j5onrf/dots/blob/main/waybar/Min-Blueberry/Sidebar/Screenshot-2024-10-25_23%3A04%3A03.png)
 ![Screenshot-2024-10-25_23:04:182](https://github.com/user-attachments/assets/fb8cf822-bb55-4cb8-a9f9-bd328a1b5102)
 (2024-oct23) Min-Blueberry [dots](https://github.com/j5onrf/dots/tree/main/waybar/Min-Blueberry)
 ![Screenshot-2024-10-22_18:10:23](https://github.com/user-attachments/assets/1678306d-1d1b-4a26-8fc8-e595b041e62b)
