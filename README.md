@@ -104,6 +104,7 @@ https://github.com/j5onrf/dots/blob/main/waybar/Screenshot%20Archive%202/Screens
 </details>
 </details>
 </details>
+</details>
 
 # Waybar
 
