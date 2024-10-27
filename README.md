@@ -74,7 +74,7 @@ bind = $mainMod CTRL, B,  # Toggle Waybar
 </details>
 
 (2024-oct26) Blueberry [HyprPanel <sup>theme</sup> 🚧](https://github.com/j5onrf/dots/tree/main/HyprPanel) & Sidebar
-![Screenshot-2024-10-27_09:13:17](https://github.com/user-attachments/assets/336d9cbd-0ed9-446d-b09b-20da492ab572)
+![Screenshot-2024-10-27_13:17:04](https://github.com/user-attachments/assets/5f92cc50-62c7-46c3-ac23-81b716305b8c)
 
 <details><summary>+ScreenShots</summary>
 <p>
