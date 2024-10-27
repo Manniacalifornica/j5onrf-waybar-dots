@@ -73,9 +73,14 @@ bind = $mainMod CTRL, B,  # Toggle Waybar
 
 </details>
 
-(2024-oct26) Blueberry [HyprPanel <sup>theme</sup> 🚧](https://github.com/j5onrf/dots/tree/main/HyprPanel) & Sidebar
-![Screenshot-2024-10-27_13:17:04](https://github.com/user-attachments/assets/5f92cc50-62c7-46c3-ac23-81b716305b8c)
+(2024-oct27) Blueberry [HyprPanel <sup>theme</sup> 🚧](https://github.com/j5onrf/dots/tree/main/HyprPanel) & Sidebar
+![Screenshot-2024-10-27_16:35:55](https://github.com/user-attachments/assets/f0cdebe9-56e6-4e46-b400-a07b801838e0)
 
+<details><summary>+ScreenShots</summary>
+<p>
+
+(2024-oct26) HyprPanel & Waybar
+![Screenshot-2024-10-27_13:17:04](https://github.com/user-attachments/assets/5f92cc50-62c7-46c3-ac23-81b716305b8c)
 <details><summary>+ScreenShots</summary>
 <p>
 
@@ -101,6 +106,7 @@ HyprPanel & Waybar [Screenshot Archive](https://github.com/j5onrf/dots/blob/main
 ```diff
 https://github.com/j5onrf/dots/blob/main/waybar/Screenshot%20Archive%202/Screenshots2.md
 ```
+</details>
 </details>
 </details>
 </details>
