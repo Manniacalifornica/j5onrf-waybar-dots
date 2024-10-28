@@ -197,6 +197,64 @@ https://github.com/j5onrf/dots/blob/main/waybar/Screenshot%20Archive/Screenshots
 </p>
 </details>
 
+ <details><summary>example custom.conf [i]</summary>
+<p>
+  
+```
+# notification change from - dunstify
+
+# Load cliphist history
+# exec-once = wl-paste --watch cliphist store --auto-delete 300
+
+# Hyprpanel
+bind = $mainMod, H, exec, ags -t bar-0 # Toggle Hyprpanel
+bind = $mainMod, W, exec,  ~/.config/waybar/launch.sh # Relaunch Waybar
+bind = $mainMod, C, exec, ~/.config/waybar/toggle.sh # Toggle waybar
+
+# terminals
+bind = $mainMod, X, exec, kgx # Open the terminal
+bind = $mainMod, S, exec, kitty # Open the terminal
+bind = $mainMod, D, exec, alacritty # Open the terminal
+bind = $mainMod, A, exec, $(cat ~/.config/ml4w/settings/terminal.sh) --class dotfiles-floating # Open the terminal
+
+# Rofi
+bind = $mainMod, R, exec, rofi -show drun -replace # Open Rofi
+
+# screenshot 
+bind =, Print, exec, grim -g "$(slurp)" - | wl-copy && wl-paste > ~/Pictures/Screenshots/Screenshot-$(date +%F_%T).png | notify-send "Screenshot of the region taken" -t 1000 # screenshot of a region 
+bind = SHIFT, Print, exec, grim - | wl-copy && wl-paste > ~/Pictures/Screenshots/Screenshot-$(date +%F_%T).png | notify-send "Screenshot of whole screen taken" -t 1000 # screenshot of the whole screen
+
+# kill hard
+bind = $mainMod SHIFT, X, exec, notify-send -u critical -t 3000 "Kill" "Click any window kill it" & hyprctl kill
+
+# org.gnome.Weather App floating
+windowrulev2 = float,class:(.*org.gnome.Weather.*)
+windowrulev2 = size 1100 900,class:(.*org.gnome.Weather.*)
+windowrulev2 = center,class:(.*org.gnome.Weather.*)
+windowrulev2 = pin,class:(.*org.gnome.Weather.*)
+
+# btrfs-assistant App floating
+windowrulev2 = float,class:(.*btrfs-assistant.*)
+windowrulev2 = size 1100 900,class:(.*btrfs-assistant.*)
+windowrulev2 = center,class:(.*btrfs-assistant.*)
+windowrulev2 = pin,class:(.*btrfs-assistant.*)
+
+# keepassxc App floating
+windowrulev2 = float,class:(.*keepassxc.*)
+windowrulev2 = size 1300 1100,class:(.*keepassxc.*)
+windowrulev2 = center,class:(.*keepassxc.*)
+windowrulev2 = pin,class:(.*keepassxc.*)
+
+# qbittorrent App floating
+# windowrulev2 = float,class:(.*qbittorrent.*)
+# windowrulev2 = size 1300 1100,class:(.*qbittorrent.*)
+# windowrulev2 = center,class:(.*qbittorrent.*)
+# windowrulev2 = pin,class:(.*qbittorrent.*)
+
+```
+</p>
+</details>
+
 </p>
 </details>
 
