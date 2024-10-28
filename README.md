@@ -84,6 +84,12 @@ bind = $mainMod CTRL, B,  # Toggle Waybar
 <details><summary>+ScreenShots</summary>
 <p>
 
+(2024-oct27) HyprPanel & Waybar
+![Screenshot-2024-10-27_18:21:11](https://github.com/user-attachments/assets/851678ef-a440-469e-b485-867240ebf268)
+
+<details><summary>+ScreenShots</summary>
+<p>
+
 (2024-oct14) HyprPanel & Waybar
 ![Screenshot-2024-10-14_08:10:15](https://github.com/user-attachments/assets/ba04a317-20d5-4411-a14f-a8c9f577b426)
 
@@ -106,6 +112,7 @@ HyprPanel & Waybar [Screenshot Archive](https://github.com/j5onrf/dots/blob/main
 ```diff
 https://github.com/j5onrf/dots/blob/main/waybar/Screenshot%20Archive%202/Screenshots2.md
 ```
+</details>
 </details>
 </details>
 </details>
