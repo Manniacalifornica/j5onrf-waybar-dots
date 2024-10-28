@@ -1,6 +1,6 @@
 # HyprPanel
 
-(2024-oct1) Starting off oct trying out [HyprPanel](https://www.reddit.com/r/unixporn/comments/1frzwbx/hyprland_hyprpanel_w_25_new_themes_20_prebuilt/#lightbox)
+(2024-oct1) Trying out [HyprPanel](https://www.reddit.com/r/unixporn/comments/1frzwbx/hyprland_hyprpanel_w_25_new_themes_20_prebuilt/#lightbox)
 ![Screenshot-2024-10-01_08:57:24](https://github.com/user-attachments/assets/17ae8b9c-26aa-496e-a6cc-f37e825035fe)
 
 <details><summary>Toggle on/off [i]</summary>
