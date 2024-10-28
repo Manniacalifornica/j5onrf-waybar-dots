@@ -1,60 +1,3 @@
-# Full Waybar Scroll
-
-### Left -center scrolls workspaces. Right center- scrolls volume
-  
-  - Tips! Customize scroll in modules.json/config - 'persistent-workspaces' - 'pulseaudio' 'format:'
-
-<details><summary>example [i]</summary>
-<p>
-  
-# High Function
-### Faster access to workspaces & volume - [example.conf](https://github.com/j5onrf/dots/tree/main/waybar/example-full-waybar-scroll)
-
-[gnome-extension-power]
-![Screenshot-2024-09-14_07:49:163](https://github.com/user-attachments/assets/8b03d066-3c46-41dc-84d5-7b119fd36071)
-
-[minimal-plus-function][group-sliders]
-![minimal-plus-function](https://github.com/user-attachments/assets/4a129265-c715-4909-a86a-911fa3adcf10)
-
-["hyprland/workspaces#rw" icons rewrite from] [Jakoolit dots](https://github.com/j5onrf/dots/tree/main/waybar/hyprland/workspaces%23rw%20icons%20rewrite%20from%20Jakoolit%20dots)
-![Screenshot-2024-09-09_11:20:01](https://github.com/user-attachments/assets/54fa7009-d4e5-4306-845e-66c29e5c5067)
-
-</p>
-</details>
-
-  - This is a demo template. Fix it to work on your system.
-
-  - Arch and [ML4W](https://github.com/mylinuxforwork/dotfiles)
-
- <details><summary>opacity & blur [i]</summary>
-<p>
-  To add blur I'm using 'blur wallpaper effect' for better performance. Everything with opacity <1 will have blur including waybar. If using ml4w, right click on wallpaper icon to select wallpaper effect blur* = 1,2.
-  
-```
-  decoration {
-    rounding = 0
-    blur {
-        enabled = false
-        size = 6 # default 12
-        passes = 3 # default 4
-        new_optimizations = on
-        ignore_opacity = true
-        xray = true
-      # blurls = waybar
-    }
-    active_opacity = 0.9 # 0.96
-    inactive_opacity = 0.6
-    fullscreen_opacity = 1
-
-    drop_shadow = false
-    shadow_range = 30
-    shadow_render_power = 3
-    col.shadow = 0x66000000
-}
-```
-</p>
-</details>
-
 # HyprPanel
 
 (2024-oct1) Starting off oct trying out [HyprPanel](https://www.reddit.com/r/unixporn/comments/1frzwbx/hyprland_hyprpanel_w_25_new_themes_20_prebuilt/#lightbox)
@@ -119,6 +62,7 @@ https://github.com/j5onrf/dots/blob/main/waybar/Screenshot%20Archive%202/Screens
 </details>
 </details>
 </details>
+<br>
 
 # Waybar
 
@@ -142,10 +86,8 @@ gruv
 (2024-oct9) Min-Hyprclean 
 ![Screenshot-2024-10-09_08:59:42](https://github.com/user-attachments/assets/68e0ae88-b51d-46d4-8040-39a87f8578f4)
 
-
 (2024-sep29) Min-Hyprnome 
 ![Screenshot-2024-09-28_14:16:32](https://github.com/user-attachments/assets/1a9a744f-90b9-4a2e-9f90-a4d97d31be1f)
-
 
 (2024-sep28) Min-Modern<sup>2</sup>
 ![Screenshot-2024-09-27_12:39:19](https://github.com/user-attachments/assets/b73806fb-602b-4812-b628-77883e80a278)
@@ -157,8 +99,6 @@ gruv
 (2024-sep22) Min-Monstr 
 ![Screenshot-2024-09-21_10:38:37](https://github.com/user-attachments/assets/a7af54b7-3288-4c38-8272-f217c2a3921d)
 ![Screenshot-2024-09-22_17:16:32](https://github.com/user-attachments/assets/2d673ff2-6801-4b40-a18b-cd171a85e8f9)
-
-
 
 <details><summary>Archived sep2024</summary>
 <p>
@@ -175,6 +115,7 @@ gruv
 </p>
 </details>
 </details>
+<br>
 
 # Hypr<sup> / shots</sup>
 
@@ -194,6 +135,68 @@ Hyprland [Screenshot Archive](https://github.com/j5onrf/dots/blob/main/waybar/Sc
 ```diff
 https://github.com/j5onrf/dots/blob/main/waybar/Screenshot%20Archive/Screenshots.md
 ```
+
+</p>
+</details>
+</details>
+<br>
+
+# Full Waybar Scroll
+
+### Left -center scrolls workspaces. Right center- scrolls volume
+  
+  - Tips! Customize scroll in modules.json/config - 'persistent-workspaces' - 'pulseaudio' 'format:'
+
+<details><summary>example [i]</summary>
+<p>
+  
+# High Function
+### Faster access to workspaces & volume - [example.conf](https://github.com/j5onrf/dots/tree/main/waybar/example-full-waybar-scroll)
+
+[gnome-extension-power]
+![Screenshot-2024-09-14_07:49:163](https://github.com/user-attachments/assets/8b03d066-3c46-41dc-84d5-7b119fd36071)
+
+[minimal-plus-function][group-sliders]
+![minimal-plus-function](https://github.com/user-attachments/assets/4a129265-c715-4909-a86a-911fa3adcf10)
+
+["hyprland/workspaces#rw" icons rewrite from] [Jakoolit dots](https://github.com/j5onrf/dots/tree/main/waybar/hyprland/workspaces%23rw%20icons%20rewrite%20from%20Jakoolit%20dots)
+![Screenshot-2024-09-09_11:20:01](https://github.com/user-attachments/assets/54fa7009-d4e5-4306-845e-66c29e5c5067)
+
+</p>
+</details>
+
+  - This is a demo template. Fix it to work on your system.
+
+  - Arch and [ML4W](https://github.com/mylinuxforwork/dotfiles)
+
+ <details><summary>opacity & blur [i]</summary>
+<p>
+  To add blur I'm using 'blur wallpaper effect' for better performance. Everything with opacity <1 will have blur including waybar. If using ml4w, right click on wallpaper icon to select wallpaper effect blur* = 1,2.
+  
+```
+  decoration {
+    rounding = 0
+    blur {
+        enabled = false
+        size = 6 # default 12
+        passes = 3 # default 4
+        new_optimizations = on
+        ignore_opacity = true
+        xray = true
+      # blurls = waybar
+    }
+    active_opacity = 0.9 # 0.96
+    inactive_opacity = 0.6
+    fullscreen_opacity = 1
+
+    drop_shadow = false
+    shadow_range = 30
+    shadow_render_power = 3
+    col.shadow = 0x66000000
+}
+```
+</p>
+</details>
 
 </p>
 </details>
