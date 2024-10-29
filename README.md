@@ -118,6 +118,18 @@ gruv
 
 # Hypr<sup> / Shots</sup>
 
+(2024-oct28) Min-Blueberry-S🫐 best setup i ever had
+![Screenshot-2024-10-28_21:35:32](https://github.com/user-attachments/assets/d5e0da2e-385a-40fc-bb49-ac71488d8039)
+
+<details><summary>+ScreenShots</summary>
+<p>
+
+(2024-oct28) Min-Blueberry-S🫐 workflow & gtk 4.0 blueberry theme soon
+![Screenshot-2024-10-28_21:28:43](https://github.com/user-attachments/assets/879c4de9-4d82-42ee-9504-a54a3743443d)
+
+<details><summary>+ScreenShots</summary>
+<p>
+
 (2024-oct23) Min-Blueberry🫐 [floating<sup> bar</sup>](https://github.com/j5onrf/dots/tree/main/waybar/Min-Blueberry/Floating-Bar) [btop<sup> .theme</sup>](https://github.com/j5onrf/dots/blob/main/extras/btop/Screenshot-2024-10-24_12%3A08%3A06.png) 
 ![Screenshot-2024-10-23_11:18:33](https://github.com/user-attachments/assets/390de971-96d3-4c53-831c-59a5610f5279)
 
@@ -136,6 +148,8 @@ https://github.com/j5onrf/dots/blob/main/waybar/Screenshot%20Archive/Screenshots
 ```
 
 </p>
+</details>
+</details>
 </details>
 </details>
 <br>
