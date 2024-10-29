@@ -201,13 +201,15 @@ https://github.com/j5onrf/dots/blob/main/waybar/Screenshot%20Archive/Screenshots
 <p>
   
 ```
-# notification change from - dunstify
+# Notifications change from - dunstify
 
 # Load cliphist history
 # exec-once = wl-paste --watch cliphist store --auto-delete 300
 
 # Hyprpanel
 bind = $mainMod, H, exec, ags -t bar-0 # Toggle Hyprpanel
+
+# Waybar
 bind = $mainMod, W, exec,  ~/.config/waybar/launch.sh # Relaunch Waybar
 bind = $mainMod, C, exec, ~/.config/waybar/toggle.sh # Toggle waybar
 
@@ -233,23 +235,11 @@ windowrulev2 = size 1100 900,class:(.*org.gnome.Weather.*)
 windowrulev2 = center,class:(.*org.gnome.Weather.*)
 windowrulev2 = pin,class:(.*org.gnome.Weather.*)
 
-# btrfs-assistant App floating
-windowrulev2 = float,class:(.*btrfs-assistant.*)
-windowrulev2 = size 1100 900,class:(.*btrfs-assistant.*)
-windowrulev2 = center,class:(.*btrfs-assistant.*)
-windowrulev2 = pin,class:(.*btrfs-assistant.*)
-
 # keepassxc App floating
 windowrulev2 = float,class:(.*keepassxc.*)
 windowrulev2 = size 1300 1100,class:(.*keepassxc.*)
 windowrulev2 = center,class:(.*keepassxc.*)
 windowrulev2 = pin,class:(.*keepassxc.*)
-
-# qbittorrent App floating
-# windowrulev2 = float,class:(.*qbittorrent.*)
-# windowrulev2 = size 1300 1100,class:(.*qbittorrent.*)
-# windowrulev2 = center,class:(.*qbittorrent.*)
-# windowrulev2 = pin,class:(.*qbittorrent.*)
 
 ```
 </p>
