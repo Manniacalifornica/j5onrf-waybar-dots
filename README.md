@@ -7,8 +7,8 @@
 <p>
 
 ```
-ags -t bar-0  # Toggle HyprPanel
-bind = $mainMod CTRL, B,  # Toggle Waybar
+bind = $mainMod, H, exec, ags -t bar-0 # Toggle Hyprpanel
+bind = $mainMod, C, exec, ~/.config/waybar/toggle.sh # Toggle waybar
 ```
 
 </p>
