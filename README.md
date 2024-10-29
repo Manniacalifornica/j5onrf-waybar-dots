@@ -210,7 +210,7 @@ https://github.com/j5onrf/dots/blob/main/waybar/Screenshot%20Archive/Screenshots
 bind = $mainMod, H, exec, ags -t bar-0 # Toggle Hyprpanel
 
 # Waybar
-bind = $mainMod, W, exec,  ~/.config/waybar/launch.sh # Relaunch Waybar
+bind = $mainMod, W, exec, ~/.config/waybar/launch.sh # Relaunch Waybar
 bind = $mainMod, C, exec, ~/.config/waybar/toggle.sh # Toggle waybar
 
 # terminals
