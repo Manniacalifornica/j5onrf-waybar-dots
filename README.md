@@ -8,7 +8,7 @@
 
 ```
 bind = $mainMod, H, exec, ags -t bar-0 # Toggle HyprPanel
-bind = $mainMod, C, exec, ~/.config/waybar/toggle.sh # Toggle WayBar/SideBar
+bind = $mainMod, C, exec, ~/.config/waybar/toggle.sh # Toggle WayBar
 ```
 
 </p>
