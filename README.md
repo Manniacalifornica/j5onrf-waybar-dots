@@ -7,8 +7,8 @@
 <p>
 
 ```
-bind = $mainMod, H, exec, ags -t bar-0 # Toggle Hyprpanel
-bind = $mainMod, C, exec, ~/.config/waybar/toggle.sh # Toggle waybar
+bind = $mainMod, H, exec, ags -t bar-0 # Toggle HyprPanel
+bind = $mainMod, C, exec, ~/.config/waybar/toggle.sh # Toggle WayBar/SideBar
 ```
 
 </p>
@@ -63,7 +63,7 @@ https://github.com/j5onrf/dots/blob/main/waybar/Screenshot%20Archive%202/Screens
 </details>
 <br>
 
-# Waybar
+# WayBar
 
 (2024-oct25) Min-Blueberry-S [dots sidebar 🚧](https://github.com/j5onrf/dots/tree/main/waybar/Min-Blueberry/Sidebar)
 ![Screenshot-2024-10-26_09:30:052](https://github.com/user-attachments/assets/134ddb7a-edbe-420d-be89-5cf93cfdcb1e)
@@ -140,7 +140,7 @@ https://github.com/j5onrf/dots/blob/main/waybar/Screenshot%20Archive/Screenshots
 </details>
 <br>
 
-# Full Waybar Scroll
+# Full WayBar Scroll
 
 ### Left -center scrolls workspaces. Right center- scrolls volume
   
