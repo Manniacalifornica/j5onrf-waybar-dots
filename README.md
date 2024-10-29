@@ -21,19 +21,19 @@ bind = $mainMod, C, exec, ~/.config/waybar/toggle.sh # Toggle WayBar
 <details><summary>+ScreenShots</summary>
 <p>
 
-(2024-oct26) HyprPanel & Waybar
+(2024-oct26) HyprPanel & WayBar
 ![Screenshot-2024-10-27_13:17:04](https://github.com/user-attachments/assets/5f92cc50-62c7-46c3-ac23-81b716305b8c)
 
 <details><summary>+ScreenShots</summary>
 <p>
 
-(2024-oct27) HyprPanel & Waybar
+(2024-oct27) HyprPanel & WayBar
 ![Screenshot-2024-10-27_16:35:55](https://github.com/user-attachments/assets/f0cdebe9-56e6-4e46-b400-a07b801838e0)
 
 <details><summary>+ScreenShots</summary>
 <p>
 
-(2024-oct14) HyprPanel & Waybar
+(2024-oct14) HyprPanel & WayBar
 ![Screenshot-2024-10-14_08:10:15](https://github.com/user-attachments/assets/ba04a317-20d5-4411-a14f-a8c9f577b426)
 
 <details><summary>+ScreenShots</summary>
