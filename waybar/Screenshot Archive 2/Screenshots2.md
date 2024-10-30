@@ -1,5 +1,23 @@
 # Hyprpanel & Waybar<sup> / shots</sup> 
 
+(2024-oct14) HyprPanel & WayBar
+![Screenshot-2024-10-14_08:10:15](https://github.com/user-attachments/assets/ba04a317-20d5-4411-a14f-a8c9f577b426)
+
+<details><summary>+ScreenShots</summary>
+<p>
+
+(2024-oct16) Min-Hyprtidy [Rofi<sup>900</sup>-3S](https://github.com/j5onrf/dots/tree/main/rofi/Rofi-900-3column-Square)
+![Screenshot-2024-10-16_16:54:01](https://github.com/user-attachments/assets/d43ecee9-8332-4141-a372-1c10943f3856)
+
+<details><summary>+ScreenShots</summary>
+<p>
+
+(2024-oct16) Min-Hyprtidy [Rofi<sup>900</sup>-3](https://github.com/j5onrf/dots/tree/main/rofi/Rofi-900-3column)
+![Screenshot-2024-10-16_10:40:36](https://github.com/user-attachments/assets/8bbee93e-849d-4968-80a9-08d060623597)
+
+<details><summary>+ScreenShots</summary>
+<p>
+
 (2024-oct13) 
 ![Screenshot-2024-10-14_12:16:28](https://github.com/user-attachments/assets/1e6238e0-3cda-4981-92ff-16d466da76e4)
 
