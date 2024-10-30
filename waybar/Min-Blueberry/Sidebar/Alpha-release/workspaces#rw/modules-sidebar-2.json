@@ -10,7 +10,6 @@
 // Workspaces
 {
 "hyprland/workspaces#rw": {
-        "orientation": "vertical",
 	"disable-scroll": true,
 	"all-outputs": true,
 	"warp-on-scroll": false,
