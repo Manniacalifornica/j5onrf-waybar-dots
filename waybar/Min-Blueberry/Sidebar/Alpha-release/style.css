@@ -6,7 +6,7 @@
 *  |___  /____/____/  \___  >___  /\___  >__|   |__|   / ____|
 *      \/                 \/    \/     \/              \/  
 *    ML4W
-*  Min-Blueberry-S 1.1 Alpha (Updated on 10-28-2024)
+*  Min-Blueberry-S 1.2 Alpha (Updated on 10-30-2024)
 * -----------------------------------------------------  
 */
  
@@ -18,7 +18,7 @@
     font-family: "JetBrainsMono Nerd Font Propo", "Font Awesome 6 Free";
     border: 0px;
     border-radius: 0px;
-    font-weight: 400;
+    font-weight: 500;
 }
 window#waybar {
     background-color: #14131D;
@@ -28,28 +28,30 @@ window#waybar {
 
 /* Workspaces Styles */
 #workspaces {
-    margin: 0px;
+    margin: 2px 0px;
     font-size: 28px;
 }
 #workspaces button {
-    margin: 0px 5px;
+    margin: 2px 7px;
     color: @waybarcolor;
 /*    border: 0.15px solid rgba(0, 0, 0, 0.0); */
     border-left: 3px solid rgba(0, 0, 0, 0.0);
 }
 #workspaces button.active {
+    margin: 2px 7px;
     color: @waybarcolor;
     border-radius: 0.7rem;
 /*    border: 0.15px solid rgb(187, 187, 255); */
-/* background: #373250; */
     border-left: 3px solid #BBBBFF;
 }
 #workspaces button:hover {
-    border-radius: 3px;
-    background: #343051;
+    color: #13131D;
+    border-radius: 5px;
+    background: #BBBBFF;
 }
 #workspaces button.empty {
-    opacity: 0.05;
+    color: #343051;
+    opacity: 0.3;
 }
 
 /* Module Styles */
