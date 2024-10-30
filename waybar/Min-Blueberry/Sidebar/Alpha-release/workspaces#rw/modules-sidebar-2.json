@@ -30,7 +30,7 @@
 		"title<.*reddit.*>": "",
 		"title<.*dot.*>": "",
 		"title<.*Picture-in-Picture.*>": "",
-		"class<freetube>": "<span font_desc='Font Awesome 6 Free 5em'></span>",
+		"class<freetube>": "<span font_desc='Font Awesome 6 Free 28'></span>",
 		"class<gimp-2.10>": "",
 		"class<org.gnome.Weather>": "",
 		"class<io.missioncenter.MissionCenter>": "",
