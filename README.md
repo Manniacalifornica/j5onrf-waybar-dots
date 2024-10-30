@@ -118,6 +118,12 @@ gruv
 
 # Hypr<sup> / Shots</sup>
 
+(2024-oct29) Min-Blueberry-S🫐 This will be default button style w/ optional 2nd
+![Screenshot-2024-10-29_19:48:11](https://github.com/user-attachments/assets/f339e7a2-0dc9-4e86-91ba-7a5e5e7beb51)
+
+<details><summary>+ScreenShots</summary>
+<p>
+
 (2024-oct28) Min-Blueberry-S🫐 best setup i ever had
 ![Screenshot-2024-10-28_21:35:32](https://github.com/user-attachments/assets/d5e0da2e-385a-40fc-bb49-ac71488d8039)
 
