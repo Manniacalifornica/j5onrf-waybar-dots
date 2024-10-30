@@ -131,7 +131,7 @@ gruv
 <p>
 
 (2024-oct28) Min-Blueberry-S🫐 workflow & gtk 4.0 blueberry theme soon <br>
-gtk theming for 47 is a mess, i might switch to SublimeText~
+(2024-oct29) gtk theming for 47 is a mess, i might switch to SublimeText~
 ![Screenshot-2024-10-28_21:28:43](https://github.com/user-attachments/assets/879c4de9-4d82-42ee-9504-a54a3743443d)
 
 <details><summary>+ScreenShots</summary>
