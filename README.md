@@ -116,7 +116,14 @@ gruv
 </details>
 <br>
 
+
 # Hypr<sup> / Shots</sup>
+
+(2024-oct29) Min-Blueberry-S🫐 Optional workspaces#rw 
+![Screenshot-2024-10-30_15:16:53](https://github.com/user-attachments/assets/f83a791b-93d6-4fb8-b06b-da27ba1d2a3d)
+
+<details><summary>+ScreenShots</summary>
+<p>
 
 (2024-oct29) Min-Blueberry-S🫐 Optional 2nd button style
 ![Screenshot-2024-10-29_19:23:06](https://github.com/user-attachments/assets/b8109956-689d-4ca7-b20b-426421163b08)
