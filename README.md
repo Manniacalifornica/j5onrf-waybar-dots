@@ -118,7 +118,7 @@ gruv
 
 # Hypr<sup> / Shots</sup>
 
-(2024-oct29) Min-Blueberry-S🫐 This will be default button style w/ optional 2nd [SideBar](https://github.com/j5onrf/dots/tree/main/waybar/Min-Blueberry/Sidebar/Alpha-release/Button-Style-2)
+(2024-oct29) Min-Blueberry-S🫐 Default button style w/ optional 2nd style [SideBar](https://github.com/j5onrf/dots/tree/main/waybar/Min-Blueberry/Sidebar/Alpha-release/Button-Style-2)
 ![Screenshot-2024-10-29_19:23:06](https://github.com/user-attachments/assets/b8109956-689d-4ca7-b20b-426421163b08)
 
 <details><summary>+ScreenShots</summary>
