@@ -186,7 +186,7 @@
     },
     "modules": [
       "custom/settings",
-  //  "pulseaudio", 
+      "pulseaudio", 
       "custom/waybarthemes",
       "custom/wallpaper"
    //  "group/quicklinks"
