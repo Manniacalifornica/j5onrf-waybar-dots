@@ -15,7 +15,7 @@ bind = $mainMod, C, exec, ~/.config/waybar/toggle.sh # Toggle WayBar
 
 </details>
 
-(2024-oct27) Blueberry [HyprPanel <sup>theme</sup>](https://github.com/j5onrf/dots/tree/main/HyprPanel) & Sidebar [Wallpapers](https://github.com/j5onrf/walls/tree/main/Blueberry/Blueberry-Arch-Blur)
+(2024-oct27) Blueberry [HyprPanel <sup>theme</sup>](https://github.com/j5onrf/dots/tree/main/HyprPanel) & [Wallpapers](https://github.com/j5onrf/walls/tree/main/Blueberry/Blueberry-Arch-Blur)
 ![Screenshot-2024-10-27_13:17:04](https://github.com/user-attachments/assets/5f92cc50-62c7-46c3-ac23-81b716305b8c)
 
 <details><summary>+ScreenShots</summary>
