@@ -75,7 +75,7 @@
 
 // Updates
   "custom/updates": {
-    "format": "󰚰{}",
+    "format": "󰚰|{}",
     "escape": true,
     "return-type": "json",
     "exec": "~/.config/ml4w/scripts/updates.sh",
