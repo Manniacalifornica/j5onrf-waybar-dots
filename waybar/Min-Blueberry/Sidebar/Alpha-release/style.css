@@ -6,7 +6,7 @@
 *  |___  /____/____/  \___  >___  /\___  >__|   |__|   / ____|
 *      \/                 \/    \/     \/              \/  
 *    ML4W
-*  Min-Blueberry-S 1.2 Alpha (Updated on 10-30-2024)
+*  Min-Blueberry-S 1.2.5 Alpha (Updated on 10-30-2024)
 * -----------------------------------------------------  
 */
  
@@ -159,7 +159,6 @@ window#waybar.empty #window {
 /* Network Styles */
 #custom-hyprshade,
 #custom-cliphist,
-#custom-updates,
 #network {
     color: @waybarcolor;
     margin: 0px 5px;
@@ -195,7 +194,9 @@ window#waybar.empty #window {
 }
 
 /* Cpu Memory */
-#cpu, #memory {
+#cpu, 
+#memory,
+#custom-updates{
     margin: 0px 5px;
     padding: 10px 0px;
     color: @waybarcolor;
