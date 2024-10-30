@@ -6,8 +6,7 @@
 *  |___  /____/____/  \___  >___  /\___  >__|   |__|   / ____|
 *      \/                 \/    \/     \/              \/  
 *    ML4W
-*  Min-Blueberry-S 1.1 Alpha (Updated on 10-29-2024)
-* Button-style-2
+*  Min-Blueberry-S2 1.1 Alpha (Updated on 10-29-2024)
 * -----------------------------------------------------  
 */
  
@@ -29,17 +28,17 @@ window#waybar {
 
 /* Workspaces Styles */
 #workspaces {
-    margin: 0px;
+    margin: 3px 0px;
     font-size: 28px;
 }
 #workspaces button {
-    margin: 0px 7px;
+    margin: 3px 7px;
     color: @waybarcolor;
 /*    border: 0.15px solid rgba(0, 0, 0, 0.0); */
     border-left: 3px solid rgba(0, 0, 0, 0.0);
 }
 #workspaces button.active {
-    margin: 0px 7px;
+    margin: 3px 7px;
     color: #13131D;
     border-radius: 5px;
 /*    border: 0.15px solid rgb(187, 187, 255); */
@@ -239,5 +238,4 @@ tooltip {
 tooltip label {
     color: @waybarcolor;
 }
-
 
