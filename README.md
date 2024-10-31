@@ -102,28 +102,36 @@ gruv
 
 # Hypr<sup> / Shots</sup>
 
-(2024-oct31) Min-Blueberry🫐 Rofi [quick-simple-blueberry-rofi-bc-pywal-can-be-ugly](https://github.com/j5onrf/dots/tree/main/rofi/Blueberry%20Rofi)
+<details><summary>(2024-oct29)Min-Blueberry🫐 Rofi quick-simple-blueberry-rofi-no-pywal</summary>
+<p>
+  
+[quick-simple-blueberry-rofi](https://github.com/j5onrf/dots/tree/main/rofi/Blueberry%20Rofi)
+![Screenshot-2024-10-31_09:37:04](https://github.com/user-attachments/assets/7a358a16-86c9-461b-bf8b-cf68b37711ee)
 
-(2024-oct30) Min-Blueberry-S🫐 Optional [workspaces#rw](https://github.com/j5onrf/dots/tree/main/waybar/Min-Blueberry/Sidebar/Alpha-release/workspaces%23rw)
+</details>
+
+<details open><summary>(2024-oct30) Min-Blueberry-S🫐 Optional workspaces#rw</summary>
+<p>
+
+[workspaces#rw](https://github.com/j5onrf/dots/tree/main/waybar/Min-Blueberry/Sidebar/Alpha-release/workspaces%23rw)
 ![Screenshot-2024-10-30_15:16:53](https://github.com/user-attachments/assets/f83a791b-93d6-4fb8-b06b-da27ba1d2a3d)
 
-<details><summary>+ScreenShots</summary>
+</details>
+
+<details><summary>(2024-oct29) Min-Blueberry-S🫐 Optional 2nd button style</summary>
 <p>
 
-(2024-oct29) Min-Blueberry-S🫐 Optional [2nd button style](https://github.com/j5onrf/dots/tree/main/waybar/Min-Blueberry/Sidebar/Alpha-release/Button-Style-2)
+Optional [2nd button style](https://github.com/j5onrf/dots/tree/main/waybar/Min-Blueberry/Sidebar/Alpha-release/Button-Style-2)
 ![Screenshot-2024-10-29_19:23:06](https://github.com/user-attachments/assets/b8109956-689d-4ca7-b20b-426421163b08)
 
-<details><summary>+ScreenShots</summary>
+</details>
+
+<details><summary>(2024-oct28) Min-Blueberry-S🫐 workflow & gtk 47</summary>
 <p>
 
-(2024-oct28) Min-Blueberry-S🫐 workflow & gtk 47
 ![Screenshot-2024-10-28_21:28:43](https://github.com/user-attachments/assets/879c4de9-4d82-42ee-9504-a54a3743443d)
 
-<details><summary>+ScreenShots</summary>
-<p>
-
-(2024-oct28) Min-Blueberry-S🫐 best setup i ever had
-![Screenshot-2024-10-28_21:35:32](https://github.com/user-attachments/assets/d5e0da2e-385a-40fc-bb49-ac71488d8039)
+</details>
 
 <details><summary>+ScreenShots</summary>
 <p>
