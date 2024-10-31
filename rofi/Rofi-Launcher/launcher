@@ -1,4 +1,4 @@
-# Rofi launcher. Place launcher in rofi/bin.
+# Rofi launcher. Place launcher in rofi/bin. Place .rasi files in rofi/config. You can have multi launchers.
 
 #!/usr/bin/env bash
 rofi \
