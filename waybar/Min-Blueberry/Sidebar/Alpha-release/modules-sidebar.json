@@ -5,7 +5,7 @@
 // |_|  |_|\___/ \__,_|\__,_|_|\___||___/
 //
 //  ML4W
-// (2025) Min-Blueberry-S2
+// (2025) Min-Blueberry-Sidebar 10-31-2024
 
 // Workspaces
 {
@@ -38,17 +38,6 @@
 		"14": "",
 		"15": "",
 		}   
-  },
-
-   // Hyprland Window
-  "hyprland/window": {
-    "format": "{title:.60}",
-    "rewrite": {
-      "(.*) - Brave": "$1",
-      "(.*) - Chromium": "$1",
-      "(.*) - Brave Search": "$1"
-    },
-    "separate-outputs": true
   },
 
   // Empty
@@ -92,7 +81,7 @@
     "tooltip-format": "Left: Select a wallpaper\nRight: Select wallpaper effect"
   },
 
-  // Waybar Themes   
+  // Waybar Themes
   "custom/waybarthemes": {
     "format": "",
     "on-click": "~/.config/waybar/themeswitcher.sh",
@@ -170,12 +159,12 @@
       "pulseaudio", 
       "custom/waybarthemes",
       "custom/wallpaper"
-   //  "group/quicklinks"
+   // "group/quicklinks"
   //  "wlr/taskbar"
     ]
   },
 
-  // Network 
+  // Network
   "network": {
     "format": "{ifname}",
     "format-ethernet": "󰲝",
@@ -189,4 +178,3 @@
   },
   
   }
-
