@@ -102,7 +102,7 @@ gruv
 
 # Hypr<sup> / Shots</sup>
 
-<details><summary>(2024-oct31)Min-Blueberry🫐 Rofi quick-simple-blueberry-rofi</summary>
+<details><summary>(2024-oct31)Min-Blueberry🫐 Rofi quick-simple-blueberry</summary>
 <p>
  
 [quick-simple-blueberry-rofi](https://github.com/j5onrf/dots/tree/main/rofi/Blueberry%20Rofi)
