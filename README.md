@@ -102,9 +102,14 @@ gruv
 
 # Hypr<sup> / Shots</sup>
 
+<details open><summary>(2024-oct31) Min-Everforest-S Theme 🚧</summary>
+<p>
 
+![Screenshot-2024-10-31_16:32:25](https://github.com/user-attachments/assets/4c1015e5-00d2-464b-acdd-480ff516b1dd)
 
-<details open><summary>(2024-oct30) Min-Blueberry-S🫐 Optional workspaces#rw</summary>
+</details>
+
+<details><summary>(2024-oct30) Min-Blueberry-S🫐 Optional workspaces#rw</summary>
 <p>
 
 [workspaces#rw](https://github.com/j5onrf/dots/tree/main/waybar/Min-Blueberry/Sidebar/Alpha-release/workspaces%23rw)
