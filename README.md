@@ -102,7 +102,7 @@ gruv
 
 # Hypr<sup> / Shots</sup>
 
-<details open><summary>(2024-oct31) Everforest-S🌿 🚧</summary>
+<details open><summary>(2024-oct31) Everforest-S🌿 colorscheme 🚧</summary>
 <p>
 
 ![Screenshot-2024-10-31_16:32:25](https://github.com/user-attachments/assets/4c1015e5-00d2-464b-acdd-480ff516b1dd)
