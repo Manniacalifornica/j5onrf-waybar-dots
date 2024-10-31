@@ -102,10 +102,6 @@ gruv
 # Hypr<sup> / Shots</sup>
 
 (2024-oct31) Min-Blueberry🫐 Rofi [quick-simple-blueberry-rofi-bc-pywal-can-be-ugly](https://github.com/j5onrf/dots/tree/main/rofi/Blueberry%20Rofi)
-![Screenshot-2024-10-31_09:37:04](https://github.com/user-attachments/assets/626c30f9-7efb-4958-b8e9-2a7ed84662ef)
-
-<details><summary>+ScreenShots</summary>
-<p>
 
 (2024-oct30) Min-Blueberry-S🫐 Optional [workspaces#rw](https://github.com/j5onrf/dots/tree/main/waybar/Min-Blueberry/Sidebar/Alpha-release/workspaces%23rw)
 ![Screenshot-2024-10-30_15:16:53](https://github.com/user-attachments/assets/f83a791b-93d6-4fb8-b06b-da27ba1d2a3d)
