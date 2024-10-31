@@ -52,8 +52,6 @@ https://github.com/j5onrf/dots/blob/main/waybar/Screenshot%20Archive%202/Screens
 (2024-oct23) Min-Blueberry [dots](https://github.com/j5onrf/dots/tree/main/waybar/Min-Blueberry)
 ![Screenshot-2024-10-22_18:10:23](https://github.com/user-attachments/assets/1678306d-1d1b-4a26-8fc8-e595b041e62b)
 ![Screenshot-2024-10-23_11:08:38](https://github.com/user-attachments/assets/aec7baec-f876-4df5-979d-0e32bb479380)
-(2024-oct14) Min-Hyprtidy [dots](https://github.com/j5onrf/dots/tree/main/waybar/Min-Hyprtidy)
-![Screenshot-2024-10-14_15:13:50](https://github.com/user-attachments/assets/48a256de-b979-49d9-8912-c2c4be1d33d0)
 onedark-pixel
 ![Screenshot-2024-10-14_06:48:44](https://github.com/user-attachments/assets/29332da7-133b-427d-9d94-b57c46a039dd)
 everforest
@@ -63,6 +61,9 @@ gruv
 
 <details><summary>Archived</summary>
 <p>
+
+(2024-oct14) Min-Hyprtidy [dots](https://github.com/j5onrf/dots/tree/main/waybar/Min-Hyprtidy)
+![Screenshot-2024-10-14_15:13:50](https://github.com/user-attachments/assets/48a256de-b979-49d9-8912-c2c4be1d33d0)
 
 (2024-oct9) Min-Hyprclean 
 ![Screenshot-2024-10-09_08:59:42](https://github.com/user-attachments/assets/68e0ae88-b51d-46d4-8040-39a87f8578f4)
