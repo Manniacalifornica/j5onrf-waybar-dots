@@ -5,7 +5,7 @@
 // |_|  |_|\___/ \__,_|\__,_|_|\___||___/
 //
 //  ML4W
-// (2025) Min-Blueberry-S2
+// (2025) Min-Blueberry-S-RW
 
 // Workspaces
 {
@@ -20,7 +20,7 @@
 	"on-scroll-down": "hyprctl dispatch workspace e+1",
      // "format": "{icon} {windows}",
 	"format": "{windows}",  
-	"persistent-workspaces": {"*": 15},
+	"persistent-workspaces": {"*": 13},
 	"format-window-separator":"\n",
 	"window-rewrite-default": "",
 	"window-rewrite": {
@@ -165,7 +165,7 @@
     "tooltip": false
   },
 
-  // Group Hardware , ,"cpu","memory"
+  // Group Hardware  ,"cpu","memory"
   "group/hardware": {
     "orientation": "inherit",
     "drawer": {
@@ -189,12 +189,12 @@
       "pulseaudio", 
       "custom/waybarthemes",
       "custom/wallpaper"
-   //  "group/quicklinks"
+  //  "group/quicklinks"
   //  "wlr/taskbar"
     ]
   },
 
-  // Network 
+  // Network
   "network": {
     "format": "{ifname}",
     "format-ethernet": "󰲝",
