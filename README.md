@@ -105,8 +105,9 @@ gruv
 <details><summary>(2024-oct31)Min-Blueberry🫐 Rofi quick-simple-blueberry</summary>
 <p>
  
-[quick-simple-blueberry-rofi](https://github.com/j5onrf/dots/tree/main/rofi/Blueberry%20Rofi)
+[quick-simple-blueberry-rofi](https://github.com/j5onrf/dots/tree/main/rofi/Blueberry%20Rofi) no-pywal
 ![Screenshot-2024-10-31_09:37:04](https://github.com/user-attachments/assets/7a358a16-86c9-461b-bf8b-cf68b37711ee)
+with pywal
 ![Screenshot-2024-10-31_12:00:20](https://github.com/user-attachments/assets/b8721113-c826-4624-bd0f-b01036dcf3e9)
 
 </details>
