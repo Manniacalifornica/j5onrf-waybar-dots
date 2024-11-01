@@ -51,7 +51,7 @@ window {
     margin:                       0px; 
     color:                        #FFFFFF;
     border:                       @border-width;
-    border-color:                 #83C092;
+    border-color:                 #A7C080;
     cursor:                       "default";
     transparency:                 "real";
     location:                     center;
