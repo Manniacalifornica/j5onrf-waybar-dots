@@ -105,7 +105,7 @@ gruv
 <details open><summary>(2024-Nov01) Everforest🌿 Rofi</summary>
 <p>
   
-[everforest_simple.rasi](https://github.com/j5onrf/dots/tree/main/rofi/EverForest%20Rofi)
+[everforest_simple.rasi](https://github.com/j5onrf/dots/tree/main/rofi/EverForest%20Rofi) - [walls](https://github.com/j5onrf/walls/tree/main/EverForest/EverForest_Arch) 
 ![Screenshot-2024-10-31_16:32:25](https://raw.githubusercontent.com/j5onrf/dots/refs/heads/main/rofi/EverForest%20Rofi/Screenshot-2024-11-01_18%3A35%3A28.png)
 </details>
 
