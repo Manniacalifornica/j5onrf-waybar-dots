@@ -102,13 +102,14 @@ gruv
 
 # Hypr<sup> / Shots</sup>
 
-<details><summary>(2024-Nov01) Everforest🌿 Rofi</summary>
+<details open><summary>(2024-Nov01) Everforest🌿 Rofi</summary>
 <p>
   
 [everforest_simple.rasi](https://github.com/j5onrf/dots/tree/main/rofi/EverForest%20Rofi)
+![Screenshot-2024-10-31_16:32:25](https://raw.githubusercontent.com/j5onrf/dots/refs/heads/main/rofi/EverForest%20Rofi/Screenshot-2024-11-01_18%3A35%3A28.png)
 </details>
 
-<details open><summary>(2024-oct31) Everforest-S🌿 colorscheme 🚧</summary>
+<details><summary>(2024-oct31) Everforest-S🌿 colorscheme 🚧</summary>
 <p>
 
 ![Screenshot-2024-10-31_16:32:25](https://github.com/user-attachments/assets/4c1015e5-00d2-464b-acdd-480ff516b1dd)
