@@ -49,7 +49,6 @@ https://github.com/j5onrf/dots/blob/main/waybar/Screenshot%20Archive%202/Screens
 
 (2024-nov02) Everforest-S [dots sidebar 🚧](https://github.com/j5onrf/dots/tree/main/waybar/EverForest-Vivid-Sidebar-RW-B2) (updates-11-02)
 ![Sidebar_EF_02](https://github.com/user-attachments/assets/8b169fd0-27a2-46ce-a0e5-f6fc8c2bf9ef)
-
 (2024-oct25) Min-Blueberry-S [dots sidebar 🚧](https://github.com/j5onrf/dots/tree/main/waybar/Min-Blueberry/Sidebar) (updates-10-30)
 ![Screenshot-2024-10-26_09:30:052](https://github.com/user-attachments/assets/134ddb7a-edbe-420d-be89-5cf93cfdcb1e)
 (2024-oct23) Min-Blueberry [dots](https://github.com/j5onrf/dots/tree/main/waybar/Min-Blueberry)
@@ -109,7 +108,7 @@ gruv
 <p>
   
 [everforest.rasi](https://github.com/j5onrf/dots/tree/main/rofi/EverForest%20Rofi) - [walls](https://github.com/j5onrf/walls/tree/main/EverForest/EverForest_Arch) 
-![Screenshot-2024-11-01_20:19:55](https://github.com/user-attachments/assets/a00db34c-b8e4-40e9-862d-76e7f669c077)
+![Screenshot-2024-11-01_23:56:26](https://github.com/user-attachments/assets/c02e5d51-7335-493a-bc13-623e78e70884)
 </details>
 
 <details><summary>(2024-oct31) Everforest-S🌿 colorscheme 🚧</summary>
