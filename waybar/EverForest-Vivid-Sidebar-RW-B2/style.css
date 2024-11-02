@@ -5,7 +5,7 @@
 /_______  / \_/  \___  >__|  \___  / \____/|__|   \___  >____  >|__|  
         \/           \/          \/                   \/     \/       
 *    ML4W
-*  Everforest-Vivid-S 1.4 Alpha (Updated on 11-02-2024)
+*  Everforest-Vivid-S 1.4 Alpha (Updated on 11-01-2024)
 * -----------------------------------------------------  
 */
  
@@ -46,7 +46,7 @@ window#waybar {
 #workspaces button:hover {
     color: @color1;
     border-radius: 0.7rem;
-    background: @waybarcolor;
+    background: #E69875;
 }
 #workspaces button.empty {
     color: @waybarcolor;
@@ -133,7 +133,6 @@ window#waybar.empty #window {
 /* Custom Quicklinks Styles */
 #custom-waybarthemes {
     font-size: 28px;
-
 }
 
 /* Right-side App Tray Slider */
@@ -185,6 +184,7 @@ window#waybar.empty #window {
 }
 
 /* Cpu Memory */
+/* Tray Styles */
 #cpu, 
 #memory,
 #custom-updates{
@@ -193,12 +193,12 @@ window#waybar.empty #window {
 
 #cpu, #memory, 
 #custom-updates, 
-#custom-waybarthemes {
+#custom-waybarthemes,
+#tray {
     margin: 0px 5px;
     padding: 10px 0px;
     color: @waybarcolor;
 }
-
 
 /* Pulseaudio Styles */
 #pulseaudio {
@@ -208,13 +208,7 @@ window#waybar.empty #window {
     font-size: 28px;
 }
 #pulseaudio.muted {
-    color: #ed8796;
-}
-
-/* Tray Styles */
-#tray {
-    margin: 0px 5px;
-    padding: 10px 0px;
+    color: #E69875;
 }
 
 /* tooltip */
@@ -229,5 +223,4 @@ tooltip label {
     color: @waybarcolor;
     font-weight: 900;
 }
-
 
