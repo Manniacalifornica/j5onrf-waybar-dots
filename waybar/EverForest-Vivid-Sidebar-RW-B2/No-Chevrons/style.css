@@ -77,35 +77,25 @@ window#waybar.empty #window {
 #window:hover,
 #cpu:hover, 
 #memory:hover,
-#custom-appmenu:hover,
-#custom-exit:hover,
 #custom-hyprshade:hover,
 #custom-cliphist:hover,
 #custom-updates:hover,
 #network:hover,
 #custom-wallpaper:hover,
 #custom-waybarthemes:hover,
-#tray:hover,
-#custom-appmenu:hover {
+#tray:hover {
     margin: 0px 5px;
     padding: 10px 0px;
     color: @color1;
     border-radius: 3px;
     background: @bgcolor1;
-    transition: background-color, 0.2s ease-in-out;
 }
-#custom-appmenu:hover{
-    border-radius: 6px;
-    color: @color1;
-    background: @bgcolor1;
-    transition: background-color, 0.2s ease-in-out;
-    font-size: 28px;
-    opacity: 1.0;
-}
+#custom-appmenu:hover,
 #custom-exit:hover{
     border-radius: 6px;
     color: @color1;
     background: @bgcolor1;
+    transition: background-color, 0.2s ease-in-out;
     font-size: 28px;
     opacity: 1.0;
 }
@@ -125,7 +115,6 @@ window#waybar.empty #window {
     font-size: 28px;
     color: @color1;
     background: #E69875; 
-    transition: background-color, 0.2s ease-in-out;
 }
 #custom-wallpaper {
     margin: 0px 5px 20px 5px;
