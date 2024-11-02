@@ -130,10 +130,10 @@ window#waybar.empty #window {
 /* Bottom App Tray Slider */
 /* Top App Tray Slider */
 #custom-system {
-color: @bgcolor1;
+color: @waybarcolor;
 }
 #custom-settings {
-color: @bgcolor1;
+color: @waybarcolor;
 }
 
 /* Screen Shader */
