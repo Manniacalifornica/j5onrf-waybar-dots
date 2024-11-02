@@ -106,7 +106,7 @@ gruv
 <p>
   
 [everforest.rasi](https://github.com/j5onrf/dots/tree/main/rofi/EverForest%20Rofi) - [walls](https://github.com/j5onrf/walls/tree/main/EverForest/EverForest_Arch) 
-![Screenshot-2024-10-31_16:32:25](https://raw.githubusercontent.com/j5onrf/dots/refs/heads/main/rofi/EverForest%20Rofi/Screenshot-2024-11-01_18%3A35%3A28.png)
+![Screenshot-2024-11-01_20:19:55](https://github.com/user-attachments/assets/a00db34c-b8e4-40e9-862d-76e7f669c077)
 </details>
 
 <details><summary>(2024-oct31) Everforest-S🌿 colorscheme 🚧</summary>
