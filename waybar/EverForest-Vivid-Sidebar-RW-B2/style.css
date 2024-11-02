@@ -130,7 +130,7 @@ window#waybar.empty #window {
 /* Bottom App Tray Slider */
 /* Top App Tray Slider */
 #custom-system {
-color: @waybarcolor;
+color: @bgcolor2;
 }
 #custom-settings {
 color: @waybarcolor;
