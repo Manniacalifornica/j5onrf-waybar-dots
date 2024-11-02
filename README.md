@@ -139,7 +139,7 @@ Optional [2nd button style](https://github.com/j5onrf/dots/tree/main/waybar/Min-
 
 </details>
 
-<details><summary>(2024-oct31) Min-Blueberry🫐 Blueberry Rofi</summary>
+<details><summary>(2024-oct31) Blueberry🫐 Rofi</summary>
 <p>
  
 [quick-simple-blueberry-rofi](https://github.com/j5onrf/dots/tree/main/rofi/Blueberry%20Rofi) 
