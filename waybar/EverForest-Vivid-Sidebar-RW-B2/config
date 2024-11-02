@@ -30,15 +30,16 @@
     "pulseaudio": {
         "scroll-step": 3, // %, can be a float
         "format": "{icon}",
+  
         "format-icons": {
-     // "default": ["󰕿", "󰕾", "󰕾"]
+      //  "default": ["󰕿", "󰕾", "󰕾"]
      // "default": ["", "", ""]
-        "default": ["󰗅"]
+         "default": ["󰗅"]
         },
         "on-click": "pactl set-sink-mute @DEFAULT_SINK@ toggle",
         "on-click-right": "ags -t bar-0",
-        "format-muted": "{icon}",
-        "tooltip": true,
+        "format-muted": "󰖁",
+        "tooltip": false,
     },
     
       // Clock :%I:%M  %a%e  pm: %p

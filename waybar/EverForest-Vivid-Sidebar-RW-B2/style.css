@@ -41,7 +41,7 @@ window#waybar {
     margin: 2px 7px;
     color: @color1;
     border-radius: 0.7rem;
-    background: @waybarcolor;
+    background: #DBBC7F;
 }
 #workspaces button:hover {
     color: @color1;
@@ -110,7 +110,7 @@ window#waybar.empty #window {
     margin: 0px 5px;
     border-radius: 5px;
     color: @color1;
-    background: @bgcolor1;  
+    background: #E69875;  
     transition: background-color, 0.2s ease-in-out;
 }
 
@@ -120,7 +120,7 @@ window#waybar.empty #window {
     padding: 10px 0px;
     font-size: 28px;
     color: @color1;
-    background: @bgcolor1; 
+    background: #E69875; 
     transition: background-color, 0.2s ease-in-out;
 }
 #custom-wallpaper {
@@ -207,9 +207,6 @@ window#waybar.empty #window {
     padding: 10px 5px;
     font-size: 28px;
 }
-#pulseaudio.muted {
-    color: #E69875;
-}
 
 /* tooltip */
 tooltip {
@@ -223,4 +220,5 @@ tooltip label {
     color: @waybarcolor;
     font-weight: 900;
 }
+
 
