@@ -128,17 +128,12 @@ window#waybar.empty #window {
     font-size: 28px;
 }
 
-/* Right-side App Tray Slider */
-/* Left-side App Tray Slider */
-#custom-system {
-    font-size: 3px;
-    margin: 0px;
-    opacity: 0.0;
-}
+/* Bottom App Tray Slider */
+/* Top App Tray Slider */
+#custom-system,
 #custom-settings {
-    font-size: 6px;
-    margin: 0px;
-    opacity: 0.0;
+    font-size: 0px;
+    margin: 5px 0px;
 }
 
 /* Screen Shader */
