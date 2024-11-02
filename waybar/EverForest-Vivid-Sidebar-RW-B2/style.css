@@ -5,7 +5,7 @@
 /_______  / \_/  \___  >__|  \___  / \____/|__|   \___  >____  >|__|  
         \/           \/          \/                   \/     \/       
 *    ML4W
-*  Everforest-Vivid-S 1.4 Alpha (Updated on 11-02-2024)
+*  Everforest-Vivid-S 1.5 Alpha (Updated on 11-02-2024)
 * -----------------------------------------------------  
 */
  
@@ -76,36 +76,27 @@ window#waybar.empty #window {
 #window:hover,
 #cpu:hover, 
 #memory:hover,
-#custom-appmenu:hover,
-#custom-exit:hover,
 #custom-hyprshade:hover,
 #custom-cliphist:hover,
 #custom-updates:hover,
 #network:hover,
 #custom-wallpaper:hover,
 #custom-waybarthemes:hover,
-#tray:hover,
-#custom-appmenu:hover {
+#tray:hover {
     margin: 0px 5px;
     padding: 10px 0px;
     color: @color1;
     border-radius: 3px;
     background: @bgcolor1;
-    transition: background-color, 0.2s ease-in-out;
 }
-#custom-appmenu:hover{
-    color: @color1;
-    margin: 0px;
-    padding: 0px;
-    border-radius: 6px;
-    background: @bgcolor1;
-    transition-duration: .2s;
-}
+#custom-appmenu:hover,
 #custom-exit:hover{
     border-radius: 6px;
     color: @color1;
     background: @bgcolor1;
     transition: background-color, 0.2s ease-in-out;
+    font-size: 28px;
+    opacity: 1.0;
 }
 #clock:hover,
 #pulseaudio:hover {
@@ -123,7 +114,6 @@ window#waybar.empty #window {
     font-size: 28px;
     color: @color1;
     background: #E69875; 
-    transition: background-color, 0.2s ease-in-out;
 }
 #custom-wallpaper {
     margin: 0px 5px 20px 5px;
@@ -137,13 +127,13 @@ window#waybar.empty #window {
     font-size: 28px;
 }
 
-/* Right-side App Tray Slider */
-/* Left-side App Tray Slider */
-#custom-settings,
+/* Bottom App Tray Slider */
+/* Top App Tray Slider */
 #custom-system {
-    font-size: 8px;
-    margin: 0px;
-    opacity: 0.0;
+color: @bgcolor1;
+}
+#custom-settings {
+color: @bgcolor1;
 }
 
 /* Screen Shader */
@@ -159,15 +149,12 @@ window#waybar.empty #window {
 }
 
 /* Custom Module appmenu rofi */
-#custom-appmenu {
-    color: @waybarcolor;
-    margin: 0px;
-}
-
 /* Custom Exit Styles wlogout */
+#custom-appmenu,
 #custom-exit {
     margin: 0px;
-    color: @waybarcolor;
+    font-size: 5px;
+    color: @bgcolor2;
 }
 
 /* Clock Styles */
