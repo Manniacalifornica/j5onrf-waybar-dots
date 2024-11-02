@@ -116,7 +116,7 @@ gruv
 
 </details>
 
-<details><summary>(2024-oct30) Min-Blueberry-S🫐 Optional workspaces#rw</summary>
+<details><summary>(2024-oct30) Blueberry-S🫐 Optional workspaces#rw</summary>
 <p>
 
 [workspaces#rw](https://github.com/j5onrf/dots/tree/main/waybar/Min-Blueberry/Sidebar/Alpha-release/workspaces%23rw)
@@ -124,7 +124,7 @@ gruv
 
 </details>
 
-<details><summary>(2024-oct29) Min-Blueberry-S🫐 Optional 2nd button style</summary>
+<details><summary>(2024-oct29) Blueberry-S🫐 Optional 2nd button style</summary>
 <p>
 
 Optional [2nd button style](https://github.com/j5onrf/dots/tree/main/waybar/Min-Blueberry/Sidebar/Alpha-release/Button-Style-2)
@@ -132,7 +132,7 @@ Optional [2nd button style](https://github.com/j5onrf/dots/tree/main/waybar/Min-
 
 </details>
 
-<details><summary>(2024-oct28) Min-Blueberry-S🫐 workflow & gtk 47</summary>
+<details><summary>(2024-oct28) Blueberry-S🫐 workflow & gtk 47</summary>
 <p>
 
 ![Screenshot-2024-10-28_21:28:43](https://github.com/user-attachments/assets/879c4de9-4d82-42ee-9504-a54a3743443d)
