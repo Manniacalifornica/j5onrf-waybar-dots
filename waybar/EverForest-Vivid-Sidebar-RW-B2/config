@@ -30,16 +30,15 @@
     "pulseaudio": {
         "scroll-step": 3, // %, can be a float
         "format": "{icon}",
-  
         "format-icons": {
-      //  "default": ["󰕿", "󰕾", "󰕾"]
+    //  "default": ["󰕿", "󰕾", "󰕾"]
      // "default": ["", "", ""]
          "default": ["󰗅"]
         },
         "on-click": "pactl set-sink-mute @DEFAULT_SINK@ toggle",
         "on-click-right": "ags -t bar-0",
-        "format-muted": "󰖁",
-        "tooltip": false,
+        "format-muted": "󱘂",
+        "tooltip": false
     },
     
       // Clock :%I:%M  %a%e  pm: %p
@@ -76,14 +75,14 @@
   "cpu": {
     "format": "{usage}",
     "on-click": "~/.config/ml4w/settings/systeminfo.sh",
-    "tooltip": true,
+    "tooltip": false
   },
   
   // Memory
   "memory": {
     "format": "{used:0.1f}",
     "on-click": "~/.config/ml4w/settings/systeminfo.sh",
-    "tooltip": true
+    "tooltip": false
   },
   
     // Modules Left
