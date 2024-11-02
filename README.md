@@ -47,7 +47,7 @@ https://github.com/j5onrf/dots/blob/main/waybar/Screenshot%20Archive%202/Screens
 
 # WayBar
 
-(2024-oct25) Everforest-S [dots sidebar 🚧](https://github.com/j5onrf/dots/tree/main/waybar/EverForest-Vivid-Sidebar-RW-B2) (updates-11-02)
+(2024-nov02) Everforest-S [dots sidebar 🚧](https://github.com/j5onrf/dots/tree/main/waybar/EverForest-Vivid-Sidebar-RW-B2) (updates-11-02)
 ![Sidebar_EF_02](https://github.com/user-attachments/assets/8b169fd0-27a2-46ce-a0e5-f6fc8c2bf9ef)
 
 (2024-oct25) Min-Blueberry-S [dots sidebar 🚧](https://github.com/j5onrf/dots/tree/main/waybar/Min-Blueberry/Sidebar) (updates-10-30)
