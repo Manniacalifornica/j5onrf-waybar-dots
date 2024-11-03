@@ -93,7 +93,9 @@ window#waybar.empty #window {
 #custom-updates:hover {
     background: @bgcolor3;
 }
-
+#cpu:hover {
+    background: @bgcolor3;
+}
 #custom-appmenu:hover,
 #custom-exit:hover{
     border-radius: 6px;
@@ -108,8 +110,11 @@ window#waybar.empty #window {
     margin: 0px 5px;
     border-radius: 3px;
     color: @color1;
-    background: @bgcolor1; 
+    background: @bgcolor3; 
     transition: background-color, 0.2s ease-in-out;
+}
+#clock:hover{
+    background: @bgcolor1; 
 }
 #clock:hover {
     margin: 3px 0px;
