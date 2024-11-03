@@ -101,10 +101,13 @@ window#waybar.empty #window {
 #clock:hover,
 #pulseaudio:hover {
     margin: 0px 5px;
-    border-radius: 5px;
+    border-radius: 3px;
     color: @color1;
     background: @bgcolor1; 
     transition: background-color, 0.2s ease-in-out;
+}
+#clock:hover {
+    margin: 3px 0px;
 }
 
 /* Quicklinks Wallpaper */
@@ -130,10 +133,10 @@ window#waybar.empty #window {
 /* Bottom App Tray Slider */
 /* Top App Tray Slider */
 #custom-system {
-color: @bgcolor2;
+    color: @bgcolor2;
 }
 #custom-settings {
-color: @waybarcolor;
+    color: @waybarcolor;
 }
 
 /* Screen Shader */
@@ -159,7 +162,7 @@ color: @waybarcolor;
 
 /* Clock Styles */
 #clock  {
-    margin: 0px 5px;
+    margin: 3px 0px;
     color: @waybarcolor;
     font-size: 18px;
 }
