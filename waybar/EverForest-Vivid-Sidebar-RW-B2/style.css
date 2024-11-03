@@ -119,11 +119,8 @@ window#waybar.empty #window {
 }
 #clock:hover{
     background: @bgcolor1; 
-}
-#clock:hover {
     margin: 3px 0px;
 }
-
 /* Quicklinks Wallpaper */
 #custom-wallpaper:hover {
     margin: 0px 5px 20px 5px;

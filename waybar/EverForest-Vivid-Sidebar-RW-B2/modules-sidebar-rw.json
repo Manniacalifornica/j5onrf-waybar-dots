@@ -37,7 +37,7 @@
 		"class<firefox>": "",
 		"class<kitty>": "<span font='24'>󰄛</span>",
 		"class<org.gnome.Console>": "",		
-		"class<alacritty>": "",
+		"class<alacritty>": "<span font='18'></span>",
              // "class<brave-browser-beta>": "",
 	     // "class<brave-browser-beta>": "",
 	     // "class<brave-browser-beta>": "",
@@ -94,7 +94,7 @@
 
 // Updates
   "custom/updates": {
-    "format": "󰚰|{}",
+    "format": "󰚰{}",
     "escape": true,
     "return-type": "json",
     "exec": "~/.config/ml4w/scripts/updates.sh",

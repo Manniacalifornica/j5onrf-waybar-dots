@@ -89,15 +89,15 @@
     "modules-left": [
         "custom/appmenu",
         "group/links",
-        "group/settings",      
-      "hyprland/workspaces#rw"
+        "group/settings",   
+        "hyprland/workspaces#rw"
     ],
 
     // Modules Center
     "modules-center": [
    //  "hyprland/window"
    //  "clock"
-   //  "hyprland/workspaces#rw"
+  //   "hyprland/workspaces#rw",
        "custom/empty"
     ],
 
