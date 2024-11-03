@@ -42,7 +42,7 @@ window#waybar {
     /* No height property, allowing default size */
 }
 #workspaces button:not(:last-child) {
-    margin-right: 2px; /* Create space between buttons */
+    margin: 2px; /* Create space between buttons */
 }
 #workspaces button.active,
 #workspaces button:hover {
