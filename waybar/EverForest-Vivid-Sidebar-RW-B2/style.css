@@ -21,7 +21,7 @@
     font-family: "JetBrainsMono Nerd Font Propo", "Font Awesome 6 Free", sans-serif;
     border: 0px;
     border-radius: 0px;
-    font-weight: 900;
+    font-weight: 600;
 }
 window#waybar {
     background-color: @bgcolor2;
@@ -164,7 +164,9 @@ window#waybar.empty #window {
     padding: 10px 0px;
     font-size: 28px;
 }
-
+#custom-hyprshade {
+    font-size: 26px;
+}
 /* Custom Module appmenu rofi */
 /* Custom Exit Styles wlogout */
 #custom-appmenu,
