@@ -20,7 +20,7 @@
     font-family: "JetBrainsMono Nerd Font Propo", "Font Awesome 6 Free", sans-serif;
     border: 0px;
     border-radius: 0px;
-    font-weight: 600;
+    font-weight: 900;
 }
 window#waybar {
     background-color: @bgcolor2;
@@ -133,7 +133,7 @@ window#waybar.empty #window {
 /* Bottom App Tray Slider */
 /* Top App Tray Slider */
 #custom-system {
-    color: @bgcolor2;
+    color: @waybarcolor;
 }
 #custom-settings {
     color: @waybarcolor;
