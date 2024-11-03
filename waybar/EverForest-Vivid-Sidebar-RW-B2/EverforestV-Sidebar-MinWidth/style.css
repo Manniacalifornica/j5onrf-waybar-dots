@@ -31,18 +31,15 @@ window#waybar {
 /* Workspaces Styles */
 #workspaces {
     font-size: 28px; /* Adjust as necessary */
-    min-width: 0;
+    min-width: 0; /* Consistent handling */
 }
 #workspaces button {
     padding: 0; /* Remove padding for minimal width */
-    margin: 0; /* Remove margin */
+    margin: 1px; /* Button margin */
     color: @waybarcolor;
     min-width: 0; /* Ensure buttons don't exceed width */
     border: none; /* Remove border if needed */
     /* No height property, allowing default size */
-}
-#workspaces button:not(:last-child) {
-    margin: 2px 6px; /* Create space between buttons */
 }
 #workspaces button.active,
 #workspaces button:hover {
@@ -50,13 +47,12 @@ window#waybar {
     color: @color1;
     border-radius: 0.7rem;
     background: @bgcolor1; /* Yellow background color */
-    min-width: 0; /* Consistent handling */
+    min-width: 0; /* Consistent handling */   
 }
 #workspaces button:hover {
     background: @bgcolor3; /* Red background color */
 }
 #workspaces button.empty {
-    opacity: 0.3;
     border-radius: 0.7rem;
     min-width: 0; /* Consistent handling */
 }
@@ -69,17 +65,6 @@ window#waybar {
     margin-right: 0;
 } 
 
-/* hyprland/window */
-#window {
-    margin: 5px;
-    padding: 0px 10px;
-    color: #BBBBFF;
-    font-size:18px;
-}
-window#waybar.empty #window {
-    background-color: transparent;
-}
-
 /* Hover Styles */
 #window:hover,
 #cpu:hover, 
@@ -91,8 +76,8 @@ window#waybar.empty #window {
 #custom-wallpaper:hover,
 #custom-waybarthemes:hover,
 #tray:hover {
-    margin: 0px 5px;
-    padding: 10px 0px;
+    margin: 0px;
+    padding: 8px 0px;
     color: @color1;
     border-radius: 3px;
     background: @bgcolor1;
@@ -118,7 +103,7 @@ window#waybar.empty #window {
 }
 #clock:hover,
 #pulseaudio:hover {
-    margin: 0px 5px;
+    margin: 0px;
     border-radius: 3px;
     color: @color1;
     background: @bgcolor3; 
@@ -131,15 +116,15 @@ window#waybar.empty #window {
 }
 /* Quicklinks Wallpaper */
 #custom-wallpaper:hover {
-    margin: 0px 5px 20px 5px;
-    padding: 10px 0px;
+    margin: 0px 0px 20px 0px;
+    padding: 8px 0px;
     font-size: 28px;
     color: @color1;
     background: @waybarcolor;
 }
 #custom-wallpaper {
-    margin: 0px 5px 20px 5px;
-    padding: 10px 0px;
+    margin: 0px 0px 20px 0px;
+    padding: 8px 0px;
     font-size: 28px;
     color: @waybarcolor;
 }
@@ -165,8 +150,8 @@ window#waybar.empty #window {
 #custom-cliphist,
 #network {
     color: @waybarcolor;
-    margin: 0px 5px;
-    padding: 10px 0px;
+    margin: 0px;
+    padding: 8px 0px;
     font-size: 28px;
 }
 #custom-hyprshade {
@@ -200,20 +185,21 @@ window#waybar.empty #window {
 #custom-updates, 
 #custom-waybarthemes,
 #tray {
-    margin: 0px 5px;
-    padding: 10px 0px;
+    margin: 0px;
+    padding: 8px 0px;
     color: @waybarcolor;
 }
 
 /* Pulseaudio Styles */
 #pulseaudio {
+    margin: 0px;
     color: @waybarcolor;
-    margin: 0px 5px;
-    padding: 10px 5px;
+    padding: 8px 0px;
     font-size: 28px;
 }
 #pulseaudio.muted {
     color: @bgcolor3;
+    font-size: 27.5px;
 }
 #pulseaudio.muted:hover {
     color: @color1;
