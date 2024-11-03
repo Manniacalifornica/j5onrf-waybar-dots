@@ -28,7 +28,7 @@ window#waybar {
     border-radius: 0.7rem;
 }
 
-/* Workspaces Styles B2 MinWidth */
+/* Workspaces Styles */
 #workspaces {
     font-size: 28px; /* Adjust as necessary */
     min-width: 0;
