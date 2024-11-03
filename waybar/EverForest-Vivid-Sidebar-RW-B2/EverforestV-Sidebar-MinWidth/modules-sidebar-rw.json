@@ -20,7 +20,7 @@
 	"on-scroll-down": "hyprctl dispatch workspace e+1",
      // "format": "{icon} {windows}",
 	"format": "{windows}",  
-	"persistent-workspaces": {"*": 12},
+	"persistent-workspaces": {"*": 15},
 	"format-window-separator":"\n",
 	"window-rewrite-default": "",
 	"window-rewrite": {
