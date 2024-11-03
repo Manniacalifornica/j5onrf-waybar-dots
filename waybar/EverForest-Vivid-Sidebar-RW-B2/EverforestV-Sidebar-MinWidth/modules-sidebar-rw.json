@@ -37,7 +37,7 @@
 		"class<firefox>": "",
 		"class<kitty>": "<span font='24'>󰄛</span>",
 		"class<org.gnome.Console>": "",		
-		"class<alacritty>": "<span font='24'></span>",
+		"class<alacritty>": "<span font='20'></span>",
              // "class<brave-browser-beta>": "",
 	     // "class<brave-browser-beta>": "",
 	     // "class<brave-browser-beta>": "",
