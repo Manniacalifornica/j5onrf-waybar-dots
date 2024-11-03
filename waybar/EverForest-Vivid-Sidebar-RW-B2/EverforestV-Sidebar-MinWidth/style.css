@@ -28,41 +28,37 @@ window#waybar {
     border-radius: 0.7rem;
 }
 
-/* Workspaces Styles */
-/* Button Style 2 */
+/* Workspaces Styles B2 MinWidth */
 #workspaces {
     font-size: 28px; /* Adjust as necessary */
+    min-width: 0;
 }
-
 #workspaces button {
     padding: 0; /* Remove padding for minimal width */
     margin: 0; /* Remove margin */
     color: @waybarcolor;
+    min-width: 0; /* Ensure buttons don't exceed width */
     border: none; /* Remove border if needed */
     /* No height property, allowing default size */
 }
-
 #workspaces button:not(:last-child) {
     margin-right: 2px; /* Create space between buttons */
 }
-
-#workspaces button.active {
-    padding: 0; /* Remove padding for active buttons */
+#workspaces button.active,
+#workspaces button:hover {
+    padding: 0; /* Remove padding for active and hover buttons */
     color: @color1;
     border-radius: 0.7rem;
     background: @bgcolor1;
+    min-width: 0; /* Consistent handling */
 }
-
 #workspaces button:hover {
-    color: @color1;
-    border-radius: 0.7rem;
     background: @bgcolor3;
-    min-width: 0;
 }
 #workspaces button.empty {
     opacity: 0.3;
     border-radius: 0.7rem;
-    min-width: 0;
+    min-width: 0; /* Consistent handling */
 }
 
 /* Module Styles */
@@ -189,7 +185,7 @@ window#waybar.empty #window {
 #clock  {
     margin: 3px 0px;
     color: @waybarcolor;
-    font-size: 24px;
+    font-size: 22px;
 }
 
 /* Cpu Memory */
