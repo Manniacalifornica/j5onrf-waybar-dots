@@ -53,6 +53,7 @@ window#waybar {
     background: @bgcolor3; /* Red background color */
 }
 #workspaces button.empty {
+    opacity: 0.3;
     border-radius: 0.7rem;
     min-width: 0; /* Consistent handling */
 }
