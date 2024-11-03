@@ -13,6 +13,7 @@
 @define-color waybarcolor #A7C080;
 @define-color bgcolor1 #DBBC7F;
 @define-color bgcolor2 #2B3339;
+@define-color bgcolor3 #E69875;
 @define-color color1 #21252B;
 
 /* General Styles */
@@ -46,7 +47,7 @@ window#waybar {
 #workspaces button:hover {
     color: @color1;
     border-radius: 0.7rem;
-    background: #E69875;
+    background: @bgcolor3;
 }
 #workspaces button.empty {
     opacity: 0.3;
@@ -90,14 +91,14 @@ window#waybar.empty #window {
     background: @bgcolor1;
 }
 #custom-updates:hover {
-    background: #E69875;
+    background: @bgcolor3;
 }
 
 #custom-appmenu:hover,
 #custom-exit:hover{
     border-radius: 6px;
     color: @color1;
-    background: @bgcolor1;
+    background: @bgcolor3;
     transition: background-color, 0.2s ease-in-out;
     font-size: 28px;
     opacity: 1.0;
@@ -120,7 +121,7 @@ window#waybar.empty #window {
     padding: 10px 0px;
     font-size: 28px;
     color: @color1;
-    background: #E69875; 
+    background: @bgcolor3; 
 }
 #custom-wallpaper {
     margin: 0px 5px 20px 5px;
@@ -196,11 +197,11 @@ window#waybar.empty #window {
     font-size: 28px;
 }
 #pulseaudio.muted {
-    color: #E69875;
+    color: @bgcolor3;
 }
 #pulseaudio.muted:hover {
     color: @color1;
-    background-color: #E69875;
+    background-color: @bgcolor3;
 }
 /* tooltip */
 tooltip {
