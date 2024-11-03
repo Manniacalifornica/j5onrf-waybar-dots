@@ -42,7 +42,7 @@ window#waybar {
     /* No height property, allowing default size */
 }
 #workspaces button:not(:last-child) {
-    margin: 2px; /* Create space between buttons */
+    margin: 1px 5px; /* Create space between buttons */
 }
 #workspaces button.active,
 #workspaces button:hover {
@@ -185,7 +185,7 @@ window#waybar.empty #window {
 #clock  {
     margin: 3px 0px;
     color: @waybarcolor;
-    font-size: 22px;
+    font-size: 20px;
 }
 
 /* Cpu Memory */
