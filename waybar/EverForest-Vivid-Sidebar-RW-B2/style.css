@@ -96,6 +96,10 @@ window#waybar.empty #window {
 #cpu:hover {
     background: @bgcolor3;
 }
+#custom-hyprshade:hover,
+#memory:hover {
+    background: @waybarcolor;
+}
 #custom-appmenu:hover,
 #custom-exit:hover{
     border-radius: 6px;
@@ -126,7 +130,7 @@ window#waybar.empty #window {
     padding: 10px 0px;
     font-size: 28px;
     color: @color1;
-    background: @bgcolor3; 
+    background: @waybarcolor;
 }
 #custom-wallpaper {
     margin: 0px 5px 20px 5px;
