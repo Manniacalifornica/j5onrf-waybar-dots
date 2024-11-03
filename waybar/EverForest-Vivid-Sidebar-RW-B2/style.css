@@ -120,6 +120,7 @@ window#waybar.empty #window {
 #clock:hover{
     background: @bgcolor1; 
     margin: 3px 0px;
+    border-radius: 3px;
 }
 /* Quicklinks Wallpaper */
 #custom-wallpaper:hover {
