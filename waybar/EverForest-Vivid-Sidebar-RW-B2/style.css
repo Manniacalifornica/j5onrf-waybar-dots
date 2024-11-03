@@ -87,7 +87,7 @@ window#waybar.empty #window {
     margin: 0px 5px;
     padding: 10px 0px;
     color: @color1;
-    border-radius: 6px;
+    border-radius: 3px;
     background: @bgcolor1;
 }
 #custom-updates:hover {
@@ -112,7 +112,7 @@ window#waybar.empty #window {
 #clock:hover,
 #pulseaudio:hover {
     margin: 0px 5px;
-    border-radius: 6px;
+    border-radius: 3px;
     color: @color1;
     background: @bgcolor3; 
     transition: background-color, 0.2s ease-in-out;
@@ -120,7 +120,6 @@ window#waybar.empty #window {
 #clock:hover{
     background: @bgcolor1; 
     margin: 3px 0px;
-    border-radius: 3px;
 }
 /* Quicklinks Wallpaper */
 #custom-wallpaper:hover {
