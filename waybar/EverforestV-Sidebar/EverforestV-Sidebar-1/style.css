@@ -66,17 +66,6 @@ window#waybar {
     margin-right: 0;
 } 
 
-/* hyprland/window */
-#window {
-    margin: 5px;
-    padding: 0px 10px;
-    color: #BBBBFF;
-    font-size:18px;
-}
-window#waybar.empty #window {
-    background-color: transparent;
-}
-
 /* Hover Styles */
 #window:hover,
 #cpu:hover, 
@@ -133,6 +122,7 @@ window#waybar.empty #window {
     font-size: 28px;
     color: @color1;
     background: @waybarcolor;
+    transition: background-color, 0.2s ease-in-out;
 }
 #custom-wallpaper {
     margin: 0px 5px 20px 5px;
@@ -160,14 +150,15 @@ window#waybar.empty #window {
 /* Network Styles */
 #custom-hyprshade,
 #custom-cliphist,
-#network {
+#network{
     color: @waybarcolor;
-    margin: 0px 5px;
+    margin: 0px;
     padding: 10px 0px;
-    font-size: 28px;
-}
-#custom-hyprshade {
     font-size: 26px;
+}
+#custom-hyprshade,
+#network {
+    font-size: 24px;
 }
 /* Custom Module appmenu rofi */
 /* Custom Exit Styles wlogout */
