@@ -154,11 +154,11 @@ window#waybar {
     color: @waybarcolor;
     margin: 0px;
     padding: 10px 0px;
-    font-size: 26px;
+    font-size: 28px;
 }
 #custom-hyprshade,
 #network {
-    font-size: 24px;
+    font-size: 26px;
 }
 /* Custom Module appmenu rofi */
 /* Custom Exit Styles wlogout */
@@ -183,7 +183,6 @@ window#waybar {
 #custom-updates{
     font-size: 18px;
 }
-
 #cpu, #memory, 
 #custom-updates, 
 #custom-waybarthemes,
@@ -198,7 +197,7 @@ window#waybar {
     color: @waybarcolor;
     margin: 0px 5px;
     padding: 10px 5px;
-    font-size: 28px;
+    font-size: 30px;
 }
 #pulseaudio.muted {
     color: @bgcolor3;
