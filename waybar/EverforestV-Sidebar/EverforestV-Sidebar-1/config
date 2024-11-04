@@ -23,7 +23,7 @@
     // Load Modules
     "include": [
     //  "~/.config/ml4w/settings/waybar-quicklinks.json",
-        "~/.config/waybar/modules-sidebar-3.json"
+        "~/.config/waybar/modules-sidebar-2.json"
     ],
 
     // Pulseaudio
