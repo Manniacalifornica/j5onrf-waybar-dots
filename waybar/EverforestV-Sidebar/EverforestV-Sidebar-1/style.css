@@ -156,10 +156,7 @@ window#waybar {
     padding: 10px 0px;
     font-size: 28px;
 }
-#custom-hyprshade,
-#network {
-    font-size: 26px;
-}
+
 /* Custom Module appmenu rofi */
 /* Custom Exit Styles wlogout */
 #custom-appmenu,
@@ -181,7 +178,7 @@ window#waybar {
 #cpu, 
 #memory,
 #custom-updates{
-    font-size: 18px;
+    font-size: 19px;
 }
 #cpu, #memory, 
 #custom-updates, 
