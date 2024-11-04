@@ -113,7 +113,7 @@ window#waybar {
 #clock:hover{
     background: @bgcolor1; 
     margin: 3px 0px;
-    border-radius: 0.7rem;
+    border-radius: 6px;
 }
 /* Quicklinks Wallpaper */
 #custom-wallpaper:hover {
