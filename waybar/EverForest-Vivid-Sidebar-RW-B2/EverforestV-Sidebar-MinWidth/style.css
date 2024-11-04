@@ -30,11 +30,11 @@ window#waybar {
 
 /* Workspaces Styles */
 #workspaces {
-    font-size: 30px; /* Adjust as necessary */
+    font-size: 28px; /* Adjust as necessary */
     min-width: 0; /* Consistent handling */
 }
 #workspaces button {
-    padding: 0px 5px; /* Remove padding for minimal width */
+    padding: 0px 4px; /* Remove padding for minimal width */
     margin: 2px 5px; /* Create space between buttons */
     color: @waybarcolor;
     min-width: 0; /* Ensure buttons don't exceed width */
@@ -43,7 +43,7 @@ window#waybar {
 }
 #workspaces button.active,
 #workspaces button:hover {
-    padding: 0px 5px; /* Remove padding for active and hover buttons */
+    padding: 0px 4px; /* Remove padding for active and hover buttons */
     color: @color1;
     border-radius: 0.7rem;
     background: @bgcolor1; /* Yellow background color */
@@ -80,8 +80,9 @@ window#waybar {
     margin: 0px;
     padding: 5px 0px;
     color: @color1;
-    border-radius: 3px;
+    border-radius: 0.7rem;
     background: @bgcolor1;
+    transition: background-color, 0.2s ease-in-out;
 }
 #custom-updates:hover {
     background: @bgcolor3;
@@ -95,7 +96,9 @@ window#waybar {
 }
 #custom-appmenu:hover,
 #custom-exit:hover{
-    border-radius: 6px;
+    margin: 0px;
+    padding: 5px 0px;
+    border-radius: 0.7rem;
     color: @color1;
     background: @bgcolor1;
     transition: background-color, 0.2s ease-in-out;
@@ -105,7 +108,7 @@ window#waybar {
 #clock:hover,
 #pulseaudio:hover {
     margin: 0px;
-    border-radius: 3px;
+    border-radius: 0.7rem;
     color: @color1;
     background: @bgcolor3; 
     transition: background-color, 0.2s ease-in-out;
@@ -113,7 +116,7 @@ window#waybar {
 #clock:hover{
     background: @bgcolor1; 
     margin: 3px 0px;
-    border-radius: 6px;
+    border-radius: 0.7rem;
 }
 /* Quicklinks Wallpaper */
 #custom-wallpaper:hover {
@@ -122,6 +125,7 @@ window#waybar {
     font-size: 28px;
     color: @color1;
     background: @waybarcolor;
+    transition: background-color, 0.2s ease-in-out;
 }
 #custom-wallpaper {
     margin: 0px 0px 20px 0px;
