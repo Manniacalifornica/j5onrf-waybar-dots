@@ -59,17 +59,6 @@
 		}   
   },
 
-   // Hyprland Window
-  "hyprland/window": {
-    "format": "{title:.60}",
-    "rewrite": {
-      "(.*) - Brave": "$1",
-      "(.*) - Chromium": "$1",
-      "(.*) - Brave Search": "$1"
-    },
-    "separate-outputs": true
-  },
-
   // Empty
   "custom/empty": {
     "format": ""
@@ -94,7 +83,7 @@
 
 // Updates
   "custom/updates": {
-    "format": "󰚰{}",
+    "format": "󰚰|{}",
     "escape": true,
     "return-type": "json",
     "exec": "~/.config/ml4w/scripts/updates.sh",
