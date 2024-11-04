@@ -41,10 +41,9 @@
         "tooltip": false
     },
     
-      // Clock :%I:%M  %a%e  pm: %p
+      // Clock :%I:%M  %a%e  pm: %p  "rotate": 90,
   "clock": {
-  "rotate": 90,
-    "format": "{:%I:%M}",
+    "format": "{:%I\n%M}",
 //   "on-click": "ags -t calendar",
      "on-click": "ags -t calendarmenu",
      "on-click-right": "gapplication launch org.gnome.Weather",
