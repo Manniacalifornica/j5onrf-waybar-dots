@@ -67,7 +67,6 @@ window#waybar {
 } 
 
 /* Hover Styles */
-#window:hover,
 #cpu:hover, 
 #memory:hover,
 #custom-hyprshade:hover,
