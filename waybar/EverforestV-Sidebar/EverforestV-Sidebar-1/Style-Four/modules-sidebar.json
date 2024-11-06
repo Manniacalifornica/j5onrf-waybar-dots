@@ -5,7 +5,7 @@
 // |_|  |_|\___/ \__,_|\__,_|_|\___||___/
 //
 //  ML4W
-// EverForest-Sidebar-RW (11-04-2024)
+// EverForest-Sidebar-RW (11-06-2024)
 
 // Workspaces
 {
@@ -81,7 +81,7 @@
     "tooltip-format": "Left: Select a wallpaper\nRight: Select wallpaper effect"
   },
 
-  // Waybar Themes   
+  // Waybar Themes
   "custom/waybarthemes": {
     "format": "",
     "on-click": "~/.config/waybar/themeswitcher.sh",
@@ -96,7 +96,7 @@
     "tooltip": false
   },
 
-  // Power Menu 
+  // Power Menu
   "custom/exit": {
     "format": "",
     "on-click": "wlogout",
@@ -110,23 +110,6 @@
   "tray": {
     "icon-size": 15,
     "spacing": 10
-  },
-
-// Taskbar
-  "wlr/taskbar": {
-    "format": "{icon}",
-    "icon-size": 18,
-    "tooltip-format": "{title}",
-    "on-click": "activate",
-    "on-click-middle": "close",
-    "ignore-list": ["Alacritty", "kitty"],
-    "app_ids-mapping": {
-      "firefoxdeveloperedition": "firefox-developer-edition"
-    },
-    "rewrite": {
-      "Firefox Web Browser": "Firefox",
-      "Foot Server": "Terminal"
-    }
   },
 
   // System
@@ -160,7 +143,6 @@
       "custom/waybarthemes",
       "custom/wallpaper"
   //  "group/quicklinks"
-  //  "wlr/taskbar"
     ]
   },
 
@@ -172,7 +154,7 @@
     "tooltip-format": " {ifname} via {gwaddri}",
     "tooltip-format-ethernet": " {ifname}\nIP: {ipaddr}\n up: {bandwidthUpBits} down: {bandwidthDownBits}",
     "tooltip-format-disconnected": "Disconnected",
-    "max-length": 50,
+    "max-length": 20,
     "on-click": "~/.config/ml4w/settings/networkmanager.sh",
     "on-click-right": "$(cat ~/.config/ml4w/settings/terminal.sh) --class dotfiles-floating -e nmtui"
   },
