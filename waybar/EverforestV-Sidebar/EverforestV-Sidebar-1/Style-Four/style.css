@@ -202,7 +202,6 @@ window#waybar {
 /* Pulseaudio Styles */
 #pulseaudio {
     color: @waybarcolor;
-    margin: 0px 5px;
     padding: 10px 5px;
     font-size: 30px;
 }
