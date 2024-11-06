@@ -5,11 +5,12 @@
 // |_|  |_|\___/ \__,_|\__,_|_|\___||___/
 //
 //  ML4W
-// EverForest-Sidebar-RW (11-04-2024)
+// EverForest-Sidebar-RW (11-06-2024)
 
 // Workspaces
 {
 "hyprland/workspaces#rw": {
+        "focus-on-click": true,
 	"disable-scroll": true,
 	"all-outputs": true,
 	"warp-on-scroll": false,
@@ -40,18 +41,18 @@
 		"class<alacritty>": "<span font='22'></span>",
              // "class<brave-browser-beta>": "",
 	     // "class<brave-browser-beta>": "",
-	     // "class<brave-browser-beta>": "",
-	        "class<brave-browser-beta>": "<span font_desc='Font Awesome 6 Brands 26'></span>",	     
+	        "class<brave-browser-beta>": "",
+	     // "class<brave-browser-beta>": "<span font_desc='Font Awesome 6 Brands' rise='6000'></span>",     
 	     // "class<brave-browser>": "<span font_desc='Font Awesome 6 Brands 26'></span>",
 		"class<org.telegram.desktop|io.github.tdesktop_x64.TDesktop>": "<span font='12'></span>",
 		"class<[Ss]potify>": "<span font='12'></span>",
 		"class<VSCode|code-url-handler>": "<span font='12'>󰨞</span>",
-		"class<org.gnome.Nautilus>": "",
+		"class<org.gnome.Nautilus>": "<span font='25'></span>",
 		"class<subl>": "󰅳",
 		"class<codium|codium-url-handler|VSCodium>": "󰨞",
 		"class<codeblocks>": "󰅩",
 		"class<mousepad>": "",
-		"class<org.gnome.TextEditor>": "󰎚",
+		"class<org.gnome.TextEditor>": "<span font='25'>󰎚</span>",
 		"class<com.obsproject.Studio>": "",
 		"class<polkit-gnome-authentication-agent-1>": "󰒃",
 		"class<nwg-look>": "",
@@ -100,7 +101,7 @@
     "tooltip-format": "Left: Select a wallpaper\nRight: Select wallpaper effect"
   },
 
-  // Waybar Themes   
+  // Waybar Themes
   "custom/waybarthemes": {
     "format": "",
     "on-click": "~/.config/waybar/themeswitcher.sh",
@@ -115,7 +116,7 @@
     "tooltip": false
   },
 
-  // Power Menu 
+  // Power Menu
   "custom/exit": {
     "format": "",
     "on-click": "wlogout",
@@ -131,36 +132,13 @@
     "spacing": 10
   },
 
-// Taskbar
-  "wlr/taskbar": {
-    "format": "{icon}",
-    "icon-size": 18,
-    "tooltip-format": "{title}",
-    "on-click": "activate",
-    "on-click-middle": "close",
-    "ignore-list": ["Alacritty", "kitty"],
-    "app_ids-mapping": {
-      "firefoxdeveloperedition": "firefox-developer-edition"
-    },
-    "rewrite": {
-      "Firefox Web Browser": "Firefox",
-      "Foot Server": "Terminal"
-    }
-  },
-
   // System
   "custom/system": {
     "format": "",
     "tooltip": false
   },
-  
-   // Chevron
-  "custom/chevron": {
-    "format": "",
-    "tooltip": false
-  },
 
-  // Group Hardware  ,"cpu","memory"
+  // Group Hardware 
   "group/hardware": {
     "orientation": "inherit",
     "drawer": {
@@ -184,8 +162,6 @@
       "pulseaudio", 
       "custom/waybarthemes",
       "custom/wallpaper"
-  //  "group/quicklinks"
-  //  "wlr/taskbar"
     ]
   },
 
@@ -197,7 +173,7 @@
     "tooltip-format": " {ifname} via {gwaddri}",
     "tooltip-format-ethernet": " {ifname}\nIP: {ipaddr}\n up: {bandwidthUpBits} down: {bandwidthDownBits}",
     "tooltip-format-disconnected": "Disconnected",
-    "max-length": 50,
+    "max-length": 20,
     "on-click": "~/.config/ml4w/settings/networkmanager.sh",
     "on-click-right": "$(cat ~/.config/ml4w/settings/terminal.sh) --class dotfiles-floating -e nmtui"
   },
