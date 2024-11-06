@@ -33,11 +33,11 @@
         "format-icons": {
     //  "default": ["󰕿", "󰕾", "󰕾"]
      // "default": ["", "", ""]
-         "default": [""]
+         "default": ["󰗅"]
         },
         "on-click": "pactl set-sink-mute @DEFAULT_SINK@ toggle",
         "on-click-right": "ags -t bar-0",
-        "format-muted": "",
+        "format-muted": "󱘂",
         "tooltip": false
     },
     
