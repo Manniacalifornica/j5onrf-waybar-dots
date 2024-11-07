@@ -107,7 +107,6 @@ window#waybar {
     background: @bgcolor1;
     transition: background-color, 0.2s ease-in-out;
     font-size: 28px;
-    opacity: 1.0;
 }
 #clock:hover,
 #pulseaudio:hover {
@@ -142,14 +141,17 @@ window#waybar {
     font-size: 28px;
 }
 
-/* Bottom App Tray Slider */
 /* Top App Tray Slider */
-#custom-system {
-    color: @waybarcolor;
-}
+/* Bottom App Tray Slider */
 #custom-settings {
-    color: @waybarcolor;
+    color: #E69875;
+    opacity: 1.0;
 }
+#custom-system {
+    color: #E69875;
+    opacity: 1.0;
+}
+
 
 /* Screen Shader */
 /* Clipboard Manager */
