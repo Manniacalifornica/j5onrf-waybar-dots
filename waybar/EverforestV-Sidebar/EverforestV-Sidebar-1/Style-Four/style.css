@@ -35,7 +35,7 @@ window#waybar {
 }
 #workspaces button {
     padding: 5px 8px; /* Remove padding for minimal width */
-    margin: 3px 6px; /* Create space between buttons */
+    margin: 2px 5px; /* Create space between buttons */
     color: @waybarcolor;
     min-width: 0; /* Ensure buttons don't exceed width */
     border: none; /* Remove border if needed */
@@ -226,4 +226,6 @@ tooltip label {
     color: @waybarcolor;
     font-weight: 900;
 }
-
+#custom-chevron {
+    color: #E69875;
+}

@@ -140,7 +140,13 @@
     "tooltip": false
   },
 
-  // Group Hardware 
+   // Chevron
+  "custom/chevron": {
+    "format": "",
+    "tooltip": false
+  },
+
+  // Group Hardware  ,"cpu","memory"
   "group/hardware": {
     "orientation": "inherit",
     "drawer": {
@@ -148,7 +154,7 @@
       "children-class": "not-memory",
       "transition-left-to-right": false
     },
-    "modules": ["custom/system","cpu","memory","tray","custom/updates","network","custom/hyprshade","custom/cliphist","pulseaudio"]
+    "modules": ["custom/system","cpu","memory","tray","custom/updates","custom/chevron","network","custom/hyprshade","custom/cliphist","pulseaudio"]
   },
 
   // Group Settings
