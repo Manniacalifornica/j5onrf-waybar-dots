@@ -34,7 +34,7 @@ window#waybar {
     min-width: 0; /* Consistent handling */
 }
 #workspaces button {
-    padding: 4px 8px; /* Remove padding for minimal width */
+    padding: 5px 8px; /* Remove padding for minimal width */
     margin: 3px 6px; /* Create space between buttons */
     color: @waybarcolor;
     min-width: 0; /* Ensure buttons don't exceed width */
@@ -43,7 +43,7 @@ window#waybar {
 }
 #workspaces button.active,
 #workspaces button:hover {
-    padding: 4px 8px; /* Remove padding for active and hover buttons */
+    padding: 5px 8px; /* Remove padding for active and hover buttons */
     color: @color1;
     border-radius: 0.4rem;
     background: @bgcolor1; /* Yellow background color */
