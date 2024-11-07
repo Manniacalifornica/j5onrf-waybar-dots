@@ -13,7 +13,7 @@
 /* ---- Configuration ---- */
 configuration {
     modi:                       "drun,run";
-    font:                       "JetBrainsMono Nerd Font Propo SemiBold 11";
+    font:                       "JetBrainsMono Nerd Font Propo Medium 11";
     show-icons:                 true;
     icon-theme:                 "Kora";
     display-drun:               "APPS";
@@ -29,8 +29,8 @@ configuration {
     
 }
 
-/* ---- Load font ---- 
-@import "~/.config/ml4w/settings/rofi-font.rasi" */
+/* ---- Load font ---- */
+@import "~/.config/ml4w/settings/rofi-font.rasi" 
 
 /* ---- Load pywal colors (custom wal template) ---- 
 @import "~/.cache/wal/colors-rofi-pywal" */
