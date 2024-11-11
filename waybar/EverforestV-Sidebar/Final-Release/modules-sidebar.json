@@ -94,7 +94,7 @@
 
   // System tray
   "tray": {
-    "icon-size": 28,
+//  "icon-size": 28,
     "spacing": 10
   },
 
