@@ -22,7 +22,7 @@
     font-family: "JetBrainsMono Nerd Font Propo", "Font Awesome 6 Free", sans-serif;  
     border-radius: 0.2em; /* Set rounding radius, 0.2em 2em */
     font-weight: 600; /* 400-900 */
-    font-size: 28; /* Set the sidebar size */
+    font-size: 32; /* Set the sidebar size */
 }
 
 window#waybar {
@@ -108,6 +108,7 @@ window#waybar {
 #custom-system {
     font-size: 0.5em;  /* !Accessibility invariable */
     color: @bgcolor2; /* Match @bgcolor2 to hide chevrons */
+    padding: 0em 1.65em; /* #RW needed */
 }
 
 /* Show chevrons on hover */
@@ -150,14 +151,14 @@ window#waybar {
     font-size: 0.85em;
     margin: 0.3em;
     color: @color0;
-    padding: 0.25em 0.4em;
+    padding: 0.25em 0.2em;
     background-color: @color1;
 }
 
 #clock:hover {
     margin: 0.3em;
     color: @color1;
-    padding: 0.25em 0.4em;
+    padding: 0.25em 0.2em;
     background-color: @bgcolor3;
 }
 
