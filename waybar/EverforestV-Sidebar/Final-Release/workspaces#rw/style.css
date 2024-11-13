@@ -150,14 +150,14 @@ window#waybar {
     font-size: 0.85em;
     margin: 0.3em;
     color: @color0;
-    padding: 0.25em 0;
+    padding: 0.25em 0.4em;
     background-color: @color1;
 }
 
 #clock:hover {
     margin: 0.3em;
     color: @color1;
-    padding: 0.25em 0;
+    padding: 0.25em 0.4em;
     background-color: @bgcolor3;
 }
 
