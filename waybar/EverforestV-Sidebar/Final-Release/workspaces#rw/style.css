@@ -20,7 +20,7 @@
 /* General Styles */
 * {
     font-family: "JetBrainsMono Nerd Font Propo", "Font Awesome 6 Free", sans-serif;  
-    border-radius: 2em; /* Set rounding radius, 0.2em 2em */
+    border-radius: 0.2em; /* Set rounding radius, 0.2em 2em */
     font-weight: 600; /* 400-900 */
     font-size: 28; /* Set the sidebar size */
 }
