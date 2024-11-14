@@ -53,9 +53,9 @@ https://github.com/j5onrf/dots/blob/main/waybar/Screenshot%20Archive%202/Screens
 ![EverforestV-Sidebar-Minwidth2](https://github.com/user-attachments/assets/5eba6fd5-8aad-4052-9d96-28e843239414)
 (2024-nov02) Everforest-S (updates-11-02)
 ![Sidebar_EF_02](https://github.com/user-attachments/assets/8b169fd0-27a2-46ce-a0e5-f6fc8c2bf9ef)
-(2024-oct25) Min-Blueberry-S [dots sidebar](https://github.com/j5onrf/dots/tree/main/waybar/Min-Blueberry/Sidebar) (updates-10-30)
+(2024-oct25) Blueberry-S [dots sidebar](https://github.com/j5onrf/dots/tree/main/waybar/Min-Blueberry/Sidebar) (updates-10-30)
 ![Screenshot-2024-10-26_09:30:052](https://github.com/user-attachments/assets/134ddb7a-edbe-420d-be89-5cf93cfdcb1e)
-(2024-oct23) Min-Blueberry [dots](https://github.com/j5onrf/dots/tree/main/waybar/Min-Blueberry)
+(2024-oct23) Blueberry [dots](https://github.com/j5onrf/dots/tree/main/waybar/Min-Blueberry)
 ![Screenshot-2024-10-22_18:10:23](https://github.com/user-attachments/assets/1678306d-1d1b-4a26-8fc8-e595b041e62b)
 ![Screenshot-2024-10-23_11:08:38](https://github.com/user-attachments/assets/aec7baec-f876-4df5-979d-0e32bb479380)
 onedark-pixel
