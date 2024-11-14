@@ -230,6 +230,9 @@ https://github.com/j5onrf/dots/blob/main/waybar/Screenshot%20Archive/Screenshots
 <p>
   
 ```
+# Don't allow idle on fullscreen windows
+# windowrulev2 = idleinhibit fullscreen, class:.*
+
 # Notifications change from - dunstify
 
 # Load cliphist history
