@@ -214,7 +214,7 @@ https://github.com/j5onrf/dots/blob/main/waybar/Screenshot%20Archive/Screenshots
 # Notifications change from - dunstify
 
 # Load cliphist history
-# exec-once = wl-paste --watch cliphist store --auto-delete 300
+# exec-once = wl-paste --watch cliphist store --auto-delete 10
 
 # Hyprpanel
 bind = $mainMod, H, exec, ags -t bar-0 # Toggle Hyprpanel
