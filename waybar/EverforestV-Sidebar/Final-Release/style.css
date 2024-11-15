@@ -27,6 +27,7 @@
 
 window#waybar {
     background-color: @bgcolor2;
+/*  border: 0.05em solid @color1;  */
 }
 
 /* Workspaces Styles */
