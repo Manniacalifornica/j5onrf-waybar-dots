@@ -44,14 +44,14 @@ window#waybar {
 
 #workspaces button.active {
     color: @color1;
-    background: @bgcolor1; /* Active button with yellow background */
-    border: 0.05em solid @bgcolor1;
+    background: @bgcolor3; /* Active button with yellow background */
+    border: 0.05em solid @bgcolor3;
 }
 
 #workspaces button:hover {
-    background: @bgcolor3; /* Red background on hover */
+    background: @bgcolor1; /* Red background on hover */
     color: @color1; /* Ensures contrast */
-    border: 0.05em solid @bgcolor3;
+    border: 0.05em solid @bgcolor1;
 /*  transition: background-color 0.3s, color 0.3s; */
 }
 
