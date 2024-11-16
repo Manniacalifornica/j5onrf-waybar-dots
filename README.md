@@ -7,7 +7,7 @@
 <p>
 
 ```
-bind = $mainMod, H, exec, ags -t bar-0 # Toggle HyprPanel
+bind = $mainMod, H, exec, agsv1 -t bar-0 # Toggle Hyprpanel
 bind = $mainMod, C, exec, ~/.config/waybar/toggle.sh # Toggle WayBar
 ```
 
@@ -217,7 +217,8 @@ https://github.com/j5onrf/dots/blob/main/waybar/Screenshot%20Archive/Screenshots
 # exec-once = wl-paste --watch cliphist store --auto-delete 10
 
 # Hyprpanel
-bind = $mainMod, H, exec, ags -t bar-0 # Toggle Hyprpanel
+exec-once = agsv1
+bind = $mainMod, H, exec, agsv1 -t bar-0 # Toggle Hyprpanel
 
 # Waybar
 bind = $mainMod, W, exec, ~/.config/waybar/launch.sh # Relaunch Waybar
