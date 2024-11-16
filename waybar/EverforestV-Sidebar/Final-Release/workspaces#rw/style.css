@@ -27,7 +27,7 @@
 
 window#waybar {
     background-color: @bgcolor2;
-/*  border: 0.05em solid @color1;  */
+    border: 0.05em solid @color1;  
 }
 
 /* Workspaces Styles */
@@ -82,7 +82,7 @@ window#waybar {
 #pulseaudio:hover {
     color: @color1;
     background: @bgcolor1;
-    padding: 0.37em 0; /* Button size */
+    padding: 0.19em 0; /* Button size */
     transition: background-color, 0.2s ease-in-out;
 }
 
@@ -96,7 +96,7 @@ window#waybar {
 #custom-exit:hover {
     font-size: 1em; /* App\Exit button icon size */
     background: @bgcolor3;
-    padding: 0.37em 0.3em;
+    padding: 0.19em 0.3em;
 }
 
 #custom-appmenu, 
@@ -126,7 +126,7 @@ window#waybar {
 #custom-waybarthemes, 
 #custom-wallpaper {
     color: @color0;
-    padding: 0.37em 0; /* Button size */
+    padding: 0.19em 0; /* Button size */
 }
 
 #cpu, 
@@ -134,7 +134,7 @@ window#waybar {
 #custom-updates {
     font-size: 0.64em;
     color: @color0;
-    padding: 0.37em 0; /* Button size */
+    padding: 0.19em 0; /* Button size */
 }
 
 /* Pulseaudio Muted State */
