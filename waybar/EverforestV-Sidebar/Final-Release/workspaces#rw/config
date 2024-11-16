@@ -40,7 +40,7 @@
     "clock": {
         "format": "{:%I\n%M}",
 //      "format": "{0:%e}\n{0:%I}\n{0:%M}",
-        "on-click": "ags -t calendarmenu",
+        "on-click": "agsv1 -t calendarmenu",
         "on-click-right": "gapplication launch org.gnome.Weather",
         "tooltip": false
     },
