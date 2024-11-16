@@ -31,7 +31,7 @@
             "default": ["󰗅"]
         },
         "on-click": "pactl set-sink-mute @DEFAULT_SINK@ toggle",
-        "on-click-right": "ags -t bar-0",
+        "on-click-right": "agsv1 -t bar-0",
         "format-muted": "󱘂",
         "tooltip": false
     },
