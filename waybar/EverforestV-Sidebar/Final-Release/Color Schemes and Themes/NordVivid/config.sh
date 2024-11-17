@@ -1,2 +1,2 @@
 #!/bin/bash
-theme_name="Nord-Sidebar"
+theme_name="NordVivid-Sidebar"
