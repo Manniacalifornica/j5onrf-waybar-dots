@@ -115,6 +115,7 @@ gruv
   
 [colorscheme](https://github.com/j5onrf/dots/tree/main/waybar/EverforestV-Sidebar/Final-Release) [wall](https://github.com/j5onrf/walls/tree/main/Nord) 
 ![Screenshot-2024-11-17_11:46:18](https://github.com/user-attachments/assets/494c8cbd-0eff-4fd1-ab68-8b6705e65276)
+![Screenshot-2024-11-17_14:45:07](https://github.com/user-attachments/assets/43d4706a-c1ba-45c7-bcc2-4c522ca24359)
 </details>
 
 <details><summary>(2024-Nov01) Everforest🌿 Rofi</summary>
