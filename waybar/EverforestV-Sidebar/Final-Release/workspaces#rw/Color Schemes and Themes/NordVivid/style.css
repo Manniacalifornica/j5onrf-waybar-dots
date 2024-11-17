@@ -27,7 +27,7 @@
 
 window#waybar {
     background: @bgcolor2;
-    border: 0.05em solid @color1;
+    border: 0.05em solid @color1;  /* Optional border hinting */
 }
 
 /* Workspaces Styles */
@@ -35,7 +35,7 @@ window#waybar {
 }
 
 #workspaces button {
-    color: @color0; /* Change color of inactive icons, red bgcolor3 */
+    color: @color0; /* Change color of inactive icons */
     background: @color1;
     border: 0.05em solid @color1;  
     padding: 0.2em 0.3em; /* Minimal padding while maintaining shape */
@@ -44,12 +44,12 @@ window#waybar {
 
 #workspaces button.active {
     color: @color1;
-    background: @bgcolor3; /* Active button with yellow background */
+    background: @bgcolor3; /* Active button background */
     border: 0.05em solid @bgcolor3;
 }
 
 #workspaces button:hover {
-    background: @bgcolor1; /* Red background on hover */
+    background: @bgcolor1; /* background on hover */
     color: @color1; /* Ensures contrast */
     border: 0.05em solid @bgcolor1;
 }
