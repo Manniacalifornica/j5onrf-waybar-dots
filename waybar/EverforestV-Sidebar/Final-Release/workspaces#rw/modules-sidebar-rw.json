@@ -5,7 +5,7 @@
 // |_|  |_|\___/ \__,_|\__,_|_|\___||___/
 //
 //  ML4W
-// EverForest-Sidebar-RW Final (11-12-2024)
+// Vertical-Sidebar-RW (11-17-2024)
 
 // Workspaces
 {
@@ -27,12 +27,12 @@
 	"window-rewrite": {
 	        "title<.*youtube.*>": "",
 	   //   "title<.*youtube.*>": "",
-		"title<.*amazon.*>": "",
+	//	"title<.*amazon.*>": "",
 		"title<.*reddit.*>": "",
 		"title<.*dot.*>": "",
 		"title<.*Picture-in-Picture.*>": "",
-		"class<freetube>": "<span font='24'></span>",
-		"class<gimp-2.10>": "",
+		"class<freetube>": "",
+		"class<gimp-3.0>": "",
 		"class<org.gnome.Weather>": "",
 		"class<io.missioncenter.MissionCenter>": "",
 		"class<firefox>": "",
@@ -41,22 +41,22 @@
 		"class<alacritty>": "",
              // "class<brave-browser-beta>": "",
 	     // "class<brave-browser-beta>": "",
-	        "class<brave-browser-beta>": "",
-	     // "class<brave-browser-beta>": "<span font_desc='Font Awesome 6 Brands 33'></span>",  
+	     // "class<brave-browser-beta>": "",
+	        "class<brave-browser-beta>": "<span font_desc='Font Awesome 6 Brands 30'></span>",  
 	     // "class<brave-browser-beta>": "<span font_desc='Font Awesome 6 Brands'></span>", 
-		"class<org.telegram.desktop|io.github.tdesktop_x64.TDesktop>": "<span font='12'></span>",
-		"class<[Ss]potify>": "<span font='12'></span>",
-		"class<VSCode|code-url-handler>": "<span font='12'>󰨞</span>",
+             // "class<org.telegram.desktop|io.github.tdesktop_x64.TDesktop>": "<span font='12'></span>",
+             // "class<[Ss]potify>": "<span font='12'></span>",
+	//	"class<VSCode|code-url-handler>": "<span font='12'>󰨞</span>",
 	        "class<org.gnome.Nautilus>": "",
-		"class<subl>": "󰅳",
-		"class<codium|codium-url-handler|VSCodium>": "󰨞",
-		"class<codeblocks>": "󰅩",
+	//	"class<subl>": "󰅳",
+	//	"class<codium|codium-url-handler|VSCodium>": "󰨞",
+	//	"class<codeblocks>": "󰅩",
 		"class<mousepad>": "",
 	        "class<org.gnome.TextEditor>": "󰎚",
-		"class<com.obsproject.Studio>": "",
+	//	"class<com.obsproject.Studio>": "",
 		"class<polkit-gnome-authentication-agent-1>": "󰒃",
 		"class<nwg-look>": "",
-		"class<vlc>": "󰕼"
+	//	"class<vlc>": "󰕼"
 		}   
   },
 
@@ -74,7 +74,7 @@
     "tooltip-format": "Clipboard Manager"
   },
   
-    // Hyprshade  󱠦   󰖦 󰖧 󱥼 󰆊 󰗘 󰇞  
+    // Hyprshade  󱠦    󰗘 
   "custom/hyprshade": {
 //  "format": "<span font_desc='Font Awesome 6 Free Solid'></span>",
     "format": "󰗘",
@@ -83,7 +83,7 @@
     "on-click-right": "sleep 0.5; ~/.config/hypr/scripts/hyprshade.sh rofi"
   },
 
-  // Wallpaper 󰸉  󰲍  󰀽
+  // Wallpaper 󰸉  󰲍 
   "custom/wallpaper": {
     "format": "󰸉",
     "on-click": "waypaper",
