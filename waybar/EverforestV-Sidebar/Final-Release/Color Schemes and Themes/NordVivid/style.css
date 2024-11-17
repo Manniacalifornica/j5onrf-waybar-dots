@@ -16,7 +16,6 @@
 @define-color bgcolor1 #81A1C1;      /* Accent blue for hover effects */
 @define-color bgcolor2 #2E3440;      /* Dark primary background color */
 @define-color bgcolor3 #8FBCBB;      /* Aqua background */
-@define-color bgcolor4 #88C0D0;      /* Light blue background */
 
 /* General Styles */
 * {
