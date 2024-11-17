@@ -108,7 +108,14 @@ gruv
 
 # Hypr<sup> / Shots</sup>
 
-<details open><summary>(2024-Nov01) Everforest🌿 Rofi</summary>
+<details open><summary>(2024-Nov17) Nord🛡️ᛉᛟ SideBar</summary>
+<p>
+  
+[colorscheme](https://github.com/j5onrf/dots/tree/main/waybar/EverforestV-Sidebar/Final-Release)
+![Screenshot-2024-11-17_11:46:18](https://github.com/user-attachments/assets/494c8cbd-0eff-4fd1-ab68-8b6705e65276)
+</details>
+
+<details><summary>(2024-Nov01) Everforest🌿 Rofi</summary>
 <p>
   
 [everforest.rasi](https://github.com/j5onrf/dots/tree/main/rofi/EverForest%20Rofi) - [walls](https://github.com/j5onrf/walls/tree/main/EverForest/EverForest_Arch) 
@@ -162,6 +169,7 @@ https://github.com/j5onrf/dots/blob/main/waybar/Screenshot%20Archive/Screenshots
 ```
 
 </p>
+</details>
 </details>
 </details>
 </details>
