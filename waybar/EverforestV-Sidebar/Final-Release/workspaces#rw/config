@@ -108,7 +108,7 @@
     // Modules Left
     "modules-left": [
         "custom/appmenu",
-        "group/links",
+//      "group/links",
         "group/settings",
         "hyprland/workspaces#rw"
     ],
