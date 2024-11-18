@@ -23,6 +23,26 @@
         "~/.config/waybar/modules-sidebar-rw.json"
     ],
 
+    // Modules Left
+    "modules-left": [
+        "custom/appmenu",
+        "group/links",
+        "group/settings",
+        "hyprland/workspaces#rw"
+    ],
+
+    // Modules Center
+    "modules-center": [
+        "custom/empty"
+    ],
+
+    // Modules Right    
+    "modules-right": [     
+        "group/hardware", 
+        "clock",  
+        "custom/exit"
+    ],
+
     // Pulseaudio  󰗅 󱘂 
     "pulseaudio": {
         "scroll-step": 3, // %, can be a float
@@ -103,26 +123,6 @@
         "restart-interval": 1800,
         "on-click": "$(cat ~/.config/ml4w/settings/terminal.sh) --class dotfiles-floating -e ~/.config/ml4w/scripts/installupdates.sh",
         "on-click-right": "~/.config/ml4w/settings/software.sh"
-    },
-
-    // Modules Left
-    "modules-left": [
-        "custom/appmenu",
-        "group/links",
-        "group/settings",
-        "hyprland/workspaces#rw"
-    ],
-
-    // Modules Center
-    "modules-center": [
-        "custom/empty"
-    ],
-
-    // Modules Right    
-    "modules-right": [     
-        "group/hardware", 
-        "clock",  
-        "custom/exit"
-    ]
+    }
 }
 
