@@ -111,6 +111,13 @@ gruv
 
 # Hypr<sup> / Shots</sup>
 
+<details><summary>(2024-Nov18) Nord🛡️ᛉᛟ Rofi</summary>
+<p>
+  
+[simple minimal customizable nord rofi](https://github.com/j5onrf/dots/tree/main/rofi/Nord)
+![Screenshot-2024-11-17_17:50:09](https://github.com/user-attachments/assets/3bccaa2d-4a71-4958-88a8-a50b7bcfe3bf)
+</details>
+
 <details open><summary>(2024-Nov17) Nord🛡️ᛉᛟ SideBar</summary>
 <p>
   
