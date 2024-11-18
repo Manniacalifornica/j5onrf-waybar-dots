@@ -5,7 +5,7 @@
 //    \_/\_/ \__,_|\__, |_.__/ \__,_|_|    
 //                 |___/                   
 //  ML4W
-// NordV-Sidebar (11-17-2024)
+// NordV Vivid Sidebar (11-17-2024)
 // ----------------------------------------------------- 
 //
 {
@@ -21,6 +21,26 @@
     // Load Modules
     "include": [
         "~/.config/waybar/modules-sidebar.json"
+    ],
+    
+    // Modules Left
+    "modules-left": [
+        "custom/appmenu",
+        "group/links",
+        "group/settings",
+        "hyprland/workspaces#rw"
+    ],
+
+    // Modules Center
+    "modules-center": [
+        "custom/empty"
+    ],
+
+    // Modules Right    
+    "modules-right": [     
+        "group/hardware", 
+        "clock",  
+        "custom/exit"
     ],
 
     // Pulseaudio  󰗅 󱘂 
@@ -102,26 +122,6 @@
         "restart-interval": 1800,
         "on-click": "$(cat ~/.config/ml4w/settings/terminal.sh) --class dotfiles-floating -e ~/.config/ml4w/scripts/installupdates.sh",
         "on-click-right": "~/.config/ml4w/settings/software.sh"
-    },
-
-    // Modules Left
-    "modules-left": [
-        "custom/appmenu",
-        "group/links",
-        "group/settings",
-        "hyprland/workspaces#rw"
-    ],
-
-    // Modules Center
-    "modules-center": [
-        "custom/empty"
-    ],
-
-    // Modules Right    
-    "modules-right": [     
-        "group/hardware", 
-        "clock",  
-        "custom/exit"
-    ]
+    }
 }
 
