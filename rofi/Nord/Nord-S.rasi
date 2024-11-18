@@ -4,7 +4,7 @@
  */
 
 configuration {
-	font:							"JetBrainsMono Nerd Font Propo 11";
+	font:							"JetBrainsMono Nerd Font Propo 12";
     show-icons:                     true;
 	icon-theme: 					"Papirus";
     display-drun: 					"";
@@ -35,7 +35,7 @@ prompt {
 	padding: 						0px;
 	background-color: 				@bga;
 	text-color: 					@ac;
-	font:							"JetBrainsMono Nerd Font Propo 11";
+	font:							"JetBrainsMono Nerd Font Propo 12";
 }
 
 entry {
