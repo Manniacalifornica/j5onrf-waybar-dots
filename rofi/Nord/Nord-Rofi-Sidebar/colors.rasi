@@ -1,0 +1,11 @@
+/* colors */
+
+* {
+  al:   #00000000;    /* Transparent */
+  bg:   #2E3440FF;    /* Dark blue-gray */
+  bga:  #2E3440FF;    /* Darkest blue-gray */
+  fg:   #88C0D0FF;    /* Light bluish-gray */
+  ac:   #81A1C1FF;    /* Light blue (accent) */
+  se:   #88C0D0FF;    /* Updated to light bluish-gray for border/accent */
+}
+

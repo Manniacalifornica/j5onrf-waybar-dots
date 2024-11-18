@@ -1,0 +1,118 @@
+/*
+ * Edited by j5onrf (2025) 󰆨
+ * For NordV-Sidebar
+ */
+
+configuration {
+    font:                "JetBrainsMono Nerd Font Propo 13";
+    show-icons:          true;
+    icon-theme:          "Papirus";
+    display-drun:        "";
+    drun-display-format: "{name}";
+    disable-history:     false;
+    fullscreen:          false;
+    hide-scrollbar:      true;
+    sidebar-mode:        true;
+}
+
+@import "colors.rasi"
+
+window {
+    transparency:        "real";
+    background-color:    @bg;
+    text-color:          @fg;
+    border:              0.25em;
+    border-color:        @se;
+    border-radius:       2em;   /* Soft rounded corners */
+    width:               550px;
+    location:            west;    /* Move to the left side of the screen (west) */
+    x-offset:            10px;    /* Small offset from the left edge */
+    y-offset:            0px;     /* No vertical offset (top of the screen) */
+}
+
+prompt {
+    enabled:             true;
+    padding:             0px;
+    background-color:    @bga;
+    text-color:          @ac;
+    font:                "JetBrainsMono Nerd Font Propo 13";
+}
+
+entry {
+    background-color:    @al;
+    text-color:          @fg;
+    placeholder-color:   @fg;
+    expand:              true;
+    horizontal-align:    0.5;
+    placeholder:         "Search...";
+    padding:             0px 0px 0px 5px;
+    blink:               true;
+}
+
+inputbar {
+    children:            [ prompt, entry ];
+    background-color:    @bga;
+    text-color:          @fg;
+    expand:              false;
+    border:              0px 0px 1px 0px;
+    border-radius:       0px;
+    border-color:        @se;
+    margin:              0px;
+    padding:             10px;
+}
+
+listview {
+    background-color:    @al;
+    padding:             0px;
+    columns:             1;
+    lines:               25;
+    spacing:             5px;
+    cycle:               true;
+    dynamic:             true;
+    layout:              vertical;
+}
+
+mainbox {
+    background-color:    @al;
+    border:              0px;
+    border-radius:       0px;
+    border-color:        @ac;
+    children:            [ inputbar, listview ];
+    spacing:             5px;
+    padding:             5px;
+}
+
+element {
+    background-color:    @al;
+    text-color:          @fg;
+    orientation:         horizontal;
+    border-radius:       0px;
+    padding:             8px 10px;   /* Small horizontal space between icon and text */
+}
+
+element-icon {
+    background-color:    transparent;
+    text-color:          inherit;
+    size:                32px;    /* Increased icon size to 32px (you can adjust this value) */
+    border:              0px;
+    margin-right:        5px;     /* Space between icon and text */
+}
+
+element-text {
+    background-color:    transparent;
+    text-color:          inherit;
+    expand:              true;
+    horizontal-align:    0;
+    vertical-align:      0.5;
+    margin:              0px 0px 0px 2.5px; /* Adjust the text position if needed */
+}
+
+
+element selected {
+    background-color:    @se;
+    text-color:          @bg;
+    border:              0px;
+    border-radius:       0px;
+    border-color:        @ac;
+}
+
