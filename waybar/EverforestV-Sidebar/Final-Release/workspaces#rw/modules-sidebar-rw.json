@@ -130,7 +130,7 @@
 
    // Chevron
   "custom/chevron": {
-    "format": "<br>",
+    "format": "",
     "tooltip": false
   },
 
