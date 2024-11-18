@@ -117,7 +117,6 @@ gruv
 [simple minimal customizable nord rofi sidebar](https://github.com/j5onrf/dots/tree/main/rofi/Nord)
 ![Screenshot-2024-11-17_17:50:09](https://github.com/user-attachments/assets/3bccaa2d-4a71-4958-88a8-a50b7bcfe3bf)
 ![Screenshot-2024-11-18_09:29:22](https://raw.githubusercontent.com/j5onrf/dots/refs/heads/main/rofi/Nord/Nord-Rofi-Sidebar/Screenshot-2024-11-18_09%3A56%3A01.png)
-![Screenshot-2024-11-18_10:36:14](https://github.com/user-attachments/assets/58008222-4b95-4f70-a788-7020eccefa17)
 </details>
 
 <details open><summary>(2024-Nov17) Nord🛡️ᛉᛟ SideBar</summary>
