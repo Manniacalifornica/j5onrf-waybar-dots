@@ -51,6 +51,7 @@ https://github.com/j5onrf/dots/blob/main/waybar/Screenshot%20Archive%202/Screens
 
 (2024-nov10) EverforestV-Sidebar [Final-Release Dots](https://github.com/j5onrf/dots/tree/main/waybar/EverforestV-Sidebar/Final-Release)
 ![Unsaved Image 11](https://github.com/user-attachments/assets/7d8ef481-b053-495e-97fa-69d83d35a29d)
+
 (2024-nov03) EverforestV-Sidebar(updated-11-06)
 ![EverforestV-Sidebar-Minwidth2](https://github.com/user-attachments/assets/5eba6fd5-8aad-4052-9d96-28e843239414)
 (2024-nov02) Everforest-S (updates-11-02)
