@@ -2,16 +2,16 @@
  * Edited by j5onrf (2025) 󰆨
  * For NordV-Sidebar
  */
- 
-/* colors */
 
+/* Define color variables */
 * {
   al:   #00000000;    /* Transparent */
-  bg:   #3B4252FF;    /* Dark blue-gray background for window */
+  bg:   #3B4252FF;    /* Background color for the window */
   bga:  #3B4252FF;    /* Accent background */
   fg:   #88C0D0FF;    /* Light bluish-gray text */
   ac:   #81A1C1FF;    /* Light blue accent color */
   se:   #88C0D0FF;    /* Border and accent color (light bluish-gray) */
+  search-bg: #2E3440FF;  /* Search area background color (#2E3440) */
 }
 
 /* General Configuration */
@@ -45,14 +45,14 @@ window {
 prompt {
     enabled:             true;
     padding:             0px;
-    background-color:    #2E3440FF;    /* Set search prompt background to #2E3440 */
+    background-color:    @search-bg;    /* Set search prompt background to #2E3440 */
     text-color:          @ac;           /* Accent color for the prompt text */
     font:                "JetBrainsMono Nerd Font Propo 13";
 }
 
 /* Entry (Search Input) */
 entry {
-    background-color:    #2E3440FF;    /* Set search entry background to #2E3440 */
+    background-color:    @search-bg;    /* Set search entry background to #2E3440 */
     text-color:          @fg;           /* Text color for the input field */
     placeholder-color:   @fg;           /* Placeholder color */
     expand:              true;
@@ -65,7 +65,7 @@ entry {
 /* Input Bar (Search Input Bar) */
 inputbar {
     children:            [ prompt, entry ];
-    background-color:    #2E3440FF;    /* Set background to #2E3440 */
+    background-color:    @search-bg;    /* Set background to #2E3440 */
     text-color:          @fg;           /* Text color */
     expand:              false;
     border:              0px 0px 1px 0px;
@@ -80,7 +80,7 @@ listview {
     background-color:    @al;  /* Transparent background */
     padding:             0px;
     columns:             1;
-    lines:               22;
+    lines:               26;
     spacing:             5px;
     cycle:               true;
     dynamic:             true;
@@ -111,7 +111,7 @@ element {
 element-icon {
     background-color:    transparent;
     text-color:          inherit;
-    size:                40px;    /* Increased icon size to 40px */
+    size:                30px;    /* Increased icon size to 30px */
     border:              0px;
     margin-right:        5px;     /* Space between icon and text */
 }
