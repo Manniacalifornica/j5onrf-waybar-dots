@@ -17,7 +17,6 @@
   fg:           #88C0D0FF;    /* Light blue for text and icons */
   ac:           #81A1C1FF;    /* Accent blue for hover effects */
   se:           #8FBCBBFF;    /* Aqua highlight (active/selected items) */
-  search-bg:    #2E3440FF;    /* Search area background color */
 }
 
 /* General Configuration */
