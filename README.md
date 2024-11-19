@@ -123,6 +123,7 @@ gruv
 <p>
   
 [colorscheme](https://github.com/j5onrf/dots/tree/main/waybar/EverforestV-Sidebar/Final-Release) [wall](https://github.com/j5onrf/walls/tree/main/Nord) 
+![](https://raw.githubusercontent.com/j5onrf/dots/refs/heads/main/waybar/EverforestV-Sidebar/Final-Release/Color%20Schemes%20and%20Themes/NordVivid/Screenshot-2024-11-17_11%3A46%3A18.png)
 ![Screenshot-2024-11-18_13:20:39](https://github.com/user-attachments/assets/3c36599f-6827-4620-9212-f3df63e1007c)
 </details>
 
