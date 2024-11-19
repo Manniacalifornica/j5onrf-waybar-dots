@@ -32,9 +32,9 @@ window {
     transparency:        "real";
     background-color:    @bg;    /* Window background color (#3B4252) */
     text-color:          @fg;    /* Light bluish-gray text */
-    border:              3px;    /* Border thickness */
+    border:              0px;    /* Border thickness */
     border-color:        @se;    /* Border color (#88C0D0) */
-    border-radius:       2em; /* Soft rounded corners */
+    border-radius:       0.2em; /* Soft rounded corners */
     width:               500px;
     location:            west;   /* Move to the left side of the screen */
     x-offset:            10px;   /* Small offset from the left edge */
