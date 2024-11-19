@@ -116,6 +116,7 @@ element-text {
     text-color:          inherit;
     expand:              true;
     horizontal-align:    0;
+    vertical-align:      0.5;
 }
 
 /* Main Box (Container for Input and Listview) */
