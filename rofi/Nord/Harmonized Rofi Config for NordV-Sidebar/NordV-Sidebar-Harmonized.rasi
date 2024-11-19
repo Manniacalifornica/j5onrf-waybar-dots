@@ -126,9 +126,3 @@ mainbox {
     spacing:             0.5em;
     background-color:    @al;    /* Transparent container */
 }
-
-/* Extra Tweaks */
-#scrollbar {
-    visibility:          false;  /* Hide scrollbar */
-}
-
