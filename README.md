@@ -119,7 +119,7 @@ gruv
 [simple minimal customizable](https://github.com/j5onrf/dots/tree/main/rofi/Nord/Simple-Centered)
 </details>
 
-<details open><summary>(2024-Nov17) Nord🛡️ᛉᛟ SideBar</summary>
+<details><summary>(2024-Nov17) Nord🛡️ᛉᛟ SideBar</summary>
 <p>
   
 [colorscheme](https://github.com/j5onrf/dots/tree/main/waybar/EverforestV-Sidebar/Final-Release) [wall](https://github.com/j5onrf/walls/tree/main/Nord) 
