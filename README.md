@@ -113,9 +113,10 @@ gruv
 
 <details><summary>(2024-Nov18) Nord🛡️ᛉᛟ Rofi</summary>
 <p>
-  
+
+[Harmonized Rofi Config for NordV-Sidebar](https://github.com/j5onrf/dots/tree/main/rofi/Nord)
+![Screenshot-2024-11-18_22:05:13](https://github.com/user-attachments/assets/2c910e22-4efb-4dc9-b30d-df641bb3247d)
 [simple minimal customizable nord rofi sidebar](https://github.com/j5onrf/dots/tree/main/rofi/Nord)
-![Screenshot-2024-11-18_09:29:22](https://raw.githubusercontent.com/j5onrf/dots/refs/heads/main/rofi/Nord/Nord-Rofi-Sidebar/Screenshot-2024-11-18_09%3A56%3A01.png)
 </details>
 
 <details open><summary>(2024-Nov17) Nord🛡️ᛉᛟ SideBar</summary>
