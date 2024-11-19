@@ -32,6 +32,7 @@ configuration {
     fullscreen:          false;
     hide-scrollbar:      true;
     sidebar-mode:        true;
+    cycle: false; /* Disable wrapping when scrolling */
 }
 
 /* Window (Background and Border) */
