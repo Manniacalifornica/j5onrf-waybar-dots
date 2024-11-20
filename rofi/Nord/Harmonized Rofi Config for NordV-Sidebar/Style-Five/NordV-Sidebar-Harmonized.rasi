@@ -17,6 +17,7 @@
   fg:           #88C0D0FF;    /* Light blue for text and icons */
   ac:           #81A1C1FF;    /* Accent blue for hover effects */
   se:           #8FBCBBFF;    /* Aqua highlight (active/selected items) */
+  wh:           #FFFFFF;      /* White color */
 }
 
 /* General Configuration */
@@ -51,8 +52,8 @@ window {
 inputbar {
     background-color:    @bg;
     text-color:          @fg;
-    padding:             0.5em 0.5em;
-    margin:              0.6em 0.6em 0em; /* Reduce bottom margin */
+    padding:             0.5em 0.5em;  /* Matching left and right padding */
+    margin:              0.6em 0.6em 0em;  /* Same margin for top and left/right, but 0 for bottom */
     border:              0.05em;
     border-color:        @bga;
     border-radius:       0.4em;
@@ -62,7 +63,7 @@ inputbar {
 
 /* Prompt (Label before Input) */
 prompt {
-    text-color:          #FFFFFF;   /* Accent color for prompt text */
+    text-color:          @wh;    /* Accent color for prompt text */
     background-color:    transparent;
     padding:             0.18em 0 0 0; /* Add left padding to move the icon */
     margin-left:         0em;   /* Add some space between the icon and the search box */
@@ -71,8 +72,8 @@ prompt {
 /* Entry (Search Input) */
 entry {
     background-color:    transparent;
-    text-color:          #FFFFFF;
-    placeholder-color:   #FFFFFF;
+    text-color:          @wh;    /* White color for text */
+    placeholder-color:   @wh;    /* White color for placeholder */
     placeholder:         "Search...";
     padding:             0.2em 0.5em;
     horizontal-align:    0;      /* Align text input to the left */
@@ -84,15 +85,15 @@ listview {
     columns:             1;
     lines:               17;     /* Set the height with # of lines */
     spacing:             0.2em;  /* Space between items */
-    padding:             0.5em;
+    padding:             0.5em;  /* Left and right padding for the listview */
     layout:              vertical;
 }
 
 /* Elements (Items in Listview) */
 element {
     background-color:    @bga;
-    text-color:          #FFFFFF;
-    border-radius:       0.4em;    /* Match Waybar button shape */
+    text-color:          @wh;    /* White color for element text */
+    border-radius:       0.4em;  /* Match Waybar button shape */
     padding:             0.3em 0.5em; /* Ensure padding on the sides for internal space */
     margin:              0.1em 0.2em;
     border:              0.05em;
@@ -114,7 +115,7 @@ element-text {
 
 /* Selected Element */
 element selected {
-    background-color:    #81A1C1;
+    background-color:    @ac;
     text-color:          @bg;     /* Contrast text for selection */
     border-color:        @ac;     /* Accent border color */
 }
@@ -143,5 +144,4 @@ mainbox {
     spacing:             0em;  /* Reduce spacing between search box and results */
     background-color:    @al;    /* Transparent container */
 }
-
 
