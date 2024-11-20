@@ -1,3 +1,5 @@
+# Rofi launcher. Place launcher in rofi/bin.
+
 #!/usr/bin/env bash
 rofi \
     -show drun \
