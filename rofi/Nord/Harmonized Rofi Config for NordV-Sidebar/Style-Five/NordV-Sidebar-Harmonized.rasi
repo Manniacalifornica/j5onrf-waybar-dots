@@ -74,7 +74,7 @@ entry {
     text-color:          #FFFFFF;
     placeholder-color:   #FFFFFF;
     placeholder:         "Search...";
-    padding:             0.2em 0.5em;
+    padding:             0.2em 0.4em;
     horizontal-align:    0;      /* Align text input to the left */
 }
 
