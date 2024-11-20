@@ -1,12 +1,10 @@
-# Rofi launcher. Place launcher in rofi/bin. Place .rasi files in rofi/config. You can have multi launchers.
-
 #!/usr/bin/env bash
 rofi \
-	-show drun \
-	-modi run,drun \
-	-scroll-method 0 \
-	-drun-match-fields all \
-	-drun-display-format "{name}" \
-	-no-drun-show-actions \
-	-kb-cancel Alt-F1 \
-	-theme "$HOME"/.config/rofi/config/launcher3s.rasi
+    -show drun \
+    -modi run,drun \
+    -scroll-method 0 \
+    -drun-match-fields all \
+    -drun-display-format "{name}" \
+    -no-drun-show-actions \
+    -kb-cancel Escape \   # fixed this, was set to alt f1
+    -theme "$HOME"/.config/rofi/config/simple/NordV-Sidebar-Harmonized.rasi
