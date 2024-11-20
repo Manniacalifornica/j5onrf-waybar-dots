@@ -43,7 +43,7 @@ window {
     border-radius:       0.4em;    /* Rounded corners */
     width:               500px;
     location:            west;   /* Align with Waybar sidebar */
-    x-offset:            10px;   /* Slight horizontal offset */
+    x-offset:            0px;   /* Slight horizontal offset */
     y-offset:            0px;    /* Align vertically with screen */
 }
 
