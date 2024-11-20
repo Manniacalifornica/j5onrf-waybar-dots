@@ -104,7 +104,7 @@ element-icon {
     background-color:    transparent;
     text-color:          inherit;
     size:                50px;    /* Icon size */
-    margin:              0 0.3em 0 0;     /* Increase space between icon and text */
+    margin:              0 0.15em 0 0;     /* Increase space between icon and text */
 }
 
 /* Selected Element */
