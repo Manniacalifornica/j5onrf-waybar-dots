@@ -111,7 +111,7 @@ gruv
 
 # Hypr<sup> / Shots</sup>
 
-<details open><summary>(2024-Nov18) Nord🛡️ᛉᛟ Rofi</summary>
+<details open><summary>(2024-Nov18) Nord🛡️ᛉᛟ Rofi 🚧</summary> 
 <p>
 
 [Harmonized Rofi](https://github.com/j5onrf/dots/tree/main/rofi/Nord/Harmonized%20Rofi%20Config%20for%20NordV-Sidebar) &nbsp; [Simple Centered](https://github.com/j5onrf/dots/tree/main/rofi/Nord/Simple-Centered)  &nbsp; [Version<sup>3</sup>](https://github.com/j5onrf/dots/tree/main/rofi/Nord/Harmonized%20Rofi%20Config%20for%20NordV-Sidebar/More-Styles/Version-3) (Nov-21-2024)
