@@ -84,7 +84,7 @@ entry {
 listview {
     background-color:    @al;    /* Transparent background */
     columns:             1;
-    lines:               8;     /* Set the height with # of lines */
+    lines:               5;     /* Set the height with # of lines */
     spacing:             0.2em;  /* Space between items */
     padding:             0.5em;  /* Left and right padding for the listview */
     layout:              vertical;
