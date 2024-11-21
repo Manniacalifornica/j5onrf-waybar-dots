@@ -114,15 +114,14 @@ gruv
 <details open><summary>(2024-Nov18) Nord🛡️ᛉᛟ Rofi</summary>
 <p>
 
-[Harmonized Rofi](https://github.com/j5onrf/dots/tree/main/rofi/Nord/Harmonized%20Rofi%20Config%20for%20NordV-Sidebar)
+[Harmonized Rofi](https://github.com/j5onrf/dots/tree/main/rofi/Nord/Harmonized%20Rofi%20Config%20for%20NordV-Sidebar) &nbsp; [simple minimal customizable](https://github.com/j5onrf/dots/tree/main/rofi/Nord/Simple-Centered)
 ![Screenshot-2024-11-20_14:35:42](https://github.com/user-attachments/assets/9fe01e04-c906-41c1-b136-a1096960b5aa)
-[simple minimal customizable](https://github.com/j5onrf/dots/tree/main/rofi/Nord/Simple-Centered)
 </details>
 
 <details open><summary>(2024-Nov17) Nord🛡️ᛉᛟ SideBar</summary>
 <p>
   
-[ColorScheme](https://github.com/j5onrf/dots/tree/main/waybar/EverforestV-Sidebar/Final-Release) [Wall](https://github.com/j5onrf/walls/tree/main/Nord) 
+[ColorScheme](https://github.com/j5onrf/dots/tree/main/waybar/EverforestV-Sidebar/Final-Release) &nbsp; [Wall](https://github.com/j5onrf/walls/tree/main/Nord) 
 ![](https://raw.githubusercontent.com/j5onrf/dots/refs/heads/main/waybar/EverforestV-Sidebar/Final-Release/Color%20Schemes%20and%20Themes/NordVivid/Screenshot-2024-11-17_11%3A46%3A18.png)
 ![Screenshot-2024-11-18_13:20:39](https://github.com/user-attachments/assets/3c36599f-6827-4620-9212-f3df63e1007c)
 </details>
@@ -130,7 +129,7 @@ gruv
 <details><summary>(2024-Nov01) Everforest🌿 Rofi</summary>
 <p>
   
-[everforest.rasi](https://github.com/j5onrf/dots/tree/main/rofi/EverForest%20Rofi) - [walls](https://github.com/j5onrf/walls/tree/main/EverForest/EverForest_Arch) 
+[everforest.rasi](https://github.com/j5onrf/dots/tree/main/rofi/EverForest%20Rofi) &nbsp; [walls](https://github.com/j5onrf/walls/tree/main/EverForest/EverForest_Arch) 
 ![Screenshot-2024-11-01_23:56:26](https://github.com/user-attachments/assets/c02e5d51-7335-493a-bc13-623e78e70884)
 </details>
 
