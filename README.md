@@ -116,7 +116,6 @@ gruv
 
 [Harmonized Rofi](https://github.com/j5onrf/dots/tree/main/rofi/Nord/Harmonized%20Rofi%20Config%20for%20NordV-Sidebar) &nbsp; [Simple Centered](https://github.com/j5onrf/dots/tree/main/rofi/Nord/Simple-Centered)  &nbsp; [Version<sup>3</sup>](https://github.com/j5onrf/dots/tree/main/rofi/Nord/Harmonized%20Rofi%20Config%20for%20NordV-Sidebar/More-Styles/Version-3) (Nov-21-2024)
 ![Screenshot-v3](https://github.com/user-attachments/assets/789cf25a-6a70-4c6d-a397-05aee67ecdb8)
-![Screenshot-2024-11-21_18:36:25](https://github.com/user-attachments/assets/8f92c793-0219-4bd4-96ab-0336003b3625)
 </details>
 
 <details open><summary>(2024-Nov17) Nord🛡️ᛉᛟ SideBar</summary>
