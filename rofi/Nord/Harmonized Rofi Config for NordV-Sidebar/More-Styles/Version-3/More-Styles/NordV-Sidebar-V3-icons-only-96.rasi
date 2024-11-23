@@ -43,7 +43,7 @@ window {
     border:              0.11em; /* Border thickness (match Waybar) */
     border-color:        #434C53;   /* Border color (secondary background) */
     border-radius:       2em;    /* Rounded corners */
-    width:               750px;
+    width:               770px;
     location:            center;   /* Align with Waybar sidebar */
     x-offset:            0px;   /* Slight horizontal offset */
     y-offset:            0px;    /* Align vertically with screen */
