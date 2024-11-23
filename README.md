@@ -114,8 +114,10 @@ gruv
 <details open><summary>(2024-Nov18) Nord🛡️ᛉᛟ Rofi 🚧</summary> 
 <p>
 
-[Harmonized Rofi](https://github.com/j5onrf/dots/tree/main/rofi/Nord/Harmonized%20Rofi%20Config%20for%20NordV-Sidebar) &nbsp; [Simple Centered](https://github.com/j5onrf/dots/tree/main/rofi/Nord/Simple-Centered)  &nbsp; [Version<sup>3</sup>](https://github.com/j5onrf/dots/tree/main/rofi/Nord/Harmonized%20Rofi%20Config%20for%20NordV-Sidebar/More-Styles/Version-3) (Nov-21-2024)
+[Version<sup>3</sup>](https://github.com/j5onrf/dots/tree/main/rofi/Nord/Harmonized%20Rofi%20Config%20for%20NordV-Sidebar/More-Styles/Version-3) (Nov-21-2024) &nbsp; [Icons Only Beta](https://github.com/j5onrf/dots/tree/main/rofi/Nord/Harmonized%20Rofi%20Config%20for%20NordV-Sidebar/More-Styles/Version-3/More-Styles) (Nov-23-2024)
 ![Screenshot-v3](https://github.com/user-attachments/assets/789cf25a-6a70-4c6d-a397-05aee67ecdb8)
+![Screenshot-2024-11-23_12:38:19](https://github.com/user-attachments/assets/c31d1480-5a09-4785-9400-61bb654844e7)
+
 </details>
 
 <details open><summary>(2024-Nov17) Nord🛡️ᛉᛟ SideBar</summary>
