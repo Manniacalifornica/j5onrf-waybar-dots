@@ -20,14 +20,14 @@
 /* General Styles */
 * {
     font-family: "JetBrainsMono Nerd Font Propo", "Font Awesome 6 Free", sans-serif;  
-    border-radius: 2em; /* Set rounding radius, 0.2em 2em */
+    border-radius: 0.2em; /* Set rounding radius, 0.2em 2em */
     font-weight: 600; /* 400-900 */
-    font-size: 30; /* Set the sidebar size */
 }
 
 window#waybar {
     background: @bgcolor2;
     border: 0.05em solid @color1;  /* Optional border hinting */
+    font-size: 28; /* Set the sidebar size */
 }
 
 /* Workspaces Styles */
@@ -87,11 +87,13 @@ window#waybar {
 
 /* Specific Adjustments */
 #cpu:hover, 
-#memory:hover {
+#memory:hover,
+#custom-updates:hover{
+    color: @color0;
     background: @color1;
 }
 
-#custom-chevron { /* fix needed for RW# em scale spacing */
+#custom-chevron { /* fix for RW# em scale spacing */
     border: 0.05em solid; 
     padding: 0em 0.3em; 
     margin: 0em 0.2em; 
@@ -134,7 +136,7 @@ window#waybar {
     padding: 0.19em 0; /* Button size */
 }
 
-#cpu, 
+#cpu,
 #memory,
 #custom-updates {
     font-size: 0.64em;
@@ -178,4 +180,3 @@ tooltip label {
     color: @color0;
     font-size: 14;
 }
-
