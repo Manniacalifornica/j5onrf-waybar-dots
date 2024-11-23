@@ -22,7 +22,7 @@
 
 /* General Configuration */
 configuration {
-    font:                "JetBrainsMono Nerd Font Propo 16";
+    font:                "JetBrainsMono Nerd Font Propo 18";
     font-weight: 600; /* Medium weight for balance */
     show-icons:          true;
     icon-theme:          "Papirus";
@@ -43,7 +43,7 @@ window {
     border:              0.11em; /* Border thickness (match Waybar) */
     border-color:        #434C53;   /* Border color (secondary background) */
     border-radius:       0.4em;    /* Rounded corners */
-    width:               810px;
+    width:               855px;
     location:            center;   /* Align with Waybar sidebar */
     x-offset:            0px;   /* Slight horizontal offset */
     y-offset:            0px;    /* Align vertically with screen */
