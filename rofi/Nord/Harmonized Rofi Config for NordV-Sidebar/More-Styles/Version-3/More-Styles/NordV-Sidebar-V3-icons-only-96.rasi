@@ -94,7 +94,7 @@ listview {
 element {
     background-color:    @bga;
     text-color:          @wh;    /* White color for element text */
-    border-radius:       2em;  /* Match Waybar button shape */
+    border-radius:       100em;  /* Match Waybar button shape */
     padding:             0.3em 0.5em; /* Ensure padding on the sides for internal space */
     margin:              0.4em;
     border:              0.12em; /* Border thickness (match Waybar) */
