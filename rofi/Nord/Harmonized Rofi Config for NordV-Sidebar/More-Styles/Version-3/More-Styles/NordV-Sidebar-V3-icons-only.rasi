@@ -43,9 +43,9 @@ window {
     border:              0.11em; /* Border thickness (match Waybar) */
     border-color:        #434C53;   /* Border color (secondary background) */
     border-radius:       2em;    /* Rounded corners */
-    width:               550px;
+    width:               585px;
     location:            center;   /* Align with Waybar sidebar */
-    x-offset:            10px;   /* Slight horizontal offset */
+    x-offset:            0px;   /* Slight horizontal offset */
     y-offset:            0px;    /* Align vertically with screen */
 }
 
@@ -84,9 +84,9 @@ entry {
 listview {
     background-color:    @al;    /* Transparent background */
     columns:             5;
-    lines:               5;     /* Set the height with # of lines */
-    spacing:             0.2em;  /* Space between items */
-    padding:             0.5em;  /* Left and right padding for the listview */
+    lines:               4;     /* Set the height with # of lines */
+    spacing:             0em;  /* Space between items */
+    padding:             1em 0 0 0;  /* Left and right padding for the listview */
     layout:              vertical;
 }
 
@@ -96,7 +96,7 @@ element {
     text-color:          @wh;    /* White color for element text */
     border-radius:       2em;  /* Match Waybar button shape */
     padding:             0.3em 0.5em; /* Ensure padding on the sides for internal space */
-    margin:              0.1em 0.4em;
+    margin:              0.4em;
     border:              0.12em; /* Border thickness (match Waybar) */
     border-color:        #3B4252;   /* Border color (secondary background) */
 }
@@ -105,8 +105,7 @@ element {
 element-icon {
     background-color:    transparent;
     text-color:          inherit;
-    size:                48px;    /* Icon size */
-    margin:              0 0.15em 0 0;     /* Increase space between icon and text */
+    size:                64px;    /* Icon size */
 }
 
 /* Selected Element */
@@ -131,6 +130,5 @@ mainbox {
     children:            [ inputbar, listview ];
     spacing:             0em;  /* Reduce spacing between search box and results */
     background-color:    @al;    /* Transparent container */
-    margin:              0 0 0.2em 0;
 }
 
