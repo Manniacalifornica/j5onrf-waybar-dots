@@ -116,7 +116,7 @@ gruv
 
 [Version<sup>3</sup>](https://github.com/j5onrf/dots/tree/main/rofi/Nord/Harmonized%20Rofi%20Config%20for%20NordV-Sidebar/More-Styles/Version-3) (Nov-21-2024) &nbsp; [Icons Only Beta](https://github.com/j5onrf/dots/tree/main/rofi/Nord/Harmonized%20Rofi%20Config%20for%20NordV-Sidebar/More-Styles/Version-3/More-Styles) (Nov-23-2024)
 ![Screenshot-v3](https://github.com/user-attachments/assets/789cf25a-6a70-4c6d-a397-05aee67ecdb8)
-![Screenshot-2024-11-23_13:35:41](https://github.com/user-attachments/assets/8d795291-d1eb-49d8-8e8e-a125d3d291fd)
+![Screenshot-2024-11-23_13:49:26](https://github.com/user-attachments/assets/adc5650d-6652-4ec3-bf07-bbc7af0ce875)
 </details>
 
 <details open><summary>(2024-Nov17) Nord🛡️ᛉᛟ SideBar</summary>
