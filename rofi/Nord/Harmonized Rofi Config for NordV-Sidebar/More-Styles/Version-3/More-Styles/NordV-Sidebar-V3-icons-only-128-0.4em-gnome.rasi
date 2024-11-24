@@ -29,10 +29,10 @@ configuration {
     display-drun:        " ";
     drun-display-format: "{name}";
     disable-history:     false;
-    fullscreen:          false;
-    hide-scrollbar:      false;
+    hide-scrollbar:      true;
     sidebar-mode:        false;
     cycle: false; /* Disable wrapping when scrolling */
+    fullscreen: false;
 }
 
 /* Window (Background and Border) */
@@ -84,7 +84,7 @@ entry {
 listview {
     background-color:    @al;    /* Transparent background */
     columns:             10;
-    lines:               4;     /* Set the height with # of lines */
+    lines:               2;     /* Set the height with # of lines */
     spacing:             0em;  /* Space between items */
     margin:              0.81em 0.81em 0em;  /* Same margin for top and left/right, but 0 for bottom */
     layout:              vertical;
