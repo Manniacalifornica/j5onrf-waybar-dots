@@ -1,9 +1,9 @@
 [Desktop Entry]
 Type=Application
 NoDisplay=false
-Terminal=true
-Exec=
-Icon=
+Terminal=false
+Exec=pkill rofi
+Icon=
 Name=esc
-Comment=
+Comment=Close Rofi
 Categories=
