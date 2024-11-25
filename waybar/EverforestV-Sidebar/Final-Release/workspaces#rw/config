@@ -67,7 +67,7 @@
         "format-high": "<span color='#E69875'>{usage}</span>",
         "format-medium": "<span color='#DBBC7F'>{usage}</span>",
         "format-low": "<span color='#A7C080'>{usage}</span>",
-        "on-click": "~/.config/ml4w/settings/systeminfo.sh",
+        "on-click": "missioncenter",
         "tooltip": false,
   //    "interval": 2,
         "states": {
@@ -84,7 +84,7 @@
         "format-high": "<span color='#E69875'>{used:0.1f}</span>",
         "format-medium": "<span color='#DBBC7F'>{used:0.1f}</span>",
         "format-low": "<span color='#A7C080'>{used:0.1f}</span>",
-        "on-click": "~/.config/ml4w/settings/systeminfo.sh",
+        "on-click": "missioncenter",
         "tooltip": false,
  //     "interval": 10,
         "states": {
