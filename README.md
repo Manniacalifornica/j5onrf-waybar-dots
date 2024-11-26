@@ -276,7 +276,11 @@ windowrulev2 = dimaround, class:^(dotfiles-floating)
 windowrulev2 = dimaround, class:^(Timeshift-gtk)
 windowrulev2 = dimaround, class:^(org.keepassxc.KeePassXC)
 
+# Dim Background of Rofi
 layerrule = dimaround, rofi
+
+# This launches my rofi on startup using rofi launcher.
+exec-once = hyprctl dispatch workspace 1,silent && ~/.config/rofi/bin/launcher2
 
 ```
 
