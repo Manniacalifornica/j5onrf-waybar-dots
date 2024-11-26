@@ -272,6 +272,12 @@ windowrulev2 = size 1300 1100,class:(.*keepassxc.*)
 windowrulev2 = center,class:(.*keepassxc.*)
 windowrulev2 = pin,class:(.*keepassxc.*)
 
+windowrulev2 = dimaround, class:^(dotfiles-floating)
+windowrulev2 = dimaround, class:^(Timeshift-gtk)
+windowrulev2 = dimaround, class:^(org.keepassxc.KeePassXC)
+
+layerrule = dimaround, rofi
+
 ```
 
 </p>
