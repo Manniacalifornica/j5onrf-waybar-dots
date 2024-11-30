@@ -38,7 +38,7 @@ window#waybar {
     color: @color0; /* Change color of inactive icons */
     background: @color1;
     border: 0.05em solid @color1;  
-    padding: 0.2em 0.45em; /* Minimal padding while maintaining shape */
+    padding: 0.2em 0.4em; /* Minimal padding while maintaining shape */
     margin: 0.1em 0.2em; /* Optional: spacing between buttons */
 }
 
