@@ -261,20 +261,23 @@ bind = SHIFT, Print, exec, grim - | wl-copy && wl-paste > ~/Pictures/Screenshots
 bind = $mainMod SHIFT, X, exec, notify-send -u critical -t 3000 "Kill" "Click any window kill it" & hyprctl kill
 
 # org.gnome.Weather App floating
-windowrulev2 = float,class:(.*org.gnome.Weather.*)
-windowrulev2 = size 1100 900,class:(.*org.gnome.Weather.*)
-windowrulev2 = center,class:(.*org.gnome.Weather.*)
-windowrulev2 = pin,class:(.*org.gnome.Weather.*)
+windowrulev2 = float,class:^(org.gnome.Weather)$
+windowrulev2 = size 1100 900,class:^(org.gnome.Weather)$
+
+# Proton-Calendar-PWM
+windowrulev2 = float,class:^(brave-ojibjkjikcpjonjjngfkegflhmffeemk-Default)$
+windowrulev2 = size 1100 800,class:^(brave-ojibjkjikcpjonjjngfkegflhmffeemk-Default)$
 
 # keepassxc App floating
-windowrulev2 = float,class:(.*keepassxc.*)
-windowrulev2 = size 1300 1100,class:(.*keepassxc.*)
-windowrulev2 = center,class:(.*keepassxc.*)
-windowrulev2 = pin,class:(.*keepassxc.*)
+windowrulev2 = float,class:^(org.keepassxc.KeePassXC)$
+windowrulev2 = size 1300 1100,class:^(org.keepassxc.KeePassXC)$
 
+# Dimaround
 windowrulev2 = dimaround, class:^(dotfiles-floating)
 windowrulev2 = dimaround, class:^(Timeshift-gtk)
 windowrulev2 = dimaround, class:^(org.keepassxc.KeePassXC)
+windowrulev2 = dimaround, class:^(brave-ojibjkjikcpjonjjngfkegflhmffeemk-Default)
+windowrulev2 = dimaround, class:^(org.gnome.Weather)
 
 # Dim Background of Rofi
 layerrule = dimaround, rofi
