@@ -264,7 +264,7 @@ bind = $mainMod SHIFT, X, exec, notify-send -u critical -t 3000 "Kill" "Click an
 windowrulev2 = float,class:^(org.gnome.Weather)$
 windowrulev2 = size 1100 900,class:^(org.gnome.Weather)$
 
-# Proton-Calendar-PWM
+# Proton-Calendar-PWA
 windowrulev2 = float,class:^(brave-ojibjkjikcpjonjjngfkegflhmffeemk-Default)$
 windowrulev2 = size 1100 800,class:^(brave-ojibjkjikcpjonjjngfkegflhmffeemk-Default)$
 
