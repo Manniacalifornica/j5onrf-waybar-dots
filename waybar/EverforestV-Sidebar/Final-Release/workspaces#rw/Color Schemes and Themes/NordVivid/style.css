@@ -5,7 +5,7 @@
 \____|__  /\____/|__|  \____ |   \___/  |__| \_/ |__\____ | 
         \/                  \/                           \/   
 *  ML4W, Edited by j5onrf (2025)
-*  Nord Vivid SideBar-RW (11-17-2024)
+*  Nord Vivid SideBar-RW (12-02-2024)
 * -----------------------------------------------------  
 */
 
@@ -22,12 +22,12 @@
     font-family: "JetBrainsMono Nerd Font Propo", "Font Awesome 6 Free", sans-serif;  
     border-radius: 0.2em; /* Set rounding radius, 0.2em 2em */
     font-weight: 600; /* 400-900 */
+    font-size: 28; /* Set the sidebar size */
 }
 
 window#waybar {
     background: @bgcolor2;
     border: 0.05em solid @color1;  /* Optional border hinting */
-    font-size: 28; /* Set the sidebar size */
 }
 
 /* Workspaces Styles */
@@ -38,7 +38,6 @@ window#waybar {
     color: @color0; /* Change color of inactive icons */
     background: @color1;
     border: 0.05em solid @color1;  
-    padding: 0.2em 0.4em; /* Minimal padding while maintaining shape */
     margin: 0.1em 0.2em; /* Optional: spacing between buttons */
 }
 
@@ -93,9 +92,9 @@ window#waybar {
     background: @color1;
 }
 
-#custom-chevron { /* fix for RW# em scale spacing */
+#custom-chevron { /* fix for #RW em scale spacing */
     border: 0.05em solid; 
-    padding: 0em 0.3em; 
+    padding: 0em 0.35em; /* Minimal padding while maintaining shape */
     margin: 0em 0.2em; 
     color: @bgcolor2;
 }
