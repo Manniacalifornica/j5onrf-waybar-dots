@@ -5,59 +5,58 @@
 // |_|  |_|\___/ \__,_|\__,_|_|\___||___/
 //
 //  ML4W
-// Vertical-Sidebar-RW (11-17-2024)
+// Vertical-Sidebar-RW (12-02-2024)
 
-// Workspaces
 {
-"hyprland/workspaces#rw": {
-     // "focus-on-click": true,
-	"disable-scroll": true,
-	"all-outputs": true,
-	"warp-on-scroll": false,
-	"sort-by-number": true,
-	"show-special": false,
-        "on-click": "activate",
-	"on-scroll-up": "hyprctl dispatch workspace e-1",
-	"on-scroll-down": "hyprctl dispatch workspace e+1",
-     // "format": "{icon} {windows}",
-	"format": "{windows}",  
-	"persistent-workspaces": {"*": 10},
-	"format-window-separator":"\n",
-	"window-rewrite-default": "",
-	"window-rewrite": {
-	        "title<.*youtube.*>": "",
-	   //   "title<.*youtube.*>": "",
-	//	"title<.*amazon.*>": "",
-		"title<.*reddit.*>": "",
-		"title<.*dot.*>": "",
-		"title<.*Picture-in-Picture.*>": "",
-		"class<freetube>": "",
-		"class<gimp-3.0>": "",
-		"class<org.gnome.Weather>": "",
-		"class<io.missioncenter.MissionCenter>": "",
-		"class<firefox>": "",
-		"class<kitty>": "󰄛",
-		"class<org.gnome.Console>": "",
-		"class<alacritty>": "",
-             // "class<brave-browser-beta>": "",
-	     // "class<brave-browser-beta>": "",
-	     // "class<brave-browser-beta>": "",
-	        "class<brave-browser-beta>": "<span font_desc='Font Awesome 6 Brands 30'></span>",  
-	     // "class<brave-browser-beta>": "<span font_desc='Font Awesome 6 Brands'></span>", 
-             // "class<org.telegram.desktop|io.github.tdesktop_x64.TDesktop>": "<span font='12'></span>",
-             // "class<[Ss]potify>": "<span font='12'></span>",
-	//	"class<VSCode|code-url-handler>": "<span font='12'>󰨞</span>",
-	        "class<org.gnome.Nautilus>": "",
-	//	"class<subl>": "󰅳",
-	//	"class<codium|codium-url-handler|VSCodium>": "󰨞",
-	//	"class<codeblocks>": "󰅩",
-		"class<mousepad>": "",
-	        "class<org.gnome.TextEditor>": "󰎚",
-	//	"class<com.obsproject.Studio>": "",
-		"class<polkit-gnome-authentication-agent-1>": "󰒃",
-		"class<nwg-look>": "",
-	//	"class<vlc>": "󰕼"
-		}   
+  // Workspaces
+  "hyprland/workspaces#rw": {
+    "disable-scroll": true,
+    "all-outputs": true,
+    "warp-on-scroll": false,
+    "sort-by-number": true,
+    "show-special": false,
+    "on-click": "activate",
+    "on-scroll-up": "hyprctl dispatch workspace e-1",
+    "on-scroll-down": "hyprctl dispatch workspace e+1",
+    //"format": "\u2009{icon}\n{windows}",
+    "format": "{windows}",
+    "persistent-workspaces": { "*": 10 },
+    "format-window-separator": "\n",
+    "window-rewrite-default": "",
+    "window-rewrite": {
+      "title<.*youtube.*>": "",
+      // "title<.*youtube.*>": "",
+      // "title<.*amazon.*>": "",
+      "title<.*reddit.*>": "",
+      "title<.*dot.*>": "",
+      "title<.*Picture-in-Picture.*>": "",
+      "class<obsidian>": "󰠮",
+      "class<freetube>": "",
+      "class<gimp-3.0>": "",
+      "class<org.gnome.Weather>": "",
+      "class<io.missioncenter.MissionCenter>": "",
+      "class<firefox>": "",
+      "class<kitty>": "󰄛",
+      "class<org.gnome.Console>": "",
+      "class<alacritty>": "",
+      // "class<brave-browser-beta>": "",
+      // "class<brave-browser-beta>": "",
+       "class<brave-browser-beta>": "",
+      // "class<brave-browser-beta>": "<span font_desc='Font Awesome 6 Brands 28'></span>",
+      // "class<brave-browser-beta>": "<span font_desc='Font Awesome 6 Brands'></span>",
+      // "class<org.telegram.desktop|io.github.tdesktop_x64.TDesktop>": "<span font='12'></span>",
+      // "class<[Ss]potify>": "<span font='12'></span>",
+      // "class<VSCode|code-url-handler>": "<span font='12'>󰨞</span>",
+      "class<org.gnome.Nautilus>": "",
+      "class<sublime_text>": "󰅳",
+      // "class<codium|codium-url-handler|VSCodium>": "󰨞",
+      // "class<codeblocks>": "󰅩",
+      "class<mousepad>": "",
+      "class<org.gnome.TextEditor>": "󰎚",
+      // "class<com.obsproject.Studio>": "",
+      "class<polkit-gnome-authentication-agent-1>": "󰒃",
+      "class<nwg-look>": ""
+    }
   },
 
   // Empty
@@ -65,7 +64,7 @@
     "format": ""
   },
 
-  // Cliphist 󱓥    󰅍
+  // Cliphist
   "custom/cliphist": {
     "format": "󱓥",
     "on-click": "sleep 0.1 && ~/.config/ml4w/scripts/cliphist.sh",
@@ -73,17 +72,17 @@
     "on-click-middle": "sleep 0.1 && ~/.config/ml4w/scripts/cliphist.sh w",
     "tooltip-format": "Clipboard Manager"
   },
-  
-    // Hyprshade  󱠦    󰗘 
+
+  // Hyprshade
   "custom/hyprshade": {
-//  "format": "<span font_desc='Font Awesome 6 Free Solid'></span>",
+    // "format": "<span font_desc='Font Awesome 6 Free Solid'></span>",
     "format": "󰗘",
     "tooltip-format": "Toggle Screen Shader",
     "on-click": "sleep 0.5; ~/.config/hypr/scripts/hyprshade.sh",
     "on-click-right": "sleep 0.5; ~/.config/hypr/scripts/hyprshade.sh rofi"
   },
 
-  // Wallpaper 󰸉  󰲍 
+  // Wallpaper
   "custom/wallpaper": {
     "format": "󰸉",
     "on-click": "waypaper",
@@ -103,6 +102,7 @@
     "format": "",
     "on-click": "/usr/share/ml4w-hyprland/apps/com.ml4w.dotfilessettings",
     "on-click-right": "/usr/share/ml4w-hyprland/apps/com.ml4w.hyprland.settings",
+    "on-click-middle": "hyprctl dispatch exec 'alacritty --class hyprpicker -e bash -c \"hyprpicker; exec bash\"'",
     "tooltip": false
   },
 
@@ -110,15 +110,15 @@
   "custom/exit": {
     "format": "",
     "on-click": "wlogout",
-//  "on-click-right": "ags -t sidebar",
-//  "on-click-right": "ags -t notificationsmenu",
+    // "on-click-right": "ags -t sidebar",
+    // "on-click-right": "ags -t notificationsmenu",
     "on-click-right": "com.ml4w.welcome",
     "tooltip": false
   },
 
   // System tray
   "tray": {
-//  "icon-size": 28,
+    // "icon-size": 28,
     "spacing": 10
   },
 
@@ -128,13 +128,13 @@
     "tooltip": false
   },
 
-   // Chevron
+  // Chevron
   "custom/chevron": {
     "format": "",
     "tooltip": false
   },
-
-  // Group Hardware 
+ 
+  // Group Hardware
   "group/hardware": {
     "orientation": "inherit",
     "drawer": {
@@ -142,7 +142,17 @@
       "children-class": "not-memory",
       "transition-left-to-right": false
     },
-    "modules": ["custom/system","cpu","memory","custom/updates","network","custom/hyprshade","custom/cliphist","pulseaudio","tray"]
+    "modules": [
+      "custom/system",
+      "cpu",
+      "memory",
+      "custom/updates",
+      "network",
+      "custom/hyprshade",
+      "custom/cliphist",
+      "pulseaudio",
+      "tray"
+    ]
   },
 
   // Group Settings
@@ -155,27 +165,24 @@
     },
     "modules": [
       "custom/settings",
-      "pulseaudio", 
+      "pulseaudio",
       "custom/waybarthemes",
       "custom/wallpaper",
       "custom/chevron"
-  //  "group/quicklinks"
+      // "group/quicklinks"
     ]
   },
 
-  // Network  󰀂 󱜠  󱦜 󰒪  󰅧 󰩁 󱎔  󰌗 
+  // Network
   "network": {
     "format": "{ifname}",
     "format-ethernet": "󰤨",
-    "format-disconnected": "",
-    "tooltip-format": " {ifname} via {gwaddri}",
-    "tooltip-format-ethernet": "󰒪 {ifname}\nIP: {ipaddr}\n up: {bandwidthUpBits} down: {bandwidthDownBits}",
+    "format-disconnected": "󰤨",
+    "tooltip-format": "󰤨 {ifname} via {gwaddri}",
+    "tooltip-format-ethernet": "󰤨 {ifname}\nIP: {ipaddr}\n up: {bandwidthUpBits} down: {bandwidthDownBits}",
     "tooltip-format-disconnected": "Disconnected",
     "max-length": 20,
-    "on-click": "~/.config/ml4w/settings/networkmanager.sh",
+    "on-click": "nm-connection-editor",
     "on-click-right": "$(cat ~/.config/ml4w/settings/terminal.sh) --class dotfiles-floating -e nmtui"
-  },
-  
   }
-
-
+}
