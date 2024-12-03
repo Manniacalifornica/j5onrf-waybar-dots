@@ -251,7 +251,7 @@ bind = $mainMod, D, exec, alacritty # Open the terminal
 bind = $mainMod, A, exec, $(cat ~/.config/ml4w/settings/terminal.sh) --class dotfiles-floating # Open the terminal
 
 # Rofi
-bind = $mainMod, R, exec, rofi -show drun -replace # Open Rofi
+bind = $mainMod, R, exec, bash "$HOME/.config/rofi/bin/launcher2"
 
 # screenshot 
 bind =, Print, exec, grim -g "$(slurp)" - | wl-copy && wl-paste > ~/Pictures/Screenshots/Screenshot-$(date +%F_%T).png | notify-send "Screenshot of the region taken" -t 1000 # screenshot of a region 
