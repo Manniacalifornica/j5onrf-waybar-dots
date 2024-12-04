@@ -111,6 +111,14 @@ gruv
 
 # Hypr<sup> / Shots</sup>
 
+<details open><summary>(2024-Dec04) Nord🛡️ᛉᛟ SwayOSD</summary> 
+<p>
+  
+[Nord-Theme<sup>OSD</sup>](https://github.com/j5onrf/dots/tree/main/extras/SwayOSD)
+![Screenshot-2024-12-04_15:00:38](https://github.com/user-attachments/assets/0f1252b0-d8d6-44ce-b537-11b07153f303)
+  
+</details>
+
 <details open><summary>(2024-Nov18) Nord🛡️ᛉᛟ Rofi 🚧</summary> 
 <p>
 
