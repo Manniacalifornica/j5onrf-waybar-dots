@@ -44,16 +44,16 @@
         "custom/exit"
     ],
 
- // SwayOSD mute not working*
+ // SwayOSD
 "pulseaudio": {
     "scroll-step": 3, // %, can be a float
     "format": "{icon}",
     "format-icons": {
         "default": ["󰗅"]
     },
-    "on-click": "pactl set-sink-mute @DEFAULT_SINK@ toggle",
-    // "on-scroll-up": "pactl set-sink-volume @DEFAULT_SINK@ +3% && swayosd-client --output-volume=raise",
-    // "on-scroll-down": "pactl set-sink-volume @DEFAULT_SINK@ -3% && swayosd-client --output-volume=lower",
+    "on-click": "swayosd-client --output-volume mute-toggle",
+    "on-scroll-up": "pactl set-sink-volume @DEFAULT_SINK@ +3% && swayosd-client --output-volume=raise",
+    "on-scroll-down": "pactl set-sink-volume @DEFAULT_SINK@ -3% && swayosd-client --output-volume=lower",
     "format-muted": "󱘂",
     "tooltip": false
 },
