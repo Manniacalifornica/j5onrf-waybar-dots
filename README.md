@@ -47,7 +47,7 @@ https://github.com/j5onrf/dots/blob/main/waybar/Screenshot%20Archive%202/Screens
 
 # WayBar
 (2024-Dec06) [Catppuccin-Mocha #RW](https://github.com/j5onrf/dots/tree/main/waybar/EverforestV-Sidebar/Final-Release/workspaces%23rw/Color%20Schemes%20and%20Themes) 
-![catpp](https://github.com/user-attachments/assets/4cbf44b4-2ff7-4e22-8af1-3e759b7061ba)
+![catpp2](https://github.com/user-attachments/assets/bd6b609b-2bc3-4129-a9a3-7f010bb26eb6)
 
 (2024-Dec05) [Material-Design-Dark #RW](https://github.com/j5onrf/dots/tree/main/waybar/EverforestV-Sidebar/Final-Release/workspaces%23rw/Color%20Schemes%20and%20Themes) 
 ![mdd](https://github.com/user-attachments/assets/37673f12-8a86-4a80-a3a3-65d6ebe19928)
