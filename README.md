@@ -46,7 +46,7 @@ https://github.com/j5onrf/dots/blob/main/waybar/Screenshot%20Archive%202/Screens
 <br>
 
 # WayBar
-(2024-Dec05) [#RW ColorSchemes Added](https://github.com/j5onrf/dots/tree/main/waybar/EverforestV-Sidebar/Final-Release/workspaces%23rw/Color%20Schemes%20and%20Themes) 
+(2024-Dec05) [Material-Design-Dark #RW](https://github.com/j5onrf/dots/tree/main/waybar/EverforestV-Sidebar/Final-Release/workspaces%23rw/Color%20Schemes%20and%20Themes) 
 ![mdd](https://github.com/user-attachments/assets/37673f12-8a86-4a80-a3a3-65d6ebe19928)
 
 (2024-nov17) NordV-Sidebar [Dots](https://github.com/j5onrf/dots/tree/main/waybar/EverforestV-Sidebar/Final-Release)
