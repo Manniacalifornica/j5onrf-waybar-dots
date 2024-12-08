@@ -9,13 +9,13 @@
 * -----------------------------------------------------  
 */
 
-/* Nord Theme Colors */
-@define-color color0 #CDD6F4;  /* Updated */
-@define-color color1 #1E1E2E;  /* Updated */
-@define-color color2 #6C7086;  /* Updated */
-@define-color bgcolor1 #89B4FA;  /* Replaced #F5C2E7 #F38BA8 */
-@define-color bgcolor2 #313244;  /* Updated */
-@define-color bgcolor3 #A6E3A1;  /* Updated */
+/* Theme Colors */
+@define-color color0 #CDD6F4;  /* Text color (Latte's snow, for lighter elements) */
+@define-color color1 #1E1E2E;  /* Base background color (Mocha's mantle) */
+@define-color color2 #6C7086;  /* Muted text/secondary foreground (Mocha's overlay0) */
+@define-color bgcolor1 #89B4FA;  /* Primary accent color (Mocha's blue). Optional #F5C2E7 #F38BA8 */
+@define-color bgcolor2 #313244;  /* Surface background (Mocha's surface0) */
+@define-color bgcolor3 #A6E3A1;  /* Success/accent highlight color (Mocha's green) */
 
 /* General Styles */
 * {
