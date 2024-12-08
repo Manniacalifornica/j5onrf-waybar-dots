@@ -61,6 +61,9 @@ https://github.com/j5onrf/dots/blob/main/waybar/Screenshot%20Archive%202/Screens
 (2024-nov10) EverforestV-Sidebar [Final-Release Dots](https://github.com/j5onrf/dots/tree/main/waybar/EverforestV-Sidebar/Final-Release)
 ![Unsaved Image 11](https://github.com/user-attachments/assets/7d8ef481-b053-495e-97fa-69d83d35a29d)
 
+<details><summary>Archived</summary>
+<p>
+
 (2024-nov03) EverforestV-Sidebar(updated-11-06)
 ![EverforestV-Sidebar-Minwidth2](https://github.com/user-attachments/assets/5eba6fd5-8aad-4052-9d96-28e843239414)
 (2024-nov02) Everforest-S (updates-11-02)
@@ -115,10 +118,18 @@ gruv
 </p>
 </details>
 </details>
+</details>
 <br>
 
 
 # Hypr<sup> / Shots</sup>
+
+<details open><summary>(2024-Dec08) Catpuccin-Mocha Rofi</summary> 
+<p>
+
+[icons-only-Catppuccin-Mocha.rasi](https://github.com/j5onrf/dots/tree/main/rofi/Icons-only-rofi-catppuchin-mocha) 
+![Screenshot-v3](https://raw.githubusercontent.com/j5onrf/dots/refs/heads/main/rofi/Icons-only-rofi-catppuchin-mocha/Screenshot-2024-12-07_16%3A36%3A11.png)
+</details>
 
 <details open><summary>(2024-Nov18) Nord🛡️ᛉᛟ Rofi 🚧</summary> 
 <p>
@@ -128,7 +139,7 @@ gruv
 ![Screenshot-2024-11-23_13:54:58](https://raw.githubusercontent.com/j5onrf/dots/refs/heads/main/rofi/Nord/Harmonized%20Rofi%20Config%20for%20NordV-Sidebar/More-Styles/Version-3/More-Styles/Screenshot-2024-11-24_09%3A23%3A49.png)
 </details>
 
-<details open><summary>(2024-Nov17) Nord🛡️ᛉᛟ SideBar</summary>
+<details><summary>(2024-Nov17) Nord🛡️ᛉᛟ SideBar</summary>
 <p>
   
 [ColorScheme](https://github.com/j5onrf/dots/tree/main/waybar/EverforestV-Sidebar/Final-Release) &nbsp; [Wall](https://github.com/j5onrf/walls/tree/main/Nord) 
