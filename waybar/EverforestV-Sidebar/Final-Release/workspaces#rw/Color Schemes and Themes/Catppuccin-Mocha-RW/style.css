@@ -82,7 +82,8 @@ window#waybar {
     color: @color1;
     background: @bgcolor1;
     padding: 0.19em 0; /* Button size */
-    transition: background-color, 0.2s ease-in-out;
+/*  transition: background-color, 0.2s ease-in-out; */ /* Previous transitions */
+    transition: all 0.1s linear; /* Fast transitions */
 }
 
 /* Specific Adjustments */
