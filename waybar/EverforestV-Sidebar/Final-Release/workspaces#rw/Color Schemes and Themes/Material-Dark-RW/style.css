@@ -9,13 +9,13 @@
 * -----------------------------------------------------  
 */
 
-/* Nord Theme Colors */
-@define-color color0 #E0E0E0;  /* Updated */
-@define-color color1 #121212;  /* Updated */
-@define-color color2 #616161;  /* Updated */
-@define-color bgcolor1 #BB86FC;  /* Updated */
-@define-color bgcolor2 #212121;  /* Updated */
-@define-color bgcolor3 #03DAC5;  /* Updated */
+/* Theme Colors */
+@define-color color0 #E0E0E0;  /* Material Light Gray - subtle highlights */
+@define-color color1 #121212;  /* Material Black - primary dark background */
+@define-color color2 #616161;  /* Material Gray - muted text/elements */
+@define-color bgcolor1 #BB86FC;  /* Material Purple - accent/highlight. Alts Red: #CF6679 Blue: #2196F3 */
+@define-color bgcolor2 #212121;  /* Material Dark Gray - secondary background */
+@define-color bgcolor3 #03DAC5;  /* Material Aqua - vibrant action color */
 
 /* General Styles */
 * {
