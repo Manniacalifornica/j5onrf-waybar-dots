@@ -28,7 +28,7 @@
 window#waybar {
     background: @bgcolor2;
     border: 0.05em solid @color1;  /* Optional border hinting */
-    opacity: 0.8; /* Optional Transparent Bar */  
+/*  opacity: 0.8;  Optional transparent sidebar */
 }
 
 /* Workspaces Styles */
