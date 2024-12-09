@@ -9,13 +9,13 @@
 * -----------------------------------------------------  
 */
 
-/* Nord Theme Colors */
-@define-color color0 #EBDBB2;  /* Updated */
-@define-color color1 #282828;  /* Updated */
-@define-color color2 #928374;  /* Updated */
-@define-color bgcolor1 #FE8019;  /* Updated */
-@define-color bgcolor2 #3C3836;  /* Updated */
-@define-color bgcolor3 #FABD2F;  /* Updated */
+/* Theme Colors */
+@define-color color0 #EBDBB2;  /* Gruvbox Light Gray - foreground text */
+@define-color color1 #282828;  /* Gruvbox Dark Gray - primary background */
+@define-color color2 #928374;  /* Gruvbox Gray - muted text/elements */
+@define-color bgcolor1 #FE8019;  /* Gruvbox Orange - accent/highlight */
+@define-color bgcolor2 #3C3836;  /* Gruvbox Medium Gray - secondary background */
+@define-color bgcolor3 #FABD2F;  /* Gruvbox Yellow - vibrant action color */
 
 /* General Styles */
 * {
