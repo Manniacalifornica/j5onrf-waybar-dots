@@ -28,7 +28,7 @@
 window#waybar {
     background: @bgcolor2;
     border: 0.05em solid @color1;  /* Optional border hinting */
-/*  background-color: rgba(49, 50, 68, 0.8); */  /* Optional transparent sidebar */
+ /* background-color: rgba(49, 50, 68, 0.8); */ /* Optional transparent sidebar */
 }
 
 /* Workspaces Styles */
