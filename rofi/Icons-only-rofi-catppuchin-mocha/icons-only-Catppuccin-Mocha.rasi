@@ -13,15 +13,10 @@
 * {
 blue1:        #89B4FA;  /* Primary accent color (Mocha's blue) */
 blue2:        #313244;  /* Surface background (Mocha's surface0) */
-bg:        #1E1E2E;  /* Base background color (Mocha's mantle) */
+bg:           #1E1E2E;  /* Base background color (Mocha's mantle) */
 blue4:        #2E3440;  /* Darker surface variant (not in official palette but matches Mocha tones) */
-
   al:           #00000000;    /* Transparent */
-
-  bga:          #313244FF;    /* Secondary background */
   fg:           #88C0D0FF;    /* Light blue for text and icons */
-  ac:           #88C0D0FF;    /* Accent blue for hover effects */
-  se:           #8FBCBBFF;    /* Aqua highlight (active/selected items) */
   wh:           #FFFFFF;      /* White color */
 }
 
@@ -35,9 +30,7 @@ configuration {
     drun-display-format: "{name}";
     disable-history:     false;
     hide-scrollbar:      true;
-    sidebar-mode:        false;
     cycle: false; /* Disable wrapping when scrolling */
-    fullscreen: false;
 }
 
 /* Window (Background and Border) */
@@ -46,7 +39,7 @@ window {
     background-color:    @bg;    /* Window background color */
     text-color:          @fg;    /* Text color */
     border:              0.11em; /* Border thickness (match Waybar) */
-   border-color: #89B4FA;  /* Border color (secondary background) */
+   border-color:         @blue1;  /* Border color (secondary background) */
     border-radius:       0.4em;    /* Rounded corners */
     width:               1990px;
     location:            center;   /* Align with Waybar sidebar */
@@ -137,4 +130,3 @@ mainbox {
     background-color:    @al;    /* Transparent container */
     margin:              0 0 0.6em 0;
 }
-
