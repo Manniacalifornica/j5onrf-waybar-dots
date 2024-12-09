@@ -10,7 +10,7 @@
 //
 {
     // General Settings
-    "layer": "bottom",
+    "layer": "top",
     "position": "left",
     "margin-bottom": 10,
     "margin-top": 10,
