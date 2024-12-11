@@ -39,3 +39,5 @@ Efficient Parsing: Use more lightweight tools and commands (e.g., awk or cut) to
 Reducing Script Overhead: If possible, avoid processing events in a Bash loop and offload the work to lighter utilities.
 
 Alternate: Use Rust or Python for Even Lower Overhead
+
+https://www.reddit.com/r/hyprland/comments/1gvkzmz/comment/m1j0ezp/?context=3
