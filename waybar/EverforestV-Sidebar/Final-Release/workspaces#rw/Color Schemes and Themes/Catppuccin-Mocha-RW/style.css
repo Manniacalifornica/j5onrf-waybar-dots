@@ -45,13 +45,13 @@ window#waybar {
 #workspaces button.active {
     color: @color1;
     background: @bgcolor3; /* Active button background */
-    border: 0.05em solid @bgcolor3;
+/*  border: 0.05em solid @bgcolor3; */ /* Optional border */
 }
 
 #workspaces button:hover {
-    background: @bgcolor1; /* background on hover */
     color: @color1; /* Ensures contrast */
-    border: 0.05em solid @bgcolor1;
+    background: @bgcolor1; /* background on hover */
+ /* border: 0.05em solid @bgcolor1; */ /* Optional border */
 }
 
 #workspaces button.empty {
