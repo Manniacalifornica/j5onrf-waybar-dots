@@ -2,6 +2,7 @@
 
 # Minimal Waybar Theme launch
 # Edited by j5onrf (12-11-2024)
+# Script currently only works with custom themes*
 
 # Quit all running Waybar instances
 killall waybar && sleep 0.5
