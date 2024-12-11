@@ -2,7 +2,7 @@
 
 # Minimal Waybar Theme Switcher
 # Edited by j5onrf (12-11-2024)
-# Script currently not working with default themes*
+# Script currently only works with custom themes*
 
 themes_path="$HOME/.config/waybar/themes"
 
