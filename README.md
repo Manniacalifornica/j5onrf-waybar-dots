@@ -129,6 +129,8 @@ gruv
 
 [icons-only-Catppuccin-Mocha.rasi](https://github.com/j5onrf/dots/tree/main/rofi/Icons-only-rofi-catppuchin-mocha) 
 ![Screenshot-v3](https://raw.githubusercontent.com/j5onrf/dots/refs/heads/main/rofi/Icons-only-rofi-catppuchin-mocha/Screenshot-2024-12-07_16%3A36%3A11.png)
+Center modules hyprland/workspaces#
+![Screenshot-2024-12-11_17:30:58](https://github.com/user-attachments/assets/b6da1c10-08a4-4935-b6b1-024cebcc1f91)
 </details>
 
 <details open><summary>(2024-Nov18) Nord🛡️ᛉᛟ Rofi 🚧</summary> 
