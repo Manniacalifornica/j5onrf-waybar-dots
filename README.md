@@ -129,7 +129,7 @@ gruv
 
 [icons-only-Catppuccin-Mocha.rasi](https://github.com/j5onrf/dots/tree/main/rofi/Icons-only-rofi-catppuchin-mocha)  &nbsp; Centered workspaces# module
 ![Screenshot-v3](https://raw.githubusercontent.com/j5onrf/dots/refs/heads/main/rofi/Icons-only-rofi-catppuchin-mocha/Screenshot-2024-12-07_16%3A36%3A11.png)
-![Screenshot-2024-12-11_17:30:58](https://github.com/user-attachments/assets/b6da1c10-08a4-4935-b6b1-024cebcc1f91)
+![Screenshot-2024-12-11_17:58:01](https://github.com/user-attachments/assets/38526c30-ec1a-42cd-af42-ef74ed2d29c3)
 </details>
 
 <details open><summary>(2024-Nov18) Nord🛡️ᛉᛟ Rofi 🚧</summary> 
