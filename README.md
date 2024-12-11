@@ -46,13 +46,13 @@ https://github.com/j5onrf/dots/blob/main/waybar/Screenshot%20Archive%202/Screens
 <br>
 
 # WayBar
-(2024-Dec06) [Catppuccin-Mocha #RW](https://github.com/j5onrf/dots/tree/main/waybar/EverforestV-Sidebar/Final-Release/workspaces%23rw/Color%20Schemes%20and%20Themes) 
+(2024-Dec06) [Catppuccin-Mocha #RW](https://github.com/j5onrf/dots/tree/main/waybar/EverforestV-Sidebar/Final-Release/workspaces%23rw/Color%20Schemes%20and%20Themes) (updated-12-10)
 ![catpp2](https://github.com/user-attachments/assets/bd6b609b-2bc3-4129-a9a3-7f010bb26eb6)
 
-(2024-Dec06) [Gruvbox-Dark #RW](https://github.com/j5onrf/dots/tree/main/waybar/EverforestV-Sidebar/Final-Release/workspaces%23rw/Color%20Schemes%20and%20Themes) 
+(2024-Dec06) [Gruvbox-Dark #RW](https://github.com/j5onrf/dots/tree/main/waybar/EverforestV-Sidebar/Final-Release/workspaces%23rw/Color%20Schemes%20and%20Themes) (updated-12-10)
 ![gruv3](https://github.com/user-attachments/assets/f3e42031-712e-4c79-b997-6533fe8eaa50)
 
-(2024-Dec05) [Material-Design-Dark #RW](https://github.com/j5onrf/dots/tree/main/waybar/EverforestV-Sidebar/Final-Release/workspaces%23rw/Color%20Schemes%20and%20Themes) 
+(2024-Dec05) [Material-Design-Dark #RW](https://github.com/j5onrf/dots/tree/main/waybar/EverforestV-Sidebar/Final-Release/workspaces%23rw/Color%20Schemes%20and%20Themes) (updated-12-10)
 ![mdd](https://github.com/user-attachments/assets/37673f12-8a86-4a80-a3a3-65d6ebe19928)
 
 (2024-nov17) NordV-Sidebar [Dots](https://github.com/j5onrf/dots/tree/main/waybar/EverforestV-Sidebar/Final-Release)
@@ -124,7 +124,7 @@ gruv
 
 # Hypr<sup> / Shots</sup>
 
-<details open><summary>(2024-Dec08) Catpuccin-Mocha Rofi</summary> 
+<details open><summary>(2024-Dec08) Catppuccin-Mocha Rofi</summary> 
 <p>
 
 [icons-only-Catppuccin-Mocha.rasi](https://github.com/j5onrf/dots/tree/main/rofi/Icons-only-rofi-catppuchin-mocha) 
