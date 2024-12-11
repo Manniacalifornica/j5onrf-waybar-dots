@@ -5,7 +5,7 @@
  \______  /__|  |____/  \_/ /_______  (____  /__|  |__|_ \
         \/                          \/     \/           \/ 
 *  ML4W, Edited by j5onrf (2025)
-*  Gruvbox_Dark SideBar-RW (12-05-2024)
+*  Gruvbox_Dark SideBar-RW (12-10-2024)
 * -----------------------------------------------------  
 */
 
@@ -19,7 +19,7 @@
 
 /* General Styles */
 * {
-    font-family: "JetBrainsMono Nerd Font Propo", "Font Awesome 6 Free", sans-serif;  
+    font-family: "JetBrainsMono Nerd Font Propo", "Font Awesome 6 Free", sans-serif;
     border-radius: 0.2em; /* Set rounding radius, 0.2em 2em */
     font-weight: 600; /* 400-900 */
     font-size: 28; /* Set the sidebar size */
@@ -27,8 +27,8 @@
 
 window#waybar {
     background: @bgcolor2;
-    border: 0.05em solid @color1;  /* Optional border hinting */
- /* background-color: rgba(60, 56, 54, 0.8); */ /* Optional transparent sidebar */
+    border: 0.06em solid @color1;  /* Optional border hinting */
+/*  background-color: rgba(60, 56, 54, 0.8); Optional transparent sidebar */
 }
 
 /* Workspaces Styles */
@@ -82,8 +82,10 @@ window#waybar {
     color: @color1;
     background: @bgcolor1;
     padding: 0.19em 0; /* Button size */
+    border: 0.05em solid @color1; 
 /*  transition: background-color, 0.2s ease-in-out; */ /* Previous transitions */
     transition: all 0.1s linear; /* Fast transitions */
+    margin: 0em 0.2em; /* spacing between buttons */    
 }
 
 /* Specific Adjustments */
@@ -96,7 +98,7 @@ window#waybar {
 
 #custom-chevron { /* fix for #RW em scale spacing */
     border: 0.05em solid; 
-    padding: 0em 0.31em; /* Minimal padding while maintaining shape */
+    padding: 0em 0.35em; /* Minimal padding while maintaining shape */
     margin: 0em 0.2em; 
     color: @bgcolor2;
 }
@@ -106,6 +108,7 @@ window#waybar {
     font-size: 1em; /* App\Exit button icon size */
     background: @bgcolor1;
     padding: 0.19em 0.3em;
+    margin: 0em; 
 }
 
 #custom-appmenu, 
@@ -135,6 +138,8 @@ window#waybar {
 #custom-wallpaper {
     color: @color0;
     padding: 0.19em 0; /* Button size */
+    border: 0.05em solid @bgcolor2;
+    margin: 0em 0.2em; /* spacing between buttons */ 
 }
 
 #cpu,
@@ -143,6 +148,8 @@ window#waybar {
     font-size: 0.64em;
     color: @color0;
     padding: 0.19em 0; /* Button size */
+    border: 0.05em solid @bgcolor2;     
+    margin: 0em 0.2em; /* spacing between buttons */ 
 }
 
 /* Pulseaudio Muted State */
