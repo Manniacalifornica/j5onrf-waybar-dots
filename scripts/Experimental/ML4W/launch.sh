@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Minimal Waybar Theme launch Script
+# Minimal Waybar Theme launch
 # Edited by j5onrf (12-11-2024)
 
 # Quit all running Waybar instances
