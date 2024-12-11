@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Slim V2 - Minimal Waybar Theme Script
+# Minimal Waybar Theme Script
 # Edited by j5onrf (12-11-2024)
 
 # Quit all running Waybar instances
