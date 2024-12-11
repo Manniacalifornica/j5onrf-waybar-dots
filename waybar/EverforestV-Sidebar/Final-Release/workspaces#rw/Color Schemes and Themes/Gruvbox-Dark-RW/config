@@ -58,7 +58,7 @@
     "tooltip": false
 },
     
-    // Clock :%I:%M  %a%e  pm: %p  "rotate": 90,
+    // Clock
     "clock": {
         "format": "{:%I\n%M}",
    //   "format": "{0:%d}\n{0:%I}\n{0:%M}",
