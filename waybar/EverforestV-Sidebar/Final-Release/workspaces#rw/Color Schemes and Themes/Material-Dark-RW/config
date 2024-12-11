@@ -44,18 +44,21 @@
         "custom/exit"
     ],
 
-    // Pulseaudio  󰗅 󱘂 
-    "pulseaudio": {
-        "scroll-step": 3, // %, can be a float
-        "format": "{icon}",
-        "format-icons": {
-            "default": ["󰗅"]
-        },
-        "on-click": "pactl set-sink-mute @DEFAULT_SINK@ toggle",
-        // "on-click-right": "agsv1 -t bar-0",
-        "format-muted": "󱘂",
-        "tooltip": false
+ // Pulseaudio
+"pulseaudio": {
+    "scroll-step": 3, // %, can be a float
+    "format": "{icon}",
+    "format-icons": {
+        "default": ["󰗅"]
     },
+    "on-click": "swayosd-client --output-volume mute-toggle",
+    // "on-scroll-up": "swayosd-client --output-volume raise",
+    // "on-scroll-down": "swayosd-client --output-volume lower",
+    "on-scroll-up": "pactl set-sink-volume @DEFAULT_SINK@ +5%",  // Increase volume
+    "on-scroll-down": "pactl set-sink-volume @DEFAULT_SINK@ -5%",  // Decrease volume
+    "format-muted": "󱘂",
+    "tooltip": false
+},
     
     // Clock
     "clock": {
