@@ -41,3 +41,5 @@ Reducing Script Overhead: If possible, avoid processing events in a Bash loop an
 Alternate: Use Rust or Python for Even Lower Overhead
 
 https://www.reddit.com/r/hyprland/comments/1gvkzmz/comment/m1j0ezp/?context=3
+
+I gave up and just use the keybind toggle.sh. Unless someone else shows a better way with no cpu overhead.
