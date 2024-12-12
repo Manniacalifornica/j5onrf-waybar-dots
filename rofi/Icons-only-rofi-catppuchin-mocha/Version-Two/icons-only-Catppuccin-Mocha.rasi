@@ -49,14 +49,11 @@ window {
 
 /* Input Bar (Search Area) */
 inputbar {
-    background-color:    @blue2;
+    background-color:    @al;
     text-color:          @fg;
     padding:             0.65em 0.5em;  /*  */
     margin:              0.81em 0.81em 0em;  /*  */
     children:            [ prompt, entry ];
-    border:              0.05em;
-    border-color:        @blue1;   /* Border color (secondary background) */
-    border-radius:       100em;
     horizontal-align:    0;
 }
 
