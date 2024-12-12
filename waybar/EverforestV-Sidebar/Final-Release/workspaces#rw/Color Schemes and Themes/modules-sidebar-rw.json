@@ -28,7 +28,7 @@
       // "title<.*amazon.*>": "",
       "title<.*reddit.*>": "",
       "title<.*dot.*>": "",
-      "title<.*Picture-in-Picture.*>": "",
+      // "title<.*Picture-in-Picture.*>": "",
       // "class<obsidian>": "󰠮",
       // "class<freetube>": "",
       "class<gimp-3.0>": "",
@@ -38,11 +38,9 @@
       "class<kitty>": "󰄛",
       "class<org.gnome.Console>": "",
       "class<alacritty>": "",
-      // "class<brave-browser-beta>": "",
-      // "class<brave-browser-beta>": "",
+      // "class<brave-browser-beta>": " ",
        "class<brave-browser-beta>": "",
       // "class<brave-browser-beta>": "<span font_desc='Font Awesome 6 Brands 28'></span>",
-      // "class<brave-browser-beta>": "<span font_desc='Font Awesome 6 Brands'></span>",
       // "class<org.telegram.desktop|io.github.tdesktop_x64.TDesktop>": "<span font='12'></span>",
       // "class<[Ss]potify>": "<span font='12'></span>",
       // "class<VSCode|code-url-handler>": "<span font='12'>󰨞</span>",
@@ -54,7 +52,10 @@
       "class<org.gnome.TextEditor>": "",
       // "class<com.obsproject.Studio>": "",
       "class<polkit-gnome-authentication-agent-1>": "󰒃",
-      "class<nwg-look>": ""
+      "class<nwg-look>": "",
+      "class<thunar>": "󰝰",
+      // "class<zen-alpha>": "󰰷 ", //Zen Browser
+      // "class<vlc>": "󰕼 "
     }
   },
 
