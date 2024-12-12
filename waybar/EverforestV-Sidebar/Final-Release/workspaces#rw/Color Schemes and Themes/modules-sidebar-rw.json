@@ -17,7 +17,6 @@
     "on-click": "activate",
     "on-scroll-up": "hyprctl dispatch workspace e-1",
     "on-scroll-down": "hyprctl dispatch workspace e+1",
-    //"format": "\u2009{icon}\n{windows}",
     "format": "{windows}",
     "persistent-workspaces": { "*": 6 },
     "format-window-separator": "\n",
@@ -38,10 +37,8 @@
       "class<kitty>": "󰄛",
       "class<org.gnome.Console>": "",
       "class<alacritty>": "",
-      // "class<brave-browser-beta>": " ",
-       "class<brave-browser-beta>": "",
+      "class<brave-browser-beta>": "",
       // "class<brave-browser-beta>": "<span font_desc='Font Awesome 6 Brands 28'></span>",
-      // "class<org.telegram.desktop|io.github.tdesktop_x64.TDesktop>": "<span font='12'></span>",
       // "class<[Ss]potify>": "<span font='12'></span>",
       // "class<VSCode|code-url-handler>": "<span font='12'>󰨞</span>",
       "class<org.gnome.Nautilus>": "",
@@ -54,7 +51,7 @@
       "class<polkit-gnome-authentication-agent-1>": "󰒃",
       "class<nwg-look>": "",
       "class<thunar>": "󰝰",
-      // "class<zen-alpha>": "󰰷 ", //Zen Browser
+      // "class<zen-alpha>": "󰰷 ",
       // "class<vlc>": "󰕼 "
     }
   },
@@ -135,7 +132,7 @@
   "group/hardware": {
     "orientation": "inherit",
     "drawer": {
-      "transition-duration": 300,
+      "transition-duration": 200,
       "children-class": "not-memory",
       "transition-left-to-right": false
     },
@@ -156,7 +153,7 @@
   "group/settings": {
     "orientation": "inherit",
     "drawer": {
-      "transition-duration": 300,
+      "transition-duration": 200,
       "children-class": "not-memory",
       "transition-left-to-right": true
     },
@@ -175,7 +172,6 @@
     "format": "{ifname}",
     "format-ethernet": "󰤨",
     "format-disconnected": "󰤨",
-    "tooltip-format": "󰤨 {ifname} via {gwaddri}",
     "tooltip-format-ethernet": "󰤨 {ifname}\nIP: {ipaddr}\n up: {bandwidthUpBits} down: {bandwidthDownBits}",
     "tooltip-format-disconnected": "Disconnected",
     "max-length": 20,
