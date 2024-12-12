@@ -2,4 +2,4 @@
 layerrule = dimaround, rofi
 
 # This launches rofi on startup using rofi launcher.
-exec-once = hyprctl dispatch workspace 1,silent && ~/.config/rofi/bin/launcher2
+exec-once = ~/.config/rofi/bin/launcher2
