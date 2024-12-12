@@ -127,8 +127,8 @@ gruv
 <details open><summary>(2024-Dec08) Catppuccin-Mocha Rofi</summary> 
 <p>
 
-[icons-only-Catppuccin-Mocha.rasi](https://github.com/j5onrf/dots/tree/main/rofi/Icons-only-rofi-catppuchin-mocha)  &nbsp; Centered workspaces# module
-![Screenshot-v3](https://raw.githubusercontent.com/j5onrf/dots/refs/heads/main/rofi/Icons-only-rofi-catppuchin-mocha/Screenshot-2024-12-07_16%3A36%3A11.png)
+[icons-only-Catppuccin-Mocha.rasi](https://github.com/j5onrf/dots/tree/main/rofi/Icons-only-rofi-catppuchin-mocha/Version-Two)  &nbsp; Centered workspaces# module
+![Screenshot-2024-12-12_17:53:41](https://github.com/user-attachments/assets/8aad2363-04a2-4194-9892-f20b9c77a4f1)
 ![Screenshot-2024-12-11_17:58:01](https://github.com/user-attachments/assets/38526c30-ec1a-42cd-af42-ef74ed2d29c3)
 </details>
 
