@@ -81,13 +81,14 @@
         "tooltip": false
     },
   
-    // Power Menu 
-    "custom/exit": {
-        "format": "",
-        "on-click": "wlogout",
-        "on-click-right": "com.ml4w.welcome",
-        "tooltip": false
-    },
+  // Power Menu
+  "custom/exit": {
+    "format": "",
+    // "on-click": "wlogout",
+    "on-click": "~/.config/ml4w/scripts/wlogout.sh",
+    "on-click-right": "com.ml4w.welcome",
+    "tooltip": false
+  },
     
 // CPU
 "cpu": {
