@@ -107,21 +107,16 @@
 },
 
 // Memory
-"memory": {
-    "format-critical": "<span color='#F38BA8'><b>{used:0.1f}</b></span>", /* Aqua/Teal */
-    "format-high": "<span color='#F38BA8'>{used:0.1f}</span>", /* Accent Blue */
-    "format-medium": "<span color='#A6E3A1'>{used:0.1f}</span>", /* Light Gray */
-    "format-low": "<span color='#CDD6F4'>{used:0.1f}</span>", /* Light Blue */
-    "on-click": "missioncenter",
-    "tooltip": false,
-//  "interval": 10,
-    "states": {
-        "critical": 25.6,   // More than 25.6 GB (80% of 32 GB)
-        "high": 19.2,       // Between 19.2 GB (60% of 32 GB) and 25.6 GB
-        "medium": 12.8,     // Between 12.8 GB (40% of 32 GB) and 19.2 GB
-        "low": 0            // Less than 12.8 GB (below 40% of 32 GB)
-    }
-},
+    "memory": {
+        "format-high": "<span color='#F38BA8'><b>{used:0.1f}</b></span>", /* High usage */
+        "format-low": "<span color='#CDD6F4'>{used:0.1f}</span>", /* Low usage */
+        "on-click": "missioncenter",
+        "tooltip": false,
+        "states": {
+            "high": 24.7,   // More than 24.7 GB (80% of 30.9 GB)
+            "low": 0        // Less than or equal to 24.7 GB
+        }
+    },
 
     // Updates 󰚰
     "custom/updates": {
