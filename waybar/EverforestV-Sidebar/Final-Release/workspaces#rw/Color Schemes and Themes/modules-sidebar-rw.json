@@ -6,7 +6,7 @@
 // | ||_|| |       |       |       |       |   |___ _____| |
 // |_|   |_|_______|______||_______|_______|_______|_______|
 //  ML4W, Edited by j5onrf (2025)
-//  Vertical-Sidebar-RW (12-12-2024)
+//  Vertical-Sidebar-RW (12-13-2024)
 
 {
   // Workspaces
@@ -52,9 +52,10 @@
       // "class<com.obsproject.Studio>": "",
       "class<polkit-gnome-authentication-agent-1>": "󰒃",
       "class<nwg-look>": "",
+      // "class<brave-ojibjkjikcpjonjjngfkegflhmffeemk-Default>": "", // Proton Calendar PWM
       "class<thunar>": "󰝰",
-      // "class<zen-alpha>": "󰰷 ",
-      // "class<vlc>": "󰕼 "
+      // "class<zen-alpha>": "󰰷",
+      // "class<vlc>": "󰕼"
     }
   },
 
@@ -101,14 +102,6 @@
     "on-click": "/usr/share/ml4w-hyprland/apps/com.ml4w.dotfilessettings",
     "on-click-right": "/usr/share/ml4w-hyprland/apps/com.ml4w.hyprland.settings",
     "on-click-middle": "hyprctl dispatch exec 'alacritty --class hyprpicker -e bash -c \"hyprpicker; exec bash\"'",
-    "tooltip": false
-  },
-
-  // Power Menu
-  "custom/exit": {
-    "format": "",
-    "on-click": "wlogout",
-    "on-click-right": "com.ml4w.welcome",
     "tooltip": false
   },
 
@@ -181,4 +174,3 @@
     "on-click-right": "$(cat ~/.config/ml4w/settings/terminal.sh) --class dotfiles-floating -e nmtui"
   }
 }
-
