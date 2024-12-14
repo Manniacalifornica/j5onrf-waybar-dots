@@ -16,9 +16,9 @@
 /* General Styles */
 * {
     font-family: "JetBrainsMono Nerd Font Propo", "Font Awesome 6 Free", sans-serif;
-    border-radius: 2em;
+    border-radius: 0.6em;
     font-weight: 600;
-    font-size: 34;
+    font-size: 28;
 }
 
 window#waybar {
