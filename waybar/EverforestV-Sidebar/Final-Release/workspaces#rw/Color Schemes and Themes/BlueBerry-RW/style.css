@@ -78,7 +78,7 @@ window#waybar {
 #memory:hover,
 #custom-updates:hover{
     color: @color0;
-    background: @color1;
+    background: #35344a;
 }
 
 #custom-chevron {
