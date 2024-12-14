@@ -90,10 +90,10 @@
     
 // CPU
 "cpu": {
-    "format-critical": "<span color='#F38BA8'><b>{usage}</b></span>", /* Aqua/Teal */
-    "format-high": "<span color='#F38BA8'>{usage}</span>", /* Accent Blue */
-    "format-medium": "<span color='#A6E3A1'>{usage}</span>", /* Light Gray */
-    "format-low": "<span color='#CDD6F4'>{usage}</span>", /* Light Blue */
+    "format-critical": "<span color='#F38BA8'><b>{usage}</b></span>", /* Critical usage */
+    "format-high": "<span color='#F38BA8'>{usage}</span>", /* High usage */
+    "format-medium": "<span color='#A6E3A1'>{usage}</span>", /* Medium usage */
+    "format-low": "<span color='#CDD6F4'>{usage}</span>", /* Low usage */
     "on-click": "missioncenter",
     "tooltip": false,
 //  "interval": 2,
