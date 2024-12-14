@@ -66,6 +66,7 @@
         "format": "{:%I\n%M}",
         // "format": "{0:%d}\n{0:%I}\n{0:%M}",
         // "on-click": "agsv1 -t calendarmenu", // HyprPanel Calendar Menu
+        // "on-click": "ags -t calendar", // ML4W Calendar
         // "on-click": "gtk-launch brave-ojibjkjikcpjonjjngfkegflhmffeemk-Default", // Proton Calendar
         // "on-click-right": "gapplication launch org.gnome.Weather",
         "on-scroll-up": "pactl set-sink-volume @DEFAULT_SINK@ +5%",  // Increase volume
