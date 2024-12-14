@@ -16,7 +16,7 @@
 /* General Styles */
 * {
     font-family: "JetBrainsMono Nerd Font Propo", "Font Awesome 6 Free", sans-serif;
-    border-radius: 0.6em;
+    border-radius: 2em;
     font-weight: 600;
     font-size: 34;
 }
@@ -32,18 +32,20 @@ window#waybar {
 #workspaces button {
     color: @color0;
     background: @color1;
-    border: 0.05em solid @color1;
-    margin: 0.1em 0.2em;
+    margin: 0.15em 0.25em;
+    border: none;
 }
 
 #workspaces button.active {
     color: @color1;
     background: @color0;
+    border: none;
 }
 
 #workspaces button:hover {
     background: @color0;
     color: @color1;
+    border: none;
 }
 
 #workspaces button.empty {
@@ -171,4 +173,3 @@ tooltip label {
     color: @color0;
     font-size: 14;
 }
-
