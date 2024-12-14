@@ -46,7 +46,7 @@
 
  // Pulseaudio
 "pulseaudio": {
-    "scroll-step": 3, // %, can be a float
+    // "scroll-step": 3, // %, can be a float
     "format": "{icon}",
     "format-icons": {
         "default": ["󰗅"]
