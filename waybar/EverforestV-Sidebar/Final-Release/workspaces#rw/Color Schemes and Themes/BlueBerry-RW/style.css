@@ -68,7 +68,6 @@ window#waybar {
     color: @color1;
     background: @color0;
     padding: 0.19em 0;
-    border: 0.05em solid @color1;
     transition: all 0.1s linear;
     margin: 0em 0.2em;
 }
@@ -123,7 +122,6 @@ window#waybar {
 #custom-wallpaper {
     color: @color0;
     padding: 0.19em 0;
-    border: 0.05em solid @color1;
     margin: 0em 0.2em;
 }
 
@@ -132,8 +130,7 @@ window#waybar {
 #custom-updates {
     font-size: 0.64em;
     color: @color0;
-    padding: 0.19em 0;
-    border: 0.05em solid @color1;     
+    padding: 0.19em 0; 
     margin: 0em 0.2em; 
 }
 
