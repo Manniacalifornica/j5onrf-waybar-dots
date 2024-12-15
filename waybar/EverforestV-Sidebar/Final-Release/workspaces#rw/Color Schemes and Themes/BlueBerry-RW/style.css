@@ -27,22 +27,19 @@ window#waybar {
 }
 
 /* Workspaces Styles */
-#workspaces {
-    margin: 0em 0.01em; 
-}
-
 #workspaces button {
     color: @color0;
     background: @color1;
     margin: 0.1em 0.25em;
     padding: 0 0.18em;
+    border-left: none; /* No border left */
 }
 
 #workspaces button.active {
     color: @color0;
     margin: 0.1em 0.25em;
     border-radius: 0.4em;
-    border-left: 3px solid @color0;
+    border-left: 0.078em solid @color0;
     padding: 0 0.18em;
 }
 
@@ -51,6 +48,7 @@ window#waybar {
     color: @color1;
     margin: 0.1em 0.25em;
     padding: 0 0.18em;
+    border-left: none; /* No border left */
 }
 
 #workspaces button.empty {
