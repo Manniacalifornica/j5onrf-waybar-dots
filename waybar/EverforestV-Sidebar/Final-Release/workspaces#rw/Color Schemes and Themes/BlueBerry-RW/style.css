@@ -81,9 +81,9 @@ window#waybar {
 }
 
 #custom-chevron {
-    border: 0.05em solid; 
-    padding: 0em 0.35em;
-    margin: 0em 0.2em; 
+    border: none;
+    padding: 0em 0.345em;
+    margin: 0em 0.3em; 
     color: @color1;
 }
 
