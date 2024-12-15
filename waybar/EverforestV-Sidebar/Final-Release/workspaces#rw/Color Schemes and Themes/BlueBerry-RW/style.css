@@ -18,7 +18,7 @@
     font-family: "JetBrainsMono Nerd Font Propo", "Font Awesome 6 Free", sans-serif;
     border-radius: 0.4em;
     font-weight: 600;
-    font-size: 28px;
+    font-size: 34px;
 }
 
 window#waybar {
@@ -35,15 +35,14 @@ window#waybar {
     color: @color0;
     background: @color1;
     margin: 0.1em 0.25em;
-    border: none;
     padding: 0 0.18em;
 }
 
 #workspaces button.active {
-    color: @color1;
-    background: @color0;
+    color: @color0;
     margin: 0.1em 0.25em;
-    border: none;
+    border-radius: 0.4em;
+    border-left: 3px solid @color0;
     padding: 0 0.18em;
 }
 
@@ -51,7 +50,6 @@ window#waybar {
     background: @color0;
     color: @color1;
     margin: 0.1em 0.25em;
-    border: none;
     padding: 0 0.18em;
 }
 
@@ -158,14 +156,14 @@ window#waybar {
     font-size: 0.85em;
     margin: 0.3em;
     color: @color0;
-    padding: 0.25em 0;
+    padding: 0.1em 0;
     background-color: @color1;
 }
 
 #clock:hover {
     margin: 0.3em;
     color: @color1;
-    padding: 0.25em 0;
+    padding: 0.1em 0;
     background-color: @color0;
 }
 
