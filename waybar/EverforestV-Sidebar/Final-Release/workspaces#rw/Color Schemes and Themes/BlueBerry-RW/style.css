@@ -34,22 +34,26 @@ window#waybar {
     background: @color1;
     margin: 0.1em 0.25em;
     border: none;
+    padding: 0;
 }
 
 #workspaces button.active {
     color: @color1;
     background: @color0;
     border: none;
+    padding: 0;
 }
 
 #workspaces button:hover {
     background: @color0;
     color: @color1;
     border: none;
+    padding: 0;
 }
 
 #workspaces button.empty {
     opacity: 0.05;
+    padding: 0;
 }
 
 /* Module Hover Styles */
@@ -67,9 +71,9 @@ window#waybar {
 #pulseaudio:hover {
     color: @color1;
     background: @color0;
-    padding: 0.22em 0;
+    padding: 0.09em 0;
     transition: all 0.1s linear;
-    margin: 0em 0.2em;
+    margin: 0.2em;
 }
 
 /* Specific Adjustments */
@@ -82,7 +86,7 @@ window#waybar {
 
 #custom-chevron {
     border: none;
-    padding: 0em 0.345em;
+    padding: 0em 0.2em;
     margin: 0em 0.3em; 
     color: @color1;
 }
@@ -121,8 +125,8 @@ window#waybar {
 #custom-waybarthemes, 
 #custom-wallpaper {
     color: @color0;
-    padding: 0.22em 0;
-    margin: 0em 0.2em;
+    padding: 0.09em 0;
+    margin: 0.2em 0.2em;
 }
 
 #cpu,
@@ -130,8 +134,8 @@ window#waybar {
 #custom-updates {
     font-size: 0.64em;
     color: @color0;
-    padding: 0.22em 0; 
-    margin: 0em 0.2em; 
+    padding: 0.09em 0;
+    margin: 0.2em 0.2em; 
 }
 
 /* Pulseaudio Muted State */
