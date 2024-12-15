@@ -12,7 +12,7 @@
 /* Define color variables */
 * {
 blue1:        #bbbbff;  /*  */
-blue2:        #252434;  /*  */
+blue2:        #191824;  /* icon bg */
 bg:           #14131D;  /*  */
 blue4:        #2E3440;  /* Darker surface variant (not in official palette but matches Mocha tones) */
 al:           #00000000;    /* Transparent */
@@ -89,7 +89,7 @@ listview {
 element {
     background-color:    @blue2;
     text-color:          @wh;    /* White color for element text */
-    border-radius:       100em;  /*  */
+    border-radius:       0.8em;  /*  */
     padding:             0.4em 0.5em; /*  */
     margin:              0.4em;
     border:              0.12em; /* Border thickness (match Waybar) */
