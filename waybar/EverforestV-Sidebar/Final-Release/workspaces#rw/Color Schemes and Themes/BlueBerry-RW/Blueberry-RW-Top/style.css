@@ -16,9 +16,9 @@
 /* General Styles */
 * {
     font-family: "JetBrainsMono Nerd Font Propo", "Font Awesome 6 Free", sans-serif;
-    border-radius: 0.6em;
+    border-radius: 0.4em;
     font-weight: 600;
-    font-size: 38px;
+    font-size: 42px;
 }
 
 window#waybar {
@@ -151,17 +151,17 @@ window#waybar {
 
 /* Clock Styles */
 #clock {
-    font-size: 0.85em;
+    font-size: 0.7em;
     margin: 0.3em;
     color: @color0;
-    padding: 0.1em 0;
+    padding: 0.25em 0;
     background-color: @color1;
 }
 
 #clock:hover {
-    margin: 0.3em;
+    margin: 0.3em 0.5em;
     color: @color1;
-    padding: 0.1em 0;
+    padding: 0.25em 0;
     background-color: @color0;
 }
 
@@ -175,3 +175,4 @@ tooltip label {
     color: @color0;
     font-size: 14;
 }
+
