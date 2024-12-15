@@ -6,7 +6,7 @@
 // | ||_|| |       |       |       |       |   |___ _____| |
 // |_|   |_|_______|______||_______|_______|_______|_______|
 //  ML4W, Edited by j5onrf (2025)
-//  Vertical-Sidebar-RW (12-13-2024)
+//  Vertical-Sidebar-RW (12-12-2024)
 
 {
   // Workspaces
@@ -52,7 +52,7 @@
       // "class<com.obsproject.Studio>": "",
       "class<polkit-gnome-authentication-agent-1>": "󰒃",
       "class<nwg-look>": "",
-      // "class<brave-ojibjkjikcpjonjjngfkegflhmffeemk-Default>": "", // Proton Calendar PWM
+      "class<brave-ojibjkjikcpjonjjngfkegflhmffeemk-Default>": "", // Proton Calendar PWM
       "class<thunar>": "󰝰",
       // "class<zen-alpha>": "󰰷",
       // "class<vlc>": "󰕼"
@@ -119,7 +119,7 @@
 
   // Chevron
   "custom/chevron": {
-    "format": "",
+    "format": "",
     "tooltip": false
   },
  
