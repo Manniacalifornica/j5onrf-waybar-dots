@@ -49,7 +49,7 @@ window#waybar {
 }
 
 #workspaces button.empty {
-    opacity: 0.1;
+    opacity: 0.05;
 }
 
 /* Module Hover Styles */
