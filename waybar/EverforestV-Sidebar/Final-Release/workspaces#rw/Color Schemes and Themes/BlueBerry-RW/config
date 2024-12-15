@@ -52,9 +52,6 @@
     "format-icons": {
         "default": ["󰗅"]
     },
-    //"on-click": "swayosd-client --output-volume mute-toggle",
-    //"on-scroll-up": "swayosd-client --output-volume raise",
-    //"on-scroll-down": "swayosd-client --output-volume lower",
     "on-click": "pactl set-sink-mute @DEFAULT_SINK@ toggle",    
     "on-scroll-up": "pactl set-sink-volume @DEFAULT_SINK@ +5%",  // Increase volume
     "on-scroll-down": "pactl set-sink-volume @DEFAULT_SINK@ -5%",  // Decrease volume    
