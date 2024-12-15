@@ -139,7 +139,7 @@
       "network",
       "custom/hyprshade",
       "custom/cliphist",
-      "pulseaudio",
+      // "pulseaudio",
       "tray"
     ]
   },
