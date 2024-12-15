@@ -18,7 +18,7 @@
     font-family: "JetBrainsMono Nerd Font Propo", "Font Awesome 6 Free", sans-serif;
     border-radius: 0.6em;
     font-weight: 600;
-    font-size: 28;
+    font-size: 35px;
 }
 
 window#waybar {
@@ -32,7 +32,7 @@ window#waybar {
 #workspaces button {
     color: @color0;
     background: @color1;
-    margin: 0.15em 0.25em;
+    margin: 0.1em 0.25em;
     border: none;
 }
 
