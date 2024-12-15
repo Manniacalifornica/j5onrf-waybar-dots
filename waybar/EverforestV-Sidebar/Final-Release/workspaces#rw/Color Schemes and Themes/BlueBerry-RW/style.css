@@ -1,5 +1,5 @@
 /*___.   .__               ___.                               
-* \_ |__ |  |  __ __   ____\_ |__   ___ ______ _______ ___.__.
+* \_ |__ |  |  __ __   ____\_ |__   ____ _____ _______ ___.__.
 *  | __ \|  | |  |  \_/ __ \| __ \_/ __ \_  __ \_  __ <   |  |
 *  | \_\ \  |_|  |  /\  ___/| \_\ \  ___/|  | \/|  | \/\___  |
 *  |___  /____/____/  \___  >___  /\___  >__|   |__|   / ____|
@@ -18,7 +18,7 @@
     font-family: "JetBrainsMono Nerd Font Propo", "Font Awesome 6 Free", sans-serif;
     border-radius: 0.4em;
     font-weight: 600;
-    font-size: 38px;
+    font-size: 28px;
 }
 
 window#waybar {
@@ -82,7 +82,7 @@ window#waybar {
 #custom-updates:hover{
     color: @color0;
     background: #343051;
-    padding: 0.2em 0;
+    padding: 0.1em 0;
 }
 
 #custom-chevron {
@@ -135,7 +135,7 @@ window#waybar {
 #custom-updates {
     font-size: 0.5714em;
     color: @color0;
-    padding: 0.2em 0;
+    padding: 0.1em 0;
     margin: 0em 0.3em; 
 }
 
