@@ -67,7 +67,7 @@ window#waybar {
 #pulseaudio:hover {
     color: @color1;
     background: @color0;
-    padding: 0.19em 0;
+    padding: 0.22em 0;
     transition: all 0.1s linear;
     margin: 0em 0.2em;
 }
@@ -91,7 +91,7 @@ window#waybar {
 #custom-exit:hover {
     font-size: 1em;
     background: @color0;
-    padding: 0.19em 0.3em;
+    padding: 0.22em 0.3em;
     margin: 0em; 
 }
 
@@ -121,7 +121,7 @@ window#waybar {
 #custom-waybarthemes, 
 #custom-wallpaper {
     color: @color0;
-    padding: 0.19em 0;
+    padding: 0.22em 0;
     margin: 0em 0.2em;
 }
 
@@ -130,7 +130,7 @@ window#waybar {
 #custom-updates {
     font-size: 0.64em;
     color: @color0;
-    padding: 0.19em 0; 
+    padding: 0.22em 0; 
     margin: 0em 0.2em; 
 }
 
