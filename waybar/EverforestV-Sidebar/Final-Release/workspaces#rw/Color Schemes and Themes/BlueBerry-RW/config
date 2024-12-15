@@ -97,7 +97,7 @@
     "format-critical": "<span color='#FF8888'><b>{usage}</b></span>", /* Critical usage */
     "format-high": "<span color='#FCA387'>{usage}</span>", /* High usage */
     "format-medium": "<span color='#88FF88'>{usage}</span>", /* Medium usage */
-    "format-low": "<span color='#CDD6F4'>{usage}</span>", /* Low usage */
+    "format-low": "<span color='#bbbbff'>{usage}</span>", /* Low usage */
     "on-click": "missioncenter",
     "tooltip": false,
 //  "interval": 2,
@@ -112,7 +112,7 @@
 // Memory
     "memory": {
         "format-high": "<span color='#FF8888'><b>{used:0.1f}</b></span>", /* High usage */
-        "format-low": "<span color='#CDD6F4'>{used:0.1f}</span>", /* Low usage */
+        "format-low": "<span color='#bbbbff'>{used:0.1f}</span>", /* Low usage */
         "on-click": "missioncenter",
         "tooltip": false,
         "states": {
