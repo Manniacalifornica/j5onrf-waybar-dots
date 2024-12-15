@@ -63,12 +63,12 @@
     "clock": {
         "format": "{:%I\n%M}",
         // "format": "{0:%d}\n{0:%I}\n{0:%M}",
-//      "on-click": "agsv1 -t calendarmenu",
-//      "on-click": "ags -t calendar",
-        "on-click": "gtk-launch brave-ojibjkjikcpjonjjngfkegflhmffeemk-Default",
-        "on-click-right": "gapplication launch org.gnome.Weather",
-        "on-scroll-up": "swayosd-client --output-volume raise",
-        "on-scroll-down": "swayosd-client --output-volume lower",
+        // "on-click": "agsv1 -t calendarmenu",
+        // "on-click": "ags -t calendar",
+        // "on-click": "gtk-launch brave-ojibjkjikcpjonjjngfkegflhmffeemk-Default",
+        // "on-click-right": "gapplication launch org.gnome.Weather",
+        "on-scroll-up": "pactl set-sink-volume @DEFAULT_SINK@ +5%",  // Increase volume
+        "on-scroll-down": "pactl set-sink-volume @DEFAULT_SINK@ -5%",  // Decrease volume    
         "tooltip": false
     },
   
