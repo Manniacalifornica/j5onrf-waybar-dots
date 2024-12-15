@@ -20,7 +20,7 @@
 
     // Load Modules
     "include": [
-        "~/.config/waybar/modules-sidebar-rw-top.json"
+        "~/.config/waybar/modules-sidebar-rw.json"
     ],
 
     // Modules Left
