@@ -18,7 +18,7 @@
     font-family: "JetBrainsMono Nerd Font Propo", "Font Awesome 6 Free", sans-serif;
     border-radius: 0.4em;
     font-weight: 600;
-    font-size: 34px;
+    font-size: 32px;
 }
 
 window#waybar {
@@ -32,7 +32,7 @@ window#waybar {
     background: @color1;
     margin: 0.1em 0.25em;
     padding: 0 0.18em;
-    border-left: none; /* No border left */
+    border-left: none; 
 }
 
 #workspaces button.active {
@@ -48,7 +48,7 @@ window#waybar {
     color: @color1;
     margin: 0.1em 0.25em;
     padding: 0 0.18em;
-    border-left: none; /* No border left */
+    border-left: none;
 }
 
 #workspaces button.empty {
@@ -175,4 +175,3 @@ tooltip label {
     color: @color0;
     font-size: 14;
 }
-
