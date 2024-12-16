@@ -6,7 +6,7 @@
 // | ||_|| |       |       |       |       |   |___ _____| |
 // |_|   |_|_______|______||_______|_______|_______|_______|
 //  ML4W, Edited by j5onrf (2025)
-//  Vertical-Sidebar-RW (12-12-2024)
+//  Vertical-Sidebar-RW (12-15-2024)
 
 {
   // Workspaces
@@ -52,7 +52,7 @@
       // "class<com.obsproject.Studio>": "",
       "class<polkit-gnome-authentication-agent-1>": "󰒃",
       "class<nwg-look>": "",
-      "class<brave-ojibjkjikcpjonjjngfkegflhmffeemk-Default>": "", // Proton Calendar PWM
+      // "class<brave-ojibjkjikcpjonjjngfkegflhmffeemk-Default>": "", // Proton Calendar PWM
       "class<thunar>": "󰝰",
       // "class<zen-alpha>": "󰰷",
       // "class<vlc>": "󰕼"
@@ -139,7 +139,7 @@
       "network",
       "custom/hyprshade",
       "custom/cliphist",
-      // "pulseaudio",
+      "pulseaudio",
       "tray"
     ]
   },
@@ -174,3 +174,4 @@
     "on-click-right": "$(cat ~/.config/ml4w/settings/terminal.sh) --class dotfiles-floating -e nmtui"
   }
 }
+
