@@ -152,7 +152,7 @@ window#waybar {
 
 /* Clock Styles */
 #clock {
-    font-size: 0.7em;
+    font-size: 0.85em;
     margin: 0.3em;
     color: @color0;
     padding: 0.25em 0;
