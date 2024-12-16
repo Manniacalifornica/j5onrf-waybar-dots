@@ -5,7 +5,7 @@
 *  |___  /____/____/  \___  >___  /\___  >__|   |__|   / ____|
 *      \/                 \/    \/     \/              \/  
 *  ML4W, Edited by j5onrf (2025)
-*  BlueBerry_Vertical-RW-Top (12-15-2024)
+*  BlueBerry_Vertical-RW-Top (12-16-2024)
 * -----------------------------------------------------  
 */
 
@@ -73,7 +73,7 @@ window#waybar {
     background: @color0;
     padding: 0;
     transition: all 0.1s linear;
-    margin: 0em 0.3em; 
+    margin: 0em 0.265em; 
 }
 
 /* Specific Adjustments */
@@ -128,7 +128,7 @@ window#waybar {
 #custom-wallpaper {
     color: @color0;
     padding: 0;
-    margin: 0em 0.3em; 
+    margin: 0em 0.265em; 
 }
 
 #cpu,
@@ -137,7 +137,7 @@ window#waybar {
     font-size: 0.5714em;
     color: @color0;
     padding: 0.1em 0;
-    margin: 0em 0.3em; 
+    margin: 0em 0.265em; 
 }
 
 /* Pulseaudio Muted State */
@@ -176,4 +176,3 @@ tooltip label {
     color: @color0;
     font-size: 14;
 }
-
