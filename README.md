@@ -48,7 +48,6 @@ https://github.com/j5onrf/dots/blob/main/waybar/Screenshot%20Archive%202/Screens
 # WayBar
 (2024-Dec15) "Concept!" 🚧 (Early Alpha) 
 ![BlueBerry-3-concept2](https://github.com/user-attachments/assets/a969cb95-763b-42e5-ac0d-be55e3d296d1)
-![BlueBerry-3-concept](https://github.com/user-attachments/assets/b08bca41-400c-44a7-904c-b6d744010502)
 
 (2024-Dec14) [Blueberry<sup>2</sup> #RW](https://github.com/j5onrf/dots/tree/main/waybar/EverforestV-Sidebar/Final-Release/workspaces%23rw/Color%20Schemes%20and%20Themes/BlueBerry-RW) 🚧 (Alpha)
 ![BlueBerry-Vertical-top4](https://github.com/user-attachments/assets/36963969-ba94-4a60-80bd-d774c00962a1)
