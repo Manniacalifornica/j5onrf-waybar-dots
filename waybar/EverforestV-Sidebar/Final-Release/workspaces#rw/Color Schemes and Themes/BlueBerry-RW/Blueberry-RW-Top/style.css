@@ -46,8 +46,8 @@ window#waybar {
 }
 
 #workspaces button:hover {
-    background: @color2;
-    color: #343051;
+    background: @color0;
+    color: @color2;
     margin: 0.1em 0.25em;
     padding: 0 0.18em;
     border-left: none;
