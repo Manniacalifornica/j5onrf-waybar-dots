@@ -5,13 +5,14 @@
 *  |___  /____/____/  \___  >___  /\___  >__|   |__|   / ____|
 *      \/                 \/    \/     \/              \/  
 *  ML4W, Edited by j5onrf (2025)
-*  BlueBerry_Vertical-RW (12-15-2024)
+*  BlueBerry_Vertical-RW (12-16-2024)
 * -----------------------------------------------------  
 */
 
 /* Blueberry Color Scheme */
 @define-color color0 #bbbbff; /* Primary text color */
 @define-color color1 #14131D; /* Base background color */
+@define-color color2 #1A1827; /* Icons background color */
 
 /* General Styles */
 * {
@@ -29,7 +30,7 @@ window#waybar {
 /* Workspaces Styles */
 #workspaces button {
     color: @color0;
-    background: @color1;
+    background: @color2;
     margin: 0.1em 0.25em;
     padding: 0 0.18em;
     border-left: none; 
@@ -37,15 +38,16 @@ window#waybar {
 
 #workspaces button.active {
     color: @color0;
+    background: @color2;
     margin: 0.1em 0.25em;
     border-radius: 0.4em;
-    border-left: 0.078em solid @color0;
+    border-left: 0.07em solid @color0;
     padding: 0 0.18em;
 }
 
 #workspaces button:hover {
-    background: @color0;
-    color: @color1;
+    background: @color2;
+    color: #343051;
     margin: 0.1em 0.25em;
     padding: 0 0.18em;
     border-left: none;
@@ -156,12 +158,12 @@ window#waybar {
     margin: 0.3em;
     color: @color0;
     padding: 0.25em 0;
-    background-color: @color1;
+    background-color: @color2;
 }
 
 #clock:hover {
     margin: 0.3em 0.5em;
-    color: @color1;
+    color: #343051;
     padding: 0.25em 0;
     background-color: @color0;
 }
@@ -176,4 +178,3 @@ tooltip label {
     color: @color0;
     font-size: 14;
 }
-
