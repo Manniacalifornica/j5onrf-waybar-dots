@@ -26,9 +26,11 @@
     // Modules Left
     "modules-left": [
         "custom/appmenu",
+        "group/settings",
         "clock",
 //      "group/links",
-        "group/settings"
+        "custom/system"
+        // "group/hardware"
       //  "hyprland/workspaces#rw"
     ],
 
