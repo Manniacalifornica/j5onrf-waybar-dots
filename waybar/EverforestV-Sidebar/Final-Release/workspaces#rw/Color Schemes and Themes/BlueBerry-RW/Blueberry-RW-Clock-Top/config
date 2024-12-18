@@ -48,8 +48,10 @@
         "custom/exit"
     ],
     
+// Hyprland Window
 "hyprland/window": {
   "format": "{title:.10}",
+  // "separate-outputs": true,
   "rewrite": {
     "^(\\s*)$": "Hyprland", // Replace empty titles with "xyz"
     "(.*) - Brave": "$1",
