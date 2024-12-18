@@ -53,7 +53,7 @@
   "format": "{title:.16}",
     "rewrite": {
       "(.*) - Brave": "$1",
-      "(.*) Microsoft Teams": "$1"
+      "(.*) - Brave Search": "$1",
     },
     // "separate-outputs": true
      "rotate": 90
