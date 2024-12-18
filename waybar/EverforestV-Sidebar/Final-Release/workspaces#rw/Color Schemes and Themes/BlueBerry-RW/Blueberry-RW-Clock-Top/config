@@ -50,7 +50,7 @@
     
    // Hyprland Window
   "hyprland/window": {
-  "format": "{title:.16}",
+  "format": "{title:.13}",
     "rewrite": {
       "(.*) - Brave": "$1",
       "(.*) - Brave Search": "$1",
