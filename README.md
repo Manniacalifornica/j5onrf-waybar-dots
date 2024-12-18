@@ -46,7 +46,7 @@ https://github.com/j5onrf/dots/blob/main/waybar/Screenshot%20Archive%202/Screens
 <br>
 
 # WayBar
-(2024-Dec14) [Blueberry<sup>2</sup>](https://github.com/j5onrf/dots/tree/main/waybar/EverforestV-Sidebar/Final-Release/workspaces%23rw/Color%20Schemes%20and%20Themes/BlueBerry-RW) 🚧 [dev<sup> log</sup>](https://github.com/j5onrf/dots/discussions/4)
+(2024-Dec14) [Blueberry<sup>2</sup>](https://github.com/j5onrf/dots/tree/main/waybar/EverforestV-Sidebar/Final-Release/workspaces%23rw/Color%20Schemes%20and%20Themes/BlueBerry-RW) &nbsp; [dev<sup> log</sup>](https://github.com/j5onrf/dots/discussions/4)
 ![BlueBerry-top3](https://github.com/user-attachments/assets/3c4e2df1-dc45-4290-a3f9-051c347bb9bf)
 ![Screenshot-ct-3](https://github.com/user-attachments/assets/354bf4ce-7aa3-4f35-8af5-93ddacb81147)
 
@@ -138,7 +138,7 @@ gruv
 
 </details>
 
-<details><summary>(2024-Dec08) Catppuccin-Mocha Rofi</summary> 
+<details><summary>(2024-Dec08) Catppuccin-Mocha Rofi 🐈‍⬛</summary> 
 <p>
 
 [Icons-Only-Dock-Catppuccin-Mocha.rasi](https://github.com/j5onrf/dots/tree/main/rofi/Icons-only-rofi-catppuchin-mocha/Version-Two)  (updated-12-12) &nbsp; Centered Workspaces# + Proton Calendar PWA
@@ -146,7 +146,7 @@ gruv
 ![Screenshot-2024-12-12_18:30:10](https://github.com/user-attachments/assets/b18d0c17-ac13-44b6-a299-f16a22d5229f)
 </details>
 
-<details><summary>(2024-Nov18) Nord🛡️ᛉᛟ Rofi 🚧</summary> 
+<details><summary>(2024-Nov18) Nord🛡️ᛉᛟ Rofi</summary> 
 <p>
 
 [Version<sup>3</sup>](https://github.com/j5onrf/dots/tree/main/rofi/Nord/Harmonized%20Rofi%20Config%20for%20NordV-Sidebar/More-Styles/Version-3) (Nov-21-2024) &nbsp; [Icons Only Beta](https://github.com/j5onrf/dots/tree/main/rofi/Nord/Harmonized%20Rofi%20Config%20for%20NordV-Sidebar/More-Styles/Version-3/More-Styles) (Nov-23-2024)
@@ -169,7 +169,7 @@ gruv
 ![Screenshot-2024-11-01_23:56:26](https://github.com/user-attachments/assets/c02e5d51-7335-493a-bc13-623e78e70884)
 </details>
 
-<details><summary>(2024-oct31) Everforest-S🌿 colorscheme 🚧</summary>
+<details><summary>(2024-oct31) Everforest-S🌿 colorscheme</summary>
 <p>
 
 ![Screenshot-2024-10-31_16:32:25](https://github.com/user-attachments/assets/4c1015e5-00d2-464b-acdd-480ff516b1dd)
