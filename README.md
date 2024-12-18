@@ -128,7 +128,17 @@ gruv
 
 # Hypr<sup> / Shots</sup>
 
-<details open><summary>(2024-Dec08) Catppuccin-Mocha Rofi</summary> 
+<details open><summary>(2024-Dec18) Blueberry<sup>2</sup></summary> 
+<p>
+  
+[Blueberry-3](https://github.com/j5onrf/dots/tree/main/waybar/EverforestV-Sidebar/Final-Release/workspaces%23rw/Color%20Schemes%20and%20Themes/BlueBerry-RW/Blueberry-3-RW) &nbsp; [Blueberry-Rofi-Dock](https://github.com/j5onrf/dots/tree/main/rofi/Icons-only-rofi-catppuchin-mocha/Version-Two/Blueberry-Dock-Rofi)
+![Screenshot-2024-12-18_16:27:27](https://github.com/user-attachments/assets/7bfc6a6f-c564-466b-a556-3d1c5050bf10)
+[Blueberry-Clock-Top](https://github.com/j5onrf/dots/tree/main/waybar/EverforestV-Sidebar/Final-Release/workspaces%23rw/Color%20Schemes%20and%20Themes/BlueBerry-RW/Blueberry-RW-Clock-Top) 
+![Screenshot-2024-12-18_16:17:59](https://github.com/user-attachments/assets/c9ea25a3-8b6f-4c58-b523-8f05fafc1ffc)
+
+</details>
+
+<details><summary>(2024-Dec08) Catppuccin-Mocha Rofi</summary> 
 <p>
 
 [Icons-Only-Dock-Catppuccin-Mocha.rasi](https://github.com/j5onrf/dots/tree/main/rofi/Icons-only-rofi-catppuchin-mocha/Version-Two)  (updated-12-12) &nbsp; Centered Workspaces# + Proton Calendar PWA
@@ -136,7 +146,7 @@ gruv
 ![Screenshot-2024-12-12_18:30:10](https://github.com/user-attachments/assets/b18d0c17-ac13-44b6-a299-f16a22d5229f)
 </details>
 
-<details open><summary>(2024-Nov18) Nord🛡️ᛉᛟ Rofi 🚧</summary> 
+<details><summary>(2024-Nov18) Nord🛡️ᛉᛟ Rofi 🚧</summary> 
 <p>
 
 [Version<sup>3</sup>](https://github.com/j5onrf/dots/tree/main/rofi/Nord/Harmonized%20Rofi%20Config%20for%20NordV-Sidebar/More-Styles/Version-3) (Nov-21-2024) &nbsp; [Icons Only Beta](https://github.com/j5onrf/dots/tree/main/rofi/Nord/Harmonized%20Rofi%20Config%20for%20NordV-Sidebar/More-Styles/Version-3/More-Styles) (Nov-23-2024)
@@ -206,6 +216,7 @@ https://github.com/j5onrf/dots/blob/main/waybar/Screenshot%20Archive/Screenshots
 ```
 
 </p>
+</details>
 </details>
 </details>
 </details>
