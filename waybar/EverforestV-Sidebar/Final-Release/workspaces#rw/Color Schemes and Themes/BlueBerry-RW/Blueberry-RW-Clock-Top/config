@@ -48,16 +48,15 @@
         "custom/exit"
     ],
     
-   // Hyprland Window
-  "hyprland/window": {
+"hyprland/window": {
   "format": "{title:.10}",
-    "rewrite": {
-      "(.*) - Brave": "$1",
-      "(.*) - Brave Search": "$1",
-    },
-    // "separate-outputs": true
-     "rotate": 90
+  "rewrite": {
+    "^(\\s*)$": "Hyprland", // Replace empty titles with "xyz"
+    "(.*) - Brave": "$1",
+    "(.*) - Brave Search": "$1"
   },
+  "rotate": 90
+},
 
  // Pulseaudio
 "pulseaudio": {
