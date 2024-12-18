@@ -84,7 +84,7 @@ window#waybar {
     margin: 5px;
     padding: 0px 10px;
     color: @color0;
-    font-size: 18px;
+    font-size: 0.643em;
 }
 
 /* Specific Adjustments */
