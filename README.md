@@ -131,7 +131,7 @@ gruv
 <details open><summary>(2024-Dec08) Catppuccin-Mocha Rofi</summary> 
 <p>
 
-[Icons-Only-Dock-Catppuccin-Mocha.rasi](https://github.com/j5onrf/dots/tree/main/rofi/Icons-only-rofi-catppuchin-mocha/Version-Two)  (updated-12-12) &nbsp; Centered Workspaces# + Proton Calendar PWM
+[Icons-Only-Dock-Catppuccin-Mocha.rasi](https://github.com/j5onrf/dots/tree/main/rofi/Icons-only-rofi-catppuchin-mocha/Version-Two)  (updated-12-12) &nbsp; Centered Workspaces# + Proton Calendar PWA
 ![Screenshot-2024-12-12_18:09:11](https://github.com/user-attachments/assets/9b7bcc88-b133-40cd-8eb2-f03282b29cca)
 ![Screenshot-2024-12-12_18:30:10](https://github.com/user-attachments/assets/b18d0c17-ac13-44b6-a299-f16a22d5229f)
 </details>
