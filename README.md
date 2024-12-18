@@ -138,7 +138,7 @@ gruv
 
 </details>
 
-<details><summary>(2024-Dec08) Catppuccin-Mocha Rofi 🐈‍⬛</summary> 
+<details><summary>(2024-Dec08) Catppuccin-Mocha🐈‍⬛ Rofi</summary> 
 <p>
 
 [Icons-Only-Dock-Catppuccin-Mocha.rasi](https://github.com/j5onrf/dots/tree/main/rofi/Icons-only-rofi-catppuchin-mocha/Version-Two)  (updated-12-12) &nbsp; Centered Workspaces# + Proton Calendar PWA
