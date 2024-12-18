@@ -51,7 +51,7 @@
 // Hyprland Window
 "hyprland/window": {
   "format": "{title:.10}",
-  // "separate-outputs": true,
+  // "separate-outputs": true, // Multiple monitors
   "rewrite": {
     "^(\\s*)$": "Hyprland", // Replace empty titles with "Your custom text"
     "(.*) - Brave": "$1",
