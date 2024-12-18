@@ -34,7 +34,7 @@ window#waybar {
 
 /* Workspaces Styles */
 #workspaces {
-    padding: 0.179em 0em;
+    padding: 1em 0em;
   }
   
 #workspaces button {
