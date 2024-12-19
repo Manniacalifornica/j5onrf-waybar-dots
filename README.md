@@ -131,10 +131,10 @@ gruv
 <details open><summary>(2024-Dec18) Blueberry🫐<sup>2</sup></summary> 
 <p>
   
-[Blueberry🫐3](https://github.com/j5onrf/dots/tree/main/waybar/EverforestV-Sidebar/Final-Release/workspaces%23rw/Color%20Schemes%20and%20Themes/BlueBerry-RW/Blueberry-3-RW) 
+[Blueberry-3](https://github.com/j5onrf/dots/tree/main/waybar/EverforestV-Sidebar/Final-Release/workspaces%23rw/Color%20Schemes%20and%20Themes/BlueBerry-RW/Blueberry-3-RW) 
 ![Screenshot-2024-12-18_16:27:27](https://github.com/user-attachments/assets/7bfc6a6f-c564-466b-a556-3d1c5050bf10)
 
-[Blueberry🫐Clock-Top](https://github.com/j5onrf/dots/tree/main/waybar/EverforestV-Sidebar/Final-Release/workspaces%23rw/Color%20Schemes%20and%20Themes/BlueBerry-RW/Blueberry-RW-Clock-Top) 
+[Blueberry-Clock-Top](https://github.com/j5onrf/dots/tree/main/waybar/EverforestV-Sidebar/Final-Release/workspaces%23rw/Color%20Schemes%20and%20Themes/BlueBerry-RW/Blueberry-RW-Clock-Top) 
 ![Screenshot-2024-12-18_16:17:59](https://github.com/user-attachments/assets/c9ea25a3-8b6f-4c58-b523-8f05fafc1ffc)
 
 </details>
