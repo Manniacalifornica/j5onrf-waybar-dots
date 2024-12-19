@@ -51,13 +51,13 @@
 // Hyprland Window
 "hyprland/window": {
   "format": "{title:.10}",
-  // "separate-outputs": true, // Multiple monitors
   "rewrite": {
     "^(\\s*)$": "Hyprland", // Replace empty titles with "Your custom text"
     "(.*) - Brave": "$1",
     "(.*) - Brave Search": "$1"
   },
   "rotate": 90
+  // "separate-outputs": true, // Multiple monitors
 },
 
  // Pulseaudio
