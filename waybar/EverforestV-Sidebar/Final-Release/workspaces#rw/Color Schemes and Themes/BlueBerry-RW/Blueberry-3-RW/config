@@ -57,7 +57,7 @@
     "(.*) - Brave Search": "$1"
   },
   "rotate": 90
-  // "separate-outputs": true, // Multiple monitors
+  // "separate-outputs": true // Multiple monitors
 },
 
  // Pulseaudio
