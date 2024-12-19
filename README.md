@@ -131,7 +131,7 @@ gruv
 <details open><summary>(2024-Dec18) Blueberry🫐<sup>2</sup></summary> 
 <p>
   
-[Blueberry🫐3](https://github.com/j5onrf/dots/tree/main/waybar/EverforestV-Sidebar/Final-Release/workspaces%23rw/Color%20Schemes%20and%20Themes/BlueBerry-RW/Blueberry-3-RW) &nbsp; [Blueberry🫐Rofi-Dock](https://github.com/j5onrf/dots/tree/main/rofi/Icons-only-rofi-catppuchin-mocha/Version-Two/Blueberry-Dock-Rofi)
+[Blueberry🫐3](https://github.com/j5onrf/dots/tree/main/waybar/EverforestV-Sidebar/Final-Release/workspaces%23rw/Color%20Schemes%20and%20Themes/BlueBerry-RW/Blueberry-3-RW) 
 ![Screenshot-2024-12-18_16:27:27](https://github.com/user-attachments/assets/7bfc6a6f-c564-466b-a556-3d1c5050bf10)
 
 [Blueberry🫐Clock-Top](https://github.com/j5onrf/dots/tree/main/waybar/EverforestV-Sidebar/Final-Release/workspaces%23rw/Color%20Schemes%20and%20Themes/BlueBerry-RW/Blueberry-RW-Clock-Top) 
