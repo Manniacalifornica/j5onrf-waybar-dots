@@ -48,7 +48,7 @@
         "custom/exit"
     ],
     
-// Hyprland Window
+// Hyprland Window    
 "hyprland/window": {
   "format": "{title:.10}",
   "rewrite": {
@@ -57,7 +57,9 @@
     "(.*) - Brave Search": "$1"
   },
   "rotate": 90,
-  // "separate-outputs": true // Multiple monitors
+    "separate-outputs": false, // Multiple monitors
+    "on-scroll-up": "pactl set-sink-volume @DEFAULT_SINK@ +5%",  // Increase volume
+    "on-scroll-down": "pactl set-sink-volume @DEFAULT_SINK@ -5%",  // Decrease volume    
 },
 
  // Pulseaudio
