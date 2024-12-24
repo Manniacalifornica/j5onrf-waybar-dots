@@ -131,7 +131,7 @@ gruv
 <p>
 
 [Adwaita-Dark-Clock-Top](https://github.com/j5onrf/dots/tree/main/waybar/EverforestV-Sidebar/Final-Release/workspaces%23rw/Color%20Schemes%20and%20Themes/Adwaita-Dark-Clock-Top)
-![Screenshot-2024-12-24_12:14:08](https://github.com/user-attachments/assets/988a2cdd-54a6-4409-9f65-3ef6ddc747ec)
+![Screenshot-2024-12-24_12:14:108](https://raw.githubusercontent.com/j5onrf/dots/refs/heads/main/waybar/EverforestV-Sidebar/Final-Release/workspaces%23rw/Color%20Schemes%20and%20Themes/Adwaita-Dark-Clock-Top/Screenshot-2024-12-24_14%3A51%3A22.png)
 
 <details open><summary>(2024-Dec18) Blueberry🫐<sup>2</sup></summary> 
 <p>
