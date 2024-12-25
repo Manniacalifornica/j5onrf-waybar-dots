@@ -63,14 +63,12 @@
 
  // Pulseaudio
 "pulseaudio": {
-    // "scroll-step": 3, // %, can be a float
+    "scroll-step": 3, // %, can be a float
     "format": "{icon}",
     "format-icons": {
         "default": ["󰗅"]
     },
-    "on-click": "pactl set-sink-mute @DEFAULT_SINK@ toggle",    
-    "on-scroll-up": "pactl set-sink-volume @DEFAULT_SINK@ +5%",  // Increase volume
-    "on-scroll-down": "pactl set-sink-volume @DEFAULT_SINK@ -5%",  // Decrease volume    
+    "on-click": "pactl set-sink-mute @DEFAULT_SINK@ toggle",      
     "format-muted": "󱘂",
     "tooltip": false
 },
