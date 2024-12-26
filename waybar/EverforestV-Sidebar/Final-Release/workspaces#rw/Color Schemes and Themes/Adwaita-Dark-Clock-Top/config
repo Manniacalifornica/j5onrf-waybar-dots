@@ -73,19 +73,19 @@
     "tooltip": false
 },
     
-    // Clock    
-        "clock": {
-        "format": "{:%I\n%M}",
-        "tooltip-format": "<span>{calendar}</span>",
-        // "on-click-right": "gapplication launch org.gnome.Weather",
-        // "on-click": "gtk-launch brave-ojibjkjikcpjonjjngfkegflhmffeemk-Default", // Proton cal
-        "calendar": {
-            "mode": "month",
-            "format": {
-                "today": "<span color='#E95420'><b>{}</b></span>"
-            }
-        },
-    },
+// Clock Configuration
+"clock": {
+    "format": "{:%I\n%M}",
+    "tooltip-format": "<span>{calendar}</span>",
+    // "on-click-right": "gapplication launch org.gnome.Weather",
+    // "on-click": "gtk-launch brave-ojibjkjikcpjonjjngfkegflhmffeemk-Default", // Proton cal
+    "calendar": {
+        "mode": "month",
+        "format": {
+            "today": "<span color='#E95420'><b>{}</b></span>"
+        }
+    }
+},
   
     // Rofi Application Launcher 󱗼
     "custom/appmenu": {
