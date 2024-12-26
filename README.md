@@ -327,7 +327,9 @@ windowrulev2 = dimaround, class:^(org.gnome.Weather)
 layerrule = dimaround, rofi
 
 # This launches rofi on startup using rofi launcher.
-exec-once = ~/.config/rofi/bin/launcher2
+# exec-once = ~/.config/rofi/bin/launcher2
+# Added waybar relaunch to fix calendar loading issues
+exec-once = ~/.config/rofi/bin/launcher; ~/.config/waybar/launch.sh
 
 ```
 
