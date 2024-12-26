@@ -76,15 +76,13 @@
     // Clock    
         "clock": {
         "format": "{:%I\n%M}",
-        "format-alt": "{0:%d}\n{0:%I}\n{0:%M}",
         "tooltip-format": "<span>{calendar}</span>",
         // "on-click-right": "gapplication launch org.gnome.Weather",
-        // "on-click-middle": "gtk-launch brave-ojibjkjikcpjonjjngfkegflhmffeemk-Default",
+        // "on-click": "gtk-launch brave-ojibjkjikcpjonjjngfkegflhmffeemk-Default",
         "calendar": {
             "mode": "month",
             "format": {
                 "months": "<span color='#D8DEE9'><b>{}</b></span>",
-                "weekdays": "<span color='#F6C177'><b>{}</b></span>",
                 "today": "<span color='#E95420'><b>{}</b></span>"
             }
         },
