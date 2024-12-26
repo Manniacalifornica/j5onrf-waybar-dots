@@ -1,3 +1,14 @@
+/* _____       .___              .__  __          
+  /  _  \    __| _/_  _  ______  |__|/  |______   
+ /  /_\  \  / __ |\ \/ \/ |__  \ |  \   __\__  \  
+/    |    \/ /_/ | \     / / __ \|  ||  |  / __ \_
+\____|__  /\____ |  \/\_/ (____  /__||__| (____  /
+        \/      \/             \/              \/
+* HYDE, Edited by j5onrf (2025)
+* Adwaita-Dark-Rofi-Dock-2 (12-26-2024)
+* -----------------------------------------------------  
+*/
+
 // Config //
 configuration {
     modi:                        "drun,filebrowser,window,run";
@@ -9,7 +20,7 @@ configuration {
     drun-display-format:         "{name}";
     window-format:               "{w}{t}";
     font:                        "JetBrainsMono Nerd Font Propo 11";
-    icon-theme:                  "Tela-circle-dracula";
+    icon-theme:                  "Papirus";
 }
 
 // Theme //
@@ -24,6 +35,14 @@ configuration {
     border-color:       #242424; /* Border matches the base background */
 }
 
+/* ---- Load border radius ---- */
+@import "~/.config/ml4w/settings/rofi-border-radius.rasi"
+
+/* ---- Load wallpaper ---- */
+@import "~/.config/ml4w/cache/current_wallpaper.rasi"
+
+/* ---- Load border width ---- */
+@import "~/.config/ml4w/settings/rofi-border.rasi"
 
 // Main //
 window {
@@ -35,10 +54,10 @@ window {
     cursor:                      "default";
     spacing:                     0em;
     padding:                     0em;
-    border-color:                @main-br;
-    background-color:            @main-bg;
-    border-radius:               2em; 
-    border:                      0.11em;
+    border-color:                #D8DEE9; /* Border using primary text color */
+    background-color:            #242424; /* Base background */
+    border-radius:               @border-radius;
+    border:                      @border-width;
 }
 mainbox {
     enabled:                     true;
@@ -67,7 +86,7 @@ listbox {
     orientation:                 horizontal;
     children:                    [ "listview" ];
     background-color:            transparent;
-    background-image:            url("~/.cache/hyde/wall.blur", width);
+    background-image:            url("~/.config/ml4w/cache/current_wallpaper", width);
 }
 listview {
     padding:                     2em;
@@ -82,8 +101,8 @@ listview {
     fixed-height:                true;
     fixed-columns:               true;
     cursor:                      "default";
-    background-color:            @main-bg;
-    text-color:                  @main-fg;
+    background-color:            #242424; /* Base background */
+    text-color:                  #D8DEE9; /* Primary text */
 }
 
 
@@ -100,12 +119,12 @@ button {
     padding:                     2.5em;
     spacing:                     0em;
     border-radius:               3em;
-    background-color:            @main-bg;
-    text-color:                  @main-fg;
+    background-color:            #242424; /* Base background */
+    text-color:                  #D8DEE9; /* Primary text */
 }
 button selected {
-    background-color:            @main-fg;
-    text-color:                  @main-bg;
+    background-color:            #333333; /* Selected background */
+    text-color:                  #D8DEE9; /* Selected text */
 }
 
 
@@ -117,12 +136,12 @@ element {
     padding:                     0.5em;
     cursor:                      pointer;
     background-color:            transparent;
-    text-color:                  @main-fg;
+    text-color:                  #D8DEE9; /* Primary text */
     border-radius:               0.6em;
 }
 element selected.normal {
-    background-color:            @select-bg;
-    text-color:                  @select-fg;
+    background-color:            #333333; /* Selected background */
+    text-color:                  #D8DEE9; /* Selected text */
 }
 element-icon {
     size:                        5.5em;
@@ -140,8 +159,8 @@ element-text {
 
 // Error message //
 error-message {
-    text-color:                  @main-fg;
-    background-color:            @main-bg;
+    text-color:                  #D8DEE9; /* Primary text */
+    background-color:            #242424; /* Base background */
     text-transform:              capitalize;
     children:                    [ "textbox" ];
 }
@@ -152,3 +171,4 @@ textbox {
     vertical-align:              0.5;
     horizontal-align:            0.5;
 }
+
