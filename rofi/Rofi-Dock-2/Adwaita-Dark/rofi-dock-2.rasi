@@ -52,7 +52,7 @@ window {
     spacing:                     0em;
     padding:                     0em;
     border-color:                #D8DEE9; /* Border using primary text color */
-    background-color:            #242424; /* Base background */
+    background-color:            rgba(36, 36, 36, 0.8);
     border-radius:               @border-radius;
     border:                      @border-width;
 }
@@ -97,7 +97,7 @@ listview {
     fixed-height:                true;
     fixed-columns:               true;
     cursor:                      "default";
-    background-color:            #242424; /* Base background */
+    background-color:            rgba(36, 36, 36, 0.8);
     text-color:                  #D8DEE9; /* Primary text */
 }
 
@@ -133,7 +133,7 @@ element {
     cursor:                      pointer;
     background-color:            transparent;
     text-color:                  #D8DEE9; /* Primary text */
-    border-radius:               0.6em;
+    border-radius:               2em;
 }
 element selected.normal {
     background-color:            #333333; /* Selected background */
