@@ -135,7 +135,7 @@ gruv
 [Adwaita-Dark-Rofi-Dock-2](https://github.com/j5onrf/dots/tree/main/rofi/Rofi-Dock-2/Adwaita-Dark)
 ![Screenshot-2024-12-26_15:52:53](https://raw.githubusercontent.com/j5onrf/dots/refs/heads/main/rofi/Rofi-Dock-2/Adwaita-Dark/Screenshot-2024-12-26_19%3A44%3A26.png)
 
-<details open><summary>(2024-Dec18) Blueberry🫐<sup>2</sup></summary> 
+<details><summary>(2024-Dec18) Blueberry🫐<sup>2</sup></summary> 
 <p>
   
 [Blueberry-3](https://github.com/j5onrf/dots/tree/main/waybar/EverforestV-Sidebar/Final-Release/workspaces%23rw/Color%20Schemes%20and%20Themes/BlueBerry-RW/Blueberry-3-RW) 
