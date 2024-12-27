@@ -130,7 +130,7 @@ gruv
 <details open><summary>(2024-Dec24) Adwaita-Dark-CT</summary> 
 <p>
 
-[Adwaita-Dark-Clock-Top](https://github.com/j5onrf/dots/tree/main/waybar/EverforestV-Sidebar/Final-Release/workspaces%23rw/Color%20Schemes%20and%20Themes/Adwaita-Dark-Clock-Top)
+[Adwaita-Dark-Clock-Top](https://github.com/j5onrf/dots/tree/main/waybar/EverforestV-Sidebar/Final-Release/workspaces%23rw/Color%20Schemes%20and%20Themes/Adwaita-Dark-Clock-Top) &nbsp; [Updated_Version-2](https://github.com/j5onrf/dots/tree/main/waybar/EverforestV-Sidebar/Final-Release/workspaces%23rw/Color%20Schemes%20and%20Themes/Adwaita-Dark-Clock-Top/Updated_Version-2)
 ![Screenshot-2024-12-24_15:52:53](https://raw.githubusercontent.com/j5onrf/dots/refs/heads/main/rofi/Rofi-Dock-2/Adwaita-Dark/Pywal-Version-HYDE-ML4W/Screenshot-2024-12-27_17%3A40%3A04.png)
 [Adwaita-Dark-Rofi-Dock-2](https://github.com/j5onrf/dots/tree/main/rofi/Rofi-Dock-2/Adwaita-Dark)  &nbsp; [Pywal-Rofi-Dock-2](https://github.com/j5onrf/dots/tree/main/rofi/Rofi-Dock-2/Adwaita-Dark/Pywal-Version-HYDE-ML4W)
 ![Screenshot-2024-12-26_15:52:53](https://raw.githubusercontent.com/j5onrf/dots/refs/heads/main/rofi/Rofi-Dock-2/Adwaita-Dark/Screenshot-2024-12-26_19%3A44%3A26.png)
