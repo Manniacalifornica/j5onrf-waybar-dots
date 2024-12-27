@@ -129,6 +129,7 @@ window#waybar {
 #custom-system {
     font-size: 0.5em;
     color: @color1;
+    color: transparent;
 }
 
 /* Show chevrons on hover */
