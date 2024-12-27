@@ -107,12 +107,15 @@ window#waybar {
     color: transparent;
 }
 
-#custom-appmenu:hover, 
+#custom-appmenu:hover,
 #custom-exit:hover {
     font-size: 1em;
     background: @color0;
     padding: 0.19em 0.3em;
-    margin: 0em; 
+    margin: 0.3em 0 0 0; 
+}
+#custom-appmenu:hover {
+    margin: 0 0 0.3em 0; 
 }
 
 #custom-appmenu, 
