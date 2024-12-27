@@ -20,7 +20,7 @@ configuration {
     drun-display-format:         "{name}";
     window-format:               "{w}{t}";
     font:                        "JetBrainsMono Nerd Font Propo 10";
-    icon-theme:                  "Papirus";
+    icon-theme:                  "Papirus-Dark";
 }
 
 /* ---- Load border width ---- */
