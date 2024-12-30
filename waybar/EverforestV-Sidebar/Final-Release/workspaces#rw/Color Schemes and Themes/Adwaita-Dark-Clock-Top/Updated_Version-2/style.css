@@ -101,13 +101,6 @@ window#waybar {
     padding: 0.15em 0;
 }
 
-#custom-chevron {
-    border: none;
-    margin: 0.1em 0.25em;
-    padding: 0 0.18em;
-    color: transparent;
-}
-
 #custom-appmenu:hover,
 #custom-exit:hover {
     font-size: 1em;
@@ -195,4 +188,5 @@ tooltip label {
     color: @color0;
     font-size: 14;
 }
+
 

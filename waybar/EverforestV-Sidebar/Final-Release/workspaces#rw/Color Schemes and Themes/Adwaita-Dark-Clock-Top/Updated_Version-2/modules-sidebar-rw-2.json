@@ -24,11 +24,11 @@
     "format-window-separator": "\n",
     "window-rewrite-default": "",
     "window-rewrite": {
-      "title<.*youtube.*>": "",
+      "title<.*youtube.*>": "",
       "title<.*amazon.*>": "",
       "title<.*reddit.*>": "",
       "title<.*dot.*>": "",
-      // "title<.*youtube.*>": "",
+      // "title<.*youtube.*>": "",
       // "title<.*Picture-in-Picture.*>": "",
       "class<gimp-3.0>": "",
       "class<org.gnome.Weather>": "",
@@ -116,11 +116,6 @@
     "tooltip": false
   },
 
-  "custom/chevron": {
-    "format": "",
-    "tooltip": false
-  },
-
   // Group: Hardware
   "group/hardware": {
     "orientation": "inherit",
@@ -154,8 +149,7 @@
       "custom/settings",
       "pulseaudio",
       "custom/waybarthemes",
-      "custom/wallpaper",
-      "custom/chevron"
+      "custom/wallpaper"
     ]
   },
 
@@ -171,4 +165,5 @@
     "on-click-right": "$(cat ~/.config/ml4w/settings/terminal.sh) --class dotfiles-floating -e nmtui"
   }
 }
+
 
