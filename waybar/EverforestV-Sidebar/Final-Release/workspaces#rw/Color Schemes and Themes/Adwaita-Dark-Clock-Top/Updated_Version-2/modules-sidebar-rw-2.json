@@ -6,7 +6,7 @@
 // | ||_|| |       |       |       |       |   |___ _____| |
 // |_|   |_|_______|______||_______|_______|_______|_______|
 // ML4W, Edited by j5onrf (2025)
-// Vertical-Sidebar-RW-2 (12-29-2024)
+// Vertical-Sidebar-RW-2 (12-31-2024)
 
 {
   // Workspaces
@@ -25,25 +25,26 @@
     "window-rewrite-default": "",
     "window-rewrite": {
       "title<.*youtube.*>": "",
-      "title<.*amazon.*>": "",
       "title<.*reddit.*>": "",
       "title<.*dot.*>": "",
+      // "title<.*amazon.*>": "",
       // "title<.*youtube.*>": "",
       // "title<.*Picture-in-Picture.*>": "",
       "class<gimp-3.0>": "",
       "class<org.gnome.Weather>": "",
+      "class<wttr-floating>": "",
       "class<io.missioncenter.MissionCenter>": "",
       "class<firefox>": "",
       "class<kitty>": "󰄛",
-      "class<org.gnome.Console>": "",
       "class<alacritty>": "",
       "class<brave-browser-beta>": "",
       "class<org.gnome.Nautilus>": "",
-      "class<mousepad>": "",
       "class<org.gnome.TextEditor>": "",
       "class<polkit-gnome-authentication-agent-1>": "󰒃",
       "class<nwg-look>": "",
-      "class<thunar>": "󰝰",
+      // "class<org.gnome.Console>": "",
+      // "class<mousepad>": "",
+      // "class<thunar>": "󰝰",
       // "class<obsidian>": "󰠮",
       // "class<freetube>": "",
       // "class<[Ss]potify>": "",
