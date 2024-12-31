@@ -101,7 +101,7 @@
     "format": "",
     "on-click": "/usr/bin/com.ml4w.dotfilessettings",
     "on-click-right": "/usr/bin/com.ml4w.hyprland.settings",
-    "on-click-middle": "hyprctl dispatch exec 'kitty --class hyprpicker -e zsh -c \"hyprpicker; exec zsh\"'",
+    "on-click-middle": "hyprctl dispatch exec 'kitty --class hyprpicker -e zsh -c \"sleep 0.5; hyprpicker; exec zsh\"'",
     "tooltip": false
   },
 
