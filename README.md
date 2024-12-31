@@ -127,6 +127,13 @@ gruv
 
 # Hypr<sup> / Shots</sup>
 
+<details><summary>(2024-Dec31) Weather Script <sup>curl wttr.in</sup></summary> 
+<p>
+
+['curl wttr.in' Kitty-Float-Script](https://github.com/j5onrf/dots/blob/main/scripts/weather-curl-wttr.in/Screenshot-2024-12-30_19%3A51%3A52.png)
+
+</details>
+
 <details open><summary>(2024-Dec30) Adwaita-Dark-CT Updated_Version-2</summary> 
 <p>
 
@@ -135,6 +142,8 @@ Adwaita-Dark-Clock-Top  [Updated_Version-2](https://github.com/j5onrf/dots/tree/
 [Pywal-Rofi-Dock-2](https://github.com/j5onrf/dots/tree/main/rofi/Rofi-Dock-2/Adwaita-Dark/Pywal-Version-HYDE-ML4W)
 ![Screenshot-2024-12-26_15:52:53](https://raw.githubusercontent.com/j5onrf/dots/refs/heads/main/waybar/EverforestV-Sidebar/Final-Release/workspaces%23rw/Color%20Schemes%20and%20Themes/Adwaita-Dark-Clock-Top/Updated_Version-2/Screenshot-2024-12-29_19%3A01%3A25.png)
 
+</details>
+
 <details open><summary>(2024-Dec24) Adwaita-Dark-CT</summary> 
 <p>
 
@@ -142,6 +151,8 @@ Adwaita-Dark-Clock-Top  [Updated_Version-2](https://github.com/j5onrf/dots/tree/
 ![Screenshot-2024-12-24_15:52:53](https://raw.githubusercontent.com/j5onrf/dots/refs/heads/main/waybar/EverforestV-Sidebar/Final-Release/workspaces%23rw/Color%20Schemes%20and%20Themes/Adwaita-Dark-Clock-Top/Screenshot-2024-12-24_14%3A51%3A22.png)
 [Adwaita-Dark-Rofi-Dock-2](https://github.com/j5onrf/dots/tree/main/rofi/Rofi-Dock-2/Adwaita-Dark) 
 ![Screenshot-2024-12-26_15:52:53](https://raw.githubusercontent.com/j5onrf/dots/refs/heads/main/rofi/Rofi-Dock-2/Adwaita-Dark/Screenshot-2024-12-26_19%3A44%3A26.png)
+
+</details>
 
 <details><summary>(2024-Dec18) Blueberry🫐<sup>2</sup></summary> 
 <p>
