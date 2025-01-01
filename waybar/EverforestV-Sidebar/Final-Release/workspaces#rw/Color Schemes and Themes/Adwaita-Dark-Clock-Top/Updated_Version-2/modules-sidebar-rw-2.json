@@ -111,9 +111,10 @@
     "spacing": 10
   },
 
-  // Custom Modules
+  // System
   "custom/system": {
     "format": "",
+    "on-click-right": "exec ~/.config/waybar/launch.sh",
     "tooltip": false
   },
 
