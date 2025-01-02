@@ -105,7 +105,7 @@ window#waybar {
 #custom-exit:hover {
     font-size: 1em;
     background: @color0;
-    padding: 0.19em 0.3em;
+    padding: 0.26em 0.3em;
     margin: 0.3em 0 0 0; 
 }
 #custom-appmenu:hover {
