@@ -24,6 +24,7 @@ by Stephan Raabe (2023)
 	background-image: none;
 	transition: 20ms;
 	box-shadow: none;
+	    font-weight: 600;
 }
 
 window {
@@ -36,7 +37,7 @@ window {
 button {
 	background-repeat: no-repeat;
     background-position: center;
-    background-size: 20%;
+    background-size: 30%;
     background-color: @color11; 
     animation: gradient_f 20s ease-in infinite;
     border-radius: 80px; /* Increased border radius for a more rounded look */
@@ -52,7 +53,7 @@ button:hover {
     background-color: @color11; 
 	opacity: 0.8;
     color: #cdd6f4;
-    background-size: 30%;
+    background-size: 40%;
     margin: 30px;
     border-radius: 80px; 
     transition: all 0.3s cubic-bezier(.55, 0.0, .28, 1.682), box-shadow 0.2s ease-in-out, background-color 0.2s ease-in-out;
